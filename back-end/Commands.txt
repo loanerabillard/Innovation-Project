@@ -1,0 +1,6 @@
+venv\Scripts\activate
+
+http://localhost:5000/odds
+
+
+curl http://localhost:5000/odds
