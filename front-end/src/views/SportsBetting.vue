@@ -1,5 +1,6 @@
 <template>
   <div class="home-container">
+    <span>test</span>
     <Header></Header>
     <div class="separator"></div>
     <div class="content-container">
@@ -81,18 +82,11 @@
 </template>
 
 
-
-
-
-
-
-
-
-
-
 <script>
 import Header from '../components/Header.vue';
 import Footer from '../components/Footer.vue';
+
+console.log('test')
 
 // Function to generate a random integer between min and max (inclusive)
 function getRandomInt(min, max) {

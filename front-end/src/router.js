@@ -2,19 +2,22 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Meta from 'vue-meta'
 
-import NotFound1, { NotFound } from './views/not-found'
+import NotFound from './views/not-found'
 import Home from './views/home'
+import SportsBetting from './views/SportsBetting.vue'
+import LiveBetting from './views/LiveBetting.vue'
 import './style.css'
 
 Vue.use(Router)
 Vue.use(Meta)
+
 export default new Router({
   mode: 'history',
   routes: [
     {
       name: 'Not-Found',
       path: '/not-found',
-      component: NotFound1,
+      component: NotFound,
     },
     {
       name: 'Home',
@@ -22,10 +25,18 @@ export default new Router({
       component: Home,
     },
     {
-      name: '404 - Not Found',
-      path: '**',
-      component: NotFound,
-      fallback: true,
+      name: 'sports-betting',
+      path: '/sports-betting',
+      component: SportsBetting,
     },
+    {
+      name: 'live-betting',
+      path: '/live-betting',
+      component: LiveBetting
+    },
+    {
+      path: '*',
+      component: NotFound,
+    }
   ],
 })
