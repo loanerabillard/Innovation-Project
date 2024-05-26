@@ -1,0 +1,474 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 5644337,
+            "event_date": "2022-02-21",
+            "event_time": "01:05",
+            "event_first_player": "P. Gojowczyk",
+            "first_player_key": 1964,
+            "event_second_player": "Y. Nishioka",
+            "second_player_key": 1972,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Acapulco",
+            "tournament_key": 2131,
+            "tournament_round": "Acapulco - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1964_p-gojowczyk.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1972_y-nishioka.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 5644338,
+            "event_date": "2022-02-21",
+            "event_time": "01:10",
+            "event_first_player": "K. Anderson",
+            "first_player_key": 2837,
+            "event_second_player": "J.J. Wolf",
+            "second_player_key": 2853,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Acapulco",
+            "tournament_key": 2131,
+            "tournament_round": "Acapulco - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2837_k-anderson.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2853_j-wolf.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 5644339,
+            "event_date": "2022-02-21",
+            "event_time": "02:30",
+            "event_first_player": "D. Altmaier",
+            "first_player_key": 1099,
+            "event_second_player": "D. Kudla",
+            "second_player_key": 2919,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Acapulco",
+            "tournament_key": 2131,
+            "tournament_round": "Acapulco - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1099_d-altmaier.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2919_d-kudla.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 5644340,
+            "event_date": "2022-02-21",
+            "event_time": "04:00",
+            "event_first_player": "O. Otte",
+            "first_player_key": 1100,
+            "event_second_player": "S. Kozlov",
+            "second_player_key": 1087,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Acapulco",
+            "tournament_key": 2131,
+            "tournament_round": "Acapulco - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1100_o-otte.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1087_s-kozlov.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.2",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 5614712,
+            "event_date": "2022-02-21",
+            "event_time": "11:10",
+            "event_first_player": "J. Vesely",
+            "first_player_key": 2673,
+            "event_second_player": "M. Cilic",
+            "second_player_key": 2167,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Dubai",
+            "tournament_key": 1249,
+            "tournament_round": "Dubai - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2673_j-vesely.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2167_m-cilic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 5614713,
+            "event_date": "2022-02-21",
+            "event_time": "13:25",
+            "event_first_player": "F. Krajinovic",
+            "first_player_key": 2166,
+            "event_second_player": "M. Jaziri",
+            "second_player_key": 1213,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Dubai",
+            "tournament_key": 1249,
+            "tournament_round": "Dubai - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2166_f-krajinovic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1213_m-jaziri.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.4",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 5614714,
+            "event_date": "2022-02-21",
+            "event_time": "14:20",
+            "event_first_player": "D. Goffin",
+            "first_player_key": 2385,
+            "event_second_player": "T. Daniel",
+            "second_player_key": 2406,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Dubai",
+            "tournament_key": 1249,
+            "tournament_round": "Dubai - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2385_d-goffin.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2406_t-daniel.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 5614715,
+            "event_date": "2022-02-21",
+            "event_time": "16:15",
+            "event_first_player": "A. Murray",
+            "first_player_key": 2836,
+            "event_second_player": "C. O&apos;Connell",
+            "second_player_key": 421,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Dubai",
+            "tournament_key": 1249,
+            "tournament_round": "Dubai - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2836_a-murray.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/421_c-oaposconnell.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.4",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 5614716,
+            "event_date": "2022-02-21",
+            "event_time": "19:20",
+            "event_first_player": "N. Djokovic",
+            "first_player_key": 1905,
+            "event_second_player": "L. Musetti",
+            "second_player_key": 2849,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Dubai",
+            "tournament_key": 1249,
+            "tournament_round": "Dubai - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1905_n-djokovic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2849_l-musetti.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 5669285,
+            "event_date": "2022-02-21",
+            "event_time": "15:40",
+            "event_first_player": "T. M. Etcheverry",
+            "first_player_key": 1777,
+            "event_second_player": "J. I. Londero",
+            "second_player_key": 380,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Santiago",
+            "tournament_key": 2824,
+            "tournament_round": "Santiago - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1777_t-m-etcheverry.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/380_j-i-londero.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 5669286,
+            "event_date": "2022-02-21",
+            "event_time": "18:45",
+            "event_first_player": "F. Bagnis",
+            "first_player_key": 1089,
+            "event_second_player": "B. Zapata Miralles",
+            "second_player_key": 403,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Santiago",
+            "tournament_key": 2824,
+            "tournament_round": "Santiago - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1089_f-bagnis.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/403_b-zapata-miralles.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 5669287,
+            "event_date": "2022-02-21",
+            "event_time": "23:05",
+            "event_first_player": "N. Kicker",
+            "first_player_key": 1756,
+            "event_second_player": "T. Seyboth Wild",
+            "second_player_key": 1086,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Santiago",
+            "tournament_key": 2824,
+            "tournament_round": "Santiago - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1756_n-kicker.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1086_t-seyboth-wild.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

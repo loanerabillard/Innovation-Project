@@ -1,0 +1,795 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11770202,
+            "event_date": "2022-09-26",
+            "event_time": "11:10",
+            "event_first_player": "L. Nardi",
+            "first_player_key": 386,
+            "event_second_player": "E. Leshem",
+            "second_player_key": 635,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Tel Aviv",
+            "tournament_key": 3706,
+            "tournament_round": "Tel Aviv - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/635_e-leshem.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.4",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11770203,
+            "event_date": "2022-09-26",
+            "event_time": "11:10",
+            "event_first_player": "L. Broady",
+            "first_player_key": 410,
+            "event_second_player": "N. Alvarez Varona",
+            "second_player_key": 565,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Tel Aviv",
+            "tournament_key": 3706,
+            "tournament_round": "Tel Aviv - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/410_l-broady.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11770204,
+            "event_date": "2022-09-26",
+            "event_time": "13:00",
+            "event_first_player": "A. Shevchenko",
+            "first_player_key": 566,
+            "event_second_player": "C. Ilkel",
+            "second_player_key": 1736,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Tel Aviv",
+            "tournament_key": 3706,
+            "tournament_round": "Tel Aviv - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1736_c-ilkel.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11770205,
+            "event_date": "2022-09-26",
+            "event_time": "13:10",
+            "event_first_player": "V. Pospisil",
+            "first_player_key": 2852,
+            "event_second_player": "M. Copil",
+            "second_player_key": 375,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Tel Aviv",
+            "tournament_key": 3706,
+            "tournament_round": "Tel Aviv - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2852_v-pospisil.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/375_m-copil.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11770206,
+            "event_date": "2022-09-26",
+            "event_time": "15:10",
+            "event_first_player": "H. Grenier",
+            "first_player_key": 1073,
+            "event_second_player": "R. Safiullin",
+            "second_player_key": 1057,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Tel Aviv",
+            "tournament_key": 3706,
+            "tournament_round": "Tel Aviv - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1073_h-grenier.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1057_r-safiullin.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11770207,
+            "event_date": "2022-09-26",
+            "event_time": "17:30",
+            "event_first_player": "D. Thiem",
+            "first_player_key": 1769,
+            "event_second_player": "L. Djere",
+            "second_player_key": 2386,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Tel Aviv",
+            "tournament_key": 3706,
+            "tournament_round": "Tel Aviv - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1769_d-thiem.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2386_l-djere.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11769957,
+            "event_date": "2022-09-26",
+            "event_time": "05:05",
+            "event_first_player": "Y. Watanuki",
+            "first_player_key": 1097,
+            "event_second_player": "J. Munar",
+            "second_player_key": 2083,
+            "event_final_result": "0 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Retired",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Seoul",
+            "tournament_key": 3699,
+            "tournament_round": "Seoul - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1097_y-watanuki.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2083_j-munar.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "2",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11769958,
+            "event_date": "2022-09-26",
+            "event_time": "06:25",
+            "event_first_player": "A. Kovacevic",
+            "first_player_key": 2978,
+            "event_second_player": "M. Kecmanovic",
+            "second_player_key": 2848,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Seoul",
+            "tournament_key": 3699,
+            "tournament_round": "Seoul - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2978_a-kovacevic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2848_m-kecmanovic.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11769959,
+            "event_date": "2022-09-26",
+            "event_time": "08:15",
+            "event_first_player": "H. Moriya",
+            "first_player_key": 3202,
+            "event_second_player": "R. Albot",
+            "second_player_key": 363,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Seoul",
+            "tournament_key": 3699,
+            "tournament_round": "Seoul - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/3202_h-moriya.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/363_r-albot.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11769960,
+            "event_date": "2022-09-26",
+            "event_time": "12:05",
+            "event_first_player": "S. C. Hong",
+            "first_player_key": 8431,
+            "event_second_player": "K. Uchida",
+            "second_player_key": 568,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Seoul",
+            "tournament_key": 3699,
+            "tournament_round": "Seoul - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/8431_s-c-hong.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/568_k-uchida.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 168841,
+            "event_date": "2022-09-26",
+            "event_time": "07:45",
+            "event_first_player": "B. Coric",
+            "first_player_key": 3136,
+            "event_second_player": "R. Albot",
+            "second_player_key": 363,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "Cancelled",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Seoul",
+            "tournament_key": 3699,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/3136_b-coric.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/363_r-albot.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 168845,
+            "event_date": "2022-09-26",
+            "event_time": "05:00",
+            "event_first_player": "S. Kwon",
+            "first_player_key": 1098,
+            "event_second_player": "B. Nakashima",
+            "second_player_key": 2838,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "Cancelled",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Seoul",
+            "tournament_key": 3699,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1098_s-kwon.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2838_b-nakashima.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 169108,
+            "event_date": "2022-09-26",
+            "event_time": "18:00",
+            "event_first_player": "P. Gojowczyk",
+            "first_player_key": 1964,
+            "event_second_player": "Y. Oliel",
+            "second_player_key": 1195,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "Cancelled",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Tel Aviv",
+            "tournament_key": 3706,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1964_p-gojowczyk.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1195_y-oliel.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 168878,
+            "event_date": "2022-09-26",
+            "event_time": "09:00",
+            "event_first_player": "S. Wawrinka",
+            "first_player_key": 2168,
+            "event_second_player": "F. Fognini",
+            "second_player_key": 1091,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "Cancelled",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Sofia",
+            "tournament_key": 2261,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2168_s-wawrinka.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1091_f-fognini.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11723198,
+            "event_date": "2022-09-26",
+            "event_time": "11:10",
+            "event_first_player": "U. Humbert",
+            "first_player_key": 1105,
+            "event_second_player": "F. C. Jianu",
+            "second_player_key": 576,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Sofia",
+            "tournament_key": 2261,
+            "tournament_round": "Sofia - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1105_u-humbert.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/576_f-c-jianu.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723199,
+            "event_date": "2022-09-26",
+            "event_time": "11:10",
+            "event_first_player": "G. Blancaneaux",
+            "first_player_key": 409,
+            "event_second_player": "A. Seppi",
+            "second_player_key": 1760,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Sofia",
+            "tournament_key": 2261,
+            "tournament_round": "Sofia - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/409_g-blancaneaux.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1760_a-seppi.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723200,
+            "event_date": "2022-09-26",
+            "event_time": "13:00",
+            "event_first_player": "N. Madaras",
+            "first_player_key": 1860,
+            "event_second_player": "P. Nesterov",
+            "second_player_key": 9220,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Sofia",
+            "tournament_key": 2261,
+            "tournament_round": "Sofia - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723201,
+            "event_date": "2022-09-26",
+            "event_time": "14:00",
+            "event_first_player": "J-L. Struff",
+            "first_player_key": 2831,
+            "event_second_player": "M. Basic",
+            "second_player_key": 1080,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Sofia",
+            "tournament_key": 2261,
+            "tournament_round": "Sofia - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2831_j-l-struff.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1080_m-basic.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723202,
+            "event_date": "2022-09-26",
+            "event_time": "15:10",
+            "event_first_player": "R. Berankis",
+            "first_player_key": 1767,
+            "event_second_player": "K. Majchrzak",
+            "second_player_key": 1096,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Sofia",
+            "tournament_key": 2261,
+            "tournament_round": "Sofia - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1767_r-berankis.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1096_k-majchrzak.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723203,
+            "event_date": "2022-09-26",
+            "event_time": "17:10",
+            "event_first_player": "J. Lehecka",
+            "first_player_key": 2959,
+            "event_second_player": "A. Lazarov",
+            "second_player_key": 2190,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Sofia",
+            "tournament_key": 2261,
+            "tournament_round": "Sofia - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2959_j-lehecka.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2190_a-lazarov.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723204,
+            "event_date": "2022-09-26",
+            "event_time": "19:00",
+            "event_first_player": "M. Ymer",
+            "first_player_key": 1976,
+            "event_second_player": "I. Ivashka",
+            "second_player_key": 432,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Sofia",
+            "tournament_key": 2261,
+            "tournament_round": "Sofia - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1976_m-ymer.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/432_i-ivashka.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.8",
+                    "score_second": "7.10",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11794413,
+            "event_date": "2022-09-26",
+            "event_time": "02:10",
+            "event_first_player": "M. Giron",
+            "first_player_key": 1766,
+            "event_second_player": "B. Nakashima",
+            "second_player_key": 2838,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "San Diego",
+            "tournament_key": 4672,
+            "tournament_round": "San Diego - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1766_m-giron.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2838_b-nakashima.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

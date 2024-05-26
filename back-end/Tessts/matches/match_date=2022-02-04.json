@@ -1,0 +1,459 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 2731891,
+            "event_date": "2022-02-04",
+            "event_time": "01:50",
+            "event_first_player": "A. Tabilo",
+            "first_player_key": 2982,
+            "event_second_player": "C. Taberner",
+            "second_player_key": 1974,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Cordoba",
+            "tournament_key": 3107,
+            "tournament_round": "Cordoba - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2982_a-tabilo.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1974_c-taberner.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 2731892,
+            "event_date": "2022-02-04",
+            "event_time": "18:40",
+            "event_first_player": "A. Ramos",
+            "first_player_key": 1090,
+            "event_second_player": "L. Sonego",
+            "second_player_key": 2843,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Cordoba",
+            "tournament_key": 3107,
+            "tournament_round": "Cordoba - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1090_a-ramos.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2843_l-sonego.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 2731893,
+            "event_date": "2022-02-04",
+            "event_time": "21:30",
+            "event_first_player": "J. I. Londero",
+            "first_player_key": 380,
+            "event_second_player": "N. Milojevic",
+            "second_player_key": 1745,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Cordoba",
+            "tournament_key": 3107,
+            "tournament_round": "Cordoba - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/380_j-i-londero.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1745_n-milojevic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 2731894,
+            "event_date": "2022-02-04",
+            "event_time": "23:30",
+            "event_first_player": "D. Schwartzman",
+            "first_player_key": 67,
+            "event_second_player": "D. E. Galan",
+            "second_player_key": 34000,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Cordoba",
+            "tournament_key": 3107,
+            "tournament_round": "Cordoba - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/67_d-schwartzman.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 58034,
+            "event_date": "2022-02-04",
+            "event_time": "08:35",
+            "event_first_player": "K. Majchrzak",
+            "first_player_key": 1096,
+            "event_second_player": "L. Musetti",
+            "second_player_key": 2849,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Pune",
+            "tournament_key": 2802,
+            "tournament_round": "Pune - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1096_k-majchrzak.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2849_l-musetti.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 58035,
+            "event_date": "2022-02-04",
+            "event_time": "11:10",
+            "event_first_player": "E. Ruusuvuori",
+            "first_player_key": 1770,
+            "event_second_player": "J. Vesely",
+            "second_player_key": 2673,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Pune",
+            "tournament_key": 2802,
+            "tournament_round": "Pune - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1770_e-ruusuvuori.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2673_j-vesely.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 58036,
+            "event_date": "2022-02-04",
+            "event_time": "12:40",
+            "event_first_player": "J. Sousa",
+            "first_player_key": 423,
+            "event_second_player": "D. Altmaier",
+            "second_player_key": 1099,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Pune",
+            "tournament_key": 2802,
+            "tournament_round": "Pune - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/423_j-sousa.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1099_d-altmaier.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 58037,
+            "event_date": "2022-02-04",
+            "event_time": "14:15",
+            "event_first_player": "E. Ymer",
+            "first_player_key": 1082,
+            "event_second_player": "S. Travaglia",
+            "second_player_key": 2672,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Pune",
+            "tournament_key": 2802,
+            "tournament_round": "Pune - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1082_e-ymer.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2672_s-travaglia.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 2687206,
+            "event_date": "2022-02-04",
+            "event_time": "14:40",
+            "event_first_player": "F. Krajinovic",
+            "first_player_key": 2166,
+            "event_second_player": "D. Dzumhur",
+            "second_player_key": 1079,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Montpellier",
+            "tournament_key": 1844,
+            "tournament_round": "Montpellier - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2166_f-krajinovic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1079_d-dzumhur.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 2687207,
+            "event_date": "2022-02-04",
+            "event_time": "16:35",
+            "event_first_player": "A. Bublik",
+            "first_player_key": 1895,
+            "event_second_player": "R. Bautista-Agut",
+            "second_player_key": 2734,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Montpellier",
+            "tournament_key": 1844,
+            "tournament_round": "Montpellier - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1895_a-bublik.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2734_r-bautista-agut.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 2687208,
+            "event_date": "2022-02-04",
+            "event_time": "19:40",
+            "event_first_player": "M. Ymer",
+            "first_player_key": 1976,
+            "event_second_player": "R. Gasquet",
+            "second_player_key": 1094,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Montpellier",
+            "tournament_key": 1844,
+            "tournament_round": "Montpellier - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1976_m-ymer.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1094_r-gasquet.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.6",
+                    "score_second": "7.8",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 2687209,
+            "event_date": "2022-02-04",
+            "event_time": "22:35",
+            "event_first_player": "A. Zverev",
+            "first_player_key": 1980,
+            "event_second_player": "A. Mannarino",
+            "second_player_key": 438,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Montpellier",
+            "tournament_key": 1844,
+            "tournament_round": "Montpellier - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1980_a-zverev.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/438_a-mannarino.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

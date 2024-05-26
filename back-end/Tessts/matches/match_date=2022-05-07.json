@@ -1,0 +1,632 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11714274,
+            "event_date": "2022-05-07",
+            "event_time": "10:10",
+            "event_first_player": "A. Mannarino",
+            "first_player_key": 438,
+            "event_second_player": "T. Griekspoor",
+            "second_player_key": 427,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Rome",
+            "tournament_key": 2011,
+            "tournament_round": "Rome - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/438_a-mannarino.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/427_t-griekspoor.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11714275,
+            "event_date": "2022-05-07",
+            "event_time": "10:10",
+            "event_first_player": "K. Majchrzak",
+            "first_player_key": 1096,
+            "event_second_player": "F. Coria",
+            "second_player_key": 433,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Rome",
+            "tournament_key": 2011,
+            "tournament_round": "Rome - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1096_k-majchrzak.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/433_f-coria.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11714276,
+            "event_date": "2022-05-07",
+            "event_time": "10:10",
+            "event_first_player": "M. Giron",
+            "first_player_key": 1766,
+            "event_second_player": "G. Ferrari",
+            "second_player_key": 658,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Rome",
+            "tournament_key": 2011,
+            "tournament_round": "Rome - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1766_m-giron.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.7",
+                    "score_second": "7.9",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11714277,
+            "event_date": "2022-05-07",
+            "event_time": "11:40",
+            "event_first_player": "U. Humbert",
+            "first_player_key": 1105,
+            "event_second_player": "B. Nakashima",
+            "second_player_key": 2838,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Rome",
+            "tournament_key": 2011,
+            "tournament_round": "Rome - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1105_u-humbert.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2838_b-nakashima.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11714278,
+            "event_date": "2022-05-07",
+            "event_time": "11:45",
+            "event_first_player": "H. Rune",
+            "first_player_key": 437,
+            "event_second_player": "H. Dellien",
+            "second_player_key": 2980,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Rome",
+            "tournament_key": 2011,
+            "tournament_round": "Rome - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/437_h-rune.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2980_h-dellien.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11714279,
+            "event_date": "2022-05-07",
+            "event_time": "11:50",
+            "event_first_player": "T. Kokkinakis",
+            "first_player_key": 426,
+            "event_second_player": "L. Djere",
+            "second_player_key": 2386,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Rome",
+            "tournament_key": 2011,
+            "tournament_round": "Rome - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/426_t-kokkinakis.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2386_l-djere.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11714280,
+            "event_date": "2022-05-07",
+            "event_time": "13:40",
+            "event_first_player": "F. Cerundolo",
+            "first_player_key": 1104,
+            "event_second_player": "Y. Nishioka",
+            "second_player_key": 1972,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Rome",
+            "tournament_key": 2011,
+            "tournament_round": "Rome - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1104_f-cerundolo.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1972_y-nishioka.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11714281,
+            "event_date": "2022-05-07",
+            "event_time": "14:55",
+            "event_first_player": "J. Sousa",
+            "first_player_key": 423,
+            "event_second_player": "M. McDonald",
+            "second_player_key": 2839,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Rome",
+            "tournament_key": 2011,
+            "tournament_round": "Rome - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/423_j-sousa.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2839_m-mcdonald.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11714282,
+            "event_date": "2022-05-07",
+            "event_time": "15:40",
+            "event_first_player": "G. Fonio",
+            "first_player_key": 1855,
+            "event_second_player": "E. Ruusuvuori",
+            "second_player_key": 1770,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Rome",
+            "tournament_key": 2011,
+            "tournament_round": "Rome - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1855_g-fonio.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1770_e-ruusuvuori.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.9",
+                    "score_second": "6.7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11714283,
+            "event_date": "2022-05-07",
+            "event_time": "16:25",
+            "event_first_player": "M. Fucsovics",
+            "first_player_key": 2833,
+            "event_second_player": "D. Kudla",
+            "second_player_key": 2919,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Rome",
+            "tournament_key": 2011,
+            "tournament_round": "Rome - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2833_m-fucsovics.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2919_d-kudla.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11714284,
+            "event_date": "2022-05-07",
+            "event_time": "16:35",
+            "event_first_player": "D. Lajovic",
+            "first_player_key": 2675,
+            "event_second_player": "B. Paire",
+            "second_player_key": 429,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Rome",
+            "tournament_key": 2011,
+            "tournament_round": "Rome - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2675_d-lajovic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/429_b-paire.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11714285,
+            "event_date": "2022-05-07",
+            "event_time": "17:15",
+            "event_first_player": "A. Molcan",
+            "first_player_key": 436,
+            "event_second_player": "G. Zeppieri",
+            "second_player_key": 376,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Rome",
+            "tournament_key": 2011,
+            "tournament_round": "Rome - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/436_a-molcan.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/376_g-zeppieri.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11714286,
+            "event_date": "2022-05-07",
+            "event_time": "18:15",
+            "event_first_player": "S. Baez",
+            "first_player_key": 1101,
+            "event_second_player": "S. Kwon",
+            "second_player_key": 1098,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Rome",
+            "tournament_key": 2011,
+            "tournament_round": "Rome - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1101_s-baez.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1098_s-kwon.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11714287,
+            "event_date": "2022-05-07",
+            "event_time": "19:05",
+            "event_first_player": "F. Forti",
+            "first_player_key": 1191,
+            "event_second_player": "M. Cressy",
+            "second_player_key": 2961,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Rome",
+            "tournament_key": 2011,
+            "tournament_round": "Rome - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1191_f-forti.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2961_m-cressy.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11714037,
+            "event_date": "2022-05-07",
+            "event_time": "16:25",
+            "event_first_player": "N. Djokovic",
+            "first_player_key": 1905,
+            "event_second_player": "C. Alcaraz",
+            "second_player_key": 2382,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Madrid",
+            "tournament_key": 2004,
+            "tournament_round": "Madrid - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1905_n-djokovic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2382_c-alcaraz.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11714038,
+            "event_date": "2022-05-07",
+            "event_time": "23:15",
+            "event_first_player": "S. Tsitsipas",
+            "first_player_key": 1906,
+            "event_second_player": "A. Zverev",
+            "second_player_key": 1980,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Madrid",
+            "tournament_key": 2004,
+            "tournament_round": "Madrid - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1906_s-tsitsipas.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1980_a-zverev.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

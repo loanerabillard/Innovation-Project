@@ -1,0 +1,469 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11689528,
+            "event_date": "2022-04-26",
+            "event_time": "16:30",
+            "event_first_player": "M. McDonald",
+            "first_player_key": 2839,
+            "event_second_player": "I. Ivashka",
+            "second_player_key": 432,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Munich",
+            "tournament_key": 1264,
+            "tournament_round": "Munich - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2839_m-mcdonald.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/432_i-ivashka.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11689529,
+            "event_date": "2022-04-26",
+            "event_time": "16:30",
+            "event_first_player": "M. Cressy",
+            "first_player_key": 2961,
+            "event_second_player": "D. Evans",
+            "second_player_key": 2835,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Munich",
+            "tournament_key": 1264,
+            "tournament_round": "Munich - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2961_m-cressy.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2835_d-evans.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11689530,
+            "event_date": "2022-04-26",
+            "event_time": "16:45",
+            "event_first_player": "H. Gaston",
+            "first_player_key": 1102,
+            "event_second_player": "M. Giron",
+            "second_player_key": 1766,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Munich",
+            "tournament_key": 1264,
+            "tournament_round": "Munich - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1102_h-gaston.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1766_m-giron.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.4",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11689531,
+            "event_date": "2022-04-26",
+            "event_time": "17:50",
+            "event_first_player": "O. Otte",
+            "first_player_key": 1100,
+            "event_second_player": "M. Topo",
+            "second_player_key": 833,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Munich",
+            "tournament_key": 1264,
+            "tournament_round": "Munich - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1100_o-otte.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11219860,
+            "event_date": "2022-04-26",
+            "event_time": "14:45",
+            "event_first_player": "L. Harris",
+            "first_player_key": 2834,
+            "event_second_player": "C. Taberner",
+            "second_player_key": 1974,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Estoril",
+            "tournament_key": 2204,
+            "tournament_round": "Estoril - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2834_l-harris.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1974_c-taberner.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11219861,
+            "event_date": "2022-04-26",
+            "event_time": "14:45",
+            "event_first_player": "P. Cuevas",
+            "first_player_key": 1898,
+            "event_second_player": "R. Carballes Baena",
+            "second_player_key": 593,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Estoril",
+            "tournament_key": 2204,
+            "tournament_round": "Estoril - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1898_p-cuevas.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/593_r-carballes-baena.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11219862,
+            "event_date": "2022-04-26",
+            "event_time": "15:10",
+            "event_first_player": "T. Paul",
+            "first_player_key": 1894,
+            "event_second_player": "R. Gasquet",
+            "second_player_key": 1094,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Estoril",
+            "tournament_key": 2204,
+            "tournament_round": "Estoril - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1894_t-paul.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1094_r-gasquet.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11219863,
+            "event_date": "2022-04-26",
+            "event_time": "16:35",
+            "event_first_player": "J. Vesely",
+            "first_player_key": 2673,
+            "event_second_player": "H. Dellien",
+            "second_player_key": 2980,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Estoril",
+            "tournament_key": 2204,
+            "tournament_round": "Estoril - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2673_j-vesely.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2980_h-dellien.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11219864,
+            "event_date": "2022-04-26",
+            "event_time": "17:05",
+            "event_first_player": "J. Sousa",
+            "first_player_key": 423,
+            "event_second_player": "S. Baez",
+            "second_player_key": 1101,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Estoril",
+            "tournament_key": 2204,
+            "tournament_round": "Estoril - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/423_j-sousa.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1101_s-baez.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11219865,
+            "event_date": "2022-04-26",
+            "event_time": "17:55",
+            "event_first_player": "A. Ramos",
+            "first_player_key": 1090,
+            "event_second_player": "J. Thompson",
+            "second_player_key": 207,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Estoril",
+            "tournament_key": 2204,
+            "tournament_round": "Estoril - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1090_a-ramos.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/207_j-thompson.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11219866,
+            "event_date": "2022-04-26",
+            "event_time": "18:35",
+            "event_first_player": "B. Bonzi",
+            "first_player_key": 1771,
+            "event_second_player": "D. Thiem",
+            "second_player_key": 1769,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Estoril",
+            "tournament_key": 2204,
+            "tournament_round": "Estoril - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1771_b-bonzi.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1769_d-thiem.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.11",
+                    "score_second": "6.9",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11219867,
+            "event_date": "2022-04-26",
+            "event_time": "20:45",
+            "event_first_player": "P. Herbert",
+            "first_player_key": 1748,
+            "event_second_player": "S. Korda",
+            "second_player_key": 2840,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Estoril",
+            "tournament_key": 2204,
+            "tournament_round": "Estoril - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1748_p-herbert.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2840_s-korda.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

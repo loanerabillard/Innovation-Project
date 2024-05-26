@@ -1,0 +1,427 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 9204960,
+            "event_date": "2022-03-23",
+            "event_time": "16:05",
+            "event_first_player": "T. Griekspoor",
+            "first_player_key": 427,
+            "event_second_player": "F. Cerundolo",
+            "second_player_key": 1104,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Miami",
+            "tournament_key": 1928,
+            "tournament_round": "Miami - 1/64-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/427_t-griekspoor.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1104_f-cerundolo.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 9204961,
+            "event_date": "2022-03-23",
+            "event_time": "16:10",
+            "event_first_player": "E. Nava",
+            "first_player_key": 567,
+            "event_second_player": "H. Gaston",
+            "second_player_key": 1102,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Miami",
+            "tournament_key": 1928,
+            "tournament_round": "Miami - 1/64-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/567_e-nava.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1102_h-gaston.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 9204962,
+            "event_date": "2022-03-23",
+            "event_time": "16:25",
+            "event_first_player": "S. Kwon",
+            "first_player_key": 1098,
+            "event_second_player": "B. Nakashima",
+            "second_player_key": 2838,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Miami",
+            "tournament_key": 1928,
+            "tournament_round": "Miami - 1/64-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1098_s-kwon.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2838_b-nakashima.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 9204963,
+            "event_date": "2022-03-23",
+            "event_time": "17:35",
+            "event_first_player": "G. Simon",
+            "first_player_key": 1778,
+            "event_second_player": "J. Draper",
+            "second_player_key": 7011,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Miami",
+            "tournament_key": 1928,
+            "tournament_round": "Miami - 1/64-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1778_g-simon.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/7011_j-draper.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 9204964,
+            "event_date": "2022-03-23",
+            "event_time": "18:45",
+            "event_first_player": "J. M. Cerundolo",
+            "first_player_key": 388,
+            "event_second_player": "D. Lajovic",
+            "second_player_key": 2675,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Miami",
+            "tournament_key": 1928,
+            "tournament_round": "Miami - 1/64-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/388_j-m-cerundolo.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2675_d-lajovic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 9204965,
+            "event_date": "2022-03-23",
+            "event_time": "18:50",
+            "event_first_player": "M. McDonald",
+            "first_player_key": 2839,
+            "event_second_player": "D. Koepfer",
+            "second_player_key": 2830,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Miami",
+            "tournament_key": 1928,
+            "tournament_round": "Miami - 1/64-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2839_m-mcdonald.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2830_d-koepfer.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.8",
+                    "score_second": "7.10",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 9204966,
+            "event_date": "2022-03-23",
+            "event_time": "19:40",
+            "event_first_player": "H. Laaksonen",
+            "first_player_key": 1967,
+            "event_second_player": "B. Paire",
+            "second_player_key": 429,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Miami",
+            "tournament_key": 1928,
+            "tournament_round": "Miami - 1/64-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1967_h-laaksonen.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/429_b-paire.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.10",
+                    "score_second": "6.8",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 9204967,
+            "event_date": "2022-03-23",
+            "event_time": "20:45",
+            "event_first_player": "D. E. Galan",
+            "first_player_key": 34000,
+            "event_second_player": "J. Millman",
+            "second_player_key": 1768,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Miami",
+            "tournament_key": 1928,
+            "tournament_round": "Miami - 1/64-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1768_j-millman.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 9204968,
+            "event_date": "2022-03-23",
+            "event_time": "21:50",
+            "event_first_player": "R. Carballes Baena",
+            "first_player_key": 593,
+            "event_second_player": "D. Goffin",
+            "second_player_key": 2385,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Miami",
+            "tournament_key": 1928,
+            "tournament_round": "Miami - 1/64-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/593_r-carballes-baena.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2385_d-goffin.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 9204969,
+            "event_date": "2022-03-23",
+            "event_time": "22:05",
+            "event_first_player": "B. Coric",
+            "first_player_key": 3136,
+            "event_second_player": "F. Verdasco",
+            "second_player_key": 407,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Miami",
+            "tournament_key": 1928,
+            "tournament_round": "Miami - 1/64-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/3136_b-coric.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/407_f-verdasco.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 9204970,
+            "event_date": "2022-03-23",
+            "event_time": "22:30",
+            "event_first_player": "J. Munar",
+            "first_player_key": 2083,
+            "event_second_player": "T. Daniel",
+            "second_player_key": 2406,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Miami",
+            "tournament_key": 1928,
+            "tournament_round": "Miami - 1/64-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2083_j-munar.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2406_t-daniel.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

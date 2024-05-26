@@ -1,0 +1,979 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11724813,
+            "event_date": "2022-08-03",
+            "event_time": "02:05",
+            "event_first_player": "T. M. Etcheverry",
+            "first_player_key": 1777,
+            "event_second_player": "J. Kubler",
+            "second_player_key": 364,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Los Cabos",
+            "tournament_key": 2305,
+            "tournament_round": "Los Cabos - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1777_t-m-etcheverry.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/364_j-kubler.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11724814,
+            "event_date": "2022-08-03",
+            "event_time": "02:05",
+            "event_first_player": "F. Bagnis",
+            "first_player_key": 1089,
+            "event_second_player": "E. Escobedo",
+            "second_player_key": 402,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Los Cabos",
+            "tournament_key": 2305,
+            "tournament_round": "Los Cabos - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1089_f-bagnis.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/402_e-escobedo.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11724815,
+            "event_date": "2022-08-03",
+            "event_time": "02:10",
+            "event_first_player": "A. Hernandez",
+            "first_player_key": 1307,
+            "event_second_player": "N. Barrientos",
+            "second_player_key": 4694,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Los Cabos",
+            "tournament_key": 2305,
+            "tournament_round": "Los Cabos - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11724816,
+            "event_date": "2022-08-03",
+            "event_time": "03:35",
+            "event_first_player": "R. Albot",
+            "first_player_key": 363,
+            "event_second_player": "F. Lopez",
+            "second_player_key": 1078,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Los Cabos",
+            "tournament_key": 2305,
+            "tournament_round": "Los Cabos - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/363_r-albot.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1078_f-lopez.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.6",
+                    "score_second": "7.8",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11724817,
+            "event_date": "2022-08-03",
+            "event_time": "04:00",
+            "event_first_player": "G. Villanueva",
+            "first_player_key": 5181,
+            "event_second_player": "S. Johnson",
+            "second_player_key": 2851,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Los Cabos",
+            "tournament_key": 2305,
+            "tournament_round": "Los Cabos - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/5181_g-villanueva.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2851_s-johnson.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.1",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11724818,
+            "event_date": "2022-08-03",
+            "event_time": "04:50",
+            "event_first_player": "K. Uchida",
+            "first_player_key": 568,
+            "event_second_player": "B. Nakashima",
+            "second_player_key": 2838,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Los Cabos",
+            "tournament_key": 2305,
+            "tournament_round": "Los Cabos - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/568_k-uchida.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2838_b-nakashima.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.1",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11724819,
+            "event_date": "2022-08-03",
+            "event_time": "05:15",
+            "event_first_player": "Y. Hanfmann",
+            "first_player_key": 1764,
+            "event_second_player": "J. Thompson",
+            "second_player_key": 207,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Los Cabos",
+            "tournament_key": 2305,
+            "tournament_round": "Los Cabos - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1764_y-hanfmann.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/207_j-thompson.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11724820,
+            "event_date": "2022-08-03",
+            "event_time": "07:00",
+            "event_first_player": "T. Kokkinakis",
+            "first_player_key": 426,
+            "event_second_player": "F. Verdasco",
+            "second_player_key": 407,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Los Cabos",
+            "tournament_key": 2305,
+            "tournament_round": "Los Cabos - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/426_t-kokkinakis.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/407_f-verdasco.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698223,
+            "event_date": "2022-08-03",
+            "event_time": "01:05",
+            "event_first_player": "B. Van De Zandschulp",
+            "first_player_key": 2972,
+            "event_second_player": "B. Gojo",
+            "second_player_key": 377,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1532,
+            "tournament_round": "Washington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2972_b-van-de-zandschulp.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/377_b-gojo.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.8",
+                    "score_second": "6.6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698224,
+            "event_date": "2022-08-03",
+            "event_time": "01:10",
+            "event_first_player": "N. Kyrgios",
+            "first_player_key": 2984,
+            "event_second_player": "M. Giron",
+            "second_player_key": 1766,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1532,
+            "tournament_round": "Washington - 1/32-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2984_n-kyrgios.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1766_m-giron.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698225,
+            "event_date": "2022-08-03",
+            "event_time": "01:25",
+            "event_first_player": "D. Koepfer",
+            "first_player_key": 2830,
+            "event_second_player": "K. Khachanov",
+            "second_player_key": 435,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1532,
+            "tournament_round": "Washington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2830_d-koepfer.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/435_k-khachanov.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698226,
+            "event_date": "2022-08-03",
+            "event_time": "18:10",
+            "event_first_player": "E. Ruusuvuori",
+            "first_player_key": 1770,
+            "event_second_player": "H. Hurkacz",
+            "second_player_key": 2841,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1532,
+            "tournament_round": "Washington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1770_e-ruusuvuori.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2841_h-hurkacz.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698227,
+            "event_date": "2022-08-03",
+            "event_time": "18:10",
+            "event_first_player": "H. Rune",
+            "first_player_key": 437,
+            "event_second_player": "B. Paire",
+            "second_player_key": 429,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1532,
+            "tournament_round": "Washington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/437_h-rune.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/429_b-paire.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698228,
+            "event_date": "2022-08-03",
+            "event_time": "18:15",
+            "event_first_player": "A. Karatsev",
+            "first_player_key": 1901,
+            "event_second_player": "M. Ymer",
+            "second_player_key": 1976,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1532,
+            "tournament_round": "Washington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1901_a-karatsev.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1976_m-ymer.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698229,
+            "event_date": "2022-08-03",
+            "event_time": "19:40",
+            "event_first_player": "A. De Minaur",
+            "first_player_key": 1106,
+            "event_second_player": "Y. Nishioka",
+            "second_player_key": 1972,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1532,
+            "tournament_round": "Washington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1106_a-de-minaur.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1972_y-nishioka.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.6",
+                    "score_second": "7.8",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698230,
+            "event_date": "2022-08-03",
+            "event_time": "20:25",
+            "event_first_player": "S. Korda",
+            "first_player_key": 2840,
+            "event_second_player": "S. Baez",
+            "second_player_key": 1101,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1532,
+            "tournament_round": "Washington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2840_s-korda.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1101_s-baez.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698231,
+            "event_date": "2022-08-03",
+            "event_time": "21:55",
+            "event_first_player": "T. Fritz",
+            "first_player_key": 2832,
+            "event_second_player": "A. Popyrin",
+            "second_player_key": 1926,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1532,
+            "tournament_round": "Washington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2832_t-fritz.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1926_al-popyrin.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698232,
+            "event_date": "2022-08-03",
+            "event_time": "22:35",
+            "event_first_player": "J.J. Wolf",
+            "first_player_key": 2853,
+            "event_second_player": "D. Shapovalov",
+            "second_player_key": 431,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1532,
+            "tournament_round": "Washington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2853_j-wolf.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/431_d-shapovalov.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698233,
+            "event_date": "2022-08-03",
+            "event_time": "23:10",
+            "event_first_player": "G. Dimitrov",
+            "first_player_key": 2384,
+            "event_second_player": "A. Mannarino",
+            "second_player_key": 438,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1532,
+            "tournament_round": "Washington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2384_g-dimitrov.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/438_a-mannarino.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698234,
+            "event_date": "2022-08-03",
+            "event_time": "23:25",
+            "event_first_player": "J. Sock",
+            "first_player_key": 1084,
+            "event_second_player": "M. Cressy",
+            "second_player_key": 2961,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1532,
+            "tournament_round": "Washington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1084_j-sock.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2961_m-cressy.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 154213,
+            "event_date": "2022-08-03",
+            "event_time": "02:10",
+            "event_first_player": "A. Hernandez",
+            "first_player_key": 1307,
+            "event_second_player": "J. Millman",
+            "second_player_key": 1768,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "Cancelled",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Los Cabos",
+            "tournament_key": 2305,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1768_j-millman.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11739361,
+            "event_date": "2022-08-03",
+            "event_time": "16:05",
+            "event_first_player": "F. Miller",
+            "first_player_key": 30664,
+            "event_second_player": "F. Sydow",
+            "second_player_key": 30317,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Davis Cup - Group IV",
+            "tournament_key": 2722,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11739362,
+            "event_date": "2022-08-03",
+            "event_time": "16:10",
+            "event_first_player": "O. Rivera Granja",
+            "first_player_key": 11203,
+            "event_second_player": "F. Bendana",
+            "second_player_key": 30581,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Davis Cup - Group IV",
+            "tournament_key": 2722,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11739363,
+            "event_date": "2022-08-03",
+            "event_time": "17:25",
+            "event_first_player": "T. Del Olmo",
+            "first_player_key": 11193,
+            "event_second_player": "P. Sydow",
+            "second_player_key": 30322,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Davis Cup - Group IV",
+            "tournament_key": 2722,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11739364,
+            "event_date": "2022-08-03",
+            "event_time": "18:40",
+            "event_first_player": "O. Turino",
+            "first_player_key": 30321,
+            "event_second_player": "J. Guilleme",
+            "second_player_key": 30582,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Davis Cup - Group IV",
+            "tournament_key": 2722,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

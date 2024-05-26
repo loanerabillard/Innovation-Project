@@ -1,0 +1,679 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11768625,
+            "event_date": "2022-10-04",
+            "event_time": "07:10",
+            "event_first_player": "P. Kotov",
+            "first_player_key": 415,
+            "event_second_player": "A. Davidovich Fokina",
+            "second_player_key": 2842,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Astana",
+            "tournament_key": 3656,
+            "tournament_round": "Astana - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/415_p-kotov.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2842_a-davidovich-fokina.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11768626,
+            "event_date": "2022-10-04",
+            "event_time": "07:10",
+            "event_first_player": "M. Cressy",
+            "first_player_key": 2961,
+            "event_second_player": "K. Khachanov",
+            "second_player_key": 435,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Astana",
+            "tournament_key": 3656,
+            "tournament_round": "Astana - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2961_m-cressy.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/435_k-khachanov.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.3",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11768627,
+            "event_date": "2022-10-04",
+            "event_time": "09:00",
+            "event_first_player": "S. Tsitsipas",
+            "first_player_key": 1906,
+            "event_second_player": "M. Kukushkin",
+            "second_player_key": 2970,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Astana",
+            "tournament_key": 3656,
+            "tournament_round": "Astana - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1906_s-tsitsipas.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2970_m-kukushkin.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11768628,
+            "event_date": "2022-10-04",
+            "event_time": "09:00",
+            "event_first_player": "A. Shevchenko",
+            "first_player_key": 566,
+            "event_second_player": "L. Nardi",
+            "second_player_key": 386,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Astana",
+            "tournament_key": 3656,
+            "tournament_round": "Astana - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.4",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11768629,
+            "event_date": "2022-10-04",
+            "event_time": "10:40",
+            "event_first_player": "C. Alcaraz",
+            "first_player_key": 2382,
+            "event_second_player": "D. Goffin",
+            "second_player_key": 2385,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Astana",
+            "tournament_key": 3656,
+            "tournament_round": "Astana - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2382_c-alcaraz.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2385_d-goffin.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11768630,
+            "event_date": "2022-10-04",
+            "event_time": "14:10",
+            "event_first_player": "T. Griekspoor",
+            "first_player_key": 427,
+            "event_second_player": "A. Bublik",
+            "second_player_key": 1895,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Astana",
+            "tournament_key": 3656,
+            "tournament_round": "Astana - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/427_t-griekspoor.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1895_a-bublik.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11768631,
+            "event_date": "2022-10-04",
+            "event_time": "16:05",
+            "event_first_player": "A. Ramos",
+            "first_player_key": 1090,
+            "event_second_player": "D. Medvedev",
+            "second_player_key": 1093,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Astana",
+            "tournament_key": 3656,
+            "tournament_round": "Astana - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1090_a-ramos.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1093_d-medvedev.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 170553,
+            "event_date": "2022-10-04",
+            "event_time": "04:00",
+            "event_first_player": "T. Kokkinakis",
+            "first_player_key": 426,
+            "event_second_player": "C. Norrie",
+            "second_player_key": 1103,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "Cancelled",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Tokyo",
+            "tournament_key": 1223,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/426_t-kokkinakis.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1103_c-norrie.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 170578,
+            "event_date": "2022-10-04",
+            "event_time": "06:00",
+            "event_first_player": "C. Alcaraz",
+            "first_player_key": 2382,
+            "event_second_player": "H. Rune",
+            "second_player_key": 437,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "Cancelled",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Astana",
+            "tournament_key": 3656,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2382_c-alcaraz.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/437_h-rune.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 170587,
+            "event_date": "2022-10-04",
+            "event_time": "06:00",
+            "event_first_player": "J. Sinner",
+            "first_player_key": 2072,
+            "event_second_player": "O. Otte",
+            "second_player_key": 1100,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "Cancelled",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Astana",
+            "tournament_key": 3656,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2072_j-sinner.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1100_o-otte.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11687650,
+            "event_date": "2022-10-04",
+            "event_time": "04:10",
+            "event_first_player": "M. McDonald",
+            "first_player_key": 2839,
+            "event_second_player": "K. Uchida",
+            "second_player_key": 568,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Tokyo",
+            "tournament_key": 1223,
+            "tournament_round": "Tokyo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2839_m-mcdonald.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/568_k-uchida.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.2",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11687651,
+            "event_date": "2022-10-04",
+            "event_time": "04:10",
+            "event_first_player": "S. Kwon",
+            "first_player_key": 1098,
+            "event_second_player": "A. De Minaur",
+            "second_player_key": 1106,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Tokyo",
+            "tournament_key": 1223,
+            "tournament_round": "Tokyo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1098_s-kwon.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1106_a-de-minaur.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11687652,
+            "event_date": "2022-10-04",
+            "event_time": "05:45",
+            "event_first_player": "T. Kokkinakis",
+            "first_player_key": 426,
+            "event_second_player": "B. Coric",
+            "second_player_key": 3136,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Tokyo",
+            "tournament_key": 1223,
+            "tournament_round": "Tokyo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/426_t-kokkinakis.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/3136_b-coric.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.4",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11687653,
+            "event_date": "2022-10-04",
+            "event_time": "06:55",
+            "event_first_player": "R. Albot",
+            "first_player_key": 363,
+            "event_second_player": "D. Evans",
+            "second_player_key": 2835,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Tokyo",
+            "tournament_key": 1223,
+            "tournament_round": "Tokyo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/363_r-albot.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2835_d-evans.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11687654,
+            "event_date": "2022-10-04",
+            "event_time": "08:05",
+            "event_first_player": "C. Ruud",
+            "first_player_key": 430,
+            "event_second_player": "J. Munar",
+            "second_player_key": 2083,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Tokyo",
+            "tournament_key": 1223,
+            "tournament_round": "Tokyo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/430_c-ruud.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2083_j-munar.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11687655,
+            "event_date": "2022-10-04",
+            "event_time": "09:35",
+            "event_first_player": "R. Noguchi",
+            "first_player_key": 690,
+            "event_second_player": "R. Ramanathan",
+            "second_player_key": 381,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Tokyo",
+            "tournament_key": 1223,
+            "tournament_round": "Tokyo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/690_r-noguchi.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/381_r-ramanathan.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.1",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11687656,
+            "event_date": "2022-10-04",
+            "event_time": "11:05",
+            "event_first_player": "N. Kyrgios",
+            "first_player_key": 2984,
+            "event_second_player": "C. H. Tseng",
+            "second_player_key": 389,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Tokyo",
+            "tournament_key": 1223,
+            "tournament_round": "Tokyo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2984_n-kyrgios.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/389_c-h-tseng.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11687657,
+            "event_date": "2022-10-04",
+            "event_time": "11:55",
+            "event_first_player": "S. Shimabukuro",
+            "first_player_key": 9608,
+            "event_second_player": "K. Majchrzak",
+            "second_player_key": 1096,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Tokyo",
+            "tournament_key": 1223,
+            "tournament_round": "Tokyo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/9608_s-shimabukuro.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1096_k-majchrzak.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.2",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11687658,
+            "event_date": "2022-10-04",
+            "event_time": "12:35",
+            "event_first_player": "H. Moriya",
+            "first_player_key": 3202,
+            "event_second_player": "Y. Shimizu",
+            "second_player_key": 2100,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Tokyo",
+            "tournament_key": 1223,
+            "tournament_round": "Tokyo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/3202_h-moriya.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

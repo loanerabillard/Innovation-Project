@@ -1,0 +1,565 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11712791,
+            "event_date": "2022-04-17",
+            "event_time": "14:45",
+            "event_first_player": "A. Davidovich Fokina",
+            "first_player_key": 2842,
+            "event_second_player": "S. Tsitsipas",
+            "second_player_key": 1906,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Monte Carlo",
+            "tournament_key": 1970,
+            "tournament_round": "Monte Carlo - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2842_a-davidovich-fokina.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1906_s-tsitsipas.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.3",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11713065,
+            "event_date": "2022-04-17",
+            "event_time": "12:20",
+            "event_first_player": "P. Sousa",
+            "first_player_key": 369,
+            "event_second_player": "E. Ymer",
+            "second_player_key": 1082,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Barcelona",
+            "tournament_key": 1979,
+            "tournament_round": "Barcelona - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/369_p-sousa.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1082_e-ymer.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11713066,
+            "event_date": "2022-04-17",
+            "event_time": "12:25",
+            "event_first_player": "H. Dellien",
+            "first_player_key": 2980,
+            "event_second_player": "M. Moroni",
+            "second_player_key": 413,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Barcelona",
+            "tournament_key": 1979,
+            "tournament_round": "Barcelona - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2980_h-dellien.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/413_m-moroni.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11713067,
+            "event_date": "2022-04-17",
+            "event_time": "12:30",
+            "event_first_player": "M. Alcala Gurri",
+            "first_player_key": 678,
+            "event_second_player": "N. Alvarez Varona",
+            "second_player_key": 565,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Barcelona",
+            "tournament_key": 1979,
+            "tournament_round": "Barcelona - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/678_m-alcala-gurri.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11713068,
+            "event_date": "2022-04-17",
+            "event_time": "14:10",
+            "event_first_player": "C. Taberner",
+            "first_player_key": 1974,
+            "event_second_player": "H. Grenier",
+            "second_player_key": 1073,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Barcelona",
+            "tournament_key": 1979,
+            "tournament_round": "Barcelona - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1974_c-taberner.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1073_h-grenier.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11713069,
+            "event_date": "2022-04-17",
+            "event_time": "14:20",
+            "event_first_player": "A. Pellegrino",
+            "first_player_key": 2001,
+            "event_second_player": "E. Gerasimov",
+            "second_player_key": 368,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Barcelona",
+            "tournament_key": 1979,
+            "tournament_round": "Barcelona - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2001_a-pellegrino.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/368_e-gerasimov.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11713070,
+            "event_date": "2022-04-17",
+            "event_time": "15:45",
+            "event_first_player": "B. Zapata Miralles",
+            "first_player_key": 403,
+            "event_second_player": "M. Guinard",
+            "second_player_key": 440,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Barcelona",
+            "tournament_key": 1979,
+            "tournament_round": "Barcelona - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/403_b-zapata-miralles.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/440_m-guinard.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11733310,
+            "event_date": "2022-04-17",
+            "event_time": "11:05",
+            "event_first_player": "J. Mensik",
+            "first_player_key": 902,
+            "event_second_player": "L. Broady",
+            "second_player_key": 410,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Belgrade",
+            "tournament_key": 2550,
+            "tournament_round": "Belgrade - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/410_l-broady.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11733311,
+            "event_date": "2022-04-17",
+            "event_time": "11:05",
+            "event_first_player": "T. Daniel",
+            "first_player_key": 2406,
+            "event_second_player": "A. Nedovyesov",
+            "second_player_key": 4505,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Belgrade",
+            "tournament_key": 2550,
+            "tournament_round": "Belgrade - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2406_t-daniel.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/4505_a-nedovyesov.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11733312,
+            "event_date": "2022-04-17",
+            "event_time": "12:25",
+            "event_first_player": "N. Djosic",
+            "first_player_key": 10446,
+            "event_second_player": "F. Cobolli",
+            "second_player_key": 372,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Belgrade",
+            "tournament_key": 2550,
+            "tournament_round": "Belgrade - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/372_f-cobolli.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11733313,
+            "event_date": "2022-04-17",
+            "event_time": "13:00",
+            "event_first_player": "J. Lehecka",
+            "first_player_key": 2959,
+            "event_second_player": "N. Serdarusic",
+            "second_player_key": 417,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Belgrade",
+            "tournament_key": 2550,
+            "tournament_round": "Belgrade - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2959_j-lehecka.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/417_n-serdarusic.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11733314,
+            "event_date": "2022-04-17",
+            "event_time": "13:40",
+            "event_first_player": "N. Gombos",
+            "first_player_key": 397,
+            "event_second_player": "C. Stebe",
+            "second_player_key": 387,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Belgrade",
+            "tournament_key": 2550,
+            "tournament_round": "Belgrade - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/397_n-gombos.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/387_c-stebe.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11733315,
+            "event_date": "2022-04-17",
+            "event_time": "14:20",
+            "event_first_player": "M. Purcell",
+            "first_player_key": 1749,
+            "event_second_player": "R. Safiullin",
+            "second_player_key": 1057,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Belgrade",
+            "tournament_key": 2550,
+            "tournament_round": "Belgrade - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1749_m-purcell.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1057_r-safiullin.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11733316,
+            "event_date": "2022-04-17",
+            "event_time": "15:20",
+            "event_first_player": "G. Simon",
+            "first_player_key": 1778,
+            "event_second_player": "D. Dzumhur",
+            "second_player_key": 1079,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Belgrade",
+            "tournament_key": 2550,
+            "tournament_round": "Belgrade - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1778_g-simon.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1079_d-dzumhur.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11733317,
+            "event_date": "2022-04-17",
+            "event_time": "16:50",
+            "event_first_player": "T. Monteiro",
+            "first_player_key": 1074,
+            "event_second_player": "G. Zeppieri",
+            "second_player_key": 376,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "Belgrade",
+            "tournament_key": 2550,
+            "tournament_round": "Belgrade - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1074_t-monteiro.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/376_g-zeppieri.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}
