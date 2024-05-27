@@ -35,8 +35,6 @@ def requête():
             current_date += timedelta(days=1)
 
 
-
-
     def get_tennis_odds(api_key, num_days):
         start_date = datetime.now().date()
         end_date = start_date + timedelta(days=num_days)
@@ -90,7 +88,9 @@ def requête():
     get_tennis_odds(api_key,num_days)
     get_tennis_match(api_key, num_days)
 
-
+def store_last_update():
+    with open('last_update.txt', 'w') as file:
+        file.write(str(datetime.today()))
 
 
 

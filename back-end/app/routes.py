@@ -1,7 +1,9 @@
 from flask import Blueprint, jsonify
-from app.Algo import RESPONSE, incoming_games, Algo
-from app.Normalisation import Normalisation
-from app.requête_API import requête
+from datetime import datetime
+from app.update_data import update_tennis_data
+from app.requête_API import store_last_update
+
+
 
 api = Blueprint("api", __name__)
 
@@ -19,7 +21,5 @@ def get_data():
 @api.route("/get_matches")
 def get_matches():
     print("test get matches")
-    requête()
-    Normalisation()
-    data = RESPONSE(incoming_games())
+    data = update_tennis_data()
     return jsonify(data)

@@ -1,13 +1,15 @@
+from flask import jsonify
 import pandas as pd
 from datetime import datetime, timedelta, timezone
 import os
 import json
 from pprint import pprint
 import csv
+import json
 
 
 def incoming_games():
-    matchs = pd.read_csv("data\\matches_csv\\events.csv")
+    matchs = pd.read_csv("matches_csv\\events.csv")
     tomorrow = datetime.today().date() + timedelta(days=1)
     incoming_match_ids = []
 
@@ -20,8 +22,8 @@ def incoming_games():
 
 def Algo(match_id):
 
-    matchs = pd.read_csv("data\\matches_csv\\events.csv")
-    odds_data = pd.read_csv("data\\odds_csv\\odds.csv")
+    matchs = pd.read_csv("matches_csv\\events.csv")
+    odds_data = pd.read_csv("odds_csv\\odds.csv")
     # Trouver le match correspondant à l'ID donné
     match = matchs[matchs['event_key'] == match_id].iloc[0]
 
@@ -47,8 +49,8 @@ def Algo(match_id):
 
 def RESPONSE(match_ids):
 
-    matchs = pd.read_csv("data\\matches_csv\\events.csv")
-    odds_data = pd.read_csv("data\\odds_csv\\odds.csv")
+    matchs = pd.read_csv("matches_csv\\events.csv")
+    odds_data = pd.read_csv("odds_csv\\odds.csv")
     # Créer une liste pour stocker les informations de chaque match
     matches_list = []
 
@@ -112,6 +114,9 @@ def RESPONSE(match_ids):
     # Convertir le dictionnaire en format JSON
     json_response = json.dumps(response_dict, indent=2)
 
-    pprint(json_response)
+    pprint(response_dict)
     return response_dict
 
+data = RESPONSE(incoming_games())
+
+print(jsonify(data))

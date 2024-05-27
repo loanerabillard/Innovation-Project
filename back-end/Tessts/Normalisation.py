@@ -107,3 +107,5 @@ def Normalisation():
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
     Norm_matches(input_folder, output_folder)
+
+Normalisation()
