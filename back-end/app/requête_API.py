@@ -71,12 +71,12 @@ def requête():
 
 
     def register_file_sl(date, data,type):
-        file_name = f"{type}es/{type}_date={date}.json"
+        file_name = f"data/{type}es/{type}_date={date}.json"
         with open(file_name, 'w') as json_file:
             json.dump(data, json_file, indent=4)
 
     def register_file_odds(date, data,type):
-        file_name = f"{type}/{type}_date={date}.json"
+        file_name = f"data/{type}/{type}_date={date}.json"
         with open(file_name, 'w') as json_file:
             json.dump(data, json_file, indent=4)
 

@@ -19,6 +19,7 @@ def get_data():
 @api.route("/get_matches")
 def get_matches():
     print("test get matches")
+    requête()
     Normalisation()
     data = RESPONSE(incoming_games())
     return jsonify(data)
