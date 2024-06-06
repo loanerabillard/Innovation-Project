@@ -1,0 +1,1309 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11715618,
+            "event_date": "2022-06-11",
+            "event_time": "11:10",
+            "event_first_player": "E. Alexandrova",
+            "first_player_key": 2392,
+            "event_second_player": "V. Kudermetova",
+            "second_player_key": 2810,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Hertogenbosch",
+            "tournament_key": 2050,
+            "tournament_round": "Hertogenbosch - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2392_e-alexandrova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2810_v-kudermetova.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11715619,
+            "event_date": "2022-06-11",
+            "event_time": "12:40",
+            "event_first_player": "A. Sabalenka",
+            "first_player_key": 1989,
+            "event_second_player": "S. Rogers",
+            "second_player_key": 2806,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Hertogenbosch",
+            "tournament_key": 2050,
+            "tournament_round": "Hertogenbosch - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1989_a-sabalenka.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2806_s-rogers.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.8",
+                    "score_second": "6.6",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11691823,
+            "event_date": "2022-06-11",
+            "event_time": "12:05",
+            "event_first_player": "A. Krunic",
+            "first_player_key": 443,
+            "event_second_player": "A. Kulikova",
+            "second_player_key": 458,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Birmingham",
+            "tournament_key": 1339,
+            "tournament_round": "Birmingham - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/443_a-krunic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/458_a-kulikova.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11691824,
+            "event_date": "2022-06-11",
+            "event_time": "12:05",
+            "event_first_player": "F. Christie",
+            "first_player_key": 2273,
+            "event_second_player": "G. Lee",
+            "second_player_key": 1786,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Birmingham",
+            "tournament_key": 1339,
+            "tournament_round": "Birmingham - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11691825,
+            "event_date": "2022-06-11",
+            "event_time": "12:10",
+            "event_first_player": "D. Vekic",
+            "first_player_key": 455,
+            "event_second_player": "K. Swan",
+            "second_player_key": 1129,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Birmingham",
+            "tournament_key": 1339,
+            "tournament_round": "Birmingham - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/455_d-vekic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1129_k-swan.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11691826,
+            "event_date": "2022-06-11",
+            "event_time": "12:10",
+            "event_first_player": "J. Fett",
+            "first_player_key": 1801,
+            "event_second_player": "C. Harrison",
+            "second_player_key": 3455,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Birmingham",
+            "tournament_key": 1339,
+            "tournament_round": "Birmingham - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1801_j-fett.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.1",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11691827,
+            "event_date": "2022-06-11",
+            "event_time": "13:40",
+            "event_first_player": "R. Marino",
+            "first_player_key": 479,
+            "event_second_player": "K. Birrell",
+            "second_player_key": 92,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Birmingham",
+            "tournament_key": 1339,
+            "tournament_round": "Birmingham - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11691828,
+            "event_date": "2022-06-11",
+            "event_time": "14:25",
+            "event_first_player": "M. Bolkvadze",
+            "first_player_key": 1806,
+            "event_second_player": "C. Bucsa",
+            "second_player_key": 454,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Birmingham",
+            "tournament_key": 1339,
+            "tournament_round": "Birmingham - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1806_m-bolkvadze.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/454_c-bucsa.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11691829,
+            "event_date": "2022-06-11",
+            "event_time": "14:35",
+            "event_first_player": "L. Tsurenko",
+            "first_player_key": 473,
+            "event_second_player": "E. Appleton",
+            "second_player_key": 2598,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Birmingham",
+            "tournament_key": 1339,
+            "tournament_round": "Birmingham - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/473_l-tsurenko.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11691830,
+            "event_date": "2022-06-11",
+            "event_time": "16:05",
+            "event_first_player": "E. Silva",
+            "first_player_key": 2028,
+            "event_second_player": "K. Kawa",
+            "second_player_key": 1780,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Birmingham",
+            "tournament_key": 1339,
+            "tournament_round": "Birmingham - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1780_k-kawa.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.6",
+                    "score_second": "7.8",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11691831,
+            "event_date": "2022-06-11",
+            "event_time": "17:10",
+            "event_first_player": "E. Bektas",
+            "first_player_key": 1796,
+            "event_second_player": "F. Contreras Gomez",
+            "second_player_key": 485,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Birmingham",
+            "tournament_key": 1339,
+            "tournament_round": "Birmingham - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/485_f-contreras-gomez.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11691832,
+            "event_date": "2022-06-11",
+            "event_time": "17:20",
+            "event_first_player": "C. Vandeweghe",
+            "first_player_key": 1120,
+            "event_second_player": "O. Gadecki",
+            "second_player_key": 1809,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Birmingham",
+            "tournament_key": 1339,
+            "tournament_round": "Birmingham - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1120_c-vandeweghe.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11691833,
+            "event_date": "2022-06-11",
+            "event_time": "17:20",
+            "event_first_player": "M. Inglis",
+            "first_player_key": 1788,
+            "event_second_player": "S. B. Grey",
+            "second_player_key": 105,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Birmingham",
+            "tournament_key": 1339,
+            "tournament_round": "Birmingham - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1788_m-inglis.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/105_s-b-grey.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11691834,
+            "event_date": "2022-06-11",
+            "event_time": "18:30",
+            "event_first_player": "C. McNally",
+            "first_player_key": 1127,
+            "event_second_player": "A. Sharma",
+            "second_player_key": 1144,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Birmingham",
+            "tournament_key": 1339,
+            "tournament_round": "Birmingham - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1127_c-mcnally.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1144_a-sharma.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11755344,
+            "event_date": "2022-06-11",
+            "event_time": "10:40",
+            "event_first_player": "T. Korpatsch",
+            "first_player_key": 501,
+            "event_second_player": "L. Papadakis",
+            "second_player_key": 1914,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Berlin",
+            "tournament_key": 3183,
+            "tournament_round": "Berlin - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/501_t-korpatsch.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11755345,
+            "event_date": "2022-06-11",
+            "event_time": "10:45",
+            "event_first_player": "D. Saville",
+            "first_player_key": 1153,
+            "event_second_player": "N. Akugue Noha",
+            "second_player_key": 1029,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Berlin",
+            "tournament_key": 3183,
+            "tournament_round": "Berlin - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11755346,
+            "event_date": "2022-06-11",
+            "event_time": "11:10",
+            "event_first_player": "U. Eikeri",
+            "first_player_key": 1817,
+            "event_second_player": "A. Parks",
+            "second_player_key": 1792,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Berlin",
+            "tournament_key": 3183,
+            "tournament_round": "Berlin - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1817_u-eikeri.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1792_a-parks.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11755347,
+            "event_date": "2022-06-11",
+            "event_time": "12:25",
+            "event_first_player": "Xin. Wang",
+            "first_player_key": 1812,
+            "event_second_player": "E. Kazionova",
+            "second_player_key": 1985,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Berlin",
+            "tournament_key": 3183,
+            "tournament_round": "Berlin - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1812_xin-wang.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1985_e-kazionova.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11755348,
+            "event_date": "2022-06-11",
+            "event_time": "12:35",
+            "event_first_player": "E. Makarova",
+            "first_player_key": 524,
+            "event_second_player": "N. Abduraimova",
+            "second_player_key": 1439,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Berlin",
+            "tournament_key": 3183,
+            "tournament_round": "Berlin - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11755349,
+            "event_date": "2022-06-11",
+            "event_time": "12:40",
+            "event_first_player": "S. Hunter",
+            "first_player_key": 1783,
+            "event_second_player": "N. Schunk",
+            "second_player_key": 487,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Berlin",
+            "tournament_key": 3183,
+            "tournament_round": "Berlin - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1783_s-sanders.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11755350,
+            "event_date": "2022-06-11",
+            "event_time": "14:15",
+            "event_first_player": "S. Lisicki",
+            "first_player_key": 2127,
+            "event_second_player": "A. Muhammad",
+            "second_player_key": 1138,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Berlin",
+            "tournament_key": 3183,
+            "tournament_round": "Berlin - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2127_s-lisicki.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1138_a-muhammad.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11755351,
+            "event_date": "2022-06-11",
+            "event_time": "14:15",
+            "event_first_player": "A-L. Friedsam",
+            "first_player_key": 522,
+            "event_second_player": "S. Lamens",
+            "second_player_key": 450,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Berlin",
+            "tournament_key": 3183,
+            "tournament_round": "Berlin - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/522_a-l-friedsam.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/450_s-lamens.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11755352,
+            "event_date": "2022-06-11",
+            "event_time": "15:00",
+            "event_first_player": "K. Rakhimova",
+            "first_player_key": 1140,
+            "event_second_player": "I. Shinikova",
+            "second_player_key": 503,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Berlin",
+            "tournament_key": 3183,
+            "tournament_round": "Berlin - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1140_k-rakhimova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/503_i-shinikova.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11755353,
+            "event_date": "2022-06-11",
+            "event_time": "16:10",
+            "event_first_player": "A. Gasanova",
+            "first_player_key": 468,
+            "event_second_player": "E. Lys",
+            "second_player_key": 2088,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Berlin",
+            "tournament_key": 3183,
+            "tournament_round": "Berlin - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/468_a-gasanova.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.8",
+                    "score_second": "6.6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11755354,
+            "event_date": "2022-06-11",
+            "event_time": "16:15",
+            "event_first_player": "L. Jeanjean",
+            "first_player_key": 9118,
+            "event_second_player": "N. Stevanovic",
+            "second_player_key": 219,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Berlin",
+            "tournament_key": 3183,
+            "tournament_round": "Berlin - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11755355,
+            "event_date": "2022-06-11",
+            "event_time": "16:20",
+            "event_first_player": "X.Y. Han",
+            "first_player_key": 1126,
+            "event_second_player": "S. Voegele",
+            "second_player_key": 1804,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Berlin",
+            "tournament_key": 3183,
+            "tournament_round": "Berlin - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1126_xy-han.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1804_s-voegele.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 141717,
+            "event_date": "2022-06-11",
+            "event_time": "12:00",
+            "event_first_player": "J. Fett",
+            "first_player_key": 1801,
+            "event_second_player": "Q. Wang",
+            "second_player_key": 3323,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "Cancelled",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Birmingham",
+            "tournament_key": 1339,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1801_j-fett.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/3323_q-wang.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11741334,
+            "event_date": "2022-06-11",
+            "event_time": "10:05",
+            "event_first_player": "A. Tumanyan",
+            "first_player_key": 11645,
+            "event_second_player": "E. K. Bagerbaseh",
+            "second_player_key": 27301,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Billie Jean King Cup - Group III",
+            "tournament_key": 2762,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.1",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11741335,
+            "event_date": "2022-06-11",
+            "event_time": "10:10",
+            "event_first_player": "N. Berberovic",
+            "first_player_key": 520,
+            "event_second_player": "Y. Kabbaj",
+            "second_player_key": 1984,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Billie Jean King Cup - Group III",
+            "tournament_key": 2762,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11741336,
+            "event_date": "2022-06-11",
+            "event_time": "12:05",
+            "event_first_player": "P. Mirkovic",
+            "first_player_key": 27457,
+            "event_second_player": "A. Gamretkaia",
+            "second_player_key": 27450,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Billie Jean King Cup - Group III",
+            "tournament_key": 2762,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11741337,
+            "event_date": "2022-06-11",
+            "event_time": "12:05",
+            "event_first_player": "D. Herdzelas",
+            "first_player_key": 1785,
+            "event_second_player": "A. A. El",
+            "second_player_key": 10897,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Billie Jean King Cup - Group III",
+            "tournament_key": 2762,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1785_d-herdzelas.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11741338,
+            "event_date": "2022-06-11",
+            "event_time": "12:30",
+            "event_first_player": "A. Amiraghyan",
+            "first_player_key": 4535,
+            "event_second_player": "R. Crawford",
+            "second_player_key": 27302,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Billie Jean King Cup - Group III",
+            "tournament_key": 2762,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11741339,
+            "event_date": "2022-06-11",
+            "event_time": "13:55",
+            "event_first_player": "I. Lakic",
+            "first_player_key": 27312,
+            "event_second_player": "R. Farima",
+            "second_player_key": 27318,
+            "event_final_result": "0 - 0",
+            "event_game_result": "0 - 0",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Retired",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Billie Jean King Cup - Group III",
+            "tournament_key": 2762,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "2",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11721726,
+            "event_date": "2022-06-11",
+            "event_time": "12:05",
+            "event_first_player": "B. Haddad Maia",
+            "first_player_key": 1951,
+            "event_second_player": "T. Martincova",
+            "second_player_key": 1149,
+            "event_final_result": "1 - 0",
+            "event_game_result": "0 - 0",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Retired",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Nottingham",
+            "tournament_key": 2215,
+            "tournament_round": "Nottingham - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1951_b-haddad-maia.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1149_t-martincova.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11721727,
+            "event_date": "2022-06-11",
+            "event_time": "13:45",
+            "event_first_player": "A. Riske-Amritraj",
+            "first_player_key": 32555,
+            "event_second_player": "V. Golubic",
+            "second_player_key": 525,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Nottingham",
+            "tournament_key": 2215,
+            "tournament_round": "Nottingham - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/525_v-golubic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

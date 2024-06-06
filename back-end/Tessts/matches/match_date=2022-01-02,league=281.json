@@ -1,0 +1,971 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11756677,
+            "event_date": "2022-01-02",
+            "event_time": "00:10",
+            "event_first_player": "K. Pearson",
+            "first_player_key": 13158,
+            "event_second_player": "C. Errey",
+            "second_player_key": 10860,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Bendigo",
+            "tournament_key": 3227,
+            "tournament_round": "Bendigo - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11756678,
+            "event_date": "2022-01-02",
+            "event_time": "00:10",
+            "event_first_player": "M. Dellavedova",
+            "first_player_key": 1258,
+            "event_second_player": "T. Pavlekovich Smith",
+            "second_player_key": 13159,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Bendigo",
+            "tournament_key": 3227,
+            "tournament_round": "Bendigo - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11756679,
+            "event_date": "2022-01-02",
+            "event_time": "00:10",
+            "event_first_player": "A. Addison",
+            "first_player_key": 1259,
+            "event_second_player": "C. Camus",
+            "second_player_key": 10841,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Bendigo",
+            "tournament_key": 3227,
+            "tournament_round": "Bendigo - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1259_a-addison.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11731347,
+            "event_date": "2022-01-02",
+            "event_time": "01:10",
+            "event_first_player": "J. R. Statham",
+            "first_player_key": 4105,
+            "event_second_player": "Z. Viiala",
+            "second_player_key": 10218,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Traralgon",
+            "tournament_key": 2491,
+            "tournament_round": "Traralgon - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/4105_j-r-statham.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11731348,
+            "event_date": "2022-01-02",
+            "event_time": "01:10",
+            "event_first_player": "C. Puttergill",
+            "first_player_key": 2511,
+            "event_second_player": "D. Hough",
+            "second_player_key": 10217,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Traralgon",
+            "tournament_key": 2491,
+            "tournament_round": "Traralgon - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2511_c-puttergill.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11731349,
+            "event_date": "2022-01-02",
+            "event_time": "02:20",
+            "event_first_player": "E. Gulbis",
+            "first_player_key": 2733,
+            "event_second_player": "H. Jones",
+            "second_player_key": 10219,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Traralgon",
+            "tournament_key": 2491,
+            "tournament_round": "Traralgon - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2733_e-gulbis.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11731350,
+            "event_date": "2022-01-02",
+            "event_time": "02:25",
+            "event_first_player": "D. Sharan",
+            "first_player_key": 8086,
+            "event_second_player": "P. Fitzgerald",
+            "second_player_key": 10216,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Traralgon",
+            "tournament_key": 2491,
+            "tournament_round": "Traralgon - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 45468,
+            "event_date": "2022-01-02",
+            "event_time": "14:10",
+            "event_first_player": "S. Hess",
+            "first_player_key": 699,
+            "event_second_player": "F. A. Gomez",
+            "second_player_key": 717,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Buenos Aires",
+            "tournament_key": 2435,
+            "tournament_round": "Buenos Aires - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 45469,
+            "event_date": "2022-01-02",
+            "event_time": "14:10",
+            "event_first_player": "V. Basel",
+            "first_player_key": 10020,
+            "event_second_player": "G. I. Justo",
+            "second_player_key": 7249,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Buenos Aires",
+            "tournament_key": 2435,
+            "tournament_round": "Buenos Aires - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 45470,
+            "event_date": "2022-01-02",
+            "event_time": "14:15",
+            "event_first_player": "L. Gagliardo",
+            "first_player_key": 10021,
+            "event_second_player": "A. Deckers",
+            "second_player_key": 10019,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Buenos Aires",
+            "tournament_key": 2435,
+            "tournament_round": "Buenos Aires - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.4",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 45471,
+            "event_date": "2022-01-02",
+            "event_time": "15:40",
+            "event_first_player": "L. Lopez Linquet",
+            "first_player_key": 9598,
+            "event_second_player": "M. A. Dellien Velasco",
+            "second_player_key": 7334,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Buenos Aires",
+            "tournament_key": 2435,
+            "tournament_round": "Buenos Aires - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/7334_m-a-dellien-velasco.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 45472,
+            "event_date": "2022-01-02",
+            "event_time": "15:45",
+            "event_first_player": "L. Ratti",
+            "first_player_key": 10022,
+            "event_second_player": "L. Aboian",
+            "second_player_key": 688,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Buenos Aires",
+            "tournament_key": 2435,
+            "tournament_round": "Buenos Aires - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 45473,
+            "event_date": "2022-01-02",
+            "event_time": "17:10",
+            "event_first_player": "N. Eli",
+            "first_player_key": 10023,
+            "event_second_player": "A. Hoyos Franco",
+            "second_player_key": 7687,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Walk Over",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Buenos Aires",
+            "tournament_key": 2435,
+            "tournament_round": "Buenos Aires - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 45474,
+            "event_date": "2022-01-02",
+            "event_time": "17:10",
+            "event_first_player": "I. Carou",
+            "first_player_key": 660,
+            "event_second_player": "L. Carraro",
+            "second_player_key": 10024,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Buenos Aires",
+            "tournament_key": 2435,
+            "tournament_round": "Buenos Aires - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11767511,
+            "event_date": "2022-01-02",
+            "event_time": "10:05",
+            "event_first_player": "A. Setkic",
+            "first_player_key": 1204,
+            "event_second_player": "R. Bertola",
+            "second_player_key": 1212,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli",
+            "tournament_key": 3609,
+            "tournament_round": "Forli - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1204_a-setkic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1212_r-bertola.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11767512,
+            "event_date": "2022-01-02",
+            "event_time": "10:10",
+            "event_first_player": "D. Galoppini",
+            "first_player_key": 1193,
+            "event_second_player": "Y. Bondarevskiy",
+            "second_player_key": 1868,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli",
+            "tournament_key": 3609,
+            "tournament_round": "Forli - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1193_d-galoppini.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11767513,
+            "event_date": "2022-01-02",
+            "event_time": "11:25",
+            "event_first_player": "M. Miceli",
+            "first_player_key": 1954,
+            "event_second_player": "A. Weis",
+            "second_player_key": 2023,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli",
+            "tournament_key": 3609,
+            "tournament_round": "Forli - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2023_a-weis.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11767514,
+            "event_date": "2022-01-02",
+            "event_time": "12:55",
+            "event_first_player": "M. Vrbensky",
+            "first_player_key": 1947,
+            "event_second_player": "P. Buscaglione",
+            "second_player_key": 15917,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli",
+            "tournament_key": 3609,
+            "tournament_round": "Forli - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1947_m-vrbensky.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11767515,
+            "event_date": "2022-01-02",
+            "event_time": "13:25",
+            "event_first_player": "F. Vilardo",
+            "first_player_key": 948,
+            "event_second_player": "F. Caporali",
+            "second_player_key": 15918,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli",
+            "tournament_key": 3609,
+            "tournament_round": "Forli - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/948_f-vilardo.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11767516,
+            "event_date": "2022-01-02",
+            "event_time": "14:10",
+            "event_first_player": "P. Niklas-Salminen",
+            "first_player_key": 761,
+            "event_second_player": "S. K. Mukund",
+            "second_player_key": 1200,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli",
+            "tournament_key": 3609,
+            "tournament_round": "Forli - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/761_p-niklas-salminen.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1200_s-k-mukund.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11767517,
+            "event_date": "2022-01-02",
+            "event_time": "14:45",
+            "event_first_player": "M. Gigante",
+            "first_player_key": 1187,
+            "event_second_player": "T. Simon",
+            "second_player_key": 4422,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli",
+            "tournament_key": 3609,
+            "tournament_round": "Forli - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1187_m-gigante.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/4422_t-simon.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11767518,
+            "event_date": "2022-01-02",
+            "event_time": "15:35",
+            "event_first_player": "E. Benchetrit",
+            "first_player_key": 1879,
+            "event_second_player": "M. Bellucci",
+            "second_player_key": 2112,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli",
+            "tournament_key": 3609,
+            "tournament_round": "Forli - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1879_e-benchetrit.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11767519,
+            "event_date": "2022-01-02",
+            "event_time": "16:20",
+            "event_first_player": "C. Carpano",
+            "first_player_key": 15919,
+            "event_second_player": "A. Lazarov",
+            "second_player_key": 2190,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli",
+            "tournament_key": 3609,
+            "tournament_round": "Forli - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2190_a-lazarov.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11767520,
+            "event_date": "2022-01-02",
+            "event_time": "17:15",
+            "event_first_player": "A. Andreev",
+            "first_player_key": 2409,
+            "event_second_player": "V. Manafov",
+            "second_player_key": 1870,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli",
+            "tournament_key": 3609,
+            "tournament_round": "Forli - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1870_v-manafov.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11767521,
+            "event_date": "2022-01-02",
+            "event_time": "17:25",
+            "event_first_player": "E. Ejupovic",
+            "first_player_key": 1881,
+            "event_second_player": "M. Bortolotti",
+            "second_player_key": 4459,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli",
+            "tournament_key": 3609,
+            "tournament_round": "Forli - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1881_e-ejupovic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/4459_m-bortolotti.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11767522,
+            "event_date": "2022-01-02",
+            "event_time": "18:40",
+            "event_first_player": "M. Echargui",
+            "first_player_key": 1207,
+            "event_second_player": "D. Yevseyev",
+            "second_player_key": 569,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli",
+            "tournament_key": 3609,
+            "tournament_round": "Forli - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1207_m-echargui.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/569_d-yevseyev.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

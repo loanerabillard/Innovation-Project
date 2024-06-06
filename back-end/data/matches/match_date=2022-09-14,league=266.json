@@ -1,0 +1,343 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11743527,
+            "event_date": "2022-09-14",
+            "event_time": "11:10",
+            "event_first_player": "M. Trevisan",
+            "first_player_key": 512,
+            "event_second_player": "K. Siniakova",
+            "second_player_key": 3006,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/512_m-trevisan.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/3006_k-siniakova.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11743528,
+            "event_date": "2022-09-14",
+            "event_time": "11:10",
+            "event_first_player": "E. Alexandrova",
+            "first_player_key": 2392,
+            "event_second_player": "L. Tsurenko",
+            "second_player_key": 473,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2392_e-alexandrova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/473_l-tsurenko.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11743529,
+            "event_date": "2022-09-14",
+            "event_time": "13:00",
+            "event_first_player": "T. Martincova",
+            "first_player_key": 1149,
+            "event_second_player": "E. Rybakina",
+            "second_player_key": 2172,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1149_t-martincova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2172_e-rybakina.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11743530,
+            "event_date": "2022-09-14",
+            "event_time": "14:25",
+            "event_first_player": "A. Bogdan",
+            "first_player_key": 2004,
+            "event_second_player": "T. Zidansek",
+            "second_player_key": 2803,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2004_a-bogdan.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2803_t-zidansek.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11743531,
+            "event_date": "2022-09-14",
+            "event_time": "19:10",
+            "event_first_player": "C. Bucsa",
+            "first_player_key": 454,
+            "event_second_player": "B. Haddad Maia",
+            "second_player_key": 1951,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/454_c-bucsa.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1951_b-haddad-maia.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11828558,
+            "event_date": "2022-09-14",
+            "event_time": "13:35",
+            "event_first_player": "R. Peterson",
+            "first_player_key": 1811,
+            "event_second_player": "L. Fruhvirtova",
+            "second_player_key": 446,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Chennai",
+            "tournament_key": 7817,
+            "tournament_round": "Chennai - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1811_r-peterson.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/446_l-fruhvirtova.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11828559,
+            "event_date": "2022-09-14",
+            "event_time": "13:35",
+            "event_first_player": "N. Hibino",
+            "first_player_key": 465,
+            "event_second_player": "Q. Wang",
+            "second_player_key": 3323,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Chennai",
+            "tournament_key": 7817,
+            "tournament_round": "Chennai - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/465_n-hibino.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/3323_q-wang.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11828560,
+            "event_date": "2022-09-14",
+            "event_time": "15:40",
+            "event_first_player": "K. K. Thandi",
+            "first_player_key": 8237,
+            "event_second_player": "E. Bouchard",
+            "second_player_key": 2941,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Chennai",
+            "tournament_key": 7817,
+            "tournament_round": "Chennai - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2941_e-bouchard.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.2",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11828561,
+            "event_date": "2022-09-14",
+            "event_time": "18:10",
+            "event_first_player": "K. Kawa",
+            "first_player_key": 1780,
+            "event_second_player": "R. Marino",
+            "second_player_key": 479,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Chennai",
+            "tournament_key": 7817,
+            "tournament_round": "Chennai - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1780_k-kawa.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

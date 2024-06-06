@@ -67,7 +67,7 @@ def Normalisation():
             combined_scores = pd.concat(all_scores, ignore_index=True)
             
             combined_events.to_csv(os.path.join(output_folder, 'events.csv'), index=False)
-            combined_scores.to_csv(os.path.join(output_folder, 'scores.csv'), index=False)
+            combined_scores.to_csv(os.path.join(output_folder, 'sets.csv'), index=False)
 
 
 

@@ -1,0 +1,273 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11743536,
+            "event_date": "2022-09-16",
+            "event_time": "11:10",
+            "event_first_player": "A. Bogdan",
+            "first_player_key": 2004,
+            "event_second_player": "B. Haddad Maia",
+            "second_player_key": 1951,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2004_a-bogdan.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1951_b-haddad-maia.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11743537,
+            "event_date": "2022-09-16",
+            "event_time": "12:30",
+            "event_first_player": "L. Tsurenko",
+            "first_player_key": 473,
+            "event_second_player": "E. Rybakina",
+            "second_player_key": 2172,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Walk Over",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/473_l-tsurenko.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2172_e-rybakina.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11743538,
+            "event_date": "2022-09-16",
+            "event_time": "14:00",
+            "event_first_player": "A-L. Friedsam",
+            "first_player_key": 522,
+            "event_second_player": "D. Parry",
+            "second_player_key": 1833,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/522_a-l-friedsam.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1833_d-parry.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11828566,
+            "event_date": "2022-09-16",
+            "event_time": "13:35",
+            "event_first_player": "E. Bouchard",
+            "first_player_key": 2941,
+            "event_second_player": "N. Podoroska",
+            "second_player_key": 2805,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Chennai",
+            "tournament_key": 7817,
+            "tournament_round": "Chennai - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2941_e-bouchard.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2805_n-podoroska.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11828567,
+            "event_date": "2022-09-16",
+            "event_time": "16:55",
+            "event_first_player": "L. Fruhvirtova",
+            "first_player_key": 446,
+            "event_second_player": "V. Gracheva",
+            "second_player_key": 1913,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Chennai",
+            "tournament_key": 7817,
+            "tournament_round": "Chennai - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/446_l-fruhvirtova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1913_v-gracheva.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11828568,
+            "event_date": "2022-09-16",
+            "event_time": "18:45",
+            "event_first_player": "M. Linette",
+            "first_player_key": 1154,
+            "event_second_player": "R. Marino",
+            "second_player_key": 479,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Chennai",
+            "tournament_key": 7817,
+            "tournament_round": "Chennai - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1154_m-linette.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.12",
+                    "score_second": "6.10",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11828569,
+            "event_date": "2022-09-16",
+            "event_time": "21:00",
+            "event_first_player": "K. Swan",
+            "first_player_key": 1129,
+            "event_second_player": "N. Hibino",
+            "second_player_key": 465,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Chennai",
+            "tournament_key": 7817,
+            "tournament_round": "Chennai - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1129_k-swan.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/465_n-hibino.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

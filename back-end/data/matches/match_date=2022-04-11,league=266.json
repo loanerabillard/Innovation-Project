@@ -1,0 +1,385 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11740574,
+            "event_date": "2022-04-11",
+            "event_time": "09:05",
+            "event_first_player": "D. Radanovic",
+            "first_player_key": 4190,
+            "event_second_player": "M. Nuudi",
+            "second_player_key": 149,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Billie Jean King Cup - Group I",
+            "tournament_key": 2741,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/4190_d-radanovic.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11740575,
+            "event_date": "2022-04-11",
+            "event_time": "09:05",
+            "event_first_player": "P. Ozgen",
+            "first_player_key": 102,
+            "event_second_player": "J. C. Svendsen",
+            "second_player_key": 9257,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Billie Jean King Cup - Group I",
+            "tournament_key": 2741,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/102_p-ozgen.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11740576,
+            "event_date": "2022-04-11",
+            "event_time": "09:05",
+            "event_first_player": "S. Kraus",
+            "first_player_key": 1424,
+            "event_second_player": "J. Terziyska",
+            "second_player_key": 7606,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Billie Jean King Cup - Group I",
+            "tournament_key": 2741,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11740577,
+            "event_date": "2022-04-11",
+            "event_time": "09:05",
+            "event_first_player": "K. Juvan",
+            "first_player_key": 519,
+            "event_second_player": "Z. Kardava",
+            "second_player_key": 11480,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Billie Jean King Cup - Group I",
+            "tournament_key": 2741,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/519_k-juvan.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11740578,
+            "event_date": "2022-04-11",
+            "event_time": "09:05",
+            "event_first_player": "A. J. Cabaj",
+            "first_player_key": 87,
+            "event_second_player": "P. Marcinko",
+            "second_player_key": 1143,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Billie Jean King Cup - Group I",
+            "tournament_key": 2741,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/87_a-j-cabaj.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11740579,
+            "event_date": "2022-04-11",
+            "event_time": "10:45",
+            "event_first_player": "C. W. Hennemann",
+            "first_player_key": 162,
+            "event_second_player": "A. Konjuh",
+            "second_player_key": 1824,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Billie Jean King Cup - Group I",
+            "tournament_key": 2741,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1824_a-konjuh.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11740580,
+            "event_date": "2022-04-11",
+            "event_time": "10:45",
+            "event_first_player": "J. Grabher",
+            "first_player_key": 489,
+            "event_second_player": "I. Shinikova",
+            "second_player_key": 503,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Billie Jean King Cup - Group I",
+            "tournament_key": 2741,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/489_j-grabher.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/503_i-shinikova.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11740581,
+            "event_date": "2022-04-11",
+            "event_time": "10:50",
+            "event_first_player": "T. Zidansek",
+            "first_player_key": 2803,
+            "event_second_player": "M. Bolkvadze",
+            "second_player_key": 1806,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Billie Jean King Cup - Group I",
+            "tournament_key": 2741,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2803_t-zidansek.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1806_m-bolkvadze.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "0",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11740582,
+            "event_date": "2022-04-11",
+            "event_time": "10:50",
+            "event_first_player": "A. Krunic",
+            "first_player_key": 443,
+            "event_second_player": "E. Malygina",
+            "second_player_key": 1994,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Billie Jean King Cup - Group I",
+            "tournament_key": 2741,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/443_a-krunic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1994_e-malygina.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11740583,
+            "event_date": "2022-04-11",
+            "event_time": "11:00",
+            "event_first_player": "I. Oz",
+            "first_player_key": 486,
+            "event_second_player": "S. N. Samavati",
+            "second_player_key": 1963,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Billie Jean King Cup - Group I",
+            "tournament_key": 2741,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

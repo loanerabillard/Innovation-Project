@@ -1,0 +1,374 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11751843,
+            "event_date": "2022-09-19",
+            "event_time": "04:10",
+            "event_first_player": "Q. Wang",
+            "first_player_key": 3323,
+            "event_second_player": "E. Mertens",
+            "second_player_key": 521,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Tokyo",
+            "tournament_key": 3076,
+            "tournament_round": "Tokyo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/3323_q-wang.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/521_e-mertens.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11751844,
+            "event_date": "2022-09-19",
+            "event_time": "06:30",
+            "event_first_player": "Xin. Wang",
+            "first_player_key": 1812,
+            "event_second_player": "E. Perez",
+            "second_player_key": 1121,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Tokyo",
+            "tournament_key": 3076,
+            "tournament_round": "Tokyo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1812_xin-wang.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1121_e-perez.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11751845,
+            "event_date": "2022-09-19",
+            "event_time": "08:55",
+            "event_first_player": "C. Liu",
+            "first_player_key": 509,
+            "event_second_player": "A. Riske-Amritraj",
+            "second_player_key": 32555,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Tokyo",
+            "tournament_key": 3076,
+            "tournament_round": "Tokyo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/509_c-liu.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11751846,
+            "event_date": "2022-09-19",
+            "event_time": "10:30",
+            "event_first_player": "Q. Zheng",
+            "first_player_key": 1813,
+            "event_second_player": "M. Doi",
+            "second_player_key": 2680,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Tokyo",
+            "tournament_key": 3076,
+            "tournament_round": "Tokyo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2680_m-doi.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11751847,
+            "event_date": "2022-09-19",
+            "event_time": "12:05",
+            "event_first_player": "P. Martic",
+            "first_player_key": 2173,
+            "event_second_player": "R. Saigo",
+            "second_player_key": 73,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Tokyo",
+            "tournament_key": 3076,
+            "tournament_round": "Tokyo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2173_p-martic.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11751848,
+            "event_date": "2022-09-19",
+            "event_time": "13:30",
+            "event_first_player": "X. You",
+            "first_player_key": 1819,
+            "event_second_player": "D. Papamichail",
+            "second_player_key": 1111,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Tokyo",
+            "tournament_key": 3076,
+            "tournament_round": "Tokyo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1819_x-you.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1111_d-papamichail.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11687603,
+            "event_date": "2022-09-19",
+            "event_time": "05:10",
+            "event_first_player": "L. Cabrera",
+            "first_player_key": 497,
+            "event_second_player": "L. Sun",
+            "second_player_key": 1815,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Seoul",
+            "tournament_key": 1222,
+            "tournament_round": "Seoul - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/497_l-cabrera.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1815_l-sun.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.6",
+                    "score_second": "7.8",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11687604,
+            "event_date": "2022-09-19",
+            "event_time": "05:10",
+            "event_first_player": "D. Back",
+            "first_player_key": 20923,
+            "event_second_player": "N. Han",
+            "second_player_key": 1795,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Seoul",
+            "tournament_key": 1222,
+            "tournament_round": "Seoul - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1795_n-han.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11687605,
+            "event_date": "2022-09-19",
+            "event_time": "06:20",
+            "event_first_player": "S. J. Jang",
+            "first_player_key": 1803,
+            "event_second_player": "L. Zhu",
+            "second_player_key": 451,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Seoul",
+            "tournament_key": 1222,
+            "tournament_round": "Seoul - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1803_s-j-jang.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/451_l-zhu.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11687606,
+            "event_date": "2022-09-19",
+            "event_time": "08:20",
+            "event_first_player": "K. Birrell",
+            "first_player_key": 92,
+            "event_second_player": "P. Hon",
+            "second_player_key": 467,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Seoul",
+            "tournament_key": 1222,
+            "tournament_round": "Seoul - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/467_p-hon.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

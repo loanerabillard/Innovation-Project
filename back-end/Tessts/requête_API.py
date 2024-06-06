@@ -4,18 +4,18 @@ import json
 import time
 from datetime import datetime, timedelta
 
-
 # Remplacez 'your_account_APIkey' par votre clé API réelle
-api_key = "655be1d40fee55b7f780c811244b2375646a0f4acd0a5d935d8a94b10600026e"
+api_key = "bf8a5d412a8f1b910160b6f1acfe69ab93e86c8ceb5c8c170561affcbbecaadc"
 
-def get_tennis_match(api_key, days_ahead):
-    start_date = datetime.today()
-    end_date = start_date + timedelta(days=days_ahead)
+def get_tennis_match(api_key, days_ahead,league_key):
+    start_date = datetime(2023, 11, 24)
+    end_date = datetime(2024, 6, 6)
+    # end_date = start_date + timedelta(days=days_ahead)
     current_date = start_date
 
     while current_date <= end_date:
         date_str = current_date.strftime('%Y-%m-%d')
-        url = f"https://api.api-tennis.com/tennis/?method=get_fixtures&date_start={date_str}&date_stop={date_str}&event_type_key=265,282,281,275,266,272&APIkey={api_key}"
+        url = f"https://api.api-tennis.com/tennis/?method=get_fixtures&date_start={date_str}&date_stop={date_str}&event_type_key={league_key}&APIkey={api_key}"
         
         try:
             response = requests.get(url)
@@ -23,7 +23,7 @@ def get_tennis_match(api_key, days_ahead):
             data = response.json()
             
             # Enregistrer les données dans un fichier JSON
-            register_file_sl(date_str, data, "match")
+            register_file_sl(date_str, data, "match",league_key)
 
         except requests.exceptions.HTTPError as http_err:
             print(f"HTTP error occurred on {date_str}: {http_err}")
@@ -37,14 +37,14 @@ def get_tennis_match(api_key, days_ahead):
 
 
 
-def get_tennis_odds(api_key, num_days):
+def get_tennis_odds(api_key, num_days,league_key):
     start_date = datetime.now().date()
     end_date = start_date + timedelta(days=num_days)
     current_date = start_date
 
     while current_date <= end_date:
         date_str = current_date.strftime('%Y-%m-%d')
-        url = f"https://api.api-tennis.com/tennis/?method=get_odds&date_start={date_str}&date_stop={date_str}&event_type_key=265,282,281,275,266,272&APIkey={api_key}"
+        url = f"https://api.api-tennis.com/tennis/?method=get_odds&date_start={date_str}&date_stop={date_str}&event_type_key={league_key}&APIkey={api_key}"
         
         try:
             response = requests.get(url)
@@ -52,7 +52,7 @@ def get_tennis_odds(api_key, num_days):
             data = response.json()
             
             # Enregistrer les données dans un fichier JSON
-            register_file_odds(date_str, data,"odds")
+            register_file_odds(date_str, data,"odds",league_key)
 
         except requests.exceptions.HTTPError as http_err:
             print(f"HTTP error occurred on {date_str}: {http_err}")
@@ -70,25 +70,29 @@ def get_tennis_odds(api_key, num_days):
 
 
 
-def register_file_sl(date, data,type):
-    file_name = f"{type}es/{type}_date={date}.json"
+def register_file_sl(date, data,type,league_key):
+    file_name = f"{type}es/{type}_date={date},league={league_key}.json"
     with open(file_name, 'w') as json_file:
         json.dump(data, json_file, indent=4)
 
-def register_file_odds(date, data,type):
-    file_name = f"{type}/{type}_date={date}.json"
+def register_file_odds(date, data,type,league_key):
+    file_name = f"{type}/{type}_date={date},league={league_key}.json"
     with open(file_name, 'w') as json_file:
         json.dump(data, json_file, indent=4)
 
 
 
 # Remplacez 'your_api_key_here' par votre clé API
-api_key = '655be1d40fee55b7f780c811244b2375646a0f4acd0a5d935d8a94b10600026e'
+api_key = 'bf8a5d412a8f1b910160b6f1acfe69ab93e86c8ceb5c8c170561affcbbecaadc'
 num_days = 3
 
+# get_tennis_match(api_key, num_days,266)
+# get_tennis_odds(api_key,num_days,266)
+# get_tennis_match(api_key, num_days,265)
+# get_tennis_odds(api_key,num_days,265)
+get_tennis_match(api_key, num_days,281)
+get_tennis_odds(api_key,num_days,281)
 
-get_tennis_odds(api_key,num_days)
-get_tennis_match(api_key, num_days)
 
 
 

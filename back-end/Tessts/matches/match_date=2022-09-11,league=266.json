@@ -1,0 +1,711 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11743494,
+            "event_date": "2022-09-11",
+            "event_time": "11:10",
+            "event_first_player": "A. Ruzic",
+            "first_player_key": 168,
+            "event_second_player": "N. Abduraimova",
+            "second_player_key": 1439,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11743495,
+            "event_date": "2022-09-11",
+            "event_time": "11:10",
+            "event_first_player": "J. Burrage",
+            "first_player_key": 1437,
+            "event_second_player": "N. Radisic",
+            "second_player_key": 175,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1437_j-burrage.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11743496,
+            "event_date": "2022-09-11",
+            "event_time": "11:10",
+            "event_first_player": "M. Bolkvadze",
+            "first_player_key": 1806,
+            "event_second_player": "S. Voegele",
+            "second_player_key": 1804,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1806_m-bolkvadze.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1804_s-voegele.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11743497,
+            "event_date": "2022-09-11",
+            "event_time": "12:35",
+            "event_first_player": "L. Smejkal",
+            "first_player_key": 39923,
+            "event_second_player": "A-L. Friedsam",
+            "second_player_key": 522,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/522_a-l-friedsam.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11743498,
+            "event_date": "2022-09-11",
+            "event_time": "12:50",
+            "event_first_player": "C. Bucsa",
+            "first_player_key": 454,
+            "event_second_player": "G. Gatto-Monticone",
+            "second_player_key": 2569,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/454_c-bucsa.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2569_g-gatto-monticone.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11743499,
+            "event_date": "2022-09-11",
+            "event_time": "13:50",
+            "event_first_player": "Z. Falkner",
+            "first_player_key": 2278,
+            "event_second_player": "N. Stevanovic",
+            "second_player_key": 219,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2278_z-falkner.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.1",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11743500,
+            "event_date": "2022-09-11",
+            "event_time": "13:50",
+            "event_first_player": "H. Dart",
+            "first_player_key": 2998,
+            "event_second_player": "P. Ozgen",
+            "second_player_key": 102,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2998_h-dart.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/102_p-ozgen.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11743501,
+            "event_date": "2022-09-11",
+            "event_time": "15:00",
+            "event_first_player": "T. Babos",
+            "first_player_key": 2578,
+            "event_second_player": "T. Wurth",
+            "second_player_key": 2578,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2578_t-wurth.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2578_t-wurth.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11743502,
+            "event_date": "2022-09-11",
+            "event_time": "15:25",
+            "event_first_player": "G. Ruse",
+            "first_player_key": 1151,
+            "event_second_player": "Y. Morderger",
+            "second_player_key": 1830,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1151_g-ruse.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1830_y-morderger.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11743503,
+            "event_date": "2022-09-11",
+            "event_time": "17:00",
+            "event_first_player": "N. Juric",
+            "first_player_key": 11883,
+            "event_second_player": "A. Zakharova",
+            "second_player_key": 1794,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11743504,
+            "event_date": "2022-09-11",
+            "event_time": "17:10",
+            "event_first_player": "A. Konjuh",
+            "first_player_key": 1824,
+            "event_second_player": "T. Morderger",
+            "second_player_key": 1997,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1824_a-konjuh.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11743505,
+            "event_date": "2022-09-11",
+            "event_time": "17:40",
+            "event_first_player": "A. Gabueva",
+            "first_player_key": 1152,
+            "event_second_player": "L. Gjorcheska",
+            "second_player_key": 227,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "Portoroz - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/227_l-gjorcheska.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.2",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11828536,
+            "event_date": "2022-09-11",
+            "event_time": "12:35",
+            "event_first_player": "Y. Naito",
+            "first_player_key": 475,
+            "event_second_player": "O. Tjandramulia",
+            "second_player_key": 64,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Chennai",
+            "tournament_key": 7817,
+            "tournament_round": "Chennai - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.9",
+                    "score_second": "7.11",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11828537,
+            "event_date": "2022-09-11",
+            "event_time": "12:35",
+            "event_first_player": "N. Hibino",
+            "first_player_key": 465,
+            "event_second_player": "D. Vismane",
+            "second_player_key": 1440,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Chennai",
+            "tournament_key": 7817,
+            "tournament_round": "Chennai - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/465_n-hibino.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11828538,
+            "event_date": "2022-09-11",
+            "event_time": "12:35",
+            "event_first_player": "L. Glushko",
+            "first_player_key": 1829,
+            "event_second_player": "K. Okamura",
+            "second_player_key": 1396,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Chennai",
+            "tournament_key": 7817,
+            "tournament_round": "Chennai - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1396_k-okamura.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11828539,
+            "event_date": "2022-09-11",
+            "event_time": "14:15",
+            "event_first_player": "P. Plipuech",
+            "first_player_key": 3409,
+            "event_second_player": "J. Fett",
+            "second_player_key": 1801,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Chennai",
+            "tournament_key": 7817,
+            "tournament_round": "Chennai - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/3409_p-plipuech.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1801_j-fett.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11828540,
+            "event_date": "2022-09-11",
+            "event_time": "14:25",
+            "event_first_player": "I. Shinikova",
+            "first_player_key": 503,
+            "event_second_player": "M. Tkacheva",
+            "second_player_key": 13204,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Chennai",
+            "tournament_key": 7817,
+            "tournament_round": "Chennai - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/503_i-shinikova.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11828541,
+            "event_date": "2022-09-11",
+            "event_time": "14:40",
+            "event_first_player": "J. Mikulskyte",
+            "first_player_key": 232,
+            "event_second_player": "E. S. Liang",
+            "second_player_key": 2574,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Chennai",
+            "tournament_key": 7817,
+            "tournament_round": "Chennai - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2574_e-s-liang.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 165513,
+            "event_date": "2022-09-11",
+            "event_time": "15:30",
+            "event_first_player": "T. Korpatsch",
+            "first_player_key": 501,
+            "event_second_player": "L. Gjorcheska",
+            "second_player_key": 227,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "Cancelled",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Portoroz",
+            "tournament_key": 2828,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/501_t-korpatsch.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/227_l-gjorcheska.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        }
+    ]
+}

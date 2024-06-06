@@ -1,0 +1,42 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11687424,
+            "event_date": "2022-09-08",
+            "event_time": "01:15",
+            "event_first_player": "I. Swiatek",
+            "first_player_key": 1910,
+            "event_second_player": "J. Pegula",
+            "second_player_key": 2171,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "US Open",
+            "tournament_key": 1218,
+            "tournament_round": "US Open - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1910_i-swiatek.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2171_j-pegula.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

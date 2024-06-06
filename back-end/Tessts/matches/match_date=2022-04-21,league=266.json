@@ -1,0 +1,432 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11723623,
+            "event_date": "2022-04-21",
+            "event_time": "12:10",
+            "event_first_player": "L. Tsurenko",
+            "first_player_key": 473,
+            "event_second_player": "A. Tomljanovic",
+            "second_player_key": 1146,
+            "event_final_result": "0 - 1",
+            "event_game_result": "0 - 30",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Retired",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Istanbul",
+            "tournament_key": 2275,
+            "tournament_round": "Istanbul - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/473_l-tsurenko.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1146_a-tomljanovic.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723624,
+            "event_date": "2022-04-21",
+            "event_time": "12:10",
+            "event_first_player": "V. Gracheva",
+            "first_player_key": 1913,
+            "event_second_player": "S. Sorribes Tormo",
+            "second_player_key": 2910,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Istanbul",
+            "tournament_key": 2275,
+            "tournament_round": "Istanbul - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1913_v-gracheva.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2910_s-sorribes-tormo.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723625,
+            "event_date": "2022-04-21",
+            "event_time": "13:40",
+            "event_first_player": "R. Peterson",
+            "first_player_key": 1811,
+            "event_second_player": "Y. Putintseva",
+            "second_player_key": 2177,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Istanbul",
+            "tournament_key": 2275,
+            "tournament_round": "Istanbul - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1811_r-peterson.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2177_y-putintseva.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723626,
+            "event_date": "2022-04-21",
+            "event_time": "16:05",
+            "event_first_player": "P. Martic",
+            "first_player_key": 2173,
+            "event_second_player": "A. Potapova",
+            "second_player_key": 457,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Istanbul",
+            "tournament_key": 2275,
+            "tournament_round": "Istanbul - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2173_p-martic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/457_a-potapova.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723627,
+            "event_date": "2022-04-21",
+            "event_time": "17:30",
+            "event_first_player": "A. Bogdan",
+            "first_player_key": 2004,
+            "event_second_player": "V. Kudermetova",
+            "second_player_key": 2810,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Walk Over",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Istanbul",
+            "tournament_key": 2275,
+            "tournament_round": "Istanbul - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2004_a-bogdan.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2810_v-kudermetova.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11713000,
+            "event_date": "2022-04-21",
+            "event_time": "12:40",
+            "event_first_player": "E. Rybakina",
+            "first_player_key": 2172,
+            "event_second_player": "P. Badosa",
+            "second_player_key": 2178,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Stuttgart",
+            "tournament_key": 1977,
+            "tournament_round": "Stuttgart - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2172_e-rybakina.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6.4",
+                    "score_second": "7.7",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11713001,
+            "event_date": "2022-04-21",
+            "event_time": "14:20",
+            "event_first_player": "O. Jabeur",
+            "first_player_key": 1911,
+            "event_second_player": "D. Kasatkina",
+            "second_player_key": 1990,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Stuttgart",
+            "tournament_key": 1977,
+            "tournament_round": "Stuttgart - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1911_o-jabeur.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1990_d-kasatkina.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11713002,
+            "event_date": "2022-04-21",
+            "event_time": "15:25",
+            "event_first_player": "B. Andreescu",
+            "first_player_key": 2817,
+            "event_second_player": "A. Sabalenka",
+            "second_player_key": 1989,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Stuttgart",
+            "tournament_key": 1977,
+            "tournament_round": "Stuttgart - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2817_b-andreescu.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1989_a-sabalenka.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11713003,
+            "event_date": "2022-04-21",
+            "event_time": "15:55",
+            "event_first_player": "L. Samsonova",
+            "first_player_key": 2815,
+            "event_second_player": "Ka. Pliskova",
+            "second_player_key": 517,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Stuttgart",
+            "tournament_key": 1977,
+            "tournament_round": "Stuttgart - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2815_l-samsonova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/517_ka-pliskova.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11713004,
+            "event_date": "2022-04-21",
+            "event_time": "17:35",
+            "event_first_player": "M. Sakkari",
+            "first_player_key": 2076,
+            "event_second_player": "L. Siegemund",
+            "second_player_key": 464,
+            "event_final_result": "0 - 1",
+            "event_game_result": "0 - 0",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Retired",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Stuttgart",
+            "tournament_key": 1977,
+            "tournament_round": "Stuttgart - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2076_m-sakkari.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/464_l-siegemund.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11713005,
+            "event_date": "2022-04-21",
+            "event_time": "19:15",
+            "event_first_player": "T. Korpatsch",
+            "first_player_key": 501,
+            "event_second_player": "E. Raducanu",
+            "second_player_key": 2996,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Stuttgart",
+            "tournament_key": 1977,
+            "tournament_round": "Stuttgart - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/501_t-korpatsch.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11713006,
+            "event_date": "2022-04-21",
+            "event_time": "21:15",
+            "event_first_player": "A. Kontaveit",
+            "first_player_key": 2388,
+            "event_second_player": "E. Alexandrova",
+            "second_player_key": 2392,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Stuttgart",
+            "tournament_key": 1977,
+            "tournament_round": "Stuttgart - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2388_a-kontaveit.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2392_e-alexandrova.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

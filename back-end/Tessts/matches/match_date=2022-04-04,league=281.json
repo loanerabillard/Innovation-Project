@@ -1,0 +1,2025 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 10307364,
+            "event_date": "2022-04-04",
+            "event_time": "10:05",
+            "event_first_player": "G. Fonio",
+            "first_player_key": 1855,
+            "event_second_player": "M. Valkusz",
+            "second_player_key": 563,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Sanremo",
+            "tournament_key": 5405,
+            "tournament_round": "Sanremo - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1855_g-fonio.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/563_m-valkusz.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10307365,
+            "event_date": "2022-04-04",
+            "event_time": "10:10",
+            "event_first_player": "A. Setkic",
+            "first_player_key": 1204,
+            "event_second_player": "K. Sultanov",
+            "second_player_key": 6983,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Sanremo",
+            "tournament_key": 5405,
+            "tournament_round": "Sanremo - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1204_a-setkic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/6983_k-sultanov.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10307366,
+            "event_date": "2022-04-04",
+            "event_time": "10:10",
+            "event_first_player": "G. Decamps",
+            "first_player_key": 572,
+            "event_second_player": "E. Lavagno",
+            "second_player_key": 1864,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Sanremo",
+            "tournament_key": 5405,
+            "tournament_round": "Sanremo - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10307367,
+            "event_date": "2022-04-04",
+            "event_time": "11:50",
+            "event_first_player": "V. Vacherot",
+            "first_player_key": 1852,
+            "event_second_player": "D. Wenger",
+            "second_player_key": 1970,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Sanremo",
+            "tournament_key": 5405,
+            "tournament_round": "Sanremo - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1970_d-wenger.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10307368,
+            "event_date": "2022-04-04",
+            "event_time": "12:10",
+            "event_first_player": "F. Passaro",
+            "first_player_key": 8442,
+            "event_second_player": "M. Perchicot",
+            "second_player_key": 4252,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Sanremo",
+            "tournament_key": 5405,
+            "tournament_round": "Sanremo - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/8442_f-passaro.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/4252_m-perchicot.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10307369,
+            "event_date": "2022-04-04",
+            "event_time": "12:45",
+            "event_first_player": "M. Martineau",
+            "first_player_key": 1185,
+            "event_second_player": "T. Droguet",
+            "second_player_key": 8926,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Sanremo",
+            "tournament_key": 5405,
+            "tournament_round": "Sanremo - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1185_m-martineau.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/8926_t-droguet.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.11",
+                    "score_second": "6.9",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11735117,
+            "event_date": "2022-04-04",
+            "event_time": "20:30",
+            "event_first_player": "S. Mansouri",
+            "first_player_key": 1211,
+            "event_second_player": "A. Santillan",
+            "second_player_key": 868,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Salinas",
+            "tournament_key": 2598,
+            "tournament_round": "Salinas - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1211_s-mansouri.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/868_a-santillan.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10245965,
+            "event_date": "2022-04-04",
+            "event_time": "22:10",
+            "event_first_player": "F. Meligeni Alves",
+            "first_player_key": 357,
+            "event_second_player": "E. Escobedo",
+            "second_player_key": 402,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Mexico City",
+            "tournament_key": 3038,
+            "tournament_round": "Mexico City - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/402_e-escobedo.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11735118,
+            "event_date": "2022-04-04",
+            "event_time": "21:55",
+            "event_first_player": "N. Mejia",
+            "first_player_key": 7641,
+            "event_second_player": "A. C. March",
+            "second_player_key": 655,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Salinas",
+            "tournament_key": 2598,
+            "tournament_round": "Salinas - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/7641_n-mejia.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10245966,
+            "event_date": "2022-04-04",
+            "event_time": "22:10",
+            "event_first_player": "M. Janvier",
+            "first_player_key": 580,
+            "event_second_player": "L. C. Alvarez Valdes",
+            "second_player_key": 10514,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Mexico City",
+            "tournament_key": 3038,
+            "tournament_round": "Mexico City - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/580_m-janvier.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11735119,
+            "event_date": "2022-04-04",
+            "event_time": "22:15",
+            "event_first_player": "P. Boscardin Dias",
+            "first_player_key": 2003,
+            "event_second_player": "D. Dutra Da Silva",
+            "second_player_key": 558,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Salinas",
+            "tournament_key": 2598,
+            "tournament_round": "Salinas - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10245967,
+            "event_date": "2022-04-04",
+            "event_time": "22:35",
+            "event_first_player": "M. Pucinelli de Almeida",
+            "first_player_key": 1743,
+            "event_second_player": "D. Istomin",
+            "second_player_key": 1199,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Mexico City",
+            "tournament_key": 3038,
+            "tournament_round": "Mexico City - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1743_m-pucinelli-de-almeida.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1199_d-istomin.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7.8",
+                    "score_second": "6.6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 98389,
+            "event_date": "2022-04-04",
+            "event_time": "15:45",
+            "event_first_player": "E. Furness",
+            "first_player_key": 1765,
+            "event_second_player": "P. Araujo",
+            "second_player_key": 8974,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Oeiras 2",
+            "tournament_key": 3991,
+            "tournament_round": "Oeiras 2 - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1765_e-furness.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/8974_p-araujo.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.9",
+                    "score_second": "6.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 98390,
+            "event_date": "2022-04-04",
+            "event_time": "17:55",
+            "event_first_player": "L. Wessels",
+            "first_player_key": 1955,
+            "event_second_player": "Z. Kolar",
+            "second_player_key": 384,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Oeiras 2",
+            "tournament_key": 3991,
+            "tournament_round": "Oeiras 2 - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1955_l-wessels.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/384_z-kolar.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11735146,
+            "event_date": "2022-04-04",
+            "event_time": "18:55",
+            "event_first_player": "C. Langmo",
+            "first_player_key": 2021,
+            "event_second_player": "B. Baker",
+            "second_player_key": 6655,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Walk Over",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Salinas",
+            "tournament_key": 2598,
+            "tournament_round": "Salinas - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2021_c-langmo.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11735147,
+            "event_date": "2022-04-04",
+            "event_time": "20:00",
+            "event_first_player": "M. F. Descotte",
+            "first_player_key": 3900,
+            "event_second_player": "S. Myneni",
+            "second_player_key": 3198,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Salinas",
+            "tournament_key": 2598,
+            "tournament_round": "Salinas - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/3900_m-f-descotte.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/3198_s-myneni.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11735148,
+            "event_date": "2022-04-04",
+            "event_time": "18:50",
+            "event_first_player": "C. Ugo Carabelli",
+            "first_player_key": 401,
+            "event_second_player": "F. Juarez",
+            "second_player_key": 8880,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Salinas",
+            "tournament_key": 2598,
+            "tournament_round": "Salinas - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/401_c-ugo-carabelli.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11735149,
+            "event_date": "2022-04-04",
+            "event_time": "17:15",
+            "event_first_player": "N. Nakagawa",
+            "first_player_key": 4136,
+            "event_second_player": "J. R. Statham",
+            "second_player_key": 4105,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Salinas",
+            "tournament_key": 2598,
+            "tournament_round": "Salinas - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/4136_n-nakagawa.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/4105_j-r-statham.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11735150,
+            "event_date": "2022-04-04",
+            "event_time": "18:40",
+            "event_first_player": "G. Brymer",
+            "first_player_key": 794,
+            "event_second_player": "F. Corwin",
+            "second_player_key": 3703,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Salinas",
+            "tournament_key": 2598,
+            "tournament_round": "Salinas - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/794_g-brymer.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/3703_f-corwin.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11735151,
+            "event_date": "2022-04-04",
+            "event_time": "17:10",
+            "event_first_player": "E. Gomez",
+            "first_player_key": 1061,
+            "event_second_player": "A. Guillen Meza",
+            "second_player_key": 9230,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Salinas",
+            "tournament_key": 2598,
+            "tournament_round": "Salinas - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1061_e-gomez.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 98418,
+            "event_date": "2022-04-04",
+            "event_time": "15:00",
+            "event_first_player": "A. Lazarov",
+            "first_player_key": 2190,
+            "event_second_player": "J. Choinski",
+            "second_player_key": 5979,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Oeiras 2",
+            "tournament_key": 3991,
+            "tournament_round": "Oeiras 2 - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2190_a-lazarov.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/5979_j-choinski.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 98419,
+            "event_date": "2022-04-04",
+            "event_time": "15:25",
+            "event_first_player": "A. Rybakov",
+            "first_player_key": 559,
+            "event_second_player": "N. Rubin",
+            "second_player_key": 2918,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Oeiras 2",
+            "tournament_key": 3991,
+            "tournament_round": "Oeiras 2 - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/559_a-rybakov.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2918_n-rubin.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 98420,
+            "event_date": "2022-04-04",
+            "event_time": "13:05",
+            "event_first_player": "T. Skatov",
+            "first_player_key": 362,
+            "event_second_player": "L. Rosol",
+            "second_player_key": 1897,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Oeiras 2",
+            "tournament_key": 3991,
+            "tournament_round": "Oeiras 2 - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/362_t-skatov.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1897_l-rosol.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 98421,
+            "event_date": "2022-04-04",
+            "event_time": "13:55",
+            "event_first_player": "T. Monteiro",
+            "first_player_key": 1074,
+            "event_second_player": "K. Zuk",
+            "second_player_key": 1069,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Oeiras 2",
+            "tournament_key": 3991,
+            "tournament_round": "Oeiras 2 - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1074_t-monteiro.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1069_k-zuk.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10246007,
+            "event_date": "2022-04-04",
+            "event_time": "00:30",
+            "event_first_player": "P. T. Lipovsek",
+            "first_player_key": 5033,
+            "event_second_player": "N. Barrientos",
+            "second_player_key": 4694,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Mexico City",
+            "tournament_key": 3038,
+            "tournament_round": "Mexico City - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/5033_p-t-lipovsek.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10246008,
+            "event_date": "2022-04-04",
+            "event_time": "18:10",
+            "event_first_player": "Z. Zhang",
+            "first_player_key": 590,
+            "event_second_player": "N. Chappell",
+            "second_player_key": 1255,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Mexico City",
+            "tournament_key": 3038,
+            "tournament_round": "Mexico City - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/590_z-zhang.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1255_n-chappell.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10246009,
+            "event_date": "2022-04-04",
+            "event_time": "18:10",
+            "event_first_player": "S. Mochizuki",
+            "first_player_key": 1880,
+            "event_second_player": "K. Smith",
+            "second_player_key": 6011,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Mexico City",
+            "tournament_key": 3038,
+            "tournament_round": "Mexico City - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1880_s-mochizuki.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11735162,
+            "event_date": "2022-04-04",
+            "event_time": "17:05",
+            "event_first_player": "B. Holt",
+            "first_player_key": 8158,
+            "event_second_player": "C. Huertas Del Pino",
+            "second_player_key": 2411,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Salinas",
+            "tournament_key": 2598,
+            "tournament_round": "Salinas - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/8158_b-holt.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10246010,
+            "event_date": "2022-04-04",
+            "event_time": "18:10",
+            "event_first_player": "C. Hemery",
+            "first_player_key": 1206,
+            "event_second_player": "M. Alves",
+            "second_player_key": 28260,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Mexico City",
+            "tournament_key": 3038,
+            "tournament_round": "Mexico City - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11735163,
+            "event_date": "2022-04-04",
+            "event_time": "17:10",
+            "event_first_player": "S. Shimabukuro",
+            "first_player_key": 9608,
+            "event_second_player": "B. Lock",
+            "second_player_key": 807,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Salinas",
+            "tournament_key": 2598,
+            "tournament_round": "Salinas - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/9608_s-shimabukuro.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/807_b-lock.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10246011,
+            "event_date": "2022-04-04",
+            "event_time": "20:30",
+            "event_first_player": "K. Seelig",
+            "first_player_key": 1237,
+            "event_second_player": "E. Ejupovic",
+            "second_player_key": 1881,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Mexico City",
+            "tournament_key": 3038,
+            "tournament_round": "Mexico City - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1237_k-seelig.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1881_e-ejupovic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10246012,
+            "event_date": "2022-04-04",
+            "event_time": "21:00",
+            "event_first_player": "G. Klier Junior",
+            "first_player_key": 9595,
+            "event_second_player": "J. Paul",
+            "second_player_key": 1966,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Mexico City",
+            "tournament_key": 3038,
+            "tournament_round": "Mexico City - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10246013,
+            "event_date": "2022-04-04",
+            "event_time": "21:05",
+            "event_first_player": "A. Andreev",
+            "first_player_key": 2409,
+            "event_second_player": "N. Barrientos",
+            "second_player_key": 4694,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Mexico City",
+            "tournament_key": 3038,
+            "tournament_round": "Mexico City - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 98434,
+            "event_date": "2022-04-04",
+            "event_time": "11:35",
+            "event_first_player": "H. Rocha",
+            "first_player_key": 827,
+            "event_second_player": "J. Gutierrez Oscar",
+            "second_player_key": 974,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Oeiras 2",
+            "tournament_key": 3991,
+            "tournament_round": "Oeiras 2 - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/974_j-gutierrez-oscar.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.1",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 98435,
+            "event_date": "2022-04-04",
+            "event_time": "11:35",
+            "event_first_player": "F. Marozsan",
+            "first_player_key": 10148,
+            "event_second_player": "A. Paulson",
+            "second_player_key": 888,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Oeiras 2",
+            "tournament_key": 3991,
+            "tournament_round": "Oeiras 2 - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/10148_f-marozsan.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/888_a-paulson.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 98436,
+            "event_date": "2022-04-04",
+            "event_time": "11:35",
+            "event_first_player": "E. Kirkin",
+            "first_player_key": 1863,
+            "event_second_player": "J. Haerteis",
+            "second_player_key": 1942,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Oeiras 2",
+            "tournament_key": 3991,
+            "tournament_round": "Oeiras 2 - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1863_e-kirkin.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1942_j-haerteis.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 98437,
+            "event_date": "2022-04-04",
+            "event_time": "13:00",
+            "event_first_player": "L. Gerch",
+            "first_player_key": 1971,
+            "event_second_player": "S. Roncalli",
+            "second_player_key": 2521,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Oeiras 2",
+            "tournament_key": 3991,
+            "tournament_round": "Oeiras 2 - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1971_l-gerch.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2521_s-roncalli.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11418781,
+            "event_date": "2022-04-04",
+            "event_time": "18:10",
+            "event_first_player": "O. Roca Batalla",
+            "first_player_key": 588,
+            "event_second_player": "C. Sanchez Jover",
+            "second_player_key": 584,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Murcia",
+            "tournament_key": 3118,
+            "tournament_round": "Murcia - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/588_o-roca-batalla.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/584_c-sanchez-jover.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11418782,
+            "event_date": "2022-04-04",
+            "event_time": "18:15",
+            "event_first_player": "L. Giustino",
+            "first_player_key": 370,
+            "event_second_player": "J. Nikles",
+            "second_player_key": 428,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Murcia",
+            "tournament_key": 3118,
+            "tournament_round": "Murcia - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/370_l-giustino.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/428_j-nikles.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11418783,
+            "event_date": "2022-04-04",
+            "event_time": "18:50",
+            "event_first_player": "D. Novak",
+            "first_player_key": 1753,
+            "event_second_player": "F. Misolic",
+            "second_player_key": 594,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Murcia",
+            "tournament_key": 3118,
+            "tournament_round": "Murcia - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1753_d-novak.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/594_f-misolic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11418784,
+            "event_date": "2022-04-04",
+            "event_time": "19:55",
+            "event_first_player": "N. Gombos",
+            "first_player_key": 397,
+            "event_second_player": "E. Nava",
+            "second_player_key": 567,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Murcia",
+            "tournament_key": 3118,
+            "tournament_round": "Murcia - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/397_n-gombos.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/567_e-nava.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11418785,
+            "event_date": "2022-04-04",
+            "event_time": "20:30",
+            "event_first_player": "S. Ofner",
+            "first_player_key": 359,
+            "event_second_player": "R. Brancaccio",
+            "second_player_key": 1873,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Murcia",
+            "tournament_key": 3118,
+            "tournament_round": "Murcia - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/359_s-ofner.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1873_r-brancaccio.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11418824,
+            "event_date": "2022-04-04",
+            "event_time": "11:10",
+            "event_first_player": "R. Molleker",
+            "first_player_key": 893,
+            "event_second_player": "B. Bobrov",
+            "second_player_key": 1867,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Murcia",
+            "tournament_key": 3118,
+            "tournament_round": "Murcia - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/893_r-molleker.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1867_b-bobrov.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11418825,
+            "event_date": "2022-04-04",
+            "event_time": "11:10",
+            "event_first_player": "O. Krutykh",
+            "first_player_key": 1177,
+            "event_second_player": "C. Heyman",
+            "second_player_key": 1178,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Murcia",
+            "tournament_key": 3118,
+            "tournament_round": "Murcia - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1178_c-heyman.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11418826,
+            "event_date": "2022-04-04",
+            "event_time": "11:10",
+            "event_first_player": "A. Donski",
+            "first_player_key": 9159,
+            "event_second_player": "D. Merida Aguilar",
+            "second_player_key": 978,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Murcia",
+            "tournament_key": 3118,
+            "tournament_round": "Murcia - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/9159_a-donski.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11418827,
+            "event_date": "2022-04-04",
+            "event_time": "12:40",
+            "event_first_player": "U. Blanch",
+            "first_player_key": 1862,
+            "event_second_player": "M. Cuevas",
+            "second_player_key": 983,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Murcia",
+            "tournament_key": 3118,
+            "tournament_round": "Murcia - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1862_u-blanch.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/983_m-cuevas.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11418828,
+            "event_date": "2022-04-04",
+            "event_time": "12:55",
+            "event_first_player": "M. Geerts",
+            "first_player_key": 587,
+            "event_second_player": "C. Lopez Montagud",
+            "second_player_key": 975,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Murcia",
+            "tournament_key": 3118,
+            "tournament_round": "Murcia - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/587_m-geerts.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/975_c-lopez-montagud.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.11",
+                    "score_second": "6.9",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11418829,
+            "event_date": "2022-04-04",
+            "event_time": "13:10",
+            "event_first_player": "M. Damas",
+            "first_player_key": 1209,
+            "event_second_player": "P. Llamas Ruiz",
+            "second_player_key": 987,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Murcia",
+            "tournament_key": 3118,
+            "tournament_round": "Murcia - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/987_p-llamas-ruiz.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10307321,
+            "event_date": "2022-04-04",
+            "event_time": "13:20",
+            "event_first_player": "G. Zeppieri",
+            "first_player_key": 376,
+            "event_second_player": "N. Fatic",
+            "second_player_key": 1904,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Sanremo",
+            "tournament_key": 5405,
+            "tournament_round": "Sanremo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/376_g-zeppieri.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1904_n-fatic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10307322,
+            "event_date": "2022-04-04",
+            "event_time": "15:40",
+            "event_first_player": "F. Forti",
+            "first_player_key": 1191,
+            "event_second_player": "G. Mager",
+            "second_player_key": 1757,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Sanremo",
+            "tournament_key": 5405,
+            "tournament_round": "Sanremo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1191_f-forti.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1757_g-mager.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10307323,
+            "event_date": "2022-04-04",
+            "event_time": "15:55",
+            "event_first_player": "M. Gigante",
+            "first_player_key": 1187,
+            "event_second_player": "F. Cobolli",
+            "second_player_key": 372,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Sanremo",
+            "tournament_key": 5405,
+            "tournament_round": "Sanremo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1187_m-gigante.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/372_f-cobolli.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10307324,
+            "event_date": "2022-04-04",
+            "event_time": "18:10",
+            "event_first_player": "H. Rune",
+            "first_player_key": 437,
+            "event_second_player": "E. Tiurnev",
+            "second_player_key": 1861,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Sanremo",
+            "tournament_key": 5405,
+            "tournament_round": "Sanremo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/437_h-rune.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1861_e-tiurnev.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.14",
+                    "score_second": "6.12",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 10307325,
+            "event_date": "2022-04-04",
+            "event_time": "18:10",
+            "event_first_player": "A. Arnaboldi",
+            "first_player_key": 1063,
+            "event_second_player": "H. Grenier",
+            "second_player_key": 1073,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Sanremo",
+            "tournament_key": 5405,
+            "tournament_round": "Sanremo - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1063_a-arnaboldi.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1073_h-grenier.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

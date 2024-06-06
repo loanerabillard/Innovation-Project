@@ -1,0 +1,511 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11735300,
+            "event_date": "2022-11-19",
+            "event_time": "14:10",
+            "event_first_player": "T. Seyboth Wild",
+            "first_player_key": 1086,
+            "event_second_player": "J. P. Varillas",
+            "second_player_key": 391,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Sao Leopoldo",
+            "tournament_key": 2602,
+            "tournament_round": "Sao Leopoldo - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1086_t-seyboth-wild.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/391_j-p-varillas.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11735301,
+            "event_date": "2022-11-19",
+            "event_time": "16:25",
+            "event_first_player": "F. Bagnis",
+            "first_player_key": 1089,
+            "event_second_player": "F. Meligeni Alves",
+            "second_player_key": 357,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Sao Leopoldo",
+            "tournament_key": 2602,
+            "tournament_round": "Sao Leopoldo - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1089_f-bagnis.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.4",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11730802,
+            "event_date": "2022-11-19",
+            "event_time": "00:05",
+            "event_first_player": "N. Alvarez Varona",
+            "first_player_key": 565,
+            "event_second_player": "A. Vukic",
+            "second_player_key": 360,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Champaign",
+            "tournament_key": 2477,
+            "tournament_round": "Champaign - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/360_a-vukic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.6",
+                    "score_second": "7.8",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11730803,
+            "event_date": "2022-11-19",
+            "event_time": "19:35",
+            "event_first_player": "B. Shelton",
+            "first_player_key": 2973,
+            "event_second_player": "A. Kovacevic",
+            "second_player_key": 2978,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Champaign",
+            "tournament_key": 2477,
+            "tournament_round": "Champaign - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2978_a-kovacevic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.3",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11730804,
+            "event_date": "2022-11-19",
+            "event_time": "21:45",
+            "event_first_player": "A. Vukic",
+            "first_player_key": 360,
+            "event_second_player": "C. Eubanks",
+            "second_player_key": 1059,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Champaign",
+            "tournament_key": 2477,
+            "tournament_round": "Champaign - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/360_a-vukic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1059_c-eubanks.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.9",
+                    "score_second": "6.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11755904,
+            "event_date": "2022-11-19",
+            "event_time": "12:05",
+            "event_first_player": "L. Riedi",
+            "first_player_key": 1092,
+            "event_second_player": "J. Sels",
+            "second_player_key": 586,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Helsinki",
+            "tournament_key": 3200,
+            "tournament_round": "Helsinki - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1092_l-riedi.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11755905,
+            "event_date": "2022-11-19",
+            "event_time": "14:30",
+            "event_first_player": "T. Machac",
+            "first_player_key": 2981,
+            "event_second_player": "Y. Hanfmann",
+            "second_player_key": 1764,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Helsinki",
+            "tournament_key": 3200,
+            "tournament_round": "Helsinki - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2981_t-machac.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1764_y-hanfmann.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11729593,
+            "event_date": "2022-11-19",
+            "event_time": "00:35",
+            "event_first_player": "V. Pospisil",
+            "first_player_key": 2852,
+            "event_second_player": "H. Mayot",
+            "second_player_key": 1189,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Drummondville",
+            "tournament_key": 2445,
+            "tournament_round": "Drummondville - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2852_v-pospisil.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1189_h-mayot.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11729594,
+            "event_date": "2022-11-19",
+            "event_time": "02:30",
+            "event_first_player": "A. Galarneau",
+            "first_player_key": 557,
+            "event_second_player": "M. Geerts",
+            "second_player_key": 587,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Drummondville",
+            "tournament_key": 2445,
+            "tournament_round": "Drummondville - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/557_a-galarneau.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/587_m-geerts.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11729595,
+            "event_date": "2022-11-19",
+            "event_time": "19:45",
+            "event_first_player": "A. Escoffier",
+            "first_player_key": 1068,
+            "event_second_player": "V. Pospisil",
+            "second_player_key": 2852,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Drummondville",
+            "tournament_key": 2445,
+            "tournament_round": "Drummondville - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1068_a-escoffier.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2852_v-pospisil.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11729596,
+            "event_date": "2022-11-19",
+            "event_time": "21:55",
+            "event_first_player": "M. Geerts",
+            "first_player_key": 587,
+            "event_second_player": "M. Mmoh",
+            "second_player_key": 439,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Drummondville",
+            "tournament_key": 2445,
+            "tournament_round": "Drummondville - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/587_m-geerts.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/439_m-mmoh.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11732463,
+            "event_date": "2022-11-19",
+            "event_time": "04:55",
+            "event_first_player": "C. O&apos;Connell",
+            "first_player_key": 421,
+            "event_second_player": "Y. Watanuki",
+            "second_player_key": 1097,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Kobe",
+            "tournament_key": 2524,
+            "tournament_round": "Kobe - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/421_c-oaposconnell.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1097_y-watanuki.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.6",
+                    "score_second": "7.8",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11732464,
+            "event_date": "2022-11-19",
+            "event_time": "06:40",
+            "event_first_player": "F. Ferreira Silva",
+            "first_player_key": 585,
+            "event_second_player": "N. Serdarusic",
+            "second_player_key": 417,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Kobe",
+            "tournament_key": 2524,
+            "tournament_round": "Kobe - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/585_f-ferreira-silva.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/417_n-serdarusic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

@@ -1,0 +1,422 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11726949,
+            "event_date": "2022-10-29",
+            "event_time": "15:05",
+            "event_first_player": "E. Donskoy",
+            "first_player_key": 1071,
+            "event_second_player": "L. van Assche",
+            "second_player_key": 1066,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Brest",
+            "tournament_key": 2363,
+            "tournament_round": "Brest - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1071_e-donskoy.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1066_l-van-assche.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.6",
+                    "score_second": "7.8",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11726950,
+            "event_date": "2022-10-29",
+            "event_time": "17:20",
+            "event_first_player": "M. Bourgue",
+            "first_player_key": 1194,
+            "event_second_player": "G. Barrere",
+            "second_player_key": 1772,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Brest",
+            "tournament_key": 2363,
+            "tournament_round": "Brest - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1194_m-bourgue.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1772_g-barrere.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11742569,
+            "event_date": "2022-10-29",
+            "event_time": "02:35",
+            "event_first_player": "R. Noguchi",
+            "first_player_key": 690,
+            "event_second_player": "O. Jasika",
+            "second_player_key": 1261,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Playford",
+            "tournament_key": 2804,
+            "tournament_round": "Playford - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/690_r-noguchi.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11742570,
+            "event_date": "2022-10-29",
+            "event_time": "04:50",
+            "event_first_player": "M. Purcell",
+            "first_player_key": 1749,
+            "event_second_player": "R. Hijikata",
+            "second_player_key": 3317,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Playford",
+            "tournament_key": 2804,
+            "tournament_round": "Playford - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1749_m-purcell.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/3317_r-hijikata.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11730328,
+            "event_date": "2022-10-29",
+            "event_time": "11:10",
+            "event_first_player": "A. Vavassori",
+            "first_player_key": 418,
+            "event_second_player": "L. Klein",
+            "second_player_key": 1969,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Ortisei",
+            "tournament_key": 2464,
+            "tournament_round": "Ortisei - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/418_a-vavassori.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1969_l-klein.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11730329,
+            "event_date": "2022-10-29",
+            "event_time": "12:50",
+            "event_first_player": "B. Gojo",
+            "first_player_key": 377,
+            "event_second_player": "F. Cobolli",
+            "second_player_key": 372,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Ortisei",
+            "tournament_key": 2464,
+            "tournament_round": "Ortisei - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/377_b-gojo.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/372_f-cobolli.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11727050,
+            "event_date": "2022-10-29",
+            "event_time": "20:05",
+            "event_first_player": "J. Shang",
+            "first_player_key": 2413,
+            "event_second_player": "T. Sandgren",
+            "second_player_key": 405,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Las Vegas",
+            "tournament_key": 2366,
+            "tournament_round": "Las Vegas - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/405_t-sandgren.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11727051,
+            "event_date": "2022-10-29",
+            "event_time": "22:00",
+            "event_first_player": "S. Kozlov",
+            "first_player_key": 1087,
+            "event_second_player": "S. Johnson",
+            "second_player_key": 2851,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Las Vegas",
+            "tournament_key": 2366,
+            "tournament_round": "Las Vegas - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1087_s-kozlov.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2851_s-johnson.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11797977,
+            "event_date": "2022-10-29",
+            "event_time": "02:05",
+            "event_first_player": "F. Coria",
+            "first_player_key": 433,
+            "event_second_player": "G. Mpetshi Perricard",
+            "second_player_key": 9222,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lima 2",
+            "tournament_key": 4819,
+            "tournament_round": "Lima 2 - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/433_f-coria.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11797978,
+            "event_date": "2022-10-29",
+            "event_time": "19:10",
+            "event_first_player": "R. A. Burruchaga",
+            "first_player_key": 9596,
+            "event_second_player": "T. M. Etcheverry",
+            "second_player_key": 1777,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lima 2",
+            "tournament_key": 4819,
+            "tournament_round": "Lima 2 - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/9596_r-a-burruchaga.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1777_t-m-etcheverry.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11797979,
+            "event_date": "2022-10-29",
+            "event_time": "22:05",
+            "event_first_player": "F. Coria",
+            "first_player_key": 433,
+            "event_second_player": "D. Altmaier",
+            "second_player_key": 1099,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lima 2",
+            "tournament_key": 4819,
+            "tournament_round": "Lima 2 - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/433_f-coria.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1099_d-altmaier.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

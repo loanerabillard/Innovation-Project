@@ -1,0 +1,553 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11779455,
+            "event_date": "2022-09-28",
+            "event_time": "10:05",
+            "event_first_player": "D. Galfi",
+            "first_player_key": 507,
+            "event_second_player": "M. Zanevska",
+            "second_player_key": 1157,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Parma",
+            "tournament_key": 4062,
+            "tournament_round": "Parma - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/507_d-galfi.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1157_m-zanevska.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11779456,
+            "event_date": "2022-09-28",
+            "event_time": "11:40",
+            "event_first_player": "S. Stephens",
+            "first_player_key": 1826,
+            "event_second_player": "D. Kovinic",
+            "second_player_key": 2524,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Parma",
+            "tournament_key": 4062,
+            "tournament_round": "Parma - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1826_s-stephens.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2524_d-kovinic.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11779457,
+            "event_date": "2022-09-28",
+            "event_time": "11:40",
+            "event_first_player": "M. Sherif",
+            "first_player_key": 510,
+            "event_second_player": "S. Waltert",
+            "second_player_key": 493,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Parma",
+            "tournament_key": 4062,
+            "tournament_round": "Parma - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/510_m-sherif.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/493_s-waltert.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11779458,
+            "event_date": "2022-09-28",
+            "event_time": "13:25",
+            "event_first_player": "A. Bogdan",
+            "first_player_key": 2004,
+            "event_second_player": "A. K. Schmiedlova",
+            "second_player_key": 1145,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Parma",
+            "tournament_key": 4062,
+            "tournament_round": "Parma - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2004_a-bogdan.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1145_a-k-schmiedlova.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11779459,
+            "event_date": "2022-09-28",
+            "event_time": "14:10",
+            "event_first_player": "L. Davis",
+            "first_player_key": 2389,
+            "event_second_player": "S. Sorribes Tormo",
+            "second_player_key": 2910,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Parma",
+            "tournament_key": 4062,
+            "tournament_round": "Parma - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2389_l-davis.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2910_s-sorribes-tormo.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11779460,
+            "event_date": "2022-09-28",
+            "event_time": "14:35",
+            "event_first_player": "M. Sakkari",
+            "first_player_key": 2076,
+            "event_second_player": "A. Rus",
+            "second_player_key": 508,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Parma",
+            "tournament_key": 4062,
+            "tournament_round": "Parma - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2076_m-sakkari.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/508_a-rus.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11779461,
+            "event_date": "2022-09-28",
+            "event_time": "17:35",
+            "event_first_player": "J. Paolini",
+            "first_player_key": 2811,
+            "event_second_player": "E. Cocciaretto",
+            "second_player_key": 477,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Parma",
+            "tournament_key": 4062,
+            "tournament_round": "Parma - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2811_j-paolini.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/477_e-cocciaretto.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11779462,
+            "event_date": "2022-09-28",
+            "event_time": "20:10",
+            "event_first_player": "M. Paoletti",
+            "first_player_key": 9395,
+            "event_second_player": "I. Begu",
+            "second_player_key": 2828,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Parma",
+            "tournament_key": 4062,
+            "tournament_round": "Parma - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2828_i-begu.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11829923,
+            "event_date": "2022-09-28",
+            "event_time": "10:10",
+            "event_first_player": "S. Zhang",
+            "first_player_key": 1825,
+            "event_second_player": "V. Kuzmova",
+            "second_player_key": 445,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Tallinn",
+            "tournament_key": 7904,
+            "tournament_round": "Tallinn - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1825_s-zhang.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/445_v-kuzmova.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.10",
+                    "score_second": "6.8",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11829924,
+            "event_date": "2022-09-28",
+            "event_time": "10:10",
+            "event_first_player": "K. Boulter",
+            "first_player_key": 2993,
+            "event_second_player": "B. Bencic",
+            "second_player_key": 2387,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Tallinn",
+            "tournament_key": 7904,
+            "tournament_round": "Tallinn - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2993_k-boulter.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2387_b-bencic.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.2",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11829925,
+            "event_date": "2022-09-28",
+            "event_time": "12:15",
+            "event_first_player": "V. Golubic",
+            "first_player_key": 525,
+            "event_second_player": "K. Muchova",
+            "second_player_key": 2807,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Tallinn",
+            "tournament_key": 7904,
+            "tournament_round": "Tallinn - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/525_v-golubic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2807_k-muchova.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11829926,
+            "event_date": "2022-09-28",
+            "event_time": "13:10",
+            "event_first_player": "L. Noskova",
+            "first_player_key": 447,
+            "event_second_player": "B. Haddad Maia",
+            "second_player_key": 1951,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Tallinn",
+            "tournament_key": 7904,
+            "tournament_round": "Tallinn - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/447_l-noskova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1951_b-haddad-maia.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11829927,
+            "event_date": "2022-09-28",
+            "event_time": "17:15",
+            "event_first_player": "K. Kanepi",
+            "first_player_key": 2005,
+            "event_second_player": "J. Ostapenko",
+            "second_player_key": 2802,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Tallinn",
+            "tournament_key": 7904,
+            "tournament_round": "Tallinn - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2005_k-kanepi.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2802_j-ostapenko.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11829928,
+            "event_date": "2022-09-28",
+            "event_time": "19:30",
+            "event_first_player": "B. Krejcikova",
+            "first_player_key": 2801,
+            "event_second_player": "M. Kostyuk",
+            "second_player_key": 1828,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Tallinn",
+            "tournament_key": 7904,
+            "tournament_round": "Tallinn - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2801_b-krejcikova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1828_m-kostyuk.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

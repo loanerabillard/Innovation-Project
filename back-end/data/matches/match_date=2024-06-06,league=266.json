@@ -1,0 +1,37 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11953209,
+            "event_date": "2024-06-06",
+            "event_time": "15:00",
+            "event_first_player": "I. Swiatek",
+            "first_player_key": 1910,
+            "event_second_player": "C. Gauff",
+            "second_player_key": 2176,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA French Open",
+            "tournament_key": 2156,
+            "tournament_round": "WTA French Open - Semi-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1910_i-swiatek.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2176_c-gauff.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

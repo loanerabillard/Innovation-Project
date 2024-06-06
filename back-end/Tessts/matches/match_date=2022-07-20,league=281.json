@@ -1,0 +1,854 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11822116,
+            "event_date": "2022-07-20",
+            "event_time": "00:10",
+            "event_first_player": "Y. Wu",
+            "first_player_key": 1849,
+            "event_second_player": "H. Habib",
+            "second_player_key": 1949,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Indianapolis",
+            "tournament_key": 7452,
+            "tournament_round": "Indianapolis - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11822117,
+            "event_date": "2022-07-20",
+            "event_time": "00:35",
+            "event_first_player": "B. Shelton",
+            "first_player_key": 2973,
+            "event_second_player": "R. Hijikata",
+            "second_player_key": 3317,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Indianapolis",
+            "tournament_key": 7452,
+            "tournament_round": "Indianapolis - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/3317_r-hijikata.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11822118,
+            "event_date": "2022-07-20",
+            "event_time": "16:10",
+            "event_first_player": "B. Harris",
+            "first_player_key": 1186,
+            "event_second_player": "Y. Uchiyama",
+            "second_player_key": 884,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Indianapolis",
+            "tournament_key": 7452,
+            "tournament_round": "Indianapolis - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1186_b-harris.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/884_y-uchiyama.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.7",
+                    "score_second": "7.9",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11822119,
+            "event_date": "2022-07-20",
+            "event_time": "18:10",
+            "event_first_player": "S. Shimabukuro",
+            "first_player_key": 9608,
+            "event_second_player": "A. Kovacevic",
+            "second_player_key": 2978,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Indianapolis",
+            "tournament_key": 7452,
+            "tournament_round": "Indianapolis - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/9608_s-shimabukuro.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2978_a-kovacevic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11822120,
+            "event_date": "2022-07-20",
+            "event_time": "19:05",
+            "event_first_player": "A. Galarneau",
+            "first_player_key": 557,
+            "event_second_player": "A. Rybakov",
+            "second_player_key": 559,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Indianapolis",
+            "tournament_key": 7452,
+            "tournament_round": "Indianapolis - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/557_a-galarneau.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/559_a-rybakov.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11822121,
+            "event_date": "2022-07-20",
+            "event_time": "19:20",
+            "event_first_player": "J. Shang",
+            "first_player_key": 2413,
+            "event_second_player": "C. Eubanks",
+            "second_player_key": 1059,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Indianapolis",
+            "tournament_key": 7452,
+            "tournament_round": "Indianapolis - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1059_c-eubanks.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734826,
+            "event_date": "2022-07-20",
+            "event_time": "18:35",
+            "event_first_player": "A. Moro Canas",
+            "first_player_key": 1331,
+            "event_second_player": "An. Kuznetsov",
+            "second_player_key": 406,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Pozoblanco",
+            "tournament_key": 2590,
+            "tournament_round": "Pozoblanco - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/406_an-kuznetsov.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734827,
+            "event_date": "2022-07-20",
+            "event_time": "18:40",
+            "event_first_player": "D. Masur",
+            "first_player_key": 411,
+            "event_second_player": "H. Grenier",
+            "second_player_key": 1073,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Pozoblanco",
+            "tournament_key": 2590,
+            "tournament_round": "Pozoblanco - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/411_d-masur.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1073_h-grenier.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11766059,
+            "event_date": "2022-07-20",
+            "event_time": "13:10",
+            "event_first_player": "R. Olivo",
+            "first_player_key": 1081,
+            "event_second_player": "F. Agamenone",
+            "second_player_key": 373,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Trieste",
+            "tournament_key": 3557,
+            "tournament_round": "Trieste - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1081_r-olivo.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/373_f-agamenone.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734828,
+            "event_date": "2022-07-20",
+            "event_time": "20:10",
+            "event_first_player": "U. Humbert",
+            "first_player_key": 1105,
+            "event_second_player": "P. Jubb",
+            "second_player_key": 385,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Pozoblanco",
+            "tournament_key": 2590,
+            "tournament_round": "Pozoblanco - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1105_u-humbert.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11766060,
+            "event_date": "2022-07-20",
+            "event_time": "14:20",
+            "event_first_player": "N. Gombos",
+            "first_player_key": 397,
+            "event_second_player": "A. Collarini",
+            "second_player_key": 2189,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Trieste",
+            "tournament_key": 3557,
+            "tournament_round": "Trieste - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/397_n-gombos.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2189_a-collarini.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734829,
+            "event_date": "2022-07-20",
+            "event_time": "23:00",
+            "event_first_player": "E. Nava",
+            "first_player_key": 567,
+            "event_second_player": "V. Pospisil",
+            "second_player_key": 2852,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Pozoblanco",
+            "tournament_key": 2590,
+            "tournament_round": "Pozoblanco - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/567_e-nava.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2852_v-pospisil.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11766061,
+            "event_date": "2022-07-20",
+            "event_time": "16:35",
+            "event_first_player": "A. Muller",
+            "first_player_key": 374,
+            "event_second_player": "L. Neumayer",
+            "second_player_key": 2022,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Trieste",
+            "tournament_key": 3557,
+            "tournament_round": "Trieste - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/374_a-muller.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11766062,
+            "event_date": "2022-07-20",
+            "event_time": "21:00",
+            "event_first_player": "M. Bellucci",
+            "first_player_key": 2112,
+            "event_second_player": "F. Passaro",
+            "second_player_key": 8442,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Trieste",
+            "tournament_key": 3557,
+            "tournament_round": "Trieste - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/8442_f-passaro.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.2",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11754099,
+            "event_date": "2022-07-20",
+            "event_time": "08:15",
+            "event_first_player": "B. Zhukayev",
+            "first_player_key": 579,
+            "event_second_player": "D. Cukierman",
+            "second_player_key": 634,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Nur-Sultan",
+            "tournament_key": 3146,
+            "tournament_round": "Nur-Sultan - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11754100,
+            "event_date": "2022-07-20",
+            "event_time": "09:15",
+            "event_first_player": "I. Marchenko",
+            "first_player_key": 573,
+            "event_second_player": "D. Istomin",
+            "second_player_key": 1199,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Nur-Sultan",
+            "tournament_key": 3146,
+            "tournament_round": "Nur-Sultan - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/573_i-marchenko.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1199_d-istomin.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.9",
+                    "score_second": "7.11",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11754101,
+            "event_date": "2022-07-20",
+            "event_time": "11:25",
+            "event_first_player": "E. Karlovskiy",
+            "first_player_key": 575,
+            "event_second_player": "D. Yevseyev",
+            "second_player_key": 569,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Nur-Sultan",
+            "tournament_key": 3146,
+            "tournament_round": "Nur-Sultan - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/575_e-karlovskiy.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/569_d-yevseyev.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11754102,
+            "event_date": "2022-07-20",
+            "event_time": "13:25",
+            "event_first_player": "G. Decamps",
+            "first_player_key": 572,
+            "event_second_player": "M. Kukushkin",
+            "second_player_key": 2970,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Nur-Sultan",
+            "tournament_key": 3146,
+            "tournament_round": "Nur-Sultan - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2970_m-kukushkin.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.2",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728330,
+            "event_date": "2022-07-20",
+            "event_time": "12:35",
+            "event_first_player": "T. A. Tirante",
+            "first_player_key": 366,
+            "event_second_player": "L. Lokoli",
+            "second_player_key": 1076,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Tampere",
+            "tournament_key": 2408,
+            "tournament_round": "Tampere - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/366_t-a-tirante.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1076_l-lokoli.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728331,
+            "event_date": "2022-07-20",
+            "event_time": "12:35",
+            "event_first_player": "Z. Piros",
+            "first_player_key": 367,
+            "event_second_player": "L. Sorrentino",
+            "second_player_key": 826,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Tampere",
+            "tournament_key": 2408,
+            "tournament_round": "Tampere - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/367_z-piros.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.12",
+                    "score_second": "6.10",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728332,
+            "event_date": "2022-07-20",
+            "event_time": "15:10",
+            "event_first_player": "E. Furness",
+            "first_player_key": 1765,
+            "event_second_player": "M. Marterer",
+            "second_player_key": 1070,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Tampere",
+            "tournament_key": 2408,
+            "tournament_round": "Tampere - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1765_e-furness.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1070_m-marterer.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728333,
+            "event_date": "2022-07-20",
+            "event_time": "16:40",
+            "event_first_player": "S. Ofner",
+            "first_player_key": 359,
+            "event_second_player": "G. Melzer",
+            "second_player_key": 3383,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Tampere",
+            "tournament_key": 2408,
+            "tournament_round": "Tampere - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/359_s-ofner.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/3383_g-melzer.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.4",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

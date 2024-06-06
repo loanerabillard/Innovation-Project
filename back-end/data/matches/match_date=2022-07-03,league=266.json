@@ -1,0 +1,158 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11693283,
+            "event_date": "2022-07-03",
+            "event_time": "12:10",
+            "event_first_player": "M. Bouzkova",
+            "first_player_key": 2820,
+            "event_second_player": "C. Garcia",
+            "second_player_key": 1148,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Wimbledon",
+            "tournament_key": 1379,
+            "tournament_round": "Wimbledon - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2820_m-bouzkova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1148_c-garcia.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11693284,
+            "event_date": "2022-07-03",
+            "event_time": "14:05",
+            "event_first_player": "T. Maria",
+            "first_player_key": 2414,
+            "event_second_player": "J. Ostapenko",
+            "second_player_key": 2802,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Wimbledon",
+            "tournament_key": 1379,
+            "tournament_round": "Wimbledon - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2414_t-maria.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2802_j-ostapenko.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11693285,
+            "event_date": "2022-07-03",
+            "event_time": "15:25",
+            "event_first_player": "H. Watson",
+            "first_player_key": 1155,
+            "event_second_player": "J. Niemeier",
+            "second_player_key": 471,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Wimbledon",
+            "tournament_key": 1379,
+            "tournament_round": "Wimbledon - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1155_h-watson.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/471_j-niemeier.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11693286,
+            "event_date": "2022-07-03",
+            "event_time": "19:30",
+            "event_first_player": "E. Mertens",
+            "first_player_key": 521,
+            "event_second_player": "O. Jabeur",
+            "second_player_key": 1911,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Wimbledon",
+            "tournament_key": 1379,
+            "tournament_round": "Wimbledon - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/521_e-mertens.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1911_o-jabeur.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.9",
+                    "score_second": "7.11",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

@@ -1,0 +1,764 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11728387,
+            "event_date": "2022-08-03",
+            "event_time": "01:10",
+            "event_first_player": "M. Hurrion",
+            "first_player_key": 12967,
+            "event_second_player": "M. Kukushkin",
+            "second_player_key": 2970,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lexington",
+            "tournament_key": 2410,
+            "tournament_round": "Lexington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2970_m-kukushkin.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11728388,
+            "event_date": "2022-08-03",
+            "event_time": "01:10",
+            "event_first_player": "H. Habib",
+            "first_player_key": 1949,
+            "event_second_player": "N. Mejia",
+            "second_player_key": 7641,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lexington",
+            "tournament_key": 2410,
+            "tournament_round": "Lexington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/7641_n-mejia.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728389,
+            "event_date": "2022-08-03",
+            "event_time": "16:05",
+            "event_first_player": "B. Holt",
+            "first_player_key": 8158,
+            "event_second_player": "G. Nanda",
+            "second_player_key": 2968,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lexington",
+            "tournament_key": 2410,
+            "tournament_round": "Lexington - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/8158_b-holt.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728390,
+            "event_date": "2022-08-03",
+            "event_time": "18:15",
+            "event_first_player": "J. Shang",
+            "first_player_key": 2413,
+            "event_second_player": "M. Kukushkin",
+            "second_player_key": 2970,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lexington",
+            "tournament_key": 2410,
+            "tournament_round": "Lexington - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2970_m-kukushkin.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728391,
+            "event_date": "2022-08-03",
+            "event_time": "19:00",
+            "event_first_player": "E. Couacaud",
+            "first_player_key": 394,
+            "event_second_player": "K. Smith",
+            "second_player_key": 6011,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lexington",
+            "tournament_key": 2410,
+            "tournament_round": "Lexington - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/394_e-couacaud.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728392,
+            "event_date": "2022-08-03",
+            "event_time": "20:40",
+            "event_first_player": "R. Safiullin",
+            "first_player_key": 1057,
+            "event_second_player": "S. K. Mukund",
+            "second_player_key": 1200,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lexington",
+            "tournament_key": 2410,
+            "tournament_round": "Lexington - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1057_r-safiullin.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1200_s-k-mukund.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11727391,
+            "event_date": "2022-08-03",
+            "event_time": "11:35",
+            "event_first_player": "G. Mpetshi Perricard",
+            "first_player_key": 9222,
+            "event_second_player": "V. Sachko",
+            "second_player_key": 1899,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Liberec",
+            "tournament_key": 2380,
+            "tournament_round": "Liberec - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1899_v-sachko.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11727392,
+            "event_date": "2022-08-03",
+            "event_time": "11:45",
+            "event_first_player": "N. Gombos",
+            "first_player_key": 397,
+            "event_second_player": "O. Roca Batalla",
+            "second_player_key": 588,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Liberec",
+            "tournament_key": 2380,
+            "tournament_round": "Liberec - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/397_n-gombos.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/588_o-roca-batalla.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11727393,
+            "event_date": "2022-08-03",
+            "event_time": "13:05",
+            "event_first_player": "C. Stebe",
+            "first_player_key": 387,
+            "event_second_player": "N. Alvarez Varona",
+            "second_player_key": 565,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Liberec",
+            "tournament_key": 2380,
+            "tournament_round": "Liberec - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/387_c-stebe.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.6",
+                    "score_second": "7.8",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11727394,
+            "event_date": "2022-08-03",
+            "event_time": "14:00",
+            "event_first_player": "F. Marozsan",
+            "first_player_key": 10148,
+            "event_second_player": "N. Borges",
+            "second_player_key": 358,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Liberec",
+            "tournament_key": 2380,
+            "tournament_round": "Liberec - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/10148_f-marozsan.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728164,
+            "event_date": "2022-08-03",
+            "event_time": "11:10",
+            "event_first_player": "A. Vavassori",
+            "first_player_key": 418,
+            "event_second_player": "G. Blancaneaux",
+            "second_player_key": 409,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Cordenons",
+            "tournament_key": 2403,
+            "tournament_round": "Cordenons - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/418_a-vavassori.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/409_g-blancaneaux.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728165,
+            "event_date": "2022-08-03",
+            "event_time": "11:10",
+            "event_first_player": "S. Travaglia",
+            "first_player_key": 2672,
+            "event_second_player": "N. Serdarusic",
+            "second_player_key": 417,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Cordenons",
+            "tournament_key": 2403,
+            "tournament_round": "Cordenons - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2672_s-travaglia.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/417_n-serdarusic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728166,
+            "event_date": "2022-08-03",
+            "event_time": "11:10",
+            "event_first_player": "R. Brancaccio",
+            "first_player_key": 1873,
+            "event_second_player": "N. Milojevic",
+            "second_player_key": 1745,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Cordenons",
+            "tournament_key": 2403,
+            "tournament_round": "Cordenons - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1873_r-brancaccio.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1745_n-milojevic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728167,
+            "event_date": "2022-08-03",
+            "event_time": "11:10",
+            "event_first_player": "M. Bellucci",
+            "first_player_key": 2112,
+            "event_second_player": "C. Ugo Carabelli",
+            "second_player_key": 401,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Cordenons",
+            "tournament_key": 2403,
+            "tournament_round": "Cordenons - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/401_c-ugo-carabelli.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728168,
+            "event_date": "2022-08-03",
+            "event_time": "13:45",
+            "event_first_player": "L. Darderi",
+            "first_player_key": 8781,
+            "event_second_player": "D. Dzumhur",
+            "second_player_key": 1079,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Cordenons",
+            "tournament_key": 2403,
+            "tournament_round": "Cordenons - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1079_d-dzumhur.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728169,
+            "event_date": "2022-08-03",
+            "event_time": "13:45",
+            "event_first_player": "M. Arnaldi",
+            "first_player_key": 1192,
+            "event_second_player": "A. Collarini",
+            "second_player_key": 2189,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Cordenons",
+            "tournament_key": 2403,
+            "tournament_round": "Cordenons - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1192_m-arnaldi.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2189_a-collarini.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728170,
+            "event_date": "2022-08-03",
+            "event_time": "14:30",
+            "event_first_player": "M. Cecchinato",
+            "first_player_key": 1095,
+            "event_second_player": "J. Domingues",
+            "second_player_key": 561,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Cordenons",
+            "tournament_key": 2403,
+            "tournament_round": "Cordenons - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1095_m-cecchinato.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/561_j-domingues.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728171,
+            "event_date": "2022-08-03",
+            "event_time": "14:45",
+            "event_first_player": "E. Gulbis",
+            "first_player_key": 2733,
+            "event_second_player": "N. Sanchez Izquierdo",
+            "second_player_key": 591,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Cordenons",
+            "tournament_key": 2403,
+            "tournament_round": "Cordenons - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2733_e-gulbis.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/591_n-sanchez-izquierdo.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728172,
+            "event_date": "2022-08-03",
+            "event_time": "17:10",
+            "event_first_player": "N. Moreno De Alboran",
+            "first_player_key": 1179,
+            "event_second_player": "G. Ferrari",
+            "second_player_key": 658,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Cordenons",
+            "tournament_key": 2403,
+            "tournament_round": "Cordenons - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11728173,
+            "event_date": "2022-08-03",
+            "event_time": "19:10",
+            "event_first_player": "L. Djere",
+            "first_player_key": 2386,
+            "event_second_player": "A. Pellegrino",
+            "second_player_key": 2001,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Cordenons",
+            "tournament_key": 2403,
+            "tournament_round": "Cordenons - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2386_l-djere.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2001_a-pellegrino.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

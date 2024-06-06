@@ -1,0 +1,907 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11734287,
+            "event_date": "2022-03-31",
+            "event_time": "13:15",
+            "event_first_player": "P. Kohlschreiber",
+            "first_player_key": 1058,
+            "event_second_player": "C. Taberner",
+            "second_player_key": 1974,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Marbella",
+            "tournament_key": 2575,
+            "tournament_round": "Marbella - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1058_p-kohlschreiber.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1974_c-taberner.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734288,
+            "event_date": "2022-03-31",
+            "event_time": "14:15",
+            "event_first_player": "P. Cachin",
+            "first_player_key": 414,
+            "event_second_player": "M. Guinard",
+            "second_player_key": 440,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Marbella",
+            "tournament_key": 2575,
+            "tournament_round": "Marbella - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/414_p-cachin.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/440_m-guinard.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734289,
+            "event_date": "2022-03-31",
+            "event_time": "15:40",
+            "event_first_player": "B. Zapata Miralles",
+            "first_player_key": 403,
+            "event_second_player": "A. Molcan",
+            "second_player_key": 436,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Marbella",
+            "tournament_key": 2575,
+            "tournament_round": "Marbella - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/403_b-zapata-miralles.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/436_a-molcan.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6.4",
+                    "score_second": "7.7",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734290,
+            "event_date": "2022-03-31",
+            "event_time": "18:00",
+            "event_first_player": "J. Munar",
+            "first_player_key": 2083,
+            "event_second_player": "N. Alvarez Varona",
+            "second_player_key": 565,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Marbella",
+            "tournament_key": 2575,
+            "tournament_round": "Marbella - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2083_j-munar.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 6893623,
+            "event_date": "2022-03-31",
+            "event_time": "11:10",
+            "event_first_player": "L. Riedi",
+            "first_player_key": 1092,
+            "event_second_player": "D. Added",
+            "second_player_key": 1854,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lugano",
+            "tournament_key": 2860,
+            "tournament_round": "Lugano - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1092_l-riedi.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1854_d-added.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 6893624,
+            "event_date": "2022-03-31",
+            "event_time": "12:35",
+            "event_first_player": "C. Stebe",
+            "first_player_key": 387,
+            "event_second_player": "M. Basic",
+            "second_player_key": 1080,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lugano",
+            "tournament_key": 2860,
+            "tournament_round": "Lugano - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/387_c-stebe.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1080_m-basic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 6893625,
+            "event_date": "2022-03-31",
+            "event_time": "14:45",
+            "event_first_player": "J. Rodionov",
+            "first_player_key": 416,
+            "event_second_player": "Y. Sugita",
+            "second_player_key": 1075,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lugano",
+            "tournament_key": 2860,
+            "tournament_round": "Lugano - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/416_j-rodionov.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1075_y-sugita.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 6893626,
+            "event_date": "2022-03-31",
+            "event_time": "19:15",
+            "event_first_player": "P. Herbert",
+            "first_player_key": 1748,
+            "event_second_player": "T. van Rijthoven",
+            "second_player_key": 393,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lugano",
+            "tournament_key": 2860,
+            "tournament_round": "Lugano - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1748_p-herbert.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/393_t-van-rijthoven.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734686,
+            "event_date": "2022-03-31",
+            "event_time": "02:50",
+            "event_first_player": "J. P. Varillas",
+            "first_player_key": 391,
+            "event_second_player": "A. Gonzalez",
+            "second_player_key": 3367,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Pereira",
+            "tournament_key": 2586,
+            "tournament_round": "Pereira - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/391_j-p-varillas.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/3367_a-gonzalez.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734687,
+            "event_date": "2022-03-31",
+            "event_time": "17:30",
+            "event_first_player": "R. Quiroz",
+            "first_player_key": 8618,
+            "event_second_player": "P. Krstin",
+            "second_player_key": 1875,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Pereira",
+            "tournament_key": 2586,
+            "tournament_round": "Pereira - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/8618_r-quiroz.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1875_p-krstin.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.7",
+                    "score_second": "7.9",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734688,
+            "event_date": "2022-03-31",
+            "event_time": "17:30",
+            "event_first_player": "F. Meligeni Alves",
+            "first_player_key": 357,
+            "event_second_player": "T. M. Etcheverry",
+            "second_player_key": 1777,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Pereira",
+            "tournament_key": 2586,
+            "tournament_round": "Pereira - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1777_t-m-etcheverry.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734689,
+            "event_date": "2022-03-31",
+            "event_time": "17:30",
+            "event_first_player": "N. Barrientos",
+            "first_player_key": 4694,
+            "event_second_player": "N. Kicker",
+            "second_player_key": 1756,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Pereira",
+            "tournament_key": 2586,
+            "tournament_round": "Pereira - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1756_n-kicker.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734690,
+            "event_date": "2022-03-31",
+            "event_time": "19:30",
+            "event_first_player": "F. Mena",
+            "first_player_key": 378,
+            "event_second_player": "N. Moreno De Alboran",
+            "second_player_key": 1179,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Pereira",
+            "tournament_key": 2586,
+            "tournament_round": "Pereira - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/378_f-mena.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734691,
+            "event_date": "2022-03-31",
+            "event_time": "20:05",
+            "event_first_player": "F. Bagnis",
+            "first_player_key": 1089,
+            "event_second_player": "J. B. Torres",
+            "second_player_key": 2085,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Pereira",
+            "tournament_key": 2586,
+            "tournament_round": "Pereira - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1089_f-bagnis.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2085_j-b-torres.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 97992,
+            "event_date": "2022-03-31",
+            "event_time": "11:40",
+            "event_first_player": "V. Kopriva",
+            "first_player_key": 1083,
+            "event_second_player": "L. Darderi",
+            "second_player_key": 8781,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Oeiras",
+            "tournament_key": 3974,
+            "tournament_round": "Oeiras - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1083_v-kopriva.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 97993,
+            "event_date": "2022-03-31",
+            "event_time": "13:10",
+            "event_first_player": "N. Rubin",
+            "first_player_key": 2918,
+            "event_second_player": "Z. Kolar",
+            "second_player_key": 384,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Oeiras",
+            "tournament_key": 3974,
+            "tournament_round": "Oeiras - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2918_n-rubin.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/384_z-kolar.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 97994,
+            "event_date": "2022-03-31",
+            "event_time": "14:10",
+            "event_first_player": "G. Elias",
+            "first_player_key": 404,
+            "event_second_player": "A. Vavassori",
+            "second_player_key": 418,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Oeiras",
+            "tournament_key": 3974,
+            "tournament_round": "Oeiras - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/404_g-elias.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/418_a-vavassori.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7.8",
+                    "score_second": "6.6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 97995,
+            "event_date": "2022-03-31",
+            "event_time": "17:05",
+            "event_first_player": "N. Serdarusic",
+            "first_player_key": 417,
+            "event_second_player": "P. Sousa",
+            "second_player_key": 369,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Oeiras",
+            "tournament_key": 3974,
+            "tournament_round": "Oeiras - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/417_n-serdarusic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/369_p-sousa.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 9057750,
+            "event_date": "2022-03-31",
+            "event_time": "11:00",
+            "event_first_player": "Z. Bergs",
+            "first_player_key": 1064,
+            "event_second_player": "R. Safiullin",
+            "second_player_key": 1057,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Walk Over",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Saint Brieuc",
+            "tournament_key": 2471,
+            "tournament_round": "Saint Brieuc - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1064_z-bergs.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1057_r-safiullin.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 9057751,
+            "event_date": "2022-03-31",
+            "event_time": "11:05",
+            "event_first_player": "B. Gojo",
+            "first_player_key": 377,
+            "event_second_player": "A. Gray",
+            "second_player_key": 2110,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Saint Brieuc",
+            "tournament_key": 2471,
+            "tournament_round": "Saint Brieuc - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/377_b-gojo.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.6",
+                    "score_second": "7.8",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 9057752,
+            "event_date": "2022-03-31",
+            "event_time": "14:20",
+            "event_first_player": "R. Haase",
+            "first_player_key": 577,
+            "event_second_player": "J. Draper",
+            "second_player_key": 7011,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Saint Brieuc",
+            "tournament_key": 2471,
+            "tournament_round": "Saint Brieuc - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/577_r-haase.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/7011_j-draper.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 9057753,
+            "event_date": "2022-03-31",
+            "event_time": "16:40",
+            "event_first_player": "M. Rosenkranz",
+            "first_player_key": 1850,
+            "event_second_player": "A. Escoffier",
+            "second_player_key": 1068,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Saint Brieuc",
+            "tournament_key": 2471,
+            "tournament_round": "Saint Brieuc - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1850_m-rosenkranz.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1068_a-escoffier.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 9057754,
+            "event_date": "2022-03-31",
+            "event_time": "18:45",
+            "event_first_player": "E. Karlovskiy",
+            "first_player_key": 575,
+            "event_second_player": "E. Furness",
+            "second_player_key": 1765,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Saint Brieuc",
+            "tournament_key": 2471,
+            "tournament_round": "Saint Brieuc - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/575_e-karlovskiy.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1765_e-furness.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 9057755,
+            "event_date": "2022-03-31",
+            "event_time": "20:35",
+            "event_first_player": "H. Squire",
+            "first_player_key": 907,
+            "event_second_player": "Q. Halys",
+            "second_player_key": 1925,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Saint Brieuc",
+            "tournament_key": 2471,
+            "tournament_round": "Saint Brieuc - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1925_q-halys.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.2",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

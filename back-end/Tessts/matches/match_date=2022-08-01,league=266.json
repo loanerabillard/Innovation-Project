@@ -1,0 +1,337 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 154137,
+            "event_date": "2022-08-01",
+            "event_time": "18:00",
+            "event_first_player": "C. Giorgi",
+            "first_player_key": 2812,
+            "event_second_player": "G. Muguruza",
+            "second_player_key": 511,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "Cancelled",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA San Jose",
+            "tournament_key": 3060,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2812_c-giorgi.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/511_g-muguruza.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11751321,
+            "event_date": "2022-08-01",
+            "event_time": "19:45",
+            "event_first_player": "A. Krueger",
+            "first_player_key": 196,
+            "event_second_player": "A. Anisimova",
+            "second_player_key": 2074,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "San Jose",
+            "tournament_key": 3060,
+            "tournament_round": "San Jose - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2074_a-anisimova.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11751322,
+            "event_date": "2022-08-01",
+            "event_time": "21:20",
+            "event_first_player": "K. Boulter",
+            "first_player_key": 2993,
+            "event_second_player": "Ka. Pliskova",
+            "second_player_key": 517,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "San Jose",
+            "tournament_key": 3060,
+            "tournament_round": "San Jose - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2993_k-boulter.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/517_ka-pliskova.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11751323,
+            "event_date": "2022-08-01",
+            "event_time": "23:45",
+            "event_first_player": "T. Townsend",
+            "first_player_key": 3214,
+            "event_second_player": "S. Hunter",
+            "second_player_key": 1783,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "San Jose",
+            "tournament_key": 3060,
+            "tournament_round": "San Jose - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/3214_t-townsend.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1783_s-sanders.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698344,
+            "event_date": "2022-08-01",
+            "event_time": "18:10",
+            "event_first_player": "S. Halep",
+            "first_player_key": 2395,
+            "event_second_player": "C. Bucsa",
+            "second_player_key": 454,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1534,
+            "tournament_round": "Washington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2395_s-halep.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/454_c-bucsa.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698345,
+            "event_date": "2022-08-01",
+            "event_time": "18:15",
+            "event_first_player": "D. Saville",
+            "first_player_key": 1153,
+            "event_second_player": "M. Bjorklund",
+            "second_player_key": 498,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1534,
+            "tournament_round": "Washington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/498_m-bjorklund.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698346,
+            "event_date": "2022-08-01",
+            "event_time": "20:30",
+            "event_first_player": "J. Pegula",
+            "first_player_key": 2171,
+            "event_second_player": "H. Baptiste",
+            "second_player_key": 490,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1534,
+            "tournament_round": "Washington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2171_j-pegula.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/490_h-baptiste.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698347,
+            "event_date": "2022-08-01",
+            "event_time": "21:35",
+            "event_first_player": "L. Zhu",
+            "first_player_key": 451,
+            "event_second_player": "H. Dart",
+            "second_player_key": 2998,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1534,
+            "tournament_round": "Washington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/451_l-zhu.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2998_h-dart.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11698348,
+            "event_date": "2022-08-01",
+            "event_time": "23:40",
+            "event_first_player": "M. Sherif",
+            "first_player_key": 510,
+            "event_second_player": "D. Vekic",
+            "second_player_key": 455,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Washington",
+            "tournament_key": 1534,
+            "tournament_round": "Washington - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/510_m-sherif.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/455_d-vekic.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

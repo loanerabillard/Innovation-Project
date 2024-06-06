@@ -1,0 +1,163 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 3638863,
+            "event_date": "2022-02-12",
+            "event_time": "14:50",
+            "event_first_player": "B. Bonzi",
+            "first_player_key": 1771,
+            "event_second_player": "Z. Bergs",
+            "second_player_key": 1064,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Cherbourg",
+            "tournament_key": 2511,
+            "tournament_round": "Cherbourg - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1771_b-bonzi.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1064_z-bergs.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 3638864,
+            "event_date": "2022-02-12",
+            "event_time": "17:20",
+            "event_first_player": "C. Lestienne",
+            "first_player_key": 1755,
+            "event_second_player": "E. Gulbis",
+            "second_player_key": 2733,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Cherbourg",
+            "tournament_key": 2511,
+            "tournament_round": "Cherbourg - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1755_c-lestienne.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2733_e-gulbis.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.4",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 4735471,
+            "event_date": "2022-02-12",
+            "event_time": "08:35",
+            "event_first_player": "B. Gojo",
+            "first_player_key": 377,
+            "event_second_player": "A. Muller",
+            "second_player_key": 374,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Bengaluru",
+            "tournament_key": 2799,
+            "tournament_round": "Bengaluru - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/377_b-gojo.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/374_a-muller.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 4735472,
+            "event_date": "2022-02-12",
+            "event_time": "10:45",
+            "event_first_player": "E. Couacaud",
+            "first_player_key": 394,
+            "event_second_player": "C. H. Tseng",
+            "second_player_key": 389,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Bengaluru",
+            "tournament_key": 2799,
+            "tournament_round": "Bengaluru - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/394_e-couacaud.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/389_c-h-tseng.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

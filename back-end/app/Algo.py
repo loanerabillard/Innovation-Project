@@ -8,7 +8,7 @@ import csv
 
 def incoming_games():
     matchs = pd.read_csv("data\\matches_csv\\events.csv")
-    tomorrow = datetime.today().date() + timedelta(days=1)
+    tomorrow = datetime.today().date()
     incoming_match_ids = []
 
     for index, row in matchs.iterrows():
@@ -112,7 +112,37 @@ def RESPONSE(match_ids):
     # Convertir le dictionnaire en format JSON
     json_response = json.dumps(response_dict, indent=2)
 
-    pprint(json_response)
     return response_dict
 
+def RESPONSE2(response):
+    match_infos = response["matches"]
+    # Calculer le meilleur ratio pour chaque match
+    for match_info in match_infos:
+        ratio_player_1 = match_info["win_percentage_player_1"] * match_info.get("odd_player_1", 0)
+        ratio_player_2 = match_info["win_percentage_player_2"] * match_info.get("odd_player_2", 0)
+        match_info["meilleur_ratio"] = max(ratio_player_1, ratio_player_2)
+    
+    # Trier les matchs par meilleur ratio de manière décroissante
+    match_infos.sort(key=lambda x: x["meilleur_ratio"], reverse=True)
+    
+    # Ajouter le rang à chaque match et garder les trois premiers
+    for i, match_info in enumerate(match_infos[:3]):
+        match_info["rang"] = i + 1
+    
+    return match_infos
+
+def algo_répartition(match_infos, repartition):
+    # Calculer la note pour chaque match
+    for match_info in match_infos:
+        note_player_1 = match_info.get("odd_player_1", 1) * match_info["win_percentage_player_1"]
+        note_player_2 = match_info.get("odd_player_2", 1) * match_info["win_percentage_player_2"]
+        match_info["note"] = max(note_player_1, note_player_2)
+    
+    # Trier les matchs par note de manière décroissante
+    match_infos.sort(key=lambda x: x["note"], reverse=True)
+
+    for i, match_info in enumerate(match_infos[:3]):
+        match_info["repartition"] = repartition[i]
+
+    return match_infos
 

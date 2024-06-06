@@ -1,0 +1,528 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11207440,
+            "event_date": "2022-04-03",
+            "event_time": "17:00",
+            "event_first_player": "C. Alves",
+            "first_player_key": 495,
+            "event_second_player": "D. Seguel",
+            "second_player_key": 225,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Bogota",
+            "tournament_key": 1864,
+            "tournament_round": "Bogota - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/225_d-seguel.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11207441,
+            "event_date": "2022-04-03",
+            "event_time": "18:05",
+            "event_first_player": "E. Bektas",
+            "first_player_key": 1796,
+            "event_second_player": "S. Lamens",
+            "second_player_key": 450,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Bogota",
+            "tournament_key": 1864,
+            "tournament_round": "Bogota - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/450_s-lamens.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11207442,
+            "event_date": "2022-04-03",
+            "event_time": "19:00",
+            "event_first_player": "B. Gatica",
+            "first_player_key": 215,
+            "event_second_player": "T. Maria",
+            "second_player_key": 2414,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Bogota",
+            "tournament_key": 1864,
+            "tournament_round": "Bogota - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/215_b-gatica.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2414_t-maria.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6.3",
+                    "score_second": "7.7",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11207443,
+            "event_date": "2022-04-03",
+            "event_time": "19:35",
+            "event_first_player": "V. Grammatikopoulou",
+            "first_player_key": 504,
+            "event_second_player": "I. Oz",
+            "second_player_key": 486,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Bogota",
+            "tournament_key": 1864,
+            "tournament_round": "Bogota - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/504_v-grammatikopoulou.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11207444,
+            "event_date": "2022-04-03",
+            "event_time": "21:20",
+            "event_first_player": "L. Pigossi",
+            "first_player_key": 1125,
+            "event_second_player": "X. You",
+            "second_player_key": 1819,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Bogota",
+            "tournament_key": 1864,
+            "tournament_round": "Bogota - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1819_x-you.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11207445,
+            "event_date": "2022-04-03",
+            "event_time": "21:30",
+            "event_first_player": "D. Herdzelas",
+            "first_player_key": 1785,
+            "event_second_player": "M. L. Carle",
+            "second_player_key": 187,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Bogota",
+            "tournament_key": 1864,
+            "tournament_round": "Bogota - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1785_d-herdzelas.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11210539,
+            "event_date": "2022-04-03",
+            "event_time": "17:05",
+            "event_first_player": "H. Watson",
+            "first_player_key": 1155,
+            "event_second_player": "U. Eikeri",
+            "second_player_key": 1817,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Charleston",
+            "tournament_key": 1951,
+            "tournament_round": "Charleston - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1155_h-watson.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1817_u-eikeri.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11210540,
+            "event_date": "2022-04-03",
+            "event_time": "17:05",
+            "event_first_player": "N. Kichenok",
+            "first_player_key": 4174,
+            "event_second_player": "C. Harrison",
+            "second_player_key": 3455,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Charleston",
+            "tournament_key": 1951,
+            "tournament_round": "Charleston - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11210541,
+            "event_date": "2022-04-03",
+            "event_time": "18:05",
+            "event_first_player": "G. Min",
+            "first_player_key": 444,
+            "event_second_player": "S. Vickery",
+            "second_player_key": 1790,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Charleston",
+            "tournament_key": 1951,
+            "tournament_round": "Charleston - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1790_s-vickery.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11210542,
+            "event_date": "2022-04-03",
+            "event_time": "18:40",
+            "event_first_player": "R. Anderson",
+            "first_player_key": 1798,
+            "event_second_player": "C. Zhao",
+            "second_player_key": 1822,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Charleston",
+            "tournament_key": 1951,
+            "tournament_round": "Charleston - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1798_r-anderson.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1822_c-zhao.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11210543,
+            "event_date": "2022-04-03",
+            "event_time": "19:05",
+            "event_first_player": "L. Chirico",
+            "first_player_key": 456,
+            "event_second_player": "S. Chang",
+            "second_player_key": 2126,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Charleston",
+            "tournament_key": 1951,
+            "tournament_round": "Charleston - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/456_l-chirico.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.6",
+                    "score_second": "7.8",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11210544,
+            "event_date": "2022-04-03",
+            "event_time": "19:40",
+            "event_first_player": "F. Di Lorenzo",
+            "first_player_key": 1808,
+            "event_second_player": "L. Kichenok",
+            "second_player_key": 4170,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Charleston",
+            "tournament_key": 1951,
+            "tournament_round": "Charleston - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1808_f-di-lorenzo.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.3",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11210545,
+            "event_date": "2022-04-03",
+            "event_time": "20:05",
+            "event_first_player": "J. Loeb",
+            "first_player_key": 1782,
+            "event_second_player": "A. Kiick",
+            "second_player_key": 2588,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Charleston",
+            "tournament_key": 1951,
+            "tournament_round": "Charleston - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1782_j-loeb.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2588_a-kiick.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11210546,
+            "event_date": "2022-04-03",
+            "event_time": "20:55",
+            "event_first_player": "C. Vandeweghe",
+            "first_player_key": 1120,
+            "event_second_player": "G. Lee",
+            "second_player_key": 1786,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "Charleston",
+            "tournament_key": 1951,
+            "tournament_round": "Charleston - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1120_c-vandeweghe.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

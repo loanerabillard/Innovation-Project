@@ -1,0 +1,612 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11723244,
+            "event_date": "2022-02-05",
+            "event_time": "08:10",
+            "event_first_player": "K. Kucova",
+            "first_player_key": 506,
+            "event_second_player": "C. McNally",
+            "second_player_key": 1127,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "St. Petersburg",
+            "tournament_key": 2263,
+            "tournament_round": "St. Petersburg - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/506_k-kucova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1127_c-mcnally.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723245,
+            "event_date": "2022-02-05",
+            "event_time": "08:10",
+            "event_first_player": "V. Diatchenko",
+            "first_player_key": 1115,
+            "event_second_player": "K. Juvan",
+            "second_player_key": 519,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "St. Petersburg",
+            "tournament_key": 2263,
+            "tournament_round": "St. Petersburg - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1115_v-diatchenko.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/519_k-juvan.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723246,
+            "event_date": "2022-02-05",
+            "event_time": "09:30",
+            "event_first_player": "A. Tikhonova",
+            "first_player_key": 1122,
+            "event_second_player": "E. Shalimova",
+            "second_player_key": 9168,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "St. Petersburg",
+            "tournament_key": 2263,
+            "tournament_round": "St. Petersburg - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723247,
+            "event_date": "2022-02-05",
+            "event_time": "10:55",
+            "event_first_player": "N. Abduraimova",
+            "first_player_key": 1439,
+            "event_second_player": "A. Kalinskaya",
+            "second_player_key": 1820,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "St. Petersburg",
+            "tournament_key": 2263,
+            "tournament_round": "St. Petersburg - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1820_a-kalinskaya.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723248,
+            "event_date": "2022-02-05",
+            "event_time": "11:00",
+            "event_first_player": "S. Mendez",
+            "first_player_key": 481,
+            "event_second_player": "N. Vikhlyantseva",
+            "second_player_key": 452,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "St. Petersburg",
+            "tournament_key": 2263,
+            "tournament_round": "St. Petersburg - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/481_s-mendez.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/452_n-vikhlyantseva.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.3",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723249,
+            "event_date": "2022-02-05",
+            "event_time": "12:20",
+            "event_first_player": "A. Bondar",
+            "first_player_key": 505,
+            "event_second_player": "J. Niemeier",
+            "second_player_key": 471,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "St. Petersburg",
+            "tournament_key": 2263,
+            "tournament_round": "St. Petersburg - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/505_a-bondar.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/471_j-niemeier.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723250,
+            "event_date": "2022-02-05",
+            "event_time": "13:00",
+            "event_first_player": "E. Andreeva",
+            "first_player_key": 1958,
+            "event_second_player": "K. Mladenovic",
+            "second_player_key": 514,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "St. Petersburg",
+            "tournament_key": 2263,
+            "tournament_round": "St. Petersburg - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/514_k-mladenovic.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.8",
+                    "score_second": "7.10",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723251,
+            "event_date": "2022-02-05",
+            "event_time": "13:55",
+            "event_first_player": "V. Kuzmova",
+            "first_player_key": 445,
+            "event_second_player": "C. Bucsa",
+            "second_player_key": 454,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "St. Petersburg",
+            "tournament_key": 2263,
+            "tournament_round": "St. Petersburg - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/445_v-kuzmova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/454_c-bucsa.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723252,
+            "event_date": "2022-02-05",
+            "event_time": "15:20",
+            "event_first_player": "V. Gracheva",
+            "first_player_key": 1913,
+            "event_second_player": "A. Anshba",
+            "second_player_key": 1983,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "St. Petersburg",
+            "tournament_key": 2263,
+            "tournament_round": "St. Petersburg - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1913_v-gracheva.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723253,
+            "event_date": "2022-02-05",
+            "event_time": "16:00",
+            "event_first_player": "I. Bara",
+            "first_player_key": 28497,
+            "event_second_player": "D. Shnaider",
+            "second_player_key": 7403,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "St. Petersburg",
+            "tournament_key": 2263,
+            "tournament_round": "St. Petersburg - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/7403_d-shnaider.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723254,
+            "event_date": "2022-02-05",
+            "event_time": "16:35",
+            "event_first_player": "L. Zhu",
+            "first_player_key": 451,
+            "event_second_player": "A. Bogdan",
+            "second_player_key": 2004,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "St. Petersburg",
+            "tournament_key": 2263,
+            "tournament_round": "St. Petersburg - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/451_l-zhu.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2004_a-bogdan.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723255,
+            "event_date": "2022-02-05",
+            "event_time": "17:30",
+            "event_first_player": "Y. Bartashevich",
+            "first_player_key": 9169,
+            "event_second_player": "E. Gorgodze",
+            "second_player_key": 491,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "St. Petersburg",
+            "tournament_key": 2263,
+            "tournament_round": "St. Petersburg - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/491_e-gorgodze.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723256,
+            "event_date": "2022-02-05",
+            "event_time": "17:55",
+            "event_first_player": "U. Eikeri",
+            "first_player_key": 1817,
+            "event_second_player": "H. Dart",
+            "second_player_key": 2998,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "St. Petersburg",
+            "tournament_key": 2263,
+            "tournament_round": "St. Petersburg - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1817_u-eikeri.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2998_h-dart.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723257,
+            "event_date": "2022-02-05",
+            "event_time": "19:20",
+            "event_first_player": "V. Tomova",
+            "first_player_key": 499,
+            "event_second_player": "B. Pera",
+            "second_player_key": 518,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "St. Petersburg",
+            "tournament_key": 2263,
+            "tournament_round": "St. Petersburg - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/499_v-tomova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/518_b-pera.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723258,
+            "event_date": "2022-02-05",
+            "event_time": "19:20",
+            "event_first_player": "R. Peterson",
+            "first_player_key": 1811,
+            "event_second_player": "V. Savinykh",
+            "second_player_key": 1116,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "St. Petersburg",
+            "tournament_key": 2263,
+            "tournament_round": "St. Petersburg - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1811_r-peterson.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1116_v-savinykh.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11723259,
+            "event_date": "2022-02-05",
+            "event_time": "20:50",
+            "event_first_player": "A. Gasanova",
+            "first_player_key": 468,
+            "event_second_player": "E. Kazionova",
+            "second_player_key": 1985,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "St. Petersburg",
+            "tournament_key": 2263,
+            "tournament_round": "St. Petersburg - Quarter-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/468_a-gasanova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1985_e-kazionova.jpg",
+            "event_qualification": "True",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.7",
+                    "score_second": "7.9",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

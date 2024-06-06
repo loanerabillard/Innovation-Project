@@ -1,0 +1,870 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 156292,
+            "event_date": "2022-08-11",
+            "event_time": "01:10",
+            "event_first_player": "F. Verdasco",
+            "first_player_key": 407,
+            "event_second_player": "L. Broady",
+            "second_player_key": 410,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "Cancelled",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Chicago Challenger Men",
+            "tournament_key": 3069,
+            "tournament_round": "",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/407_f-verdasco.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/410_l-broady.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11751596,
+            "event_date": "2022-08-11",
+            "event_time": "00:35",
+            "event_first_player": "L. Tu",
+            "first_player_key": 1883,
+            "event_second_player": "L. Broady",
+            "second_player_key": 410,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Chicago",
+            "tournament_key": 3069,
+            "tournament_round": "Chicago - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/410_l-broady.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11751597,
+            "event_date": "2022-08-11",
+            "event_time": "00:40",
+            "event_first_player": "A. McHugh",
+            "first_player_key": 875,
+            "event_second_player": "Z. Svajda",
+            "second_player_key": 2986,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Chicago",
+            "tournament_key": 3069,
+            "tournament_round": "Chicago - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/875_a-mchugh.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2986_z-svajda.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11751598,
+            "event_date": "2022-08-11",
+            "event_time": "17:10",
+            "event_first_player": "G. A. Olivieri",
+            "first_player_key": 2407,
+            "event_second_player": "R. Safiullin",
+            "second_player_key": 1057,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Chicago",
+            "tournament_key": 3069,
+            "tournament_round": "Chicago - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2407_g-a-olivieri.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1057_r-safiullin.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11751599,
+            "event_date": "2022-08-11",
+            "event_time": "17:15",
+            "event_first_player": "B. Gojo",
+            "first_player_key": 377,
+            "event_second_player": "M. Kukushkin",
+            "second_player_key": 2970,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Chicago",
+            "tournament_key": 3069,
+            "tournament_round": "Chicago - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/377_b-gojo.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2970_m-kukushkin.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.1",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11751600,
+            "event_date": "2022-08-11",
+            "event_time": "17:15",
+            "event_first_player": "A. Escoffier",
+            "first_player_key": 1068,
+            "event_second_player": "R. Albot",
+            "second_player_key": 363,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Chicago",
+            "tournament_key": 3069,
+            "tournament_round": "Chicago - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1068_a-escoffier.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/363_r-albot.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11751601,
+            "event_date": "2022-08-11",
+            "event_time": "19:00",
+            "event_first_player": "L. Broady",
+            "first_player_key": 410,
+            "event_second_player": "B. Holt",
+            "second_player_key": 8158,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Chicago",
+            "tournament_key": 3069,
+            "tournament_round": "Chicago - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/410_l-broady.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/8158_b-holt.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11751602,
+            "event_date": "2022-08-11",
+            "event_time": "19:35",
+            "event_first_player": "G. Brouwer",
+            "first_player_key": 581,
+            "event_second_player": "C. O&apos;Connell",
+            "second_player_key": 421,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Chicago",
+            "tournament_key": 3069,
+            "tournament_round": "Chicago - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/581_g-brouwer.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/421_c-oaposconnell.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11751603,
+            "event_date": "2022-08-11",
+            "event_time": "19:55",
+            "event_first_player": "B. Harris",
+            "first_player_key": 1186,
+            "event_second_player": "B. Shelton",
+            "second_player_key": 2973,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Chicago",
+            "tournament_key": 3069,
+            "tournament_round": "Chicago - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1186_b-harris.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11751604,
+            "event_date": "2022-08-11",
+            "event_time": "21:15",
+            "event_first_player": "E. Escobedo",
+            "first_player_key": 402,
+            "event_second_player": "Z. Svajda",
+            "second_player_key": 2986,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Chicago",
+            "tournament_key": 3069,
+            "tournament_round": "Chicago - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/402_e-escobedo.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2986_z-svajda.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11751605,
+            "event_date": "2022-08-11",
+            "event_time": "21:25",
+            "event_first_player": "R. Harrison",
+            "first_player_key": 7889,
+            "event_second_player": "J. Thompson",
+            "second_player_key": 207,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Chicago",
+            "tournament_key": 3069,
+            "tournament_round": "Chicago - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/7889_r-harrison.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/207_j-thompson.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11735243,
+            "event_date": "2022-08-11",
+            "event_time": "16:35",
+            "event_first_player": "M. Janvier",
+            "first_player_key": 580,
+            "event_second_player": "P. Kotov",
+            "second_player_key": 415,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "San Marino",
+            "tournament_key": 2601,
+            "tournament_round": "San Marino - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/580_m-janvier.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/415_p-kotov.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11735244,
+            "event_date": "2022-08-11",
+            "event_time": "16:40",
+            "event_first_player": "J. De Jong",
+            "first_player_key": 412,
+            "event_second_player": "V. Vacherot",
+            "second_player_key": 1852,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "San Marino",
+            "tournament_key": 2601,
+            "tournament_round": "San Marino - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/412_j-de-jong.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11735245,
+            "event_date": "2022-08-11",
+            "event_time": "19:05",
+            "event_first_player": "M. Cecchinato",
+            "first_player_key": 1095,
+            "event_second_player": "F. Forti",
+            "second_player_key": 1191,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "San Marino",
+            "tournament_key": 2601,
+            "tournament_round": "San Marino - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1095_m-cecchinato.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1191_f-forti.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.3",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.8",
+                    "score_second": "6.6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11735246,
+            "event_date": "2022-08-11",
+            "event_time": "22:00",
+            "event_first_player": "L. Giustino",
+            "first_player_key": 370,
+            "event_second_player": "A. Weis",
+            "second_player_key": 2023,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "San Marino",
+            "tournament_key": 2601,
+            "tournament_round": "San Marino - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/370_l-giustino.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2023_a-weis.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11727315,
+            "event_date": "2022-08-11",
+            "event_time": "12:40",
+            "event_first_player": "N. Milojevic",
+            "first_player_key": 1745,
+            "event_second_player": "M. Moraing",
+            "second_player_key": 1750,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Meerbusch",
+            "tournament_key": 2378,
+            "tournament_round": "Meerbusch - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1745_n-milojevic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1750_m-moraing.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11727316,
+            "event_date": "2022-08-11",
+            "event_time": "14:45",
+            "event_first_player": "D. Dzumhur",
+            "first_player_key": 1079,
+            "event_second_player": "A. Andreev",
+            "second_player_key": 2409,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Meerbusch",
+            "tournament_key": 2378,
+            "tournament_round": "Meerbusch - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1079_d-dzumhur.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11727317,
+            "event_date": "2022-08-11",
+            "event_time": "15:25",
+            "event_first_player": "Y. Hanfmann",
+            "first_player_key": 1764,
+            "event_second_player": "C. Tabur",
+            "second_player_key": 1762,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Meerbusch",
+            "tournament_key": 2378,
+            "tournament_round": "Meerbusch - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1764_y-hanfmann.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1762_c-tabur.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11727318,
+            "event_date": "2022-08-11",
+            "event_time": "17:55",
+            "event_first_player": "D. Novak",
+            "first_player_key": 1753,
+            "event_second_player": "J-L. Struff",
+            "second_player_key": 2831,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Meerbusch",
+            "tournament_key": 2378,
+            "tournament_round": "Meerbusch - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1753_d-novak.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2831_j-l-struff.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11730669,
+            "event_date": "2022-08-11",
+            "event_time": "01:10",
+            "event_first_player": "T. M. Etcheverry",
+            "first_player_key": 1777,
+            "event_second_player": "R. Quiroz",
+            "second_player_key": 8618,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lima",
+            "tournament_key": 2473,
+            "tournament_round": "Lima - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1777_t-m-etcheverry.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/8618_r-quiroz.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11730670,
+            "event_date": "2022-08-11",
+            "event_time": "18:10",
+            "event_first_player": "C. Ugo Carabelli",
+            "first_player_key": 401,
+            "event_second_player": "A. Hoyos Franco",
+            "second_player_key": 7687,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lima",
+            "tournament_key": 2473,
+            "tournament_round": "Lima - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/401_c-ugo-carabelli.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11730671,
+            "event_date": "2022-08-11",
+            "event_time": "19:25",
+            "event_first_player": "A. Huertas Del Pino",
+            "first_player_key": 2188,
+            "event_second_player": "F. Mena",
+            "second_player_key": 378,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lima",
+            "tournament_key": 2473,
+            "tournament_round": "Lima - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/378_f-mena.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11730672,
+            "event_date": "2022-08-11",
+            "event_time": "20:50",
+            "event_first_player": "T. A. Tirante",
+            "first_player_key": 366,
+            "event_second_player": "N. Chappell",
+            "second_player_key": 1255,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Lima",
+            "tournament_key": 2473,
+            "tournament_round": "Lima - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/366_t-a-tirante.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1255_n-chappell.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

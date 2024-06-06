@@ -1,0 +1,1302 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11732056,
+            "event_date": "2022-06-01",
+            "event_time": "12:10",
+            "event_first_player": "M. Huesler",
+            "first_player_key": 1746,
+            "event_second_player": "B. Nakashima",
+            "second_player_key": 2838,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Surbiton",
+            "tournament_key": 2513,
+            "tournament_round": "Surbiton - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1746_m-huesler.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2838_b-nakashima.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.10",
+                    "score_second": "7.12",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11732057,
+            "event_date": "2022-06-01",
+            "event_time": "13:40",
+            "event_first_player": "R. Albot",
+            "first_player_key": 363,
+            "event_second_player": "G. Brouwer",
+            "second_player_key": 581,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Surbiton",
+            "tournament_key": 2513,
+            "tournament_round": "Surbiton - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/363_r-albot.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/581_g-brouwer.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11732058,
+            "event_date": "2022-06-01",
+            "event_time": "16:05",
+            "event_first_player": "S. Kozlov",
+            "first_player_key": 1087,
+            "event_second_player": "M. Moraing",
+            "second_player_key": 1750,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Surbiton",
+            "tournament_key": 2513,
+            "tournament_round": "Surbiton - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1087_s-kozlov.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1750_m-moraing.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11732059,
+            "event_date": "2022-06-01",
+            "event_time": "16:10",
+            "event_first_player": "A. Popyrin",
+            "first_player_key": 1926,
+            "event_second_player": "D. Kudla",
+            "second_player_key": 2919,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Surbiton",
+            "tournament_key": 2513,
+            "tournament_round": "Surbiton - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1926_al-popyrin.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2919_d-kudla.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11732060,
+            "event_date": "2022-06-01",
+            "event_time": "16:15",
+            "event_first_player": "Y. Sugita",
+            "first_player_key": 1075,
+            "event_second_player": "R. Ramanathan",
+            "second_player_key": 381,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Surbiton",
+            "tournament_key": 2513,
+            "tournament_round": "Surbiton - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1075_y-sugita.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/381_r-ramanathan.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6.2",
+                    "score_second": "7.7",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734876,
+            "event_date": "2022-06-01",
+            "event_time": "10:40",
+            "event_first_player": "E. Ymer",
+            "first_player_key": 1082,
+            "event_second_player": "M. Pucinelli de Almeida",
+            "second_player_key": 1743,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Prostejov",
+            "tournament_key": 2591,
+            "tournament_round": "Prostejov - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1082_e-ymer.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1743_m-pucinelli-de-almeida.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.3",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11732061,
+            "event_date": "2022-06-01",
+            "event_time": "16:45",
+            "event_first_player": "S. Querrey",
+            "first_player_key": 1744,
+            "event_second_player": "M. Purcell",
+            "second_player_key": 1749,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Surbiton",
+            "tournament_key": 2513,
+            "tournament_round": "Surbiton - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1744_s-querrey.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1749_m-purcell.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734877,
+            "event_date": "2022-06-01",
+            "event_time": "10:40",
+            "event_first_player": "F. Horansky",
+            "first_player_key": 1752,
+            "event_second_player": "F. Marozsan",
+            "second_player_key": 10148,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Prostejov",
+            "tournament_key": 2591,
+            "tournament_round": "Prostejov - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1752_f-horansky.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/10148_f-marozsan.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11732062,
+            "event_date": "2022-06-01",
+            "event_time": "17:20",
+            "event_first_player": "L. Broady",
+            "first_player_key": 410,
+            "event_second_player": "J. Clarke",
+            "second_player_key": 1739,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Surbiton",
+            "tournament_key": 2513,
+            "tournament_round": "Surbiton - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/410_l-broady.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734878,
+            "event_date": "2022-06-01",
+            "event_time": "12:10",
+            "event_first_player": "B. Hassan",
+            "first_player_key": 1896,
+            "event_second_player": "C. Hemery",
+            "second_player_key": 1206,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Prostejov",
+            "tournament_key": 2591,
+            "tournament_round": "Prostejov - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1896_b-hassan.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11732063,
+            "event_date": "2022-06-01",
+            "event_time": "17:45",
+            "event_first_player": "J. Thompson",
+            "first_player_key": 207,
+            "event_second_player": "M. Copil",
+            "second_player_key": 375,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Surbiton",
+            "tournament_key": 2513,
+            "tournament_round": "Surbiton - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/207_j-thompson.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/375_m-copil.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734879,
+            "event_date": "2022-06-01",
+            "event_time": "12:50",
+            "event_first_player": "V. Kopriva",
+            "first_player_key": 1083,
+            "event_second_player": "P. Andujar",
+            "second_player_key": 33998,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Prostejov",
+            "tournament_key": 2591,
+            "tournament_round": "Prostejov - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1083_v-kopriva.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11732064,
+            "event_date": "2022-06-01",
+            "event_time": "18:20",
+            "event_first_player": "J. Duckworth",
+            "first_player_key": 1900,
+            "event_second_player": "P. Herbert",
+            "second_player_key": 1748,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Surbiton",
+            "tournament_key": 2513,
+            "tournament_round": "Surbiton - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1900_j-duckworth.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1748_p-herbert.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734880,
+            "event_date": "2022-06-01",
+            "event_time": "13:15",
+            "event_first_player": "L. Klein",
+            "first_player_key": 1969,
+            "event_second_player": "E. Couacaud",
+            "second_player_key": 394,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Prostejov",
+            "tournament_key": 2591,
+            "tournament_round": "Prostejov - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1969_l-klein.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/394_e-couacaud.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11732065,
+            "event_date": "2022-06-01",
+            "event_time": "18:35",
+            "event_first_player": "M. Whitehouse",
+            "first_player_key": 738,
+            "event_second_player": "A. Gray",
+            "second_player_key": 2110,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Surbiton",
+            "tournament_key": 2513,
+            "tournament_round": "Surbiton - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/738_m-whitehouse.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734881,
+            "event_date": "2022-06-01",
+            "event_time": "13:55",
+            "event_first_player": "L. Wessels",
+            "first_player_key": 1955,
+            "event_second_player": "M. Krumich",
+            "second_player_key": 906,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Prostejov",
+            "tournament_key": 2591,
+            "tournament_round": "Prostejov - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1955_l-wessels.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11732066,
+            "event_date": "2022-06-01",
+            "event_time": "18:45",
+            "event_first_player": "R. Peniston",
+            "first_player_key": 1072,
+            "event_second_player": "A. Mannarino",
+            "second_player_key": 438,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Surbiton",
+            "tournament_key": 2513,
+            "tournament_round": "Surbiton - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1072_r-peniston.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/438_a-mannarino.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734882,
+            "event_date": "2022-06-01",
+            "event_time": "14:40",
+            "event_first_player": "F. Diaz Acosta",
+            "first_player_key": 2002,
+            "event_second_player": "H. Medjedovic",
+            "second_player_key": 2677,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Prostejov",
+            "tournament_key": 2591,
+            "tournament_round": "Prostejov - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2002_f-diaz-acosta.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2677_h-medjedovic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11732067,
+            "event_date": "2022-06-01",
+            "event_time": "19:20",
+            "event_first_player": "C. O&apos;Connell",
+            "first_player_key": 421,
+            "event_second_player": "S. Kwon",
+            "second_player_key": 1098,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Surbiton",
+            "tournament_key": 2513,
+            "tournament_round": "Surbiton - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/421_c-oaposconnell.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1098_s-kwon.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11734883,
+            "event_date": "2022-06-01",
+            "event_time": "15:05",
+            "event_first_player": "D. Svrcina",
+            "first_player_key": 1754,
+            "event_second_player": "E. Donskoy",
+            "second_player_key": 1071,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Prostejov",
+            "tournament_key": 2591,
+            "tournament_round": "Prostejov - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1754_d-svrcina.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1071_e-donskoy.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.2",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11732068,
+            "event_date": "2022-06-01",
+            "event_time": "19:55",
+            "event_first_player": "P. Jubb",
+            "first_player_key": 385,
+            "event_second_player": "M. Kukushkin",
+            "second_player_key": 2970,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Surbiton",
+            "tournament_key": 2513,
+            "tournament_round": "Surbiton - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2970_m-kukushkin.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.11",
+                    "score_second": "6.9",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11732069,
+            "event_date": "2022-06-01",
+            "event_time": "20:45",
+            "event_first_player": "T. Kokkinakis",
+            "first_player_key": 426,
+            "event_second_player": "O. Virtanen",
+            "second_player_key": 767,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Surbiton",
+            "tournament_key": 2513,
+            "tournament_round": "Surbiton - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/426_t-kokkinakis.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/767_o-virtanen.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11732070,
+            "event_date": "2022-06-01",
+            "event_time": "20:50",
+            "event_first_player": "B. Harris",
+            "first_player_key": 1186,
+            "event_second_player": "J. Draper",
+            "second_player_key": 7011,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Surbiton",
+            "tournament_key": 2513,
+            "tournament_round": "Surbiton - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1186_b-harris.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/7011_j-draper.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11753578,
+            "event_date": "2022-06-01",
+            "event_time": "00:40",
+            "event_first_player": "A. Menendez-Maceiras",
+            "first_player_key": 1884,
+            "event_second_player": "E. Gomez",
+            "second_player_key": 1061,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Little Rock",
+            "tournament_key": 3130,
+            "tournament_round": "Little Rock - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1884_a-menendez-maceiras.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1061_e-gomez.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11753579,
+            "event_date": "2022-06-01",
+            "event_time": "03:30",
+            "event_first_player": "B. Shelton",
+            "first_player_key": 2973,
+            "event_second_player": "C. Harrison",
+            "second_player_key": 1821,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Little Rock",
+            "tournament_key": 3130,
+            "tournament_round": "Little Rock - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11753580,
+            "event_date": "2022-06-01",
+            "event_time": "18:10",
+            "event_first_player": "K. Uchida",
+            "first_player_key": 568,
+            "event_second_player": "M. Cassone",
+            "second_player_key": 12744,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Little Rock",
+            "tournament_key": 3130,
+            "tournament_round": "Little Rock - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/568_k-uchida.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11753581,
+            "event_date": "2022-06-01",
+            "event_time": "18:15",
+            "event_first_player": "A. Kovacevic",
+            "first_player_key": 2978,
+            "event_second_player": "U. Blanch",
+            "second_player_key": 1862,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Little Rock",
+            "tournament_key": 3130,
+            "tournament_round": "Little Rock - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2978_a-kovacevic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1862_u-blanch.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11729883,
+            "event_date": "2022-06-01",
+            "event_time": "12:05",
+            "event_first_player": "G. Barrere",
+            "first_player_key": 1772,
+            "event_second_player": "G. A. Olivieri",
+            "second_player_key": 2407,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Poznan",
+            "tournament_key": 2453,
+            "tournament_round": "Poznan - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1772_g-barrere.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2407_g-a-olivieri.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6.0",
+                    "score_second": "7.7",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11729884,
+            "event_date": "2022-06-01",
+            "event_time": "12:10",
+            "event_first_player": "C. H. Tseng",
+            "first_player_key": 389,
+            "event_second_player": "A. Setkic",
+            "second_player_key": 1204,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Poznan",
+            "tournament_key": 2453,
+            "tournament_round": "Poznan - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/389_c-h-tseng.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1204_a-setkic.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.9",
+                    "score_second": "6.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11729885,
+            "event_date": "2022-06-01",
+            "event_time": "17:40",
+            "event_first_player": "A. Shevchenko",
+            "first_player_key": 566,
+            "event_second_player": "H. Laaksonen",
+            "second_player_key": 1967,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Poznan",
+            "tournament_key": 2453,
+            "tournament_round": "Poznan - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1967_h-laaksonen.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11816437,
+            "event_date": "2022-06-01",
+            "event_time": "11:10",
+            "event_first_player": "A. Collarini",
+            "first_player_key": 2189,
+            "event_second_player": "R. Bonadio",
+            "second_player_key": 1747,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli 6",
+            "tournament_key": 7141,
+            "tournament_round": "Forli 6 - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2189_a-collarini.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1747_r-bonadio.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11816438,
+            "event_date": "2022-06-01",
+            "event_time": "12:10",
+            "event_first_player": "G. Elias",
+            "first_player_key": 404,
+            "event_second_player": "J. Munar",
+            "second_player_key": 2083,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli 6",
+            "tournament_key": 7141,
+            "tournament_round": "Forli 6 - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/404_g-elias.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2083_j-munar.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11816439,
+            "event_date": "2022-06-01",
+            "event_time": "19:10",
+            "event_first_player": "T. Daniel",
+            "first_player_key": 2406,
+            "event_second_player": "M. Martineau",
+            "second_player_key": 1185,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli 6",
+            "tournament_key": 7141,
+            "tournament_round": "Forli 6 - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2406_t-daniel.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1185_m-martineau.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11816440,
+            "event_date": "2022-06-01",
+            "event_time": "20:45",
+            "event_first_player": "F. Passaro",
+            "first_player_key": 8442,
+            "event_second_player": "G. Zeppieri",
+            "second_player_key": 376,
+            "event_final_result": "1 - 0",
+            "event_game_result": "40 - 0",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Retired",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli 6",
+            "tournament_key": 7141,
+            "tournament_round": "Forli 6 - 1/8-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/8442_f-passaro.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/376_g-zeppieri.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

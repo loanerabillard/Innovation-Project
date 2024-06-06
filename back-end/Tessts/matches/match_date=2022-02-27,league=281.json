@@ -1,0 +1,912 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 5834017,
+            "event_date": "2022-02-27",
+            "event_time": "15:10",
+            "event_first_player": "V. Pospisil",
+            "first_player_key": 2852,
+            "event_second_player": "Q. Halys",
+            "second_player_key": 1925,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Pau",
+            "tournament_key": 3110,
+            "tournament_round": "Pau - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2852_v-pospisil.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1925_q-halys.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11776055,
+            "event_date": "2022-02-27",
+            "event_time": "14:10",
+            "event_first_player": "F. Reboul",
+            "first_player_key": 5790,
+            "event_second_player": "J. Gutierrez Oscar",
+            "second_player_key": 974,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Gran Canaria",
+            "tournament_key": 3920,
+            "tournament_round": "Gran Canaria - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/5790_f-reboul.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/974_j-gutierrez-oscar.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11776056,
+            "event_date": "2022-02-27",
+            "event_time": "14:10",
+            "event_first_player": "F. Misolic",
+            "first_player_key": 594,
+            "event_second_player": "B. P. Toledo",
+            "second_player_key": 1329,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Gran Canaria",
+            "tournament_key": 3920,
+            "tournament_round": "Gran Canaria - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/594_f-misolic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1329_b-p-toledo.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11776057,
+            "event_date": "2022-02-27",
+            "event_time": "14:20",
+            "event_first_player": "J. Nikles",
+            "first_player_key": 428,
+            "event_second_player": "S. Doumbia",
+            "second_player_key": 5794,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Gran Canaria",
+            "tournament_key": 3920,
+            "tournament_round": "Gran Canaria - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/428_j-nikles.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/5794_s-doumbia.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7",
+                    "score_second": "5",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11776058,
+            "event_date": "2022-02-27",
+            "event_time": "15:40",
+            "event_first_player": "O. Roca Batalla",
+            "first_player_key": 588,
+            "event_second_player": "D. Galoppini",
+            "second_player_key": 1193,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Gran Canaria",
+            "tournament_key": 3920,
+            "tournament_round": "Gran Canaria - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/588_o-roca-batalla.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1193_d-galoppini.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "7.10",
+                    "score_second": "6.8",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11776059,
+            "event_date": "2022-02-27",
+            "event_time": "15:55",
+            "event_first_player": "I. Marrero Curbelo",
+            "first_player_key": 4727,
+            "event_second_player": "V. Orlov",
+            "second_player_key": 932,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Gran Canaria",
+            "tournament_key": 3920,
+            "tournament_round": "Gran Canaria - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/932_v-orlov.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11776060,
+            "event_date": "2022-02-27",
+            "event_time": "16:05",
+            "event_first_player": "M. Martineau",
+            "first_player_key": 1185,
+            "event_second_player": "L. Helguera Casado",
+            "second_player_key": 17991,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Gran Canaria",
+            "tournament_key": 3920,
+            "tournament_round": "Gran Canaria - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1185_m-martineau.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11776061,
+            "event_date": "2022-02-27",
+            "event_time": "16:35",
+            "event_first_player": "T. Quesada Perez",
+            "first_player_key": 17992,
+            "event_second_player": "A. Gautier",
+            "second_player_key": 6628,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Gran Canaria",
+            "tournament_key": 3920,
+            "tournament_round": "Gran Canaria - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11776062,
+            "event_date": "2022-02-27",
+            "event_time": "17:15",
+            "event_first_player": "S. Gima",
+            "first_player_key": 2015,
+            "event_second_player": "M. Perchicot",
+            "second_player_key": 4252,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Gran Canaria",
+            "tournament_key": 3920,
+            "tournament_round": "Gran Canaria - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/4252_m-perchicot.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.4",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11776063,
+            "event_date": "2022-02-27",
+            "event_time": "17:50",
+            "event_first_player": "M. Chazal",
+            "first_player_key": 1332,
+            "event_second_player": "R. Noguchi",
+            "second_player_key": 690,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Gran Canaria",
+            "tournament_key": 3920,
+            "tournament_round": "Gran Canaria - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/690_r-noguchi.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11776064,
+            "event_date": "2022-02-27",
+            "event_time": "18:55",
+            "event_first_player": "L. Wessels",
+            "first_player_key": 1955,
+            "event_second_player": "O. G. Morales Barrera",
+            "second_player_key": 17993,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Gran Canaria",
+            "tournament_key": 3920,
+            "tournament_round": "Gran Canaria - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1955_l-wessels.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11776065,
+            "event_date": "2022-02-27",
+            "event_time": "19:10",
+            "event_first_player": "C. Hemery",
+            "first_player_key": 1206,
+            "event_second_player": "C. Lopez Montagud",
+            "second_player_key": 975,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Gran Canaria",
+            "tournament_key": 3920,
+            "tournament_round": "Gran Canaria - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/975_c-lopez-montagud.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "2",
+                    "score_second": "6",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11809169,
+            "event_date": "2022-02-27",
+            "event_time": "15:10",
+            "event_first_player": "A. Ritschard",
+            "first_player_key": 408,
+            "event_second_player": "J. Draper",
+            "second_player_key": 7011,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Forli 5",
+            "tournament_key": 5281,
+            "tournament_round": "Forli 5 - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/408_a-ritschard.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/7011_j-draper.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6.8",
+                    "score_second": "7.10",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11809510,
+            "event_date": "2022-02-27",
+            "event_time": "10:10",
+            "event_first_player": "M. Rosenkranz",
+            "first_player_key": 1850,
+            "event_second_player": "E. King",
+            "second_player_key": 6766,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Turin 2",
+            "tournament_key": 5295,
+            "tournament_round": "Turin 2 - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1850_m-rosenkranz.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/6766_e-king.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11809511,
+            "event_date": "2022-02-27",
+            "event_time": "10:10",
+            "event_first_player": "F. C. Jianu",
+            "first_player_key": 576,
+            "event_second_player": "J. Eysseric",
+            "second_player_key": 5493,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Turin 2",
+            "tournament_key": 5295,
+            "tournament_round": "Turin 2 - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/576_f-c-jianu.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/5493_j-eysseric.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11809512,
+            "event_date": "2022-02-27",
+            "event_time": "11:45",
+            "event_first_player": "A. Spadola",
+            "first_player_key": 14613,
+            "event_second_player": "T. Simon",
+            "second_player_key": 4422,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Turin 2",
+            "tournament_key": 5295,
+            "tournament_round": "Turin 2 - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/4422_t-simon.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11809513,
+            "event_date": "2022-02-27",
+            "event_time": "12:00",
+            "event_first_player": "G. Brouwer",
+            "first_player_key": 581,
+            "event_second_player": "D. C. Spiridon",
+            "second_player_key": 25278,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Turin 2",
+            "tournament_key": 5295,
+            "tournament_round": "Turin 2 - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/581_g-brouwer.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        },
+        {
+            "event_key": 11809514,
+            "event_date": "2022-02-27",
+            "event_time": "13:00",
+            "event_first_player": "S. Reitano",
+            "first_player_key": 951,
+            "event_second_player": "R. Smith",
+            "second_player_key": 7919,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Turin 2",
+            "tournament_key": 5295,
+            "tournament_round": "Turin 2 - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/7919_r-smith.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11809515,
+            "event_date": "2022-02-27",
+            "event_time": "13:25",
+            "event_first_player": "M. Geerts",
+            "first_player_key": 587,
+            "event_second_player": "O. Moraing",
+            "second_player_key": 2211,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Turin 2",
+            "tournament_key": 5295,
+            "tournament_round": "Turin 2 - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/587_m-geerts.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2211_o-moraing.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11809516,
+            "event_date": "2022-02-27",
+            "event_time": "14:40",
+            "event_first_player": "G. Ferrari",
+            "first_player_key": 658,
+            "event_second_player": "A. Bellier",
+            "second_player_key": 1198,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Turin 2",
+            "tournament_key": 5295,
+            "tournament_round": "Turin 2 - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1198_a-bellier.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6.7",
+                    "score_second": "7.9",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11809517,
+            "event_date": "2022-02-27",
+            "event_time": "15:20",
+            "event_first_player": "R. Peniston",
+            "first_player_key": 1072,
+            "event_second_player": "M. Brugnerotto",
+            "second_player_key": 788,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Turin 2",
+            "tournament_key": 5295,
+            "tournament_round": "Turin 2 - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1072_r-peniston.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/788_m-brugnerotto.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11809518,
+            "event_date": "2022-02-27",
+            "event_time": "16:10",
+            "event_first_player": "K. Lemstra",
+            "first_player_key": 1299,
+            "event_second_player": "K. De Schepper",
+            "second_player_key": 990,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Turin 2",
+            "tournament_key": 5295,
+            "tournament_round": "Turin 2 - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/990_k-de-schepper.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "1",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11809519,
+            "event_date": "2022-02-27",
+            "event_time": "16:40",
+            "event_first_player": "A. Escoffier",
+            "first_player_key": 1068,
+            "event_second_player": "V. V. Cornea",
+            "second_player_key": 8676,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Turin 2",
+            "tournament_key": 5295,
+            "tournament_round": "Turin 2 - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1068_a-escoffier.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/8676_v-v-cornea.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11809520,
+            "event_date": "2022-02-27",
+            "event_time": "17:30",
+            "event_first_player": "A. Fils",
+            "first_player_key": 1759,
+            "event_second_player": "S. Robert",
+            "second_player_key": 3368,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Turin 2",
+            "tournament_key": 5295,
+            "tournament_round": "Turin 2 - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1759_a-fils.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11809521,
+            "event_date": "2022-02-27",
+            "event_time": "17:50",
+            "event_first_player": "T. Lamasine",
+            "first_player_key": 1973,
+            "event_second_player": "A. Olivetti",
+            "second_player_key": 5067,
+            "event_final_result": "1 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Men Singles",
+            "tournament_name": "Turin 2",
+            "tournament_key": 5295,
+            "tournament_round": "Turin 2 - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1973_t-lamasine.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/5067_a-olivetti.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "5",
+                    "score_second": "7",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6.1",
+                    "score_second": "7.7",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}
