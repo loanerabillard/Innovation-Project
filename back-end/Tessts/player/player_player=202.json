@@ -1,0 +1,184 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 202,
+            "player_name": "M. Kononova",
+            "player_country": "World",
+            "player_bday": "04.03.1997",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "311",
+                    "titles": "2",
+                    "matches_won": "17",
+                    "matches_lost": "13",
+                    "hard_won": "9",
+                    "hard_lost": "8",
+                    "clay_won": "8",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "519",
+                    "titles": "2",
+                    "matches_won": "19",
+                    "matches_lost": "12",
+                    "hard_won": "12",
+                    "hard_lost": "8",
+                    "clay_won": "7",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "1231",
+                    "titles": "0",
+                    "matches_won": "2",
+                    "matches_lost": "2",
+                    "hard_won": "2",
+                    "hard_lost": "2",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "648",
+                    "titles": "0",
+                    "matches_won": "8",
+                    "matches_lost": "7",
+                    "hard_won": "6",
+                    "hard_lost": "4",
+                    "clay_won": "2",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "1165",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "5",
+                    "hard_won": "1",
+                    "hard_lost": "3",
+                    "clay_won": "0",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "230",
+                    "titles": "4",
+                    "matches_won": "28",
+                    "matches_lost": "7",
+                    "hard_won": "2",
+                    "hard_lost": "1",
+                    "clay_won": "26",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "822",
+                    "titles": "0",
+                    "matches_won": "5",
+                    "matches_lost": "8",
+                    "hard_won": "2",
+                    "hard_lost": "2",
+                    "clay_won": "3",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W25 Zephyrhills, FL (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W15 Waco, TX (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Naples, FL (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W60 Evansville, IN (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W35 Wesley Chapel, FL (ITF)",
+                    "season": "2024",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W15 Campinas (ITF)",
+                    "season": "2024",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W35 Boca Raton, FL 2 (ITF)",
+                    "season": "2024",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W75 Florian\u00f3polis (ITF)",
+                    "season": "2024",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$60,000"
+                }
+            ]
+        }
+    ]
+}

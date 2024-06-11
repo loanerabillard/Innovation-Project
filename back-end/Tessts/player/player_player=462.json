@@ -1,0 +1,275 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 462,
+            "player_name": "L. Miyazaki",
+            "player_country": "United Kingdom",
+            "player_bday": "11.11.1995",
+            "player_logo": "https://api.api-tennis.com/logo-tennis/462_l-miyazaki.jpg",
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "319",
+                    "titles": "1",
+                    "matches_won": "13",
+                    "matches_lost": "17",
+                    "hard_won": "10",
+                    "hard_lost": "14",
+                    "clay_won": "2",
+                    "clay_lost": "2",
+                    "grass_won": "1",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "280",
+                    "titles": "3",
+                    "matches_won": "35",
+                    "matches_lost": "20",
+                    "hard_won": "24",
+                    "hard_lost": "11",
+                    "clay_won": "11",
+                    "clay_lost": "9",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "574",
+                    "titles": "1",
+                    "matches_won": "7",
+                    "matches_lost": "5",
+                    "hard_won": "7",
+                    "hard_lost": "5",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "187",
+                    "titles": "1",
+                    "matches_won": "34",
+                    "matches_lost": "30",
+                    "hard_won": "26",
+                    "hard_lost": "21",
+                    "clay_won": "3",
+                    "clay_lost": "4",
+                    "grass_won": "5",
+                    "grass_lost": "5"
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "223",
+                    "titles": "2",
+                    "matches_won": "42",
+                    "matches_lost": "22",
+                    "hard_won": "33",
+                    "hard_lost": "12",
+                    "clay_won": "9",
+                    "clay_lost": "10",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "347",
+                    "titles": "1",
+                    "matches_won": "14",
+                    "matches_lost": "8",
+                    "hard_won": "14",
+                    "hard_lost": "8",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "singles",
+                    "rank": "497",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "2",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "186",
+                    "titles": "0",
+                    "matches_won": "31",
+                    "matches_lost": "29",
+                    "hard_won": "26",
+                    "hard_lost": "19",
+                    "clay_won": "1",
+                    "clay_lost": "7",
+                    "grass_won": "4",
+                    "grass_lost": "3"
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "275",
+                    "titles": "2",
+                    "matches_won": "16",
+                    "matches_lost": "14",
+                    "hard_won": "13",
+                    "hard_lost": "8",
+                    "clay_won": "3",
+                    "clay_lost": "4",
+                    "grass_won": "0",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "259",
+                    "titles": "0",
+                    "matches_won": "6",
+                    "matches_lost": "7",
+                    "hard_won": "5",
+                    "hard_lost": "6",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "1",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "145",
+                    "titles": "2",
+                    "matches_won": "18",
+                    "matches_lost": "13",
+                    "hard_won": "18",
+                    "hard_lost": "9",
+                    "clay_won": "0",
+                    "clay_lost": "3",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W60 Grenoble (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W25 Florence, SC (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Porto (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W15 Sharm El Sheikh 8 (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Lousada 2 (ITF)",
+                    "season": "2020",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Sharm El Sheikh 8 (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Sharm El Sheikh 6 (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W25 Yokohama (ITF)",
+                    "season": "2020",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W60 Glasgow (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W25 Roehampton 2 (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W60 Nantes (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W75 Andrezieux-Boutheon (ITF)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "hard (indoor)",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W75 Croissy-Beaubourg (ITF)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "hard (indoor)",
+                    "prize": "$60,000"
+                }
+            ]
+        }
+    ]
+}

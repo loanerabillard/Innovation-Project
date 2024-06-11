@@ -1,0 +1,170 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 147,
+            "player_name": "M. Hodzic",
+            "player_country": "Germany",
+            "player_bday": "06.06.2002",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "1",
+                    "type": "doubles",
+                    "rank": "1",
+                    "titles": "1",
+                    "matches_won": "1",
+                    "matches_lost": "1",
+                    "hard_won": "1",
+                    "hard_lost": "1",
+                    "clay_won": "1",
+                    "clay_lost": "1",
+                    "grass_won": "1",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2",
+                    "type": "doubles",
+                    "rank": "2",
+                    "titles": "2",
+                    "matches_won": "2",
+                    "matches_lost": "2",
+                    "hard_won": "2",
+                    "hard_lost": "2",
+                    "clay_won": "2",
+                    "clay_lost": "2",
+                    "grass_won": "2",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "",
+                    "matches_won": "",
+                    "matches_lost": "",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "0",
+                    "type": "doubles",
+                    "rank": "0",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "0",
+                    "hard_won": "0",
+                    "hard_lost": "0",
+                    "clay_won": "0",
+                    "clay_lost": "0",
+                    "grass_won": "0",
+                    "grass_lost": "0"
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "1070",
+                    "titles": "0",
+                    "matches_won": "7",
+                    "matches_lost": "4",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "7",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "483",
+                    "titles": "1",
+                    "matches_won": "6",
+                    "matches_lost": "2",
+                    "hard_won": "1",
+                    "hard_lost": "1",
+                    "clay_won": "5",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "902",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "5",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "1",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "863",
+                    "titles": "1",
+                    "matches_won": "7",
+                    "matches_lost": "4",
+                    "hard_won": "7",
+                    "hard_lost": "3",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "singles",
+                    "rank": "1043",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "745",
+                    "titles": "0",
+                    "matches_won": "6",
+                    "matches_lost": "7",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "6",
+                    "clay_lost": "7",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W60 Biarritz (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W15 Manacor 2 (ITF)",
+                    "season": "2020",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                }
+            ]
+        }
+    ]
+}

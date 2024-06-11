@@ -1,0 +1,289 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 212,
+            "player_name": "M. Kolodziejova",
+            "player_country": "Czech Republic",
+            "player_bday": "11.04.1997",
+            "player_logo": "https://api.api-tennis.com/logo-tennis/212_m-kolodziejova.jpg",
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "71",
+                    "titles": "9",
+                    "matches_won": "48",
+                    "matches_lost": "17",
+                    "hard_won": "15",
+                    "hard_lost": "5",
+                    "clay_won": "33",
+                    "clay_lost": "12",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "226",
+                    "titles": "3",
+                    "matches_won": "31",
+                    "matches_lost": "14",
+                    "hard_won": "13",
+                    "hard_lost": "6",
+                    "clay_won": "18",
+                    "clay_lost": "8",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "529",
+                    "titles": "1",
+                    "matches_won": "16",
+                    "matches_lost": "7",
+                    "hard_won": "7",
+                    "hard_lost": "2",
+                    "clay_won": "9",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "507",
+                    "titles": "0",
+                    "matches_won": "10",
+                    "matches_lost": "17",
+                    "hard_won": "0",
+                    "hard_lost": "2",
+                    "clay_won": "10",
+                    "clay_lost": "14",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "273",
+                    "titles": "1",
+                    "matches_won": "27",
+                    "matches_lost": "25",
+                    "hard_won": "3",
+                    "hard_lost": "12",
+                    "clay_won": "24",
+                    "clay_lost": "13",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "451",
+                    "titles": "1",
+                    "matches_won": "18",
+                    "matches_lost": "9",
+                    "hard_won": "4",
+                    "hard_lost": "5",
+                    "clay_won": "14",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "singles",
+                    "rank": "970",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2018",
+                    "type": "singles",
+                    "rank": "277",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "4",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "1",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2017",
+                    "type": "singles",
+                    "rank": "371",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "3",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "1",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2016",
+                    "type": "singles",
+                    "rank": "510",
+                    "titles": "0",
+                    "matches_won": "2",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "2",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "46",
+                    "titles": "0",
+                    "matches_won": "12",
+                    "matches_lost": "13",
+                    "hard_won": "6",
+                    "hard_lost": "5",
+                    "clay_won": "6",
+                    "clay_lost": "7",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "871",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W60 Chiasso (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W15 Antalya 6 (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W25 Antalya 2 (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W60 Prague (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W15 Antalya 10 (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W25 Potchefstroom 2 (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Trnava (ITF)",
+                    "season": "2020",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Otocec (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W15 Heraklion 4 (ITF)",
+                    "season": "2020",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W60 Prerov (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W100 Shrewsbury (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$100,000"
+                },
+                {
+                    "name": "W80 Poitiers (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$80,000"
+                },
+                {
+                    "name": "W60 Hamburg (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "Parma",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$251,750"
+                },
+                {
+                    "name": "W25 Frydek Mistek (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                }
+            ]
+        }
+    ]
+}

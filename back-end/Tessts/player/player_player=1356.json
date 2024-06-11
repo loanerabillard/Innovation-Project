@@ -1,0 +1,85 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 1356,
+            "player_name": "L. Fernandez",
+            "player_country": "Mexico",
+            "player_bday": "01.01.1970",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "9",
+                    "hard_won": "3",
+                    "hard_lost": "9",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "5",
+                    "hard_won": "1",
+                    "hard_lost": "5",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "732",
+                    "titles": "1",
+                    "matches_won": "18",
+                    "matches_lost": "9",
+                    "hard_won": "18",
+                    "hard_lost": "9",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "2",
+                    "matches_lost": "4",
+                    "hard_won": "2",
+                    "hard_lost": "4",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "962",
+                    "titles": "0",
+                    "matches_won": "12",
+                    "matches_lost": "9",
+                    "hard_won": "12",
+                    "hard_lost": "9",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": []
+        }
+    ]
+}

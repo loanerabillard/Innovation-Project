@@ -1,0 +1,247 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 524,
+            "player_name": "E. Makarova",
+            "player_country": "World",
+            "player_bday": "15.02.1996",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "3",
+                    "matches_won": "24",
+                    "matches_lost": "16",
+                    "hard_won": "12",
+                    "hard_lost": "6",
+                    "clay_won": "12",
+                    "clay_lost": "10",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "3",
+                    "matches_won": "24",
+                    "matches_lost": "22",
+                    "hard_won": "6",
+                    "hard_lost": "8",
+                    "clay_won": "18",
+                    "clay_lost": "14",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "581",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "2",
+                    "matches_won": "31",
+                    "matches_lost": "25",
+                    "hard_won": "7",
+                    "hard_lost": "10",
+                    "clay_won": "24",
+                    "clay_lost": "14",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "31",
+                    "matches_lost": "23",
+                    "hard_won": "12",
+                    "hard_lost": "8",
+                    "clay_won": "19",
+                    "clay_lost": "15",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "529",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "1",
+                    "hard_won": "3",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "singles",
+                    "rank": "532",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "328",
+                    "titles": "1",
+                    "matches_won": "21",
+                    "matches_lost": "19",
+                    "hard_won": "7",
+                    "hard_lost": "4",
+                    "clay_won": "14",
+                    "clay_lost": "15",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "185",
+                    "titles": "1",
+                    "matches_won": "57",
+                    "matches_lost": "37",
+                    "hard_won": "19",
+                    "hard_lost": "12",
+                    "clay_won": "38",
+                    "clay_lost": "24",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "172",
+                    "titles": "0",
+                    "matches_won": "11",
+                    "matches_lost": "18",
+                    "hard_won": "2",
+                    "hard_lost": "7",
+                    "clay_won": "9",
+                    "clay_lost": "11",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "356",
+                    "titles": "0",
+                    "matches_won": "5",
+                    "matches_lost": "7",
+                    "hard_won": "0",
+                    "hard_lost": "2",
+                    "clay_won": "5",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W25 Horb (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Verbier (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W15 Vilnius (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Shymkent 3 (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W25 Trnava 2 (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Heraklion 2 (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Slobozia (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Heraklion 2 (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Horb (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W40 Navi Mumbai (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$40,000"
+                }
+            ]
+        }
+    ]
+}

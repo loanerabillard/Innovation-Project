@@ -1,0 +1,141 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 137,
+            "player_name": "C. Cervino Ruiz",
+            "player_country": "Spain",
+            "player_bday": "14.12.1997",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "474",
+                    "titles": "0",
+                    "matches_won": "11",
+                    "matches_lost": "11",
+                    "hard_won": "8",
+                    "hard_lost": "6",
+                    "clay_won": "3",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "337",
+                    "titles": "2",
+                    "matches_won": "19",
+                    "matches_lost": "12",
+                    "hard_won": "19",
+                    "hard_lost": "12",
+                    "clay_won": "0",
+                    "clay_lost": "0",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "525",
+                    "titles": "0",
+                    "matches_won": "19",
+                    "matches_lost": "14",
+                    "hard_won": "12",
+                    "hard_lost": "10",
+                    "clay_won": "7",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "728",
+                    "titles": "0",
+                    "matches_won": "9",
+                    "matches_lost": "14",
+                    "hard_won": "8",
+                    "hard_lost": "11",
+                    "clay_won": "1",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "554",
+                    "titles": "1",
+                    "matches_won": "20",
+                    "matches_lost": "13",
+                    "hard_won": "15",
+                    "hard_lost": "12",
+                    "clay_won": "5",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "808",
+                    "titles": "0",
+                    "matches_won": "7",
+                    "matches_lost": "12",
+                    "hard_won": "4",
+                    "hard_lost": "8",
+                    "clay_won": "3",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "886",
+                    "titles": "0",
+                    "matches_won": "5",
+                    "matches_lost": "9",
+                    "hard_won": "3",
+                    "hard_lost": "7",
+                    "clay_won": "2",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "1038",
+                    "titles": "0",
+                    "matches_won": "4",
+                    "matches_lost": "7",
+                    "hard_won": "4",
+                    "hard_lost": "5",
+                    "clay_won": "0",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "1010",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": []
+        }
+    ]
+}

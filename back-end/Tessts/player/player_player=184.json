@@ -1,0 +1,121 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 184,
+            "player_name": "T. Cvetkovic",
+            "player_country": "Slovenia",
+            "player_bday": "04.12.2000",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "609",
+                    "titles": "1",
+                    "matches_won": "12",
+                    "matches_lost": "11",
+                    "hard_won": "4",
+                    "hard_lost": "5",
+                    "clay_won": "8",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "1003",
+                    "titles": "1",
+                    "matches_won": "5",
+                    "matches_lost": "2",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "5",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "673",
+                    "titles": "0",
+                    "matches_won": "7",
+                    "matches_lost": "7",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "7",
+                    "clay_lost": "7",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "622",
+                    "titles": "0",
+                    "matches_won": "7",
+                    "matches_lost": "9",
+                    "hard_won": "0",
+                    "hard_lost": "2",
+                    "clay_won": "7",
+                    "clay_lost": "7",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "961",
+                    "titles": "0",
+                    "matches_won": "7",
+                    "matches_lost": "3",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "7",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "526",
+                    "titles": "1",
+                    "matches_won": "3",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "3",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W15 Gonesse (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay (indoor)",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Otocec (ITF)",
+                    "season": "2020",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15000"
+                },
+                {
+                    "name": "W25 Poertschach (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                }
+            ]
+        }
+    ]
+}

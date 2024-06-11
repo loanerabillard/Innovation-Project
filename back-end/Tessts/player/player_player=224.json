@@ -1,0 +1,268 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 224,
+            "player_name": "J. Ortenzi",
+            "player_country": "Argentina",
+            "player_bday": "20.11.2001",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "566",
+                    "titles": "0",
+                    "matches_won": "10",
+                    "matches_lost": "11",
+                    "hard_won": "3",
+                    "hard_lost": "1",
+                    "clay_won": "5",
+                    "clay_lost": "9",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "604",
+                    "titles": "3",
+                    "matches_won": "25",
+                    "matches_lost": "11",
+                    "hard_won": "11",
+                    "hard_lost": "2",
+                    "clay_won": "14",
+                    "clay_lost": "9",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "775",
+                    "titles": "0",
+                    "matches_won": "6",
+                    "matches_lost": "5",
+                    "hard_won": "3",
+                    "hard_lost": "4",
+                    "clay_won": "3",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "doubles",
+                    "rank": "802",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "2",
+                    "hard_won": "0",
+                    "hard_lost": "0",
+                    "clay_won": "0",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "544",
+                    "titles": "0",
+                    "matches_won": "12",
+                    "matches_lost": "12",
+                    "hard_won": "1",
+                    "hard_lost": "2",
+                    "clay_won": "10",
+                    "clay_lost": "10",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "535",
+                    "titles": "3",
+                    "matches_won": "31",
+                    "matches_lost": "13",
+                    "hard_won": "9",
+                    "hard_lost": "5",
+                    "clay_won": "22",
+                    "clay_lost": "8",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "669",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "4",
+                    "hard_won": "3",
+                    "hard_lost": "4",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "648",
+                    "titles": "1",
+                    "matches_won": "13",
+                    "matches_lost": "6",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "13",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "759",
+                    "titles": "2",
+                    "matches_won": "18",
+                    "matches_lost": "8",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "18",
+                    "clay_lost": "8",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "511",
+                    "titles": "3",
+                    "matches_won": "30",
+                    "matches_lost": "8",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "30",
+                    "clay_lost": "8",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "570",
+                    "titles": "2",
+                    "matches_won": "15",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "15",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W15 Recife (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "clay (indoor)",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Antalya 33 (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Monastir 32 (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Monastir 31 (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Recife (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay (indoor)",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Curitiba (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Antalya 35 (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Antalya 33 (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Antalya 32 (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Cordoba (ITF)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W35 Mosquera (ITF)",
+                    "season": "2024",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W35 Anapoima (ITF)",
+                    "season": "2024",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W15 Rio Claro (ITF)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Maringa (ITF)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                }
+            ]
+        }
+    ]
+}

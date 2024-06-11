@@ -1,0 +1,113 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 63,
+            "player_name": "M. Dagan Fruchtman",
+            "player_country": "Israel",
+            "player_bday": "12.05.2003",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "900",
+                    "titles": "0",
+                    "matches_won": "6",
+                    "matches_lost": "11",
+                    "hard_won": "6",
+                    "hard_lost": "10",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "1723",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "5",
+                    "hard_won": "0",
+                    "hard_lost": "4",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "995",
+                    "titles": "0",
+                    "matches_won": "9",
+                    "matches_lost": "14",
+                    "hard_won": "8",
+                    "hard_lost": "13",
+                    "clay_won": "1",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "806",
+                    "titles": "0",
+                    "matches_won": "5",
+                    "matches_lost": "8",
+                    "hard_won": "2",
+                    "hard_lost": "5",
+                    "clay_won": "3",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "819",
+                    "titles": "0",
+                    "matches_won": "6",
+                    "matches_lost": "7",
+                    "hard_won": "6",
+                    "hard_lost": "5",
+                    "clay_won": "0",
+                    "clay_lost": "0",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "942",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "6",
+                    "hard_won": "3",
+                    "hard_lost": "4",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": []
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11804559,
+            "event_date": "2022-12-10",
+            "event_time": "11:10",
+            "event_first_player": "A-L. Friedsam",
+            "first_player_key": 522,
+            "event_second_player": "A. Kalinina",
+            "second_player_key": 2393,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Angers",
+            "tournament_key": 5089,
+            "tournament_round": "Angers - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/522_a-l-friedsam.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2393_a-kalinina.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.8",
+                    "score_second": "6.6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11804560,
+            "event_date": "2022-12-10",
+            "event_time": "13:30",
+            "event_first_player": "A. Parks",
+            "first_player_key": 1792,
+            "event_second_player": "J. Ponchet",
+            "second_player_key": 472,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Angers",
+            "tournament_key": 5089,
+            "tournament_round": "Angers - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1792_a-parks.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/472_j-ponchet.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11722969,
+            "event_date": "2022-12-10",
+            "event_time": "10:10",
+            "event_first_player": "J. Fett",
+            "first_player_key": 1801,
+            "event_second_player": "J. Garland",
+            "second_player_key": 1962,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Limoges",
+            "tournament_key": 2249,
+            "tournament_round": "Limoges - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1801_j-fett.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11722970,
+            "event_date": "2022-12-10",
+            "event_time": "11:55",
+            "event_first_player": "M. Partaud",
+            "first_player_key": 158,
+            "event_second_player": "J. Lim",
+            "second_player_key": 8545,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Limoges",
+            "tournament_key": 2249,
+            "tournament_round": "Limoges - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/158_m-partaud.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.5",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11722971,
+            "event_date": "2022-12-10",
+            "event_time": "14:05",
+            "event_first_player": "E. Reyngold",
+            "first_player_key": 1814,
+            "event_second_player": "E. Dartron",
+            "second_player_key": 1114,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Limoges",
+            "tournament_key": 2249,
+            "tournament_round": "Limoges - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1114_e-dartron.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11722972,
+            "event_date": "2022-12-10",
+            "event_time": "15:30",
+            "event_first_player": "E. Makarova",
+            "first_player_key": 524,
+            "event_second_player": "H. Inoue",
+            "second_player_key": 118,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Limoges",
+            "tournament_key": 2249,
+            "tournament_round": "Limoges - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6.5",
+                    "score_second": "7.7",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 564,
+            "player_name": "N. D. Ionel",
+            "player_country": "Romania",
+            "player_bday": "12.10.2002",
+            "player_logo": "https://api.api-tennis.com/logo-tennis/564_n-d-ionel.jpg",
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "451",
+                    "titles": "1",
+                    "matches_won": "13",
+                    "matches_lost": "12",
+                    "hard_won": "9",
+                    "hard_lost": "6",
+                    "clay_won": "4",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "696",
+                    "titles": "0",
+                    "matches_won": "25",
+                    "matches_lost": "24",
+                    "hard_won": "4",
+                    "hard_lost": "2",
+                    "clay_won": "21",
+                    "clay_lost": "22",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "869",
+                    "titles": "1",
+                    "matches_won": "9",
+                    "matches_lost": "12",
+                    "hard_won": "5",
+                    "hard_lost": "7",
+                    "clay_won": "4",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "doubles",
+                    "rank": "855",
+                    "titles": "0",
+                    "matches_won": "4",
+                    "matches_lost": "3",
+                    "hard_won": "4",
+                    "hard_lost": "2",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "229",
+                    "titles": "4",
+                    "matches_won": "66",
+                    "matches_lost": "33",
+                    "hard_won": "18",
+                    "hard_lost": "13",
+                    "clay_won": "47",
+                    "clay_lost": "19",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "422",
+                    "titles": "0",
+                    "matches_won": "44",
+                    "matches_lost": "33",
+                    "hard_won": "11",
+                    "hard_lost": "4",
+                    "clay_won": "33",
+                    "clay_lost": "29",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "534",
+                    "titles": "1",
+                    "matches_won": "9",
+                    "matches_lost": "15",
+                    "hard_won": "8",
+                    "hard_lost": "9",
+                    "clay_won": "1",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "singles",
+                    "rank": "556",
+                    "titles": "0",
+                    "matches_won": "2",
+                    "matches_lost": "4",
+                    "hard_won": "0",
+                    "hard_lost": "2",
+                    "clay_won": "1",
+                    "clay_lost": "1",
+                    "grass_won": "1",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "267",
+                    "titles": "2",
+                    "matches_won": "50",
+                    "matches_lost": "38",
+                    "hard_won": "6",
+                    "hard_lost": "6",
+                    "clay_won": "43",
+                    "clay_lost": "29",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "572",
+                    "titles": "0",
+                    "matches_won": "12",
+                    "matches_lost": "15",
+                    "hard_won": "2",
+                    "hard_lost": "1",
+                    "clay_won": "10",
+                    "clay_lost": "14",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "1103",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "3",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "0",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "315",
+                    "titles": "1",
+                    "matches_won": "17",
+                    "matches_lost": "14",
+                    "hard_won": "0",
+                    "hard_lost": "2",
+                    "clay_won": "17",
+                    "clay_lost": "11",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "M15 Sharm ElSheikh (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "Australian Open",
+                    "season": "2020",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": ""
+                },
+                {
+                    "name": "M15 Marrakech (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "M15 Sharm ElSheikh 2 (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "M15 Heraklion 3 (ITF)",
+                    "season": "2020",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "M25 Pitesti (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "M25 Gaziantep (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "M15 Jakarta 2 (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "M15 Alaminos-Larnaca 2 (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "M15 Antalya 3 (ITF)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                }
+            ]
+        }
+    ]
+}

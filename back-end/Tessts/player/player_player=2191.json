@@ -1,0 +1,296 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 2191,
+            "player_name": "G. Minnen",
+            "player_country": "Belgium",
+            "player_bday": "14.08.1997",
+            "player_logo": "https://api.api-tennis.com/logo-tennis/2191_g-minnen.jpg",
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "76",
+                    "titles": "0",
+                    "matches_won": "11",
+                    "matches_lost": "14",
+                    "hard_won": "7",
+                    "hard_lost": "9",
+                    "clay_won": "3",
+                    "clay_lost": "2",
+                    "grass_won": "1",
+                    "grass_lost": "3"
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "77",
+                    "titles": "2",
+                    "matches_won": "17",
+                    "matches_lost": "12",
+                    "hard_won": "12",
+                    "hard_lost": "7",
+                    "clay_won": "3",
+                    "clay_lost": "3",
+                    "grass_won": "1",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "108",
+                    "titles": "0",
+                    "matches_won": "7",
+                    "matches_lost": "9",
+                    "hard_won": "1",
+                    "hard_lost": "5",
+                    "clay_won": "6",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "doubles",
+                    "rank": "153",
+                    "titles": "0",
+                    "matches_won": "6",
+                    "matches_lost": "6",
+                    "hard_won": "3",
+                    "hard_lost": "3",
+                    "clay_won": "2",
+                    "clay_lost": "2",
+                    "grass_won": "1",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2018",
+                    "type": "doubles",
+                    "rank": "223",
+                    "titles": "1",
+                    "matches_won": "4",
+                    "matches_lost": "0",
+                    "hard_won": "4",
+                    "hard_lost": "0",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "225",
+                    "titles": "1",
+                    "matches_won": "19",
+                    "matches_lost": "21",
+                    "hard_won": "15",
+                    "hard_lost": "13",
+                    "clay_won": "2",
+                    "clay_lost": "4",
+                    "grass_won": "2",
+                    "grass_lost": "4"
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "80",
+                    "titles": "0",
+                    "matches_won": "39",
+                    "matches_lost": "27",
+                    "hard_won": "26",
+                    "hard_lost": "18",
+                    "clay_won": "7",
+                    "clay_lost": "6",
+                    "grass_won": "5",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "110",
+                    "titles": "0",
+                    "matches_won": "13",
+                    "matches_lost": "15",
+                    "hard_won": "12",
+                    "hard_lost": "9",
+                    "clay_won": "1",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "singles",
+                    "rank": "110",
+                    "titles": "0",
+                    "matches_won": "33",
+                    "matches_lost": "20",
+                    "hard_won": "17",
+                    "hard_lost": "11",
+                    "clay_won": "9",
+                    "clay_lost": "5",
+                    "grass_won": "7",
+                    "grass_lost": "4"
+                },
+                {
+                    "season": "2018",
+                    "type": "singles",
+                    "rank": "348",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "1",
+                    "hard_won": "1",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2016",
+                    "type": "singles",
+                    "rank": "345",
+                    "titles": "0",
+                    "matches_won": "5",
+                    "matches_lost": "4",
+                    "hard_won": "5",
+                    "hard_lost": "4",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "59",
+                    "titles": "4",
+                    "matches_won": "26",
+                    "matches_lost": "9",
+                    "hard_won": "15",
+                    "hard_lost": "4",
+                    "clay_won": "7",
+                    "clay_lost": "2",
+                    "grass_won": "4",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "60",
+                    "titles": "2",
+                    "matches_won": "56",
+                    "matches_lost": "19",
+                    "hard_won": "36",
+                    "hard_lost": "11",
+                    "clay_won": "13",
+                    "clay_lost": "4",
+                    "grass_won": "5",
+                    "grass_lost": "3"
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "95",
+                    "titles": "0",
+                    "matches_won": "7",
+                    "matches_lost": "7",
+                    "hard_won": "4",
+                    "hard_lost": "4",
+                    "clay_won": "1",
+                    "clay_lost": "2",
+                    "grass_won": "2",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "85",
+                    "titles": "0",
+                    "matches_won": "12",
+                    "matches_lost": "19",
+                    "hard_won": "8",
+                    "hard_lost": "11",
+                    "clay_won": "2",
+                    "clay_lost": "7",
+                    "grass_won": "2",
+                    "grass_lost": "1"
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "Angers (Challenger)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$115,000"
+                },
+                {
+                    "name": "Luxembourg",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$235,238"
+                },
+                {
+                    "name": "Luxembourg",
+                    "season": "2018",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$250,000"
+                },
+                {
+                    "name": "W40 Porto 2 (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "hard (indoor)",
+                    "prize": "$40,000"
+                },
+                {
+                    "name": "W60 Sunderland (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "hard (indoor)",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W60 Altenkirchen (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "hard (indoor)",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W60 Altenkirchen (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W60 Trnava (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W60 Croissy-Beaubourg (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "Saint Malo (Challenger)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$115,000"
+                }
+            ]
+        }
+    ]
+}

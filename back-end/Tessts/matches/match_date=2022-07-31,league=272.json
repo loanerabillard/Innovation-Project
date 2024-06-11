@@ -1,0 +1,31 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11823732,
+            "event_date": "2022-07-31",
+            "event_time": "14:00",
+            "event_first_player": "O. Tjandramulia",
+            "first_player_key": 64,
+            "event_second_player": "A. Gamiz",
+            "second_player_key": 152,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Walk Over",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Iasi",
+            "tournament_key": 7561,
+            "tournament_round": "Iasi - Semi-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/152_a-gamiz.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [],
+            "statistics": []
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 2022,
+            "player_name": "L. Neumayer",
+            "player_country": "Austria",
+            "player_bday": "06.09.2002",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "669",
+                    "titles": "0",
+                    "matches_won": "11",
+                    "matches_lost": "13",
+                    "hard_won": "3",
+                    "hard_lost": "4",
+                    "clay_won": "8",
+                    "clay_lost": "9",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "810",
+                    "titles": "2",
+                    "matches_won": "16",
+                    "matches_lost": "11",
+                    "hard_won": "5",
+                    "hard_lost": "5",
+                    "clay_won": "11",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "2",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "296",
+                    "titles": "3",
+                    "matches_won": "51",
+                    "matches_lost": "26",
+                    "hard_won": "5",
+                    "hard_lost": "5",
+                    "clay_won": "46",
+                    "clay_lost": "21",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "660",
+                    "titles": "0",
+                    "matches_won": "25",
+                    "matches_lost": "23",
+                    "hard_won": "9",
+                    "hard_lost": "10",
+                    "clay_won": "16",
+                    "clay_lost": "13",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "4",
+                    "matches_lost": "5",
+                    "hard_won": "1",
+                    "hard_lost": "2",
+                    "clay_won": "3",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "927",
+                    "titles": "0",
+                    "matches_won": "4",
+                    "matches_lost": "5",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "4",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "236",
+                    "titles": "2",
+                    "matches_won": "40",
+                    "matches_lost": "32",
+                    "hard_won": "2",
+                    "hard_lost": "4",
+                    "clay_won": "38",
+                    "clay_lost": "28",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "779",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "2",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "3",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "235",
+                    "titles": "0",
+                    "matches_won": "14",
+                    "matches_lost": "17",
+                    "hard_won": "2",
+                    "hard_lost": "2",
+                    "clay_won": "12",
+                    "clay_lost": "15",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "M25 Jablonec nad Nisou (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "M25 Prague (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "M25 Madrid (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "M15 Antalya 6 (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "M15 Antalya 5 (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                }
+            ]
+        }
+    ]
+}

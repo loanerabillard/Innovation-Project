@@ -15,7 +15,6 @@ def incoming_games():
         event_date = datetime.strptime(row['event_date'], '%Y-%m-%d').date()
         if event_date >= tomorrow:
             incoming_match_ids.append(row['event_key'])
-
     return incoming_match_ids
 
 def Algo(match_id):

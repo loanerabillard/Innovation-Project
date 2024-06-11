@@ -1,0 +1,184 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 22,
+            "player_name": "L. Petretic",
+            "player_country": "France",
+            "player_bday": "07.04.2004",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "768",
+                    "titles": "3",
+                    "matches_won": "15",
+                    "matches_lost": "7",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "15",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "1408",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "6",
+                    "hard_won": "2",
+                    "hard_lost": "2",
+                    "clay_won": "1",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "1236",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "1",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "793",
+                    "titles": "0",
+                    "matches_won": "17",
+                    "matches_lost": "16",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "17",
+                    "clay_lost": "16",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "1040",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "8",
+                    "hard_won": "2",
+                    "hard_lost": "4",
+                    "clay_won": "1",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "2",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "0",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "812",
+                    "titles": "0",
+                    "matches_won": "12",
+                    "matches_lost": "14",
+                    "hard_won": "1",
+                    "hard_lost": "2",
+                    "clay_won": "11",
+                    "clay_lost": "12",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "712",
+                    "titles": "0",
+                    "matches_won": "17",
+                    "matches_lost": "21",
+                    "hard_won": "1",
+                    "hard_lost": "2",
+                    "clay_won": "16",
+                    "clay_lost": "19",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "699",
+                    "titles": "1",
+                    "matches_won": "12",
+                    "matches_lost": "3",
+                    "hard_won": "3",
+                    "hard_lost": "1",
+                    "clay_won": "9",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "731",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "5",
+                    "hard_won": "1",
+                    "hard_lost": "2",
+                    "clay_won": "2",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W15 Telde (ITF)",
+                    "season": "2024",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Norrkoping (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Eindhoven (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Casablanca (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                }
+            ]
+        }
+    ]
+}

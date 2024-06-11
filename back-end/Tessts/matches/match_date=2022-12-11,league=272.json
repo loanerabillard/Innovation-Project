@@ -1,0 +1,269 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11804561,
+            "event_date": "2022-12-11",
+            "event_time": "15:10",
+            "event_first_player": "A. Parks",
+            "first_player_key": 1792,
+            "event_second_player": "A-L. Friedsam",
+            "second_player_key": 522,
+            "event_final_result": "2 - 1",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Angers",
+            "tournament_key": 5089,
+            "tournament_round": "Angers - Final",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1792_a-parks.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/522_a-l-friedsam.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "3"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11722938,
+            "event_date": "2022-12-11",
+            "event_time": "10:10",
+            "event_first_player": "J. Fett",
+            "first_player_key": 1801,
+            "event_second_player": "J. Zuger",
+            "second_player_key": 502,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Limoges",
+            "tournament_key": 2249,
+            "tournament_round": "Limoges - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1801_j-fett.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/502_j-zuger.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "7.7",
+                    "score_second": "6.3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11722939,
+            "event_date": "2022-12-11",
+            "event_time": "12:00",
+            "event_first_player": "K. Scott",
+            "first_player_key": 186,
+            "event_second_player": "E. Makarova",
+            "second_player_key": 524,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Limoges",
+            "tournament_key": 2249,
+            "tournament_round": "Limoges - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/186_k-scott.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11722940,
+            "event_date": "2022-12-11",
+            "event_time": "13:30",
+            "event_first_player": "E. Dartron",
+            "first_player_key": 1114,
+            "event_second_player": "A. Albie",
+            "second_player_key": 1791,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Limoges",
+            "tournament_key": 2249,
+            "tournament_round": "Limoges - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1114_e-dartron.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1791_a-albie.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "3",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11722941,
+            "event_date": "2022-12-11",
+            "event_time": "15:05",
+            "event_first_player": "A. Bogdan",
+            "first_player_key": 2004,
+            "event_second_player": "L. Stefanini",
+            "second_player_key": 1113,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Limoges",
+            "tournament_key": 2249,
+            "tournament_round": "Limoges - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2004_a-bogdan.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1113_l-stefanini.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "1",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "2",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11722942,
+            "event_date": "2022-12-11",
+            "event_time": "16:25",
+            "event_first_player": "S. Kenin",
+            "first_player_key": 2904,
+            "event_second_player": "A. Blinkova",
+            "second_player_key": 1779,
+            "event_final_result": "0 - 2",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "Second Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Limoges",
+            "tournament_key": 2249,
+            "tournament_round": "Limoges - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2904_s-kenin.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1779_a-blinkova.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "4",
+                    "score_second": "6",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11722943,
+            "event_date": "2022-12-11",
+            "event_time": "20:00",
+            "event_first_player": "G. Minnen",
+            "first_player_key": 2191,
+            "event_second_player": "E. Mandlik",
+            "second_player_key": 209,
+            "event_final_result": "2 - 0",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": "First Player",
+            "event_status": "Finished",
+            "event_type_type": "Challenger Women Singles",
+            "tournament_name": "Limoges",
+            "tournament_key": 2249,
+            "tournament_round": "Limoges - 1/16-finals",
+            "tournament_season": "2022",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2191_g-minnen.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/209_e-mandlik.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "6",
+                    "score_second": "4",
+                    "score_set": "1"
+                },
+                {
+                    "score_first": "6",
+                    "score_second": "3",
+                    "score_set": "2"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

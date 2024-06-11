@@ -1,0 +1,14 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 61,
+            "player_name": "L. Jurikova",
+            "player_country": "Slovakia",
+            "player_bday": "10.08.1990",
+            "player_logo": null,
+            "stats": [],
+            "tournaments": []
+        }
+    ]
+}

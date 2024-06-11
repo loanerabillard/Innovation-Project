@@ -1,0 +1,233 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 379,
+            "player_name": "D. Stricker",
+            "player_country": "Switzerland",
+            "player_bday": "16.08.2002",
+            "player_logo": "https://api.api-tennis.com/logo-tennis/379_d-stricker.jpg",
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "434",
+                    "titles": "0",
+                    "matches_won": "9",
+                    "matches_lost": "8",
+                    "hard_won": "6",
+                    "hard_lost": "4",
+                    "clay_won": "2",
+                    "clay_lost": "3",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "199",
+                    "titles": "3",
+                    "matches_won": "25",
+                    "matches_lost": "6",
+                    "hard_won": "8",
+                    "hard_lost": "3",
+                    "clay_won": "16",
+                    "clay_lost": "2",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "1393",
+                    "titles": "1",
+                    "matches_won": "10",
+                    "matches_lost": "3",
+                    "hard_won": "3",
+                    "hard_lost": "1",
+                    "clay_won": "7",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "doubles",
+                    "rank": "1703",
+                    "titles": "0",
+                    "matches_won": "6",
+                    "matches_lost": "4",
+                    "hard_won": "1",
+                    "hard_lost": "2",
+                    "clay_won": "4",
+                    "clay_lost": "1",
+                    "grass_won": "1",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "118",
+                    "titles": "2",
+                    "matches_won": "37",
+                    "matches_lost": "25",
+                    "hard_won": "24",
+                    "hard_lost": "15",
+                    "clay_won": "8",
+                    "clay_lost": "7",
+                    "grass_won": "5",
+                    "grass_lost": "3"
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "246",
+                    "titles": "1",
+                    "matches_won": "27",
+                    "matches_lost": "19",
+                    "hard_won": "18",
+                    "hard_lost": "10",
+                    "clay_won": "6",
+                    "clay_lost": "7",
+                    "grass_won": "2",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "1168",
+                    "titles": "1",
+                    "matches_won": "13",
+                    "matches_lost": "4",
+                    "hard_won": "4",
+                    "hard_lost": "2",
+                    "clay_won": "9",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "singles",
+                    "rank": "1664",
+                    "titles": "0",
+                    "matches_won": "4",
+                    "matches_lost": "4",
+                    "hard_won": "3",
+                    "hard_lost": "2",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "1",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "94",
+                    "titles": "2",
+                    "matches_won": "37",
+                    "matches_lost": "25",
+                    "hard_won": "23",
+                    "hard_lost": "15",
+                    "clay_won": "8",
+                    "clay_lost": "5",
+                    "grass_won": "6",
+                    "grass_lost": "3"
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "251",
+                    "titles": "1",
+                    "matches_won": "6",
+                    "matches_lost": "4",
+                    "hard_won": "2",
+                    "hard_lost": "1",
+                    "clay_won": "4",
+                    "clay_lost": "0",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "Gstaad",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "\u20ac419,470"
+                },
+                {
+                    "name": "Perugia (Challenger)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "\u20ac44,820"
+                },
+                {
+                    "name": "M15 Majadahonda (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2020",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": ""
+                },
+                {
+                    "name": "Cleveland (Challenger)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "hard (indoor)",
+                    "prize": "$53,120"
+                },
+                {
+                    "name": "Lugano (Challenger)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "hard (indoor)",
+                    "prize": "\u20ac44,820"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2020",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": ""
+                },
+                {
+                    "name": "Zug (Challenger)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac134,920"
+                },
+                {
+                    "name": "Rovereto (Challenger)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "hard (indoor)",
+                    "prize": "$73,000"
+                },
+                {
+                    "name": "Prague (Challenger)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac73,000"
+                },
+                {
+                    "name": "Gstaad",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "\u20ac562,815"
+                }
+            ]
+        }
+    ]
+}
