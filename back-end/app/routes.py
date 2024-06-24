@@ -20,6 +20,7 @@ def get_data():
 
 @api.route("/get_matches")
 def get_matches():
+    num_matches = 10
     print("test get matches")
-    data = update_tennis_data()
+    data = update_tennis_data(num_matches)
     return jsonify(data)

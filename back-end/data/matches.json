@@ -1,0 +1,222 @@
+[
+    {
+        "tournament_name": "ATP Wimbledon",
+        "player_1": "Z. Bergs",
+        "player_1_logo": "https://api.api-tennis.com/logo-tennis/1064_z-bergs.jpg",
+        "player_2": "O. Jasika",
+        "player_2_logo": null,
+        "win_percentage_player_1": 44.06779661016949,
+        "win_percentage_player_2": 55.93220338983051,
+        "odd_player_1": 1.06,
+        "bookmaker_odd_player_1": "Betfair",
+        "odd_player_2": 15.0,
+        "bookmaker_odd_player_2": "Betfair",
+        "meilleur_ratio": 838.9830508474577,
+        "meilleur_joueur": 2,
+        "rang": 1,
+        "note": 46926.17064062052,
+        "repartition": [
+            16.818154927311404,
+            7.321138906747116,
+            2.2760897606049224
+        ]
+    },
+    {
+        "tournament_name": "ATP Wimbledon",
+        "player_1": "G. Mpetshi Perricard",
+        "player_1_logo": null,
+        "player_2": "U. Blanchet",
+        "player_2_logo": null,
+        "win_percentage_player_1": 28.767123287671236,
+        "win_percentage_player_2": 71.23287671232876,
+        "odd_player_1": 1.15,
+        "bookmaker_odd_player_1": "Betfair",
+        "odd_player_2": 7.0,
+        "bookmaker_odd_player_2": "bet365",
+        "meilleur_ratio": 498.6301369863013,
+        "meilleur_joueur": 2,
+        "rang": 2,
+        "note": 35518.8590729968,
+        "repartition": [
+            16.4079766115167,
+            8.920007330723505,
+            3.463265879820207
+        ]
+    },
+    {
+        "tournament_name": "ATP Wimbledon",
+        "player_1": "O. Virtanen",
+        "player_1_logo": "https://api.api-tennis.com/logo-tennis/767_o-virtanen.jpg",
+        "player_2": "F. Agamenone",
+        "player_2_logo": "https://api.api-tennis.com/logo-tennis/373_f-agamenone.jpg",
+        "win_percentage_player_1": 35.797665369649806,
+        "win_percentage_player_2": 64.2023346303502,
+        "odd_player_1": 1.15,
+        "bookmaker_odd_player_1": "Betfair",
+        "odd_player_2": 7.0,
+        "bookmaker_odd_player_2": "bet365",
+        "meilleur_ratio": 449.41634241245134,
+        "meilleur_joueur": 2,
+        "rang": 4,
+        "note": 28853.578403912245,
+        "repartition": [
+            15.236494761281744,
+            10.34439592521306,
+            5.01574723418584
+        ]
+    },
+    {
+        "tournament_name": "ATP Wimbledon",
+        "player_1": "J. P. Ficovich",
+        "player_1_logo": "https://api.api-tennis.com/logo-tennis/420_j-p-ficovich.jpg",
+        "player_2": "L. Riedi",
+        "player_2_logo": "https://api.api-tennis.com/logo-tennis/1092_l-riedi.jpg",
+        "win_percentage_player_1": 50.0,
+        "win_percentage_player_2": 50.0,
+        "odd_player_1": 8.8,
+        "bookmaker_odd_player_1": "Betfair",
+        "odd_player_2": 1.12,
+        "bookmaker_odd_player_2": "Unibet",
+        "meilleur_ratio": 440.00000000000006,
+        "meilleur_joueur": 1,
+        "rang": 5,
+        "note": 22000.000000000004,
+        "repartition": [
+            13.466925698347854,
+            11.418220268206019,
+            6.914150194271731
+        ]
+    },
+    {
+        "tournament_name": "WTA Bad Homburg",
+        "player_1": "T. Korpatsch",
+        "player_1_logo": "https://api.api-tennis.com/logo-tennis/501_t-korpatsch.jpg",
+        "player_2": "B. Haddad Maia",
+        "player_2_logo": "https://api.api-tennis.com/logo-tennis/1951_b-haddad-maia.jpg",
+        "win_percentage_player_1": 51.94619347452777,
+        "win_percentage_player_2": 48.05380652547224,
+        "odd_player_1": 8.0,
+        "bookmaker_odd_player_1": "Betfair",
+        "odd_player_2": 1.13,
+        "bookmaker_odd_player_2": "Betfair",
+        "meilleur_ratio": 415.56954779622214,
+        "meilleur_joueur": 1,
+        "rang": 6,
+        "note": 21587.25613194457,
+        "repartition": [
+            11.329355906982359,
+            11.996237569110296,
+            9.07183902567725
+        ]
+    },
+    {
+        "tournament_name": "ATP Wimbledon",
+        "player_1": "D. Goffin",
+        "player_1_logo": "https://api.api-tennis.com/logo-tennis/2385_d-goffin.jpg",
+        "player_2": "M. Polmans",
+        "player_2_logo": "https://api.api-tennis.com/logo-tennis/2735_m-polmans.jpg",
+        "win_percentage_player_1": 57.34204793028322,
+        "win_percentage_player_2": 42.65795206971678,
+        "odd_player_1": 1.1,
+        "bookmaker_odd_player_1": "Unibet",
+        "odd_player_2": 11.0,
+        "bookmaker_odd_player_2": "Betfair",
+        "meilleur_ratio": 469.23747276688454,
+        "meilleur_joueur": 2,
+        "rang": 3,
+        "note": 20016.709622604794,
+        "repartition": [
+            9.07183902567725,
+            11.996237569110296,
+            11.329355906982359
+        ]
+    },
+    {
+        "tournament_name": "ATP Wimbledon",
+        "player_1": "T. Boyer",
+        "player_1_logo": "https://api.api-tennis.com/logo-tennis/9037_t-boyer.jpg",
+        "player_2": "L. Klein",
+        "player_2_logo": "https://api.api-tennis.com/logo-tennis/1969_l-klein.jpg",
+        "win_percentage_player_1": 55.78947368421052,
+        "win_percentage_player_2": 44.21052631578947,
+        "odd_player_1": 6.0,
+        "bookmaker_odd_player_1": "Betfair",
+        "odd_player_2": 1.2,
+        "bookmaker_odd_player_2": "1xbet",
+        "meilleur_ratio": 334.7368421052631,
+        "meilleur_joueur": 1,
+        "rang": 8,
+        "note": 18674.792243767308,
+        "repartition": [
+            6.914150194271731,
+            11.418220268206019,
+            13.466925698347854
+        ]
+    },
+    {
+        "tournament_name": "ATP Wimbledon",
+        "player_1": "A. Dougaz",
+        "player_1_logo": "https://api.api-tennis.com/logo-tennis/798_a-dougaz.jpg",
+        "player_2": "G. Diallo",
+        "player_2_logo": "https://api.api-tennis.com/logo-tennis/9909_g-diallo.jpg",
+        "win_percentage_player_1": 46.943483275663205,
+        "win_percentage_player_2": 53.05651672433679,
+        "odd_player_1": 6.8,
+        "bookmaker_odd_player_1": "Betfair",
+        "odd_player_2": 1.17,
+        "bookmaker_odd_player_2": "Unibet",
+        "meilleur_ratio": 319.2156862745098,
+        "meilleur_joueur": 1,
+        "rang": 9,
+        "note": 14985.096229956802,
+        "repartition": [
+            5.01574723418584,
+            10.34439592521306,
+            15.236494761281744
+        ]
+    },
+    {
+        "tournament_name": "ATP Wimbledon",
+        "player_1": "D. Rincon",
+        "player_1_logo": null,
+        "player_2": "H. Medjedovic",
+        "player_2_logo": "https://api.api-tennis.com/logo-tennis/2677_h-medjedovic.jpg",
+        "win_percentage_player_1": 33.87703889585947,
+        "win_percentage_player_2": 66.12296110414051,
+        "odd_player_1": 10.0,
+        "bookmaker_odd_player_1": "bet365",
+        "odd_player_2": 1.08,
+        "bookmaker_odd_player_2": "Unibet",
+        "meilleur_ratio": 338.7703889585947,
+        "meilleur_joueur": 1,
+        "rang": 7,
+        "note": 11476.537643515754,
+        "repartition": [
+            3.463265879820207,
+            8.920007330723505,
+            16.4079766115167
+        ]
+    },
+    {
+        "tournament_name": "ATP Wimbledon",
+        "player_1": "V. Vacherot",
+        "player_1_logo": null,
+        "player_2": "N. Kicker",
+        "player_2_logo": "https://api.api-tennis.com/logo-tennis/1756_n-kicker.jpg",
+        "win_percentage_player_1": 69.14893617021278,
+        "win_percentage_player_2": 30.851063829787233,
+        "odd_player_1": 1.13,
+        "bookmaker_odd_player_1": "Betfair",
+        "odd_player_2": 10.0,
+        "bookmaker_odd_player_2": "Tipico",
+        "meilleur_ratio": 308.51063829787233,
+        "meilleur_joueur": 2,
+        "rang": 10,
+        "note": 9517.88139429606,
+        "repartition": [
+            2.2760897606049224,
+            7.321138906747116,
+            16.818154927311404
+        ]
+    }
+]

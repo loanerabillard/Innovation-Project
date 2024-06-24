@@ -1,0 +1,325 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11959354,
+            "event_date": "2024-06-25",
+            "event_time": "10:00",
+            "event_first_player": "Y. Hanfmann",
+            "first_player_key": 1764,
+            "event_second_player": "A. Walton",
+            "second_player_key": 10070,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Mallorca",
+            "tournament_key": 3681,
+            "tournament_round": "ATP Mallorca - 1/16-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1764_y-hanfmann.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11959355,
+            "event_date": "2024-06-25",
+            "event_time": "10:00",
+            "event_first_player": "P. Jubb",
+            "first_player_key": 385,
+            "event_second_player": "M. Marterer",
+            "second_player_key": 1070,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Mallorca",
+            "tournament_key": 3681,
+            "tournament_round": "ATP Mallorca - 1/16-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1070_m-marterer.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11959117,
+            "event_date": "2024-06-25",
+            "event_time": "12:00",
+            "event_first_player": "A. Davidovich Fokina",
+            "first_player_key": 2842,
+            "event_second_player": "L. Sonego",
+            "second_player_key": 2843,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Eastbourne",
+            "tournament_key": 2052,
+            "tournament_round": "ATP Eastbourne - 1/16-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2842_a-davidovich-fokina.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2843_l-sonego.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11959120,
+            "event_date": "2024-06-25",
+            "event_time": "12:00",
+            "event_first_player": "M. Kecmanovic",
+            "first_player_key": 2848,
+            "event_second_player": "Z. Zhang",
+            "second_player_key": 590,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Eastbourne",
+            "tournament_key": 2052,
+            "tournament_round": "ATP Eastbourne - 1/16-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2848_m-kecmanovic.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/590_z-zhang.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11959122,
+            "event_date": "2024-06-25",
+            "event_time": "12:00",
+            "event_first_player": "M. Navone",
+            "first_player_key": 949,
+            "event_second_player": "K. Nishikori",
+            "second_player_key": 2985,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Eastbourne",
+            "tournament_key": 2052,
+            "tournament_round": "ATP Eastbourne - 1/16-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2985_k-nishikori.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11959123,
+            "event_date": "2024-06-25",
+            "event_time": "12:00",
+            "event_first_player": "C. Norrie",
+            "first_player_key": 1103,
+            "event_second_player": "E. Ruusuvuori",
+            "second_player_key": 1770,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Eastbourne",
+            "tournament_key": 2052,
+            "tournament_round": "ATP Eastbourne - 1/16-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1103_c-norrie.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1770_e-ruusuvuori.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11959124,
+            "event_date": "2024-06-25",
+            "event_time": "12:00",
+            "event_first_player": "A. Rinderknech",
+            "first_player_key": 1902,
+            "event_second_player": "F. Cobolli",
+            "second_player_key": 372,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Eastbourne",
+            "tournament_key": 2052,
+            "tournament_round": "ATP Eastbourne - 1/16-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1902_a-rinderknech.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/372_f-cobolli.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11959152,
+            "event_date": "2024-06-25",
+            "event_time": "10:00",
+            "event_first_player": "C. Eubanks",
+            "first_player_key": 1059,
+            "event_second_player": "J. Mensik",
+            "second_player_key": 902,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Mallorca",
+            "tournament_key": 3681,
+            "tournament_round": "ATP Mallorca - 1/16-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1059_c-eubanks.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11959269,
+            "event_date": "2024-06-25",
+            "event_time": "12:00",
+            "event_first_player": "L. Broady",
+            "first_player_key": 410,
+            "event_second_player": "Y. Nishioka",
+            "second_player_key": 1972,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Eastbourne",
+            "tournament_key": 2052,
+            "tournament_round": "ATP Eastbourne - 1/16-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/410_l-broady.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1972_y-nishioka.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11959270,
+            "event_date": "2024-06-25",
+            "event_time": "12:00",
+            "event_first_player": "J. McCabe",
+            "first_player_key": 1882,
+            "event_second_player": "T. Seyboth Wild",
+            "second_player_key": 1086,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Eastbourne",
+            "tournament_key": 2052,
+            "tournament_round": "ATP Eastbourne - 1/16-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1086_t-seyboth-wild.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

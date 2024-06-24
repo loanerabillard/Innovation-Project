@@ -4,7 +4,8 @@ import os
 import json
 from pprint import pprint
 import csv
-
+import numpy as np
+from app.Repartition import generate_matrix
 
 def incoming_games():
     matchs = pd.read_csv("data\\matches_csv\\events.csv")
@@ -108,40 +109,68 @@ def RESPONSE(match_ids):
     # Créer le dictionnaire final
     response_dict = {"matches": matches_list}
 
+    def replace_nan_with_none(d):
+        for key, value in d.items():
+            if isinstance(value, float) and np.isnan(value):
+                d[key] = None
+            elif isinstance(value, dict):
+                replace_nan_with_none(value)
+            elif isinstance(value, list):
+                for item in value:
+                    if isinstance(item, dict):
+                        replace_nan_with_none(item)
+        return d
+    
+    cleaned_response = replace_nan_with_none(response_dict)
     # Convertir le dictionnaire en format JSON
-    json_response = json.dumps(response_dict, indent=2)
+    json_response = json.dumps(cleaned_response, indent=2)
 
-    return response_dict
+    return cleaned_response
 
-def RESPONSE2(response):
+def RESPONSE2(response, n):
     match_infos = response["matches"]
+    
+    # Ajuster les pourcentages de victoire pour que leur somme soit 100
+    for match_info in match_infos:
+        total_percentage = match_info["win_percentage_player_1"] + match_info["win_percentage_player_2"]
+        if total_percentage != 100:
+            match_info["win_percentage_player_1"] = (match_info["win_percentage_player_1"] / total_percentage) * 100
+            match_info["win_percentage_player_2"] = (match_info["win_percentage_player_2"] / total_percentage) * 100
+    
     # Calculer le meilleur ratio pour chaque match
     for match_info in match_infos:
         ratio_player_1 = match_info["win_percentage_player_1"] * match_info.get("odd_player_1", 0)
         ratio_player_2 = match_info["win_percentage_player_2"] * match_info.get("odd_player_2", 0)
         match_info["meilleur_ratio"] = max(ratio_player_1, ratio_player_2)
-    
+        match_info["meilleur_joueur"] = 1 if ratio_player_1 > ratio_player_2 else 2
     # Trier les matchs par meilleur ratio de manière décroissante
     match_infos.sort(key=lambda x: x["meilleur_ratio"], reverse=True)
     
-    # Ajouter le rang à chaque match et garder les trois premiers
-    for i, match_info in enumerate(match_infos[:3]):
+    # Ajouter le rang à chaque match et garder les n premiers
+    top_n_matches = match_infos[:n]
+    for i, match_info in enumerate(top_n_matches):
         match_info["rang"] = i + 1
     
-    return match_infos
+    return top_n_matches
 
-def algo_répartition(match_infos, repartition):
+
+def algo_répartition(match_infos, n):
+    repartition=generate_matrix(n)
     # Calculer la note pour chaque match
     for match_info in match_infos:
-        note_player_1 = match_info.get("odd_player_1", 1) * match_info["win_percentage_player_1"]
-        note_player_2 = match_info.get("odd_player_2", 1) * match_info["win_percentage_player_2"]
+        note_player_1 = match_info.get("odd_player_1", 1) * match_info["win_percentage_player_1"]* match_info["win_percentage_player_1"]
+        note_player_2 = match_info.get("odd_player_2", 1) * match_info["win_percentage_player_2"]* match_info["win_percentage_player_2"]
         match_info["note"] = max(note_player_1, note_player_2)
     
     # Trier les matchs par note de manière décroissante
     match_infos.sort(key=lambda x: x["note"], reverse=True)
 
-    for i, match_info in enumerate(match_infos[:3]):
+    for i, match_info in enumerate(match_infos[:n]):
         match_info["repartition"] = repartition[i]
-
+    print(match_infos)
     return match_infos
 
+def register_data(data):
+    file_name = "data/matches.json"
+    with open(file_name, 'w') as json_file:
+        json.dump(data, json_file, indent=4)

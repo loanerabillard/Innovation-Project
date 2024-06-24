@@ -1,0 +1,4778 @@
+{
+    "success": 1,
+    "result": {
+        "11959117": {
+            "Home/Away": {
+                "Home": {
+                    "NordicBet": "1.73",
+                    "10Bet": "1.75",
+                    "WilliamHill": "1.73",
+                    "bet365": "1.72",
+                    "Marathon": "1.76",
+                    "Unibet": "1.77",
+                    "Betfair": "1.84",
+                    "Betsson": "1.73",
+                    "Pncl": "1.82",
+                    "Sbo": "1.78",
+                    "1xbet": "1.76",
+                    "Betano": "1.83",
+                    "Betway": "1.80",
+                    "Tipico": "1.75",
+                    "Betcris": "1.75"
+                },
+                "Away": {
+                    "NordicBet": "2.03",
+                    "10Bet": "2.00",
+                    "WilliamHill": "2.10",
+                    "bet365": "2.10",
+                    "Marathon": "2.07",
+                    "Unibet": "2.05",
+                    "Betfair": "2.12",
+                    "Betsson": "2.03",
+                    "Pncl": "2.08",
+                    "Sbo": "2.02",
+                    "1xbet": "2.07",
+                    "Betano": "1.98",
+                    "Betway": "2.00",
+                    "Tipico": "1.95",
+                    "Betcris": "2.05"
+                }
+            },
+            "Correct Score 1st Half": {
+                "6:0": {
+                    "WilliamHill": "61.00",
+                    "bet365": "51.00",
+                    "1xbet": "50.00",
+                    "Betano": "100.00",
+                    "Betcris": "101.00"
+                },
+                "6:1": {
+                    "WilliamHill": "26.00",
+                    "bet365": "26.00",
+                    "1xbet": "22.00",
+                    "Betano": "29.00",
+                    "Betcris": "35.00"
+                },
+                "6:2": {
+                    "WilliamHill": "15.00",
+                    "bet365": "12.00",
+                    "1xbet": "10.70",
+                    "Betano": "12.00",
+                    "Betcris": "12.00"
+                },
+                "0:6": {
+                    "WilliamHill": "66.00",
+                    "bet365": "51.00",
+                    "1xbet": "50.00",
+                    "Betano": "120.00",
+                    "Betcris": "101.00"
+                },
+                "1:6": {
+                    "WilliamHill": "29.00",
+                    "bet365": "21.00",
+                    "1xbet": "27.00",
+                    "Betano": "28.00",
+                    "Betcris": "28.00"
+                },
+                "2:6": {
+                    "WilliamHill": "17.00",
+                    "bet365": "19.00",
+                    "1xbet": "13.00",
+                    "Betano": "18.50",
+                    "Betcris": "19.00"
+                },
+                "4:6": {
+                    "WilliamHill": "6.50",
+                    "bet365": "8.50",
+                    "1xbet": "6.95",
+                    "Betano": "7.70",
+                    "Betcris": "8.00"
+                },
+                "3:6": {
+                    "WilliamHill": "7.50",
+                    "bet365": "6.00",
+                    "1xbet": "7.50",
+                    "Betano": "6.40",
+                    "Betcris": "5.60"
+                },
+                "6:3": {
+                    "WilliamHill": "6.50",
+                    "bet365": "9.00",
+                    "1xbet": "6.50",
+                    "Betano": "7.80",
+                    "Betcris": "8.20"
+                },
+                "6:4": {
+                    "WilliamHill": "6.00",
+                    "bet365": "5.00",
+                    "1xbet": "6.35",
+                    "Betano": "5.00",
+                    "Betcris": "4.50"
+                },
+                "7:5": {
+                    "WilliamHill": "17.00",
+                    "bet365": "15.00",
+                    "1xbet": "15.00",
+                    "Betano": "15.50",
+                    "Betcris": "16.00"
+                },
+                "7:6": {
+                    "WilliamHill": "5.50",
+                    "bet365": "6.50",
+                    "1xbet": "5.95",
+                    "Betano": "6.50",
+                    "Betcris": "6.00"
+                },
+                "5:7": {
+                    "WilliamHill": "19.00",
+                    "bet365": "17.00",
+                    "1xbet": "17.00",
+                    "Betano": "17.00",
+                    "Betcris": "18.00"
+                },
+                "6:7": {
+                    "WilliamHill": "6.00",
+                    "bet365": "7.00",
+                    "1xbet": "6.35",
+                    "Betano": "7.00",
+                    "Betcris": "6.40"
+                }
+            },
+            "Correct Score 2nd Half": {
+                "6:0": {
+                    "1xbet": "50.00",
+                    "Betano": "100.00"
+                },
+                "6:1": {
+                    "1xbet": "23.00",
+                    "Betano": "26.00"
+                },
+                "6:2": {
+                    "1xbet": "11.50",
+                    "Betano": "13.00"
+                },
+                "0:6": {
+                    "1xbet": "50.00",
+                    "Betano": "120.00"
+                },
+                "1:6": {
+                    "1xbet": "28.00",
+                    "Betano": "35.00"
+                },
+                "2:6": {
+                    "1xbet": "14.20",
+                    "Betano": "16.50"
+                },
+                "4:6": {
+                    "1xbet": "6.55",
+                    "Betano": "6.40"
+                },
+                "3:6": {
+                    "1xbet": "7.60",
+                    "Betano": "7.70"
+                },
+                "6:3": {
+                    "1xbet": "6.60",
+                    "Betano": "6.60"
+                },
+                "6:4": {
+                    "1xbet": "5.80",
+                    "Betano": "5.60"
+                },
+                "7:5": {
+                    "1xbet": "15.00",
+                    "Betano": "15.50"
+                },
+                "7:6": {
+                    "1xbet": "6.00",
+                    "Betano": "6.50"
+                },
+                "5:7": {
+                    "1xbet": "17.00",
+                    "Betano": "17.00"
+                },
+                "6:7": {
+                    "1xbet": "6.40",
+                    "Betano": "7.00"
+                }
+            },
+            "Odd/Even": {
+                "Odd": {
+                    "bet365": "1.83",
+                    "Marathon": "1.88",
+                    "1xbet": "1.88",
+                    "Betway": "1.85"
+                },
+                "Even": {
+                    "bet365": "1.83",
+                    "Marathon": "1.87",
+                    "1xbet": "1.87",
+                    "Betway": "1.85"
+                }
+            },
+            "Odd/Even (1st Set)": {
+                "Odd": {
+                    "Marathon": "1.75",
+                    "1xbet": "1.75",
+                    "Betano": "1.78",
+                    "Betway": "1.65"
+                },
+                "Even": {
+                    "Marathon": "2.01",
+                    "1xbet": "2.01",
+                    "Betano": "1.91",
+                    "Betway": "2.10"
+                }
+            },
+            "Home/Away (1st Set)": {
+                "Home": {
+                    "NordicBet": "1.76",
+                    "10Bet": "1.80",
+                    "WilliamHill": "1.73",
+                    "bet365": "1.80",
+                    "Marathon": "1.78",
+                    "Betfair": "1.80",
+                    "Betsson": "1.76",
+                    "Pncl": "1.85",
+                    "1xbet": "1.78",
+                    "Betano": "1.75",
+                    "Betway": "1.80",
+                    "Tipico": "1.72"
+                },
+                "Away": {
+                    "NordicBet": "1.99",
+                    "10Bet": "1.95",
+                    "WilliamHill": "2.00",
+                    "bet365": "2.00",
+                    "Marathon": "1.97",
+                    "Betfair": "1.91",
+                    "Betsson": "1.99",
+                    "Pncl": "2.01",
+                    "1xbet": "1.97",
+                    "Betano": "2.02",
+                    "Betway": "1.90",
+                    "Tipico": "2.00"
+                }
+            },
+            "Set Betting": {
+                "2:0": {
+                    "NordicBet": "2.70",
+                    "10Bet": "2.80",
+                    "WilliamHill": "3.00",
+                    "bet365": "3.00",
+                    "Marathon": "2.74",
+                    "Unibet": "2.80",
+                    "Betsson": "2.70",
+                    "1xbet": "2.74",
+                    "Betano": "2.80",
+                    "Betway": "2.60",
+                    "Tipico": "2.85",
+                    "Betcris": "2.70"
+                },
+                "2:1": {
+                    "NordicBet": "4.10",
+                    "10Bet": "4.00",
+                    "WilliamHill": "3.75",
+                    "bet365": "3.75",
+                    "Marathon": "4.20",
+                    "Unibet": "4.00",
+                    "Betsson": "4.10",
+                    "1xbet": "4.20",
+                    "Betano": "4.25",
+                    "Betway": "4.00",
+                    "Tipico": "3.90",
+                    "Betcris": "3.95"
+                },
+                "0:2": {
+                    "NordicBet": "3.35",
+                    "10Bet": "3.45",
+                    "WilliamHill": "3.75",
+                    "bet365": "3.75",
+                    "Marathon": "3.34",
+                    "Unibet": "3.40",
+                    "Betsson": "3.35",
+                    "1xbet": "3.34",
+                    "Betano": "3.60",
+                    "Betway": "3.20",
+                    "Tipico": "3.40",
+                    "Betcris": "3.25"
+                },
+                "1:2": {
+                    "NordicBet": "4.60",
+                    "10Bet": "4.33",
+                    "WilliamHill": "4.00",
+                    "bet365": "4.00",
+                    "Marathon": "4.80",
+                    "Unibet": "4.40",
+                    "Betsson": "4.60",
+                    "1xbet": "4.80",
+                    "Betano": "4.35",
+                    "Betway": "4.50",
+                    "Tipico": "4.60",
+                    "Betcris": "4.50"
+                }
+            },
+            "Tie-break": {
+                "Yes": {
+                    "Tipico": "1.85"
+                },
+                "No": {
+                    "Tipico": "1.85"
+                }
+            },
+            "Set / Match": {
+                "1/1": {
+                    "bet365": "2.20",
+                    "Marathon": "2.21"
+                },
+                "1/2": {
+                    "bet365": "8.00",
+                    "Marathon": "7.60"
+                },
+                "2/1": {
+                    "bet365": "7.00",
+                    "Marathon": "6.75"
+                },
+                "2/2": {
+                    "bet365": "2.60",
+                    "Marathon": "2.67"
+                }
+            },
+            "Home/Away (2nd Set)": {
+                "Home": {
+                    "Marathon": "1.76",
+                    "1xbet": "1.76",
+                    "Betano": "1.75",
+                    "Betway": "1.80"
+                },
+                "Away": {
+                    "Marathon": "2.00",
+                    "1xbet": "2.00",
+                    "Betano": "2.02",
+                    "Betway": "1.90"
+                }
+            },
+            "Odd/Even (2nd Set)": {
+                "Odd": {
+                    "Marathon": "1.79",
+                    "1xbet": "1.79",
+                    "Betano": "1.78"
+                },
+                "Even": {
+                    "Marathon": "1.96",
+                    "1xbet": "1.96",
+                    "Betano": "1.91"
+                }
+            },
+            "Number of sets": {
+                "Away": {
+                    "10Bet": "1.60",
+                    "bet365": "1.66",
+                    "Marathon": "1.60",
+                    "Betano": "1.65",
+                    "Betway": "1.50"
+                },
+                "3": {
+                    "10Bet": "2.20",
+                    "bet365": "2.10",
+                    "Marathon": "2.25",
+                    "Betano": "2.15",
+                    "Betway": "2.30"
+                }
+            },
+            "Win at least one set (Player 1)": {
+                "Yes": {
+                    "bet365": "1.25"
+                },
+                "No": {
+                    "bet365": "3.75"
+                }
+            },
+            "Win at least one set (Player 2)": {
+                "Yes": {
+                    "bet365": "1.36"
+                },
+                "No": {
+                    "bet365": "3.00"
+                }
+            },
+            "Win at least one set": {
+                "Home": {
+                    "Betway": "1.30"
+                }
+            },
+            "Not to Win at least one set": {
+                "Home": {
+                    "Betway": "3.20"
+                },
+                "Away": {
+                    "Betway": "2.60"
+                }
+            },
+            "Away Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.62"
+                },
+                "Under": {
+                    "Betano": "2.22"
+                }
+            },
+            "Home Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.45"
+                },
+                "Under": {
+                    "Betano": "2.62"
+                }
+            },
+            "Win In Straigh Sets (Player 1)": {
+                "Yes": {
+                    "bet365": "3.00"
+                },
+                "No": {
+                    "bet365": "1.36"
+                }
+            },
+            "Win In Straigh Sets (Player 2)": {
+                "Yes": {
+                    "bet365": "3.75"
+                },
+                "No": {
+                    "bet365": "1.25"
+                }
+            },
+            "Win From behind (Player 1)": {
+                "Yes": {
+                    "bet365": "7.00",
+                    "Betano": "7.20"
+                },
+                "No": {
+                    "bet365": "1.10",
+                    "Betano": "1.10"
+                }
+            },
+            "Win From behind (Player 2)": {
+                "Yes": {
+                    "bet365": "8.00",
+                    "Betano": "8.00"
+                },
+                "No": {
+                    "bet365": "1.08",
+                    "Betano": "1.09"
+                }
+            },
+            "1x2 Aces": {
+                "Home": {
+                    "Betano": "7.20"
+                },
+                "Draw": {
+                    "Betano": "8.50"
+                },
+                "Away": {
+                    "Betano": "1.08"
+                }
+            },
+            "First Ace": {
+                "Home": {
+                    "Betano": "3.05"
+                },
+                "Away": {
+                    "Betano": "1.33"
+                }
+            }
+        },
+        "11959120": {
+            "Home/Away": {
+                "Home": {
+                    "NordicBet": "1.79",
+                    "10Bet": "1.80",
+                    "WilliamHill": "1.85",
+                    "bet365": "1.80",
+                    "Marathon": "1.80",
+                    "Unibet": "1.84",
+                    "Betfair": "1.97",
+                    "Betsson": "1.79",
+                    "Pncl": "1.86",
+                    "Sbo": "1.88",
+                    "1xbet": "1.80",
+                    "Betano": "1.85",
+                    "Betway": "1.80",
+                    "Tipico": "1.80",
+                    "Betcris": "1.80"
+                },
+                "Away": {
+                    "NordicBet": "1.96",
+                    "10Bet": "1.95",
+                    "WilliamHill": "1.95",
+                    "bet365": "2.00",
+                    "Marathon": "2.02",
+                    "Unibet": "1.97",
+                    "Betfair": "2.02",
+                    "Betsson": "1.96",
+                    "Pncl": "2.03",
+                    "Sbo": "1.92",
+                    "1xbet": "2.02",
+                    "Betano": "1.98",
+                    "Betway": "2.00",
+                    "Tipico": "1.90",
+                    "Betcris": "1.98"
+                }
+            },
+            "Correct Score 1st Half": {
+                "6:0": {
+                    "WilliamHill": "51.00",
+                    "bet365": "51.00",
+                    "1xbet": "50.00",
+                    "Betano": "100.00",
+                    "Betcris": "101.00"
+                },
+                "6:1": {
+                    "WilliamHill": "21.00",
+                    "bet365": "21.00",
+                    "1xbet": "22.00",
+                    "Betano": "25.00",
+                    "Betcris": "28.00"
+                },
+                "6:2": {
+                    "WilliamHill": "13.00",
+                    "bet365": "13.00",
+                    "1xbet": "10.70",
+                    "Betano": "13.50",
+                    "Betcris": "13.00"
+                },
+                "0:6": {
+                    "WilliamHill": "51.00",
+                    "bet365": "51.00",
+                    "1xbet": "50.00",
+                    "Betano": "110.00",
+                    "Betcris": "101.00"
+                },
+                "1:6": {
+                    "WilliamHill": "23.00",
+                    "bet365": "23.00",
+                    "1xbet": "25.00",
+                    "Betano": "28.00",
+                    "Betcris": "29.00"
+                },
+                "2:6": {
+                    "WilliamHill": "13.00",
+                    "bet365": "15.00",
+                    "1xbet": "12.00",
+                    "Betano": "15.00",
+                    "Betcris": "16.00"
+                },
+                "4:6": {
+                    "WilliamHill": "6.50",
+                    "bet365": "6.50",
+                    "1xbet": "6.85",
+                    "Betano": "6.30",
+                    "Betcris": "6.40"
+                },
+                "3:6": {
+                    "WilliamHill": "7.00",
+                    "bet365": "7.50",
+                    "1xbet": "7.20",
+                    "Betano": "7.10",
+                    "Betcris": "6.40"
+                },
+                "6:3": {
+                    "WilliamHill": "7.00",
+                    "bet365": "6.50",
+                    "1xbet": "6.60",
+                    "Betano": "6.70",
+                    "Betcris": "6.80"
+                },
+                "6:4": {
+                    "WilliamHill": "6.00",
+                    "bet365": "6.50",
+                    "1xbet": "6.45",
+                    "Betano": "6.00",
+                    "Betcris": "5.40"
+                },
+                "7:5": {
+                    "WilliamHill": "15.00",
+                    "bet365": "17.00",
+                    "1xbet": "15.50",
+                    "Betano": "15.50",
+                    "Betcris": "16.00"
+                },
+                "7:6": {
+                    "WilliamHill": "7.00",
+                    "bet365": "6.50",
+                    "1xbet": "6.25",
+                    "Betano": "6.90",
+                    "Betcris": "6.20"
+                },
+                "5:7": {
+                    "WilliamHill": "17.00",
+                    "bet365": "17.00",
+                    "1xbet": "16.50",
+                    "Betano": "16.50",
+                    "Betcris": "17.00"
+                },
+                "6:7": {
+                    "WilliamHill": "7.00",
+                    "bet365": "7.00",
+                    "1xbet": "6.50",
+                    "Betano": "7.10",
+                    "Betcris": "6.60"
+                }
+            },
+            "Correct Score 2nd Half": {
+                "6:0": {
+                    "1xbet": "50.00",
+                    "Betano": "100.00"
+                },
+                "6:1": {
+                    "1xbet": "23.00",
+                    "Betano": "27.00"
+                },
+                "6:2": {
+                    "1xbet": "11.50",
+                    "Betano": "13.50"
+                },
+                "0:6": {
+                    "1xbet": "50.00",
+                    "Betano": "110.00"
+                },
+                "1:6": {
+                    "1xbet": "26.00",
+                    "Betano": "29.00"
+                },
+                "2:6": {
+                    "1xbet": "13.20",
+                    "Betano": "14.50"
+                },
+                "4:6": {
+                    "1xbet": "6.45",
+                    "Betano": "6.20"
+                },
+                "3:6": {
+                    "1xbet": "7.40",
+                    "Betano": "7.30"
+                },
+                "6:3": {
+                    "1xbet": "6.70",
+                    "Betano": "7.00"
+                },
+                "6:4": {
+                    "1xbet": "5.95",
+                    "Betano": "5.80"
+                },
+                "7:5": {
+                    "1xbet": "15.00",
+                    "Betano": "15.50"
+                },
+                "7:6": {
+                    "1xbet": "6.25",
+                    "Betano": "6.90"
+                },
+                "5:7": {
+                    "1xbet": "16.50",
+                    "Betano": "16.50"
+                },
+                "6:7": {
+                    "1xbet": "6.50",
+                    "Betano": "7.10"
+                }
+            },
+            "Odd/Even": {
+                "Odd": {
+                    "bet365": "1.83",
+                    "Marathon": "1.88",
+                    "1xbet": "1.88",
+                    "Betway": "1.85"
+                },
+                "Even": {
+                    "bet365": "1.83",
+                    "Marathon": "1.87",
+                    "1xbet": "1.87",
+                    "Betway": "1.85"
+                }
+            },
+            "Odd/Even (1st Set)": {
+                "Odd": {
+                    "Marathon": "1.76",
+                    "1xbet": "1.77",
+                    "Betano": "1.78",
+                    "Betway": "1.80"
+                },
+                "Even": {
+                    "Marathon": "2.00",
+                    "1xbet": "1.99",
+                    "Betano": "1.91",
+                    "Betway": "1.90"
+                }
+            },
+            "Home/Away (1st Set)": {
+                "Home": {
+                    "NordicBet": "1.81",
+                    "10Bet": "1.83",
+                    "WilliamHill": "1.85",
+                    "bet365": "1.80",
+                    "Marathon": "1.81",
+                    "Betfair": "1.80",
+                    "Betsson": "1.81",
+                    "Pncl": "1.88",
+                    "1xbet": "1.81",
+                    "Betano": "1.82",
+                    "Betway": "1.80",
+                    "Tipico": "1.80"
+                },
+                "Away": {
+                    "NordicBet": "1.94",
+                    "10Bet": "1.90",
+                    "WilliamHill": "1.85",
+                    "bet365": "2.00",
+                    "Marathon": "1.94",
+                    "Betfair": "1.91",
+                    "Betsson": "1.94",
+                    "Pncl": "1.97",
+                    "1xbet": "1.94",
+                    "Betano": "1.91",
+                    "Betway": "1.90",
+                    "Tipico": "1.90"
+                }
+            },
+            "Set Betting": {
+                "2:0": {
+                    "NordicBet": "2.85",
+                    "10Bet": "3.00",
+                    "WilliamHill": "3.10",
+                    "bet365": "3.25",
+                    "Marathon": "2.82",
+                    "Unibet": "2.90",
+                    "Betsson": "2.85",
+                    "1xbet": "2.82",
+                    "Betano": "3.00",
+                    "Betway": "2.90",
+                    "Tipico": "2.95",
+                    "Betcris": "2.80"
+                },
+                "2:1": {
+                    "NordicBet": "4.20",
+                    "10Bet": "3.95",
+                    "WilliamHill": "4.00",
+                    "bet365": "3.75",
+                    "Marathon": "4.25",
+                    "Unibet": "4.10",
+                    "Betsson": "4.20",
+                    "1xbet": "4.25",
+                    "Betano": "4.35",
+                    "Betway": "4.00",
+                    "Tipico": "4.10",
+                    "Betcris": "4.10"
+                },
+                "0:2": {
+                    "NordicBet": "3.20",
+                    "10Bet": "3.35",
+                    "WilliamHill": "3.40",
+                    "bet365": "3.50",
+                    "Marathon": "3.28",
+                    "Unibet": "3.20",
+                    "Betsson": "3.20",
+                    "1xbet": "3.28",
+                    "Betano": "3.30",
+                    "Betway": "3.20",
+                    "Tipico": "3.20",
+                    "Betcris": "3.10"
+                },
+                "1:2": {
+                    "NordicBet": "4.50",
+                    "10Bet": "4.00",
+                    "WilliamHill": "3.90",
+                    "bet365": "4.00",
+                    "Marathon": "4.65",
+                    "Unibet": "4.30",
+                    "Betsson": "4.50",
+                    "1xbet": "4.65",
+                    "Betano": "4.20",
+                    "Betway": "4.00",
+                    "Tipico": "4.30",
+                    "Betcris": "4.40"
+                }
+            },
+            "Tie-break": {
+                "Yes": {
+                    "Tipico": "1.90"
+                },
+                "No": {
+                    "Tipico": "1.80"
+                }
+            },
+            "Set / Match": {
+                "1/1": {
+                    "bet365": "2.30",
+                    "Marathon": "2.27"
+                },
+                "1/2": {
+                    "bet365": "7.00",
+                    "Marathon": "7.40"
+                },
+                "2/1": {
+                    "bet365": "7.00",
+                    "Marathon": "6.85"
+                },
+                "2/2": {
+                    "bet365": "2.50",
+                    "Marathon": "2.59"
+                }
+            },
+            "Home/Away (2nd Set)": {
+                "Home": {
+                    "Marathon": "1.80",
+                    "1xbet": "1.80",
+                    "Betano": "1.82",
+                    "Betway": "1.80"
+                },
+                "Away": {
+                    "Marathon": "1.95",
+                    "1xbet": "1.95",
+                    "Betano": "1.91",
+                    "Betway": "1.90"
+                }
+            },
+            "Odd/Even (2nd Set)": {
+                "Odd": {
+                    "Marathon": "1.80",
+                    "1xbet": "1.80",
+                    "Betano": "1.80"
+                },
+                "Even": {
+                    "Marathon": "1.95",
+                    "1xbet": "1.95",
+                    "Betano": "1.88"
+                }
+            },
+            "Number of sets": {
+                "Away": {
+                    "10Bet": "1.60",
+                    "bet365": "1.66",
+                    "Marathon": "1.60",
+                    "Betano": "1.65",
+                    "Betway": "1.55"
+                },
+                "3": {
+                    "10Bet": "2.20",
+                    "bet365": "2.10",
+                    "Marathon": "2.25",
+                    "Betano": "2.15",
+                    "Betway": "2.20"
+                }
+            },
+            "Win at least one set (Player 1)": {
+                "Yes": {
+                    "bet365": "1.28"
+                },
+                "No": {
+                    "bet365": "3.50"
+                }
+            },
+            "Win at least one set (Player 2)": {
+                "Yes": {
+                    "bet365": "1.33"
+                },
+                "No": {
+                    "bet365": "3.25"
+                }
+            },
+            "Win at least one set": {
+                "Home": {
+                    "Betway": "1.30"
+                }
+            },
+            "Not to Win at least one set": {
+                "Home": {
+                    "Betway": "3.20"
+                },
+                "Away": {
+                    "Betway": "2.90"
+                }
+            },
+            "Away Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.57"
+                },
+                "Under": {
+                    "Betano": "2.30"
+                }
+            },
+            "Home Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.52"
+                },
+                "Under": {
+                    "Betano": "2.45"
+                }
+            },
+            "Win In Straigh Sets (Player 1)": {
+                "Yes": {
+                    "bet365": "3.25"
+                },
+                "No": {
+                    "bet365": "1.33"
+                }
+            },
+            "Win In Straigh Sets (Player 2)": {
+                "Yes": {
+                    "bet365": "3.50"
+                },
+                "No": {
+                    "bet365": "1.28"
+                }
+            },
+            "Win From behind (Player 1)": {
+                "Yes": {
+                    "bet365": "7.00",
+                    "Betano": "7.50"
+                },
+                "No": {
+                    "bet365": "1.10",
+                    "Betano": "1.10"
+                }
+            },
+            "Win From behind (Player 2)": {
+                "Yes": {
+                    "bet365": "7.00",
+                    "Betano": "7.70"
+                },
+                "No": {
+                    "bet365": "1.10",
+                    "Betano": "1.10"
+                }
+            },
+            "1x2 Double Faults": {
+                "Home": {
+                    "Betano": "2.60"
+                },
+                "Draw": {
+                    "Betano": "4.00"
+                },
+                "Away": {
+                    "Betano": "1.90"
+                }
+            },
+            "1x2 Aces": {
+                "Home": {
+                    "Betano": "4.80"
+                },
+                "Draw": {
+                    "Betano": "8.00"
+                },
+                "Away": {
+                    "Betano": "1.18"
+                }
+            },
+            "First Ace": {
+                "Home": {
+                    "Betano": "2.37"
+                },
+                "Away": {
+                    "Betano": "1.52"
+                }
+            },
+            "First Double Fault": {
+                "Home": {
+                    "Betano": "2.02"
+                },
+                "Away": {
+                    "Betano": "1.72"
+                }
+            }
+        },
+        "11959122": {
+            "Home/Away": {
+                "Home": {
+                    "NordicBet": "2.34",
+                    "10Bet": "2.35",
+                    "WilliamHill": "2.38",
+                    "bet365": "2.37",
+                    "Marathon": "2.41",
+                    "Unibet": "2.38",
+                    "Betfair": "2.68",
+                    "Betsson": "2.34",
+                    "Pncl": "2.55",
+                    "Sbo": "2.33",
+                    "1xbet": "2.38",
+                    "Betano": "2.42",
+                    "Betway": "2.40",
+                    "Tipico": "2.50",
+                    "Betcris": "2.37"
+                },
+                "Away": {
+                    "NordicBet": "1.55",
+                    "10Bet": "1.55",
+                    "WilliamHill": "1.57",
+                    "bet365": "1.57",
+                    "Marathon": "1.57",
+                    "Unibet": "1.58",
+                    "Betfair": "1.57",
+                    "Betsson": "1.55",
+                    "Pncl": "1.57",
+                    "Sbo": "1.55",
+                    "1xbet": "1.59",
+                    "Betano": "1.57",
+                    "Betway": "1.55",
+                    "Tipico": "1.47",
+                    "Betcris": "1.57"
+                }
+            },
+            "Correct Score 1st Half": {
+                "6:0": {
+                    "WilliamHill": "51.00",
+                    "bet365": "51.00",
+                    "1xbet": "50.00",
+                    "Betano": "90.00",
+                    "Betcris": "101.00"
+                },
+                "6:1": {
+                    "WilliamHill": "26.00",
+                    "bet365": "26.00",
+                    "1xbet": "20.00",
+                    "Betano": "32.00",
+                    "Betcris": "29.00"
+                },
+                "6:2": {
+                    "WilliamHill": "15.00",
+                    "bet365": "12.00",
+                    "1xbet": "11.00",
+                    "Betano": "13.00",
+                    "Betcris": "12.00"
+                },
+                "0:6": {
+                    "WilliamHill": "36.00",
+                    "bet365": "34.00",
+                    "1xbet": "41.00",
+                    "Betano": "45.00",
+                    "Betcris": "50.00"
+                },
+                "1:6": {
+                    "WilliamHill": "15.00",
+                    "bet365": "11.00",
+                    "1xbet": "12.50",
+                    "Betano": "12.50",
+                    "Betcris": "12.00"
+                },
+                "2:6": {
+                    "WilliamHill": "9.00",
+                    "bet365": "11.00",
+                    "1xbet": "7.10",
+                    "Betano": "9.75",
+                    "Betcris": "9.20"
+                },
+                "4:6": {
+                    "WilliamHill": "5.50",
+                    "bet365": "7.50",
+                    "1xbet": "6.45",
+                    "Betano": "7.00",
+                    "Betcris": "6.80"
+                },
+                "3:6": {
+                    "WilliamHill": "5.80",
+                    "bet365": "5.00",
+                    "1xbet": "5.90",
+                    "Betano": "5.10",
+                    "Betcris": "4.90"
+                },
+                "6:3": {
+                    "WilliamHill": "8.50",
+                    "bet365": "12.00",
+                    "1xbet": "7.90",
+                    "Betano": "10.50",
+                    "Betcris": "10.00"
+                },
+                "6:4": {
+                    "WilliamHill": "7.50",
+                    "bet365": "6.00",
+                    "1xbet": "7.90",
+                    "Betano": "6.40",
+                    "Betcris": "6.00"
+                },
+                "7:5": {
+                    "WilliamHill": "17.00",
+                    "bet365": "19.00",
+                    "1xbet": "17.00",
+                    "Betano": "17.00",
+                    "Betcris": "18.00"
+                },
+                "7:6": {
+                    "WilliamHill": "9.00",
+                    "bet365": "9.50",
+                    "1xbet": "9.80",
+                    "Betano": "10.25",
+                    "Betcris": "10.00"
+                },
+                "5:7": {
+                    "WilliamHill": "15.00",
+                    "bet365": "13.00",
+                    "1xbet": "14.00",
+                    "Betano": "13.50",
+                    "Betcris": "14.00"
+                },
+                "6:7": {
+                    "WilliamHill": "8.00",
+                    "bet365": "8.50",
+                    "1xbet": "8.60",
+                    "Betano": "9.00",
+                    "Betcris": "8.60"
+                }
+            },
+            "Correct Score 2nd Half": {
+                "6:0": {
+                    "1xbet": "50.00",
+                    "Betano": "90.00"
+                },
+                "6:1": {
+                    "1xbet": "22.00",
+                    "Betano": "26.00"
+                },
+                "6:2": {
+                    "1xbet": "12.20",
+                    "Betano": "14.50"
+                },
+                "0:6": {
+                    "1xbet": "35.00",
+                    "Betano": "45.00"
+                },
+                "1:6": {
+                    "1xbet": "12.50",
+                    "Betano": "15.00"
+                },
+                "2:6": {
+                    "1xbet": "7.50",
+                    "Betano": "8.50"
+                },
+                "4:6": {
+                    "1xbet": "5.90",
+                    "Betano": "5.60"
+                },
+                "3:6": {
+                    "1xbet": "5.95",
+                    "Betano": "6.20"
+                },
+                "6:3": {
+                    "1xbet": "8.40",
+                    "Betano": "8.50"
+                },
+                "6:4": {
+                    "1xbet": "7.60",
+                    "Betano": "7.40"
+                },
+                "7:5": {
+                    "1xbet": "17.50",
+                    "Betano": "17.00"
+                },
+                "7:6": {
+                    "1xbet": "10.00",
+                    "Betano": "10.25"
+                },
+                "5:7": {
+                    "1xbet": "13.50",
+                    "Betano": "13.50"
+                },
+                "6:7": {
+                    "1xbet": "8.50",
+                    "Betano": "9.00"
+                }
+            },
+            "Odd/Even": {
+                "Odd": {
+                    "bet365": "1.80",
+                    "Marathon": "1.88",
+                    "1xbet": "1.88",
+                    "Betway": "1.85"
+                },
+                "Even": {
+                    "bet365": "1.90",
+                    "Marathon": "1.87",
+                    "1xbet": "1.87",
+                    "Betway": "1.85"
+                }
+            },
+            "Odd/Even (1st Set)": {
+                "Odd": {
+                    "Marathon": "1.91",
+                    "1xbet": "1.91",
+                    "Betano": "1.87",
+                    "Betway": "1.90"
+                },
+                "Even": {
+                    "Marathon": "1.84",
+                    "1xbet": "1.84",
+                    "Betano": "1.82",
+                    "Betway": "1.80"
+                }
+            },
+            "Home/Away (1st Set)": {
+                "Home": {
+                    "NordicBet": "2.21",
+                    "10Bet": "2.20",
+                    "WilliamHill": "2.20",
+                    "bet365": "2.30",
+                    "Marathon": "2.18",
+                    "Betfair": "2.24",
+                    "Betsson": "2.21",
+                    "Pncl": "2.24",
+                    "1xbet": "2.17",
+                    "Betano": "2.22",
+                    "Betway": "2.20",
+                    "Tipico": "2.15"
+                },
+                "Away": {
+                    "NordicBet": "1.62",
+                    "10Bet": "1.65",
+                    "WilliamHill": "1.62",
+                    "bet365": "1.61",
+                    "Marathon": "1.64",
+                    "Betfair": "1.66",
+                    "Betsson": "1.62",
+                    "Pncl": "1.68",
+                    "1xbet": "1.66",
+                    "Betano": "1.62",
+                    "Betway": "1.60",
+                    "Tipico": "1.62"
+                }
+            },
+            "Set Betting": {
+                "2:0": {
+                    "NordicBet": "3.85",
+                    "10Bet": "4.00",
+                    "WilliamHill": "4.40",
+                    "bet365": "4.33",
+                    "Marathon": "3.90",
+                    "Unibet": "3.95",
+                    "Betsson": "3.85",
+                    "1xbet": "3.90",
+                    "Betano": "4.25",
+                    "Betway": "3.80",
+                    "Tipico": "4.30",
+                    "Betcris": "3.75"
+                },
+                "2:1": {
+                    "NordicBet": "5.40",
+                    "10Bet": "5.00",
+                    "WilliamHill": "4.60",
+                    "bet365": "4.75",
+                    "Marathon": "5.50",
+                    "Unibet": "5.10",
+                    "Betsson": "5.40",
+                    "1xbet": "5.50",
+                    "Betano": "4.75",
+                    "Betway": "5.25",
+                    "Tipico": "6.00",
+                    "Betcris": "5.40"
+                },
+                "0:2": {
+                    "NordicBet": "2.30",
+                    "10Bet": "2.40",
+                    "WilliamHill": "2.50",
+                    "bet365": "2.50",
+                    "Marathon": "2.36",
+                    "Unibet": "2.35",
+                    "Betsson": "2.30",
+                    "1xbet": "2.36",
+                    "Betano": "2.40",
+                    "Betway": "2.20",
+                    "Tipico": "2.20",
+                    "Betcris": "2.31"
+                },
+                "1:2": {
+                    "NordicBet": "3.95",
+                    "10Bet": "3.85",
+                    "WilliamHill": "3.60",
+                    "bet365": "3.60",
+                    "Marathon": "4.05",
+                    "Unibet": "3.90",
+                    "Betsson": "3.95",
+                    "1xbet": "4.05",
+                    "Betano": "4.15",
+                    "Betway": "4.00",
+                    "Tipico": "3.80",
+                    "Betcris": "3.85"
+                }
+            },
+            "Tie-break": {
+                "Yes": {
+                    "Tipico": "2.40"
+                },
+                "No": {
+                    "Tipico": "1.50"
+                }
+            },
+            "Set / Match": {
+                "1/1": {
+                    "bet365": "3.10",
+                    "Marathon": "3.15"
+                },
+                "1/2": {
+                    "bet365": "6.50",
+                    "Marathon": "6.40"
+                },
+                "2/1": {
+                    "bet365": "8.00",
+                    "Marathon": "8.50"
+                },
+                "2/2": {
+                    "bet365": "1.90",
+                    "Marathon": "1.93"
+                }
+            },
+            "Home/Away (2nd Set)": {
+                "Home": {
+                    "Marathon": "2.26",
+                    "1xbet": "2.24",
+                    "Betano": "2.22",
+                    "Betway": "2.20"
+                },
+                "Away": {
+                    "Marathon": "1.60",
+                    "1xbet": "1.62",
+                    "Betano": "1.62",
+                    "Betway": "1.60"
+                }
+            },
+            "Odd/Even (2nd Set)": {
+                "Odd": {
+                    "Marathon": "1.94",
+                    "1xbet": "1.94",
+                    "Betano": "1.91"
+                },
+                "Even": {
+                    "Marathon": "1.81",
+                    "1xbet": "1.81",
+                    "Betano": "1.78"
+                }
+            },
+            "Number of sets": {
+                "Away": {
+                    "10Bet": "1.57",
+                    "bet365": "1.66",
+                    "Marathon": "1.55",
+                    "Betano": "1.62",
+                    "Betway": "1.50"
+                },
+                "3": {
+                    "10Bet": "2.25",
+                    "bet365": "2.10",
+                    "Marathon": "2.36",
+                    "Betano": "2.22",
+                    "Betway": "2.30"
+                }
+            },
+            "Win at least one set (Player 1)": {
+                "Yes": {
+                    "bet365": "1.50"
+                },
+                "No": {
+                    "bet365": "2.50"
+                }
+            },
+            "Win at least one set (Player 2)": {
+                "Yes": {
+                    "bet365": "1.20"
+                },
+                "No": {
+                    "bet365": "4.33"
+                }
+            },
+            "Win at least one set": {
+                "Home": {
+                    "Betway": "1.60"
+                }
+            },
+            "Not to Win at least one set": {
+                "Home": {
+                    "Betway": "2.20"
+                },
+                "Away": {
+                    "Betway": "3.80"
+                }
+            },
+            "Away Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.44"
+                },
+                "Under": {
+                    "Betano": "2.67"
+                }
+            },
+            "Home Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.87"
+                },
+                "Under": {
+                    "Betano": "1.87"
+                }
+            },
+            "Win In Straigh Sets (Player 1)": {
+                "Yes": {
+                    "bet365": "4.33"
+                },
+                "No": {
+                    "bet365": "1.20"
+                }
+            },
+            "Win In Straigh Sets (Player 2)": {
+                "Yes": {
+                    "bet365": "2.50"
+                },
+                "No": {
+                    "bet365": "1.50"
+                }
+            },
+            "Win From behind (Player 1)": {
+                "Yes": {
+                    "bet365": "8.00",
+                    "Betano": "8.75"
+                },
+                "No": {
+                    "bet365": "1.08",
+                    "Betano": "1.08"
+                }
+            },
+            "Win From behind (Player 2)": {
+                "Yes": {
+                    "bet365": "6.50",
+                    "Betano": "7.10"
+                },
+                "No": {
+                    "bet365": "1.11",
+                    "Betano": "1.11"
+                }
+            },
+            "1x2 Double Faults": {
+                "Home": {
+                    "Betano": "1.45"
+                },
+                "Draw": {
+                    "Betano": "5.90"
+                },
+                "Away": {
+                    "Betano": "3.30"
+                }
+            },
+            "1x2 Aces": {
+                "Home": {
+                    "Betano": "1.38"
+                },
+                "Draw": {
+                    "Betano": "5.40"
+                },
+                "Away": {
+                    "Betano": "3.70"
+                }
+            },
+            "First Ace": {
+                "Home": {
+                    "Betano": "1.47"
+                },
+                "Away": {
+                    "Betano": "2.52"
+                }
+            },
+            "First Double Fault": {
+                "Home": {
+                    "Betano": "1.55"
+                },
+                "Away": {
+                    "Betano": "2.30"
+                }
+            }
+        },
+        "11959123": {
+            "Home/Away": {
+                "Home": {
+                    "NordicBet": "1.44",
+                    "10Bet": "1.45",
+                    "WilliamHill": "1.50",
+                    "bet365": "1.44",
+                    "Marathon": "1.47",
+                    "Unibet": "1.48",
+                    "Betfair": "1.53",
+                    "Betsson": "1.44",
+                    "Pncl": "1.51",
+                    "Sbo": "1.47",
+                    "1xbet": "1.48",
+                    "Betano": "1.47",
+                    "Betway": "1.45",
+                    "Tipico": "1.45",
+                    "Betcris": "1.45"
+                },
+                "Away": {
+                    "NordicBet": "2.65",
+                    "10Bet": "2.62",
+                    "WilliamHill": "2.60",
+                    "bet365": "2.75",
+                    "Marathon": "2.69",
+                    "Unibet": "2.65",
+                    "Betfair": "2.80",
+                    "Betsson": "2.65",
+                    "Pncl": "2.72",
+                    "Sbo": "2.49",
+                    "1xbet": "2.68",
+                    "Betano": "2.72",
+                    "Betway": "2.75",
+                    "Tipico": "2.55",
+                    "Betcris": "2.70"
+                }
+            },
+            "Correct Score 1st Half": {
+                "6:0": {
+                    "WilliamHill": "46.00",
+                    "bet365": "41.00",
+                    "1xbet": "50.00",
+                    "Betano": "55.00",
+                    "Betcris": "70.00"
+                },
+                "6:1": {
+                    "WilliamHill": "17.00",
+                    "bet365": "15.00",
+                    "1xbet": "14.00",
+                    "Betano": "15.00",
+                    "Betcris": "18.00"
+                },
+                "6:2": {
+                    "WilliamHill": "10.00",
+                    "bet365": "9.50",
+                    "1xbet": "7.50",
+                    "Betano": "9.00",
+                    "Betcris": "8.80"
+                },
+                "0:6": {
+                    "WilliamHill": "61.00",
+                    "bet365": "67.00",
+                    "1xbet": "50.00",
+                    "Betano": "150.00",
+                    "Betcris": "101.00"
+                },
+                "1:6": {
+                    "WilliamHill": "29.00",
+                    "bet365": "26.00",
+                    "1xbet": "28.00",
+                    "Betano": "37.00",
+                    "Betcris": "40.00"
+                },
+                "2:6": {
+                    "WilliamHill": "17.00",
+                    "bet365": "17.00",
+                    "1xbet": "14.00",
+                    "Betano": "19.00",
+                    "Betcris": "21.00"
+                },
+                "4:6": {
+                    "WilliamHill": "7.50",
+                    "bet365": "8.00",
+                    "1xbet": "8.10",
+                    "Betano": "7.70",
+                    "Betcris": "8.00"
+                },
+                "3:6": {
+                    "WilliamHill": "8.50",
+                    "bet365": "9.50",
+                    "1xbet": "8.60",
+                    "Betano": "9.25",
+                    "Betcris": "8.00"
+                },
+                "6:3": {
+                    "WilliamHill": "5.80",
+                    "bet365": "5.50",
+                    "1xbet": "5.60",
+                    "Betano": "5.50",
+                    "Betcris": "5.60"
+                },
+                "6:4": {
+                    "WilliamHill": "5.50",
+                    "bet365": "5.50",
+                    "1xbet": "5.95",
+                    "Betano": "5.40",
+                    "Betcris": "4.70"
+                },
+                "7:5": {
+                    "WilliamHill": "15.00",
+                    "bet365": "13.00",
+                    "1xbet": "13.70",
+                    "Betano": "13.50",
+                    "Betcris": "14.00"
+                },
+                "7:6": {
+                    "WilliamHill": "6.50",
+                    "bet365": "7.00",
+                    "1xbet": "6.75",
+                    "Betano": "7.40",
+                    "Betcris": "6.40"
+                },
+                "5:7": {
+                    "WilliamHill": "19.00",
+                    "bet365": "21.00",
+                    "1xbet": "19.00",
+                    "Betano": "19.50",
+                    "Betcris": "21.00"
+                },
+                "6:7": {
+                    "WilliamHill": "7.50",
+                    "bet365": "9.00",
+                    "1xbet": "8.30",
+                    "Betano": "9.00",
+                    "Betcris": "8.20"
+                }
+            },
+            "Correct Score 2nd Half": {
+                "6:0": {
+                    "1xbet": "43.00",
+                    "Betano": "55.00"
+                },
+                "6:1": {
+                    "1xbet": "14.00",
+                    "Betano": "16.50"
+                },
+                "6:2": {
+                    "1xbet": "7.70",
+                    "Betano": "8.50"
+                },
+                "0:6": {
+                    "1xbet": "50.00",
+                    "Betano": "150.00"
+                },
+                "1:6": {
+                    "1xbet": "31.00",
+                    "Betano": "37.00"
+                },
+                "2:6": {
+                    "1xbet": "16.00",
+                    "Betano": "19.00"
+                },
+                "4:6": {
+                    "1xbet": "7.90",
+                    "Betano": "7.90"
+                },
+                "3:6": {
+                    "1xbet": "9.10",
+                    "Betano": "9.00"
+                },
+                "6:3": {
+                    "1xbet": "5.65",
+                    "Betano": "5.90"
+                },
+                "6:4": {
+                    "1xbet": "5.35",
+                    "Betano": "5.00"
+                },
+                "7:5": {
+                    "1xbet": "13.20",
+                    "Betano": "13.50"
+                },
+                "7:6": {
+                    "1xbet": "6.75",
+                    "Betano": "7.40"
+                },
+                "5:7": {
+                    "1xbet": "19.50",
+                    "Betano": "19.50"
+                },
+                "6:7": {
+                    "1xbet": "8.50",
+                    "Betano": "9.00"
+                }
+            },
+            "Odd/Even": {
+                "Odd": {
+                    "bet365": "1.83",
+                    "Marathon": "1.88",
+                    "1xbet": "1.88",
+                    "Betway": "1.90"
+                },
+                "Even": {
+                    "bet365": "1.83",
+                    "Marathon": "1.87",
+                    "1xbet": "1.87",
+                    "Betway": "1.80"
+                }
+            },
+            "Odd/Even (1st Set)": {
+                "Odd": {
+                    "Marathon": "1.83",
+                    "1xbet": "1.83",
+                    "Betano": "1.82",
+                    "Betway": "1.80"
+                },
+                "Even": {
+                    "Marathon": "1.92",
+                    "1xbet": "1.92",
+                    "Betano": "1.87",
+                    "Betway": "1.90"
+                }
+            },
+            "Home/Away (1st Set)": {
+                "Home": {
+                    "NordicBet": "1.53",
+                    "10Bet": "1.53",
+                    "WilliamHill": "1.62",
+                    "bet365": "1.53",
+                    "Marathon": "1.56",
+                    "Betfair": "1.57",
+                    "Betsson": "1.53",
+                    "Pncl": "1.58",
+                    "1xbet": "1.58",
+                    "Betano": "1.52",
+                    "Betway": "1.50",
+                    "Tipico": "1.52"
+                },
+                "Away": {
+                    "NordicBet": "2.41",
+                    "10Bet": "2.40",
+                    "WilliamHill": "2.20",
+                    "bet365": "2.50",
+                    "Marathon": "2.34",
+                    "Betfair": "2.24",
+                    "Betsson": "2.41",
+                    "Pncl": "2.46",
+                    "1xbet": "2.32",
+                    "Betano": "2.42",
+                    "Betway": "2.40",
+                    "Tipico": "2.35"
+                }
+            },
+            "Set Betting": {
+                "2:0": {
+                    "NordicBet": "2.12",
+                    "10Bet": "2.20",
+                    "WilliamHill": "2.25",
+                    "bet365": "2.25",
+                    "Marathon": "2.20",
+                    "Unibet": "2.17",
+                    "Betsson": "2.12",
+                    "1xbet": "2.20",
+                    "Betano": "2.30",
+                    "Betway": "2.20",
+                    "Tipico": "2.15",
+                    "Betcris": "2.13"
+                },
+                "2:1": {
+                    "NordicBet": "3.70",
+                    "10Bet": "3.75",
+                    "WilliamHill": "3.90",
+                    "bet365": "3.50",
+                    "Marathon": "3.82",
+                    "Unibet": "3.70",
+                    "Betsson": "3.70",
+                    "1xbet": "3.82",
+                    "Betano": "4.05",
+                    "Betway": "4.00",
+                    "Tipico": "3.70",
+                    "Betcris": "3.60"
+                },
+                "0:2": {
+                    "NordicBet": "4.60",
+                    "10Bet": "4.50",
+                    "WilliamHill": "4.20",
+                    "bet365": "5.00",
+                    "Marathon": "4.50",
+                    "Unibet": "4.60",
+                    "Betsson": "4.60",
+                    "1xbet": "4.50",
+                    "Betano": "5.00",
+                    "Betway": "4.25",
+                    "Tipico": "4.60",
+                    "Betcris": "4.40"
+                },
+                "1:2": {
+                    "NordicBet": "5.80",
+                    "10Bet": "5.25",
+                    "WilliamHill": "5.50",
+                    "bet365": "5.00",
+                    "Marathon": "5.80",
+                    "Unibet": "5.50",
+                    "Betsson": "5.80",
+                    "1xbet": "5.80",
+                    "Betano": "5.10",
+                    "Betway": "5.00",
+                    "Tipico": "6.00",
+                    "Betcris": "5.60"
+                }
+            },
+            "Tie-break": {
+                "Yes": {
+                    "Tipico": "2.20"
+                },
+                "No": {
+                    "Tipico": "1.60"
+                }
+            },
+            "Set / Match": {
+                "1/1": {
+                    "bet365": "1.80",
+                    "Marathon": "1.79"
+                },
+                "1/2": {
+                    "bet365": "9.00",
+                    "Marathon": "9.20"
+                },
+                "2/1": {
+                    "bet365": "6.50",
+                    "Marathon": "6.20"
+                },
+                "2/2": {
+                    "bet365": "3.50",
+                    "Marathon": "3.56"
+                }
+            },
+            "Home/Away (2nd Set)": {
+                "Home": {
+                    "Marathon": "1.52",
+                    "1xbet": "1.54",
+                    "Betano": "1.52",
+                    "Betway": "1.55"
+                },
+                "Away": {
+                    "Marathon": "2.43",
+                    "1xbet": "2.41",
+                    "Betano": "2.42",
+                    "Betway": "2.30"
+                }
+            },
+            "Odd/Even (2nd Set)": {
+                "Odd": {
+                    "Marathon": "1.87",
+                    "1xbet": "1.87",
+                    "Betano": "1.87"
+                },
+                "Even": {
+                    "Marathon": "1.88",
+                    "1xbet": "1.88",
+                    "Betano": "1.82"
+                }
+            },
+            "Number of sets": {
+                "Away": {
+                    "10Bet": "1.57",
+                    "bet365": "1.61",
+                    "Marathon": "1.55",
+                    "Betano": "1.65",
+                    "Betway": "1.50"
+                },
+                "3": {
+                    "10Bet": "2.25",
+                    "bet365": "2.20",
+                    "Marathon": "2.36",
+                    "Betano": "2.15",
+                    "Betway": "2.30"
+                }
+            },
+            "Win at least one set (Player 1)": {
+                "Yes": {
+                    "bet365": "1.16"
+                },
+                "No": {
+                    "bet365": "5.00"
+                }
+            },
+            "Win at least one set (Player 2)": {
+                "Yes": {
+                    "bet365": "1.57"
+                },
+                "No": {
+                    "bet365": "2.25"
+                }
+            },
+            "Win at least one set": {
+                "Home": {
+                    "Betway": "1.18"
+                }
+            },
+            "Not to Win at least one set": {
+                "Home": {
+                    "Betway": "4.25"
+                },
+                "Away": {
+                    "Betway": "2.20"
+                }
+            },
+            "Away Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.93"
+                },
+                "Under": {
+                    "Betano": "1.82"
+                }
+            },
+            "Home Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.35"
+                },
+                "Under": {
+                    "Betano": "3.05"
+                }
+            },
+            "Win In Straigh Sets (Player 1)": {
+                "Yes": {
+                    "bet365": "2.25"
+                },
+                "No": {
+                    "bet365": "1.57"
+                }
+            },
+            "Win In Straigh Sets (Player 2)": {
+                "Yes": {
+                    "bet365": "5.00"
+                },
+                "No": {
+                    "bet365": "1.16"
+                }
+            },
+            "Win From behind (Player 1)": {
+                "Yes": {
+                    "bet365": "6.50",
+                    "Betano": "6.90"
+                },
+                "No": {
+                    "bet365": "1.11",
+                    "Betano": "1.11"
+                }
+            },
+            "Win From behind (Player 2)": {
+                "Yes": {
+                    "bet365": "9.00",
+                    "Betano": "9.50"
+                },
+                "No": {
+                    "bet365": "1.07",
+                    "Betano": "1.07"
+                }
+            },
+            "1x2 Double Faults": {
+                "Home": {
+                    "Betano": "2.40"
+                },
+                "Draw": {
+                    "Betano": "4.65"
+                },
+                "Away": {
+                    "Betano": "1.90"
+                }
+            },
+            "1x2 Aces": {
+                "Home": {
+                    "Betano": "3.75"
+                },
+                "Draw": {
+                    "Betano": "7.20"
+                },
+                "Away": {
+                    "Betano": "1.29"
+                }
+            },
+            "First Ace": {
+                "Home": {
+                    "Betano": "2.20"
+                },
+                "Away": {
+                    "Betano": "1.60"
+                }
+            },
+            "First Double Fault": {
+                "Home": {
+                    "Betano": "1.95"
+                },
+                "Away": {
+                    "Betano": "1.75"
+                }
+            }
+        },
+        "11959124": {
+            "Home/Away": {
+                "Home": {
+                    "NordicBet": "1.65",
+                    "10Bet": "1.60",
+                    "WilliamHill": "1.67",
+                    "bet365": "1.66",
+                    "Marathon": "1.67",
+                    "Unibet": "1.66",
+                    "Betfair": "1.75",
+                    "Betsson": "1.65",
+                    "Pncl": "1.67",
+                    "Sbo": "1.68",
+                    "1xbet": "1.69",
+                    "Betano": "1.65",
+                    "Betway": "1.65",
+                    "Tipico": "1.75",
+                    "Betcris": "1.66"
+                },
+                "Away": {
+                    "NordicBet": "2.15",
+                    "10Bet": "2.25",
+                    "WilliamHill": "2.20",
+                    "bet365": "2.20",
+                    "Marathon": "2.21",
+                    "Unibet": "2.23",
+                    "Betfair": "2.30",
+                    "Betsson": "2.15",
+                    "Pncl": "2.33",
+                    "Sbo": "2.13",
+                    "1xbet": "2.19",
+                    "Betano": "2.25",
+                    "Betway": "2.25",
+                    "Tipico": "1.95",
+                    "Betcris": "2.18"
+                }
+            },
+            "Correct Score 1st Half": {
+                "6:0": {
+                    "WilliamHill": "61.00",
+                    "bet365": "51.00",
+                    "1xbet": "50.00",
+                    "Betano": "120.00",
+                    "Betcris": "101.00"
+                },
+                "6:1": {
+                    "WilliamHill": "26.00",
+                    "bet365": "19.00",
+                    "1xbet": "26.00",
+                    "Betano": "23.00",
+                    "Betcris": "27.00"
+                },
+                "6:2": {
+                    "WilliamHill": "13.00",
+                    "bet365": "17.00",
+                    "1xbet": "12.50",
+                    "Betano": "18.50",
+                    "Betcris": "16.00"
+                },
+                "0:6": {
+                    "WilliamHill": "71.00",
+                    "bet365": "81.00",
+                    "1xbet": "50.00",
+                    "Betano": "175.00",
+                    "Betcris": "101.00"
+                },
+                "1:6": {
+                    "WilliamHill": "36.00",
+                    "bet365": "41.00",
+                    "1xbet": "35.00",
+                    "Betano": "70.00",
+                    "Betcris": "60.00"
+                },
+                "2:6": {
+                    "WilliamHill": "21.00",
+                    "bet365": "17.00",
+                    "1xbet": "16.50",
+                    "Betano": "20.00",
+                    "Betcris": "20.00"
+                },
+                "4:6": {
+                    "WilliamHill": "7.00",
+                    "bet365": "5.50",
+                    "1xbet": "7.30",
+                    "Betano": "5.20",
+                    "Betcris": "5.60"
+                },
+                "3:6": {
+                    "WilliamHill": "8.00",
+                    "bet365": "12.00",
+                    "1xbet": "8.10",
+                    "Betano": "13.50",
+                    "Betcris": "9.40"
+                },
+                "6:3": {
+                    "WilliamHill": "6.50",
+                    "bet365": "5.00",
+                    "1xbet": "6.50",
+                    "Betano": "4.65",
+                    "Betcris": "5.20"
+                },
+                "6:4": {
+                    "WilliamHill": "5.80",
+                    "bet365": "7.50",
+                    "1xbet": "6.10",
+                    "Betano": "8.25",
+                    "Betcris": "6.20"
+                },
+                "7:5": {
+                    "WilliamHill": "15.00",
+                    "bet365": "15.00",
+                    "1xbet": "15.00",
+                    "Betano": "15.50",
+                    "Betcris": "16.00"
+                },
+                "7:6": {
+                    "WilliamHill": "5.00",
+                    "bet365": "5.50",
+                    "1xbet": "4.95",
+                    "Betano": "5.20",
+                    "Betcris": "5.00"
+                },
+                "5:7": {
+                    "WilliamHill": "19.00",
+                    "bet365": "19.00",
+                    "1xbet": "18.00",
+                    "Betano": "18.50",
+                    "Betcris": "19.00"
+                },
+                "6:7": {
+                    "WilliamHill": "6.00",
+                    "bet365": "6.00",
+                    "1xbet": "5.45",
+                    "Betano": "5.80",
+                    "Betcris": "5.60"
+                }
+            },
+            "Correct Score 2nd Half": {
+                "6:0": {
+                    "1xbet": "50.00",
+                    "Betano": "120.00"
+                },
+                "6:1": {
+                    "1xbet": "27.00",
+                    "Betano": "35.00"
+                },
+                "6:2": {
+                    "1xbet": "13.00",
+                    "Betano": "14.50"
+                },
+                "0:6": {
+                    "1xbet": "50.00",
+                    "Betano": "175.00"
+                },
+                "1:6": {
+                    "1xbet": "38.00",
+                    "Betano": "45.00"
+                },
+                "2:6": {
+                    "1xbet": "18.50",
+                    "Betano": "24.00"
+                },
+                "4:6": {
+                    "1xbet": "6.85",
+                    "Betano": "7.10"
+                },
+                "3:6": {
+                    "1xbet": "8.40",
+                    "Betano": "7.90"
+                },
+                "6:3": {
+                    "1xbet": "6.65",
+                    "Betano": "7.20"
+                },
+                "6:4": {
+                    "1xbet": "5.55",
+                    "Betano": "5.10"
+                },
+                "7:5": {
+                    "1xbet": "15.00",
+                    "Betano": "15.50"
+                },
+                "7:6": {
+                    "1xbet": "4.95",
+                    "Betano": "5.20"
+                },
+                "5:7": {
+                    "1xbet": "18.50",
+                    "Betano": "18.50"
+                },
+                "6:7": {
+                    "1xbet": "5.55",
+                    "Betano": "5.80"
+                }
+            },
+            "Odd/Even": {
+                "Odd": {
+                    "bet365": "1.83",
+                    "Marathon": "1.89",
+                    "1xbet": "1.89",
+                    "Betway": "1.85"
+                },
+                "Even": {
+                    "bet365": "1.83",
+                    "Marathon": "1.86",
+                    "1xbet": "1.86",
+                    "Betway": "1.85"
+                }
+            },
+            "Odd/Even (1st Set)": {
+                "Odd": {
+                    "Marathon": "1.67",
+                    "1xbet": "1.67",
+                    "Betano": "1.62",
+                    "Betway": "1.60"
+                },
+                "Even": {
+                    "Marathon": "2.14",
+                    "1xbet": "2.14",
+                    "Betano": "2.15",
+                    "Betway": "2.20"
+                }
+            },
+            "Home/Away (1st Set)": {
+                "Home": {
+                    "NordicBet": "1.71",
+                    "10Bet": "1.70",
+                    "WilliamHill": "1.67",
+                    "bet365": "1.72",
+                    "Marathon": "1.72",
+                    "Betfair": "1.73",
+                    "Betsson": "1.71",
+                    "Pncl": "1.72",
+                    "1xbet": "1.72",
+                    "Betano": "1.70",
+                    "Betway": "1.60",
+                    "Tipico": "1.72"
+                },
+                "Away": {
+                    "NordicBet": "2.07",
+                    "10Bet": "2.10",
+                    "WilliamHill": "2.10",
+                    "bet365": "2.10",
+                    "Marathon": "2.05",
+                    "Betfair": "2.16",
+                    "Betsson": "2.07",
+                    "Pncl": "2.19",
+                    "1xbet": "2.05",
+                    "Betano": "2.07",
+                    "Betway": "2.20",
+                    "Tipico": "2.00"
+                }
+            },
+            "Set Betting": {
+                "2:0": {
+                    "NordicBet": "2.60",
+                    "10Bet": "2.60",
+                    "WilliamHill": "2.70",
+                    "bet365": "2.62",
+                    "Marathon": "2.61",
+                    "Unibet": "2.60",
+                    "Betsson": "2.60",
+                    "1xbet": "2.61",
+                    "Betano": "2.72",
+                    "Betway": "2.40",
+                    "Tipico": "2.90",
+                    "Betcris": "2.60"
+                },
+                "2:1": {
+                    "NordicBet": "3.90",
+                    "10Bet": "3.85",
+                    "WilliamHill": "3.60",
+                    "bet365": "3.60",
+                    "Marathon": "4.05",
+                    "Unibet": "3.75",
+                    "Betsson": "3.90",
+                    "1xbet": "4.05",
+                    "Betano": "4.05",
+                    "Betway": "3.80",
+                    "Tipico": "3.80",
+                    "Betcris": "3.75"
+                },
+                "0:2": {
+                    "NordicBet": "3.60",
+                    "10Bet": "3.80",
+                    "WilliamHill": "4.20",
+                    "bet365": "4.00",
+                    "Marathon": "3.64",
+                    "Unibet": "3.75",
+                    "Betsson": "3.60",
+                    "1xbet": "3.64",
+                    "Betano": "3.90",
+                    "Betway": "3.50",
+                    "Tipico": "3.50",
+                    "Betcris": "3.50"
+                },
+                "1:2": {
+                    "NordicBet": "4.70",
+                    "10Bet": "4.50",
+                    "WilliamHill": "4.33",
+                    "bet365": "4.33",
+                    "Marathon": "4.90",
+                    "Unibet": "4.60",
+                    "Betsson": "4.70",
+                    "1xbet": "4.90",
+                    "Betano": "4.40",
+                    "Betway": "4.50",
+                    "Tipico": "4.40",
+                    "Betcris": "4.60"
+                }
+            },
+            "Tie-break": {
+                "Yes": {
+                    "Tipico": "1.65"
+                },
+                "No": {
+                    "Tipico": "2.10"
+                }
+            },
+            "Set / Match": {
+                "1/1": {
+                    "bet365": "2.00",
+                    "Marathon": "2.09"
+                },
+                "1/2": {
+                    "bet365": "8.00",
+                    "Marathon": "7.90"
+                },
+                "2/1": {
+                    "bet365": "6.50",
+                    "Marathon": "6.55"
+                },
+                "2/2": {
+                    "bet365": "2.87",
+                    "Marathon": "2.86"
+                }
+            },
+            "Home/Away (2nd Set)": {
+                "Home": {
+                    "Marathon": "1.70",
+                    "1xbet": "1.70",
+                    "Betano": "1.70",
+                    "Betway": "1.65"
+                },
+                "Away": {
+                    "Marathon": "2.08",
+                    "1xbet": "2.08",
+                    "Betano": "2.07",
+                    "Betway": "2.10"
+                }
+            },
+            "Odd/Even (2nd Set)": {
+                "Odd": {
+                    "Marathon": "1.70",
+                    "1xbet": "1.70",
+                    "Betano": "1.70"
+                },
+                "Even": {
+                    "Marathon": "2.08",
+                    "1xbet": "2.08",
+                    "Betano": "2.02"
+                }
+            },
+            "Number of sets": {
+                "Away": {
+                    "10Bet": "1.60",
+                    "bet365": "1.66",
+                    "Marathon": "1.61",
+                    "Betano": "1.75",
+                    "Betway": "1.50"
+                },
+                "3": {
+                    "10Bet": "2.20",
+                    "bet365": "2.10",
+                    "Marathon": "2.24",
+                    "Betano": "2.02",
+                    "Betway": "2.30"
+                }
+            },
+            "Win at least one set (Player 1)": {
+                "Yes": {
+                    "bet365": "1.22"
+                },
+                "No": {
+                    "bet365": "4.00"
+                }
+            },
+            "Win at least one set (Player 2)": {
+                "Yes": {
+                    "bet365": "1.44"
+                },
+                "No": {
+                    "bet365": "2.62"
+                }
+            },
+            "Win at least one set": {
+                "Home": {
+                    "Betway": "1.25"
+                }
+            },
+            "Not to Win at least one set": {
+                "Home": {
+                    "Betway": "3.50"
+                },
+                "Away": {
+                    "Betway": "2.40"
+                }
+            },
+            "Away Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.57"
+                },
+                "Under": {
+                    "Betano": "2.30"
+                }
+            },
+            "Home Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.37"
+                },
+                "Under": {
+                    "Betano": "2.95"
+                }
+            },
+            "Win In Straigh Sets (Player 1)": {
+                "Yes": {
+                    "bet365": "2.62"
+                },
+                "No": {
+                    "bet365": "1.44"
+                }
+            },
+            "Win In Straigh Sets (Player 2)": {
+                "Yes": {
+                    "bet365": "4.00"
+                },
+                "No": {
+                    "bet365": "1.22"
+                }
+            },
+            "Win From behind (Player 1)": {
+                "Yes": {
+                    "bet365": "6.50",
+                    "Betano": "7.10"
+                },
+                "No": {
+                    "bet365": "1.11",
+                    "Betano": "1.11"
+                }
+            },
+            "Win From behind (Player 2)": {
+                "Yes": {
+                    "bet365": "8.00",
+                    "Betano": "8.25"
+                },
+                "No": {
+                    "bet365": "1.08",
+                    "Betano": "1.09"
+                }
+            },
+            "1x2 Double Faults": {
+                "Home": {
+                    "Betano": "2.35"
+                },
+                "Draw": {
+                    "Betano": "4.85"
+                },
+                "Away": {
+                    "Betano": "1.90"
+                }
+            },
+            "1x2 Aces": {
+                "Home": {
+                    "Betano": "1.15"
+                },
+                "Draw": {
+                    "Betano": "9.25"
+                },
+                "Away": {
+                    "Betano": "5.00"
+                }
+            },
+            "First Ace": {
+                "Home": {
+                    "Betano": "1.33"
+                },
+                "Away": {
+                    "Betano": "3.05"
+                }
+            },
+            "First Double Fault": {
+                "Home": {
+                    "Betano": "1.85"
+                },
+                "Away": {
+                    "Betano": "1.87"
+                }
+            }
+        },
+        "11959152": {
+            "Home/Away": {
+                "Home": {
+                    "NordicBet": "1.52",
+                    "10Bet": "1.55",
+                    "WilliamHill": "1.53",
+                    "bet365": "1.53",
+                    "Marathon": "1.56",
+                    "Unibet": "1.53",
+                    "Betfair": "1.65",
+                    "Betsson": "1.52",
+                    "Pncl": "1.62",
+                    "Sbo": "1.53",
+                    "1xbet": "1.58",
+                    "Betano": "1.55",
+                    "Betway": "1.55",
+                    "Tipico": "1.47",
+                    "Betcris": "1.54"
+                },
+                "Away": {
+                    "NordicBet": "2.41",
+                    "10Bet": "2.35",
+                    "WilliamHill": "2.50",
+                    "bet365": "2.50",
+                    "Marathon": "2.43",
+                    "Unibet": "2.50",
+                    "Betfair": "2.44",
+                    "Betsson": "2.41",
+                    "Pncl": "2.42",
+                    "Sbo": "2.36",
+                    "1xbet": "2.40",
+                    "Betano": "2.47",
+                    "Betway": "2.40",
+                    "Tipico": "2.50",
+                    "Betcris": "2.44"
+                }
+            },
+            "Correct Score 1st Half": {
+                "6:0": {
+                    "WilliamHill": "66.00",
+                    "bet365": "67.00",
+                    "1xbet": "50.00",
+                    "Betano": "150.00",
+                    "Betcris": "101.00"
+                },
+                "6:1": {
+                    "WilliamHill": "29.00",
+                    "bet365": "15.00",
+                    "1xbet": "24.00",
+                    "Betano": "20.00",
+                    "Betcris": "21.00"
+                },
+                "6:2": {
+                    "WilliamHill": "17.00",
+                    "bet365": "21.00",
+                    "1xbet": "11.70",
+                    "Betano": "21.00",
+                    "Betcris": "20.00"
+                },
+                "0:6": {
+                    "WilliamHill": "71.00",
+                    "bet365": "101.00",
+                    "1xbet": "50.00",
+                    "Betano": "200.00",
+                    "Betcris": "101.00"
+                },
+                "1:6": {
+                    "WilliamHill": "41.00",
+                    "bet365": "67.00",
+                    "1xbet": "41.00",
+                    "Betano": "120.00",
+                    "Betcris": "101.00"
+                },
+                "2:6": {
+                    "WilliamHill": "29.00",
+                    "bet365": "19.00",
+                    "1xbet": "19.50",
+                    "Betano": "25.00",
+                    "Betcris": "23.00"
+                },
+                "4:6": {
+                    "WilliamHill": "8.00",
+                    "bet365": "5.00",
+                    "1xbet": "7.70",
+                    "Betano": "5.10",
+                    "Betcris": "4.70"
+                },
+                "3:6": {
+                    "WilliamHill": "9.50",
+                    "bet365": "29.00",
+                    "1xbet": "8.80",
+                    "Betano": "28.00",
+                    "Betcris": "22.00"
+                },
+                "6:3": {
+                    "WilliamHill": "6.50",
+                    "bet365": "3.75",
+                    "1xbet": "6.20",
+                    "Betano": "3.85",
+                    "Betcris": "3.80"
+                },
+                "6:4": {
+                    "WilliamHill": "5.50",
+                    "bet365": "12.00",
+                    "1xbet": "5.85",
+                    "Betano": "11.00",
+                    "Betcris": "9.60"
+                },
+                "7:5": {
+                    "WilliamHill": "15.00",
+                    "bet365": "15.00",
+                    "1xbet": "15.00",
+                    "Betano": "15.00",
+                    "Betcris": "15.00"
+                },
+                "7:6": {
+                    "WilliamHill": "4.20",
+                    "bet365": "4.75",
+                    "1xbet": "4.65",
+                    "Betano": "4.50",
+                    "Betcris": "4.50"
+                },
+                "5:7": {
+                    "WilliamHill": "19.00",
+                    "bet365": "21.00",
+                    "1xbet": "19.50",
+                    "Betano": "21.00",
+                    "Betcris": "21.00"
+                },
+                "6:7": {
+                    "WilliamHill": "5.00",
+                    "bet365": "5.50",
+                    "1xbet": "5.50",
+                    "Betano": "5.40",
+                    "Betcris": "5.40"
+                }
+            },
+            "Correct Score 2nd Half": {
+                "6:0": {
+                    "1xbet": "50.00",
+                    "Betano": "150.00"
+                },
+                "6:1": {
+                    "1xbet": "25.00",
+                    "Betano": "40.00"
+                },
+                "6:2": {
+                    "1xbet": "12.20",
+                    "Betano": "14.50"
+                },
+                "0:6": {
+                    "1xbet": "50.00",
+                    "Betano": "200.00"
+                },
+                "1:6": {
+                    "1xbet": "43.00",
+                    "Betano": "60.00"
+                },
+                "2:6": {
+                    "1xbet": "22.00",
+                    "Betano": "32.00"
+                },
+                "4:6": {
+                    "1xbet": "7.50",
+                    "Betano": "8.50"
+                },
+                "3:6": {
+                    "1xbet": "9.10",
+                    "Betano": "8.25"
+                },
+                "6:3": {
+                    "1xbet": "6.35",
+                    "Betano": "7.50"
+                },
+                "6:4": {
+                    "1xbet": "5.25",
+                    "Betano": "4.60"
+                },
+                "7:5": {
+                    "1xbet": "14.70",
+                    "Betano": "15.00"
+                },
+                "7:6": {
+                    "1xbet": "4.65",
+                    "Betano": "4.55"
+                },
+                "5:7": {
+                    "1xbet": "20.00",
+                    "Betano": "21.00"
+                },
+                "6:7": {
+                    "1xbet": "5.60",
+                    "Betano": "5.40"
+                }
+            },
+            "Odd/Even": {
+                "Odd": {
+                    "bet365": "1.72",
+                    "Marathon": "1.89",
+                    "1xbet": "1.89",
+                    "Betway": "1.85"
+                },
+                "Even": {
+                    "bet365": "2.00",
+                    "Marathon": "1.86",
+                    "1xbet": "1.86",
+                    "Betway": "1.85"
+                }
+            },
+            "Odd/Even (1st Set)": {
+                "Odd": {
+                    "Marathon": "1.65",
+                    "1xbet": "1.65",
+                    "Betano": "1.50",
+                    "Betway": "1.60"
+                },
+                "Even": {
+                    "Marathon": "2.16",
+                    "1xbet": "2.16",
+                    "Betano": "2.35",
+                    "Betway": "2.20"
+                }
+            },
+            "Home/Away (1st Set)": {
+                "Home": {
+                    "NordicBet": "1.61",
+                    "10Bet": "1.65",
+                    "WilliamHill": "1.62",
+                    "bet365": "1.61",
+                    "Marathon": "1.63",
+                    "Betfair": "1.67",
+                    "Betsson": "1.61",
+                    "Pncl": "1.68",
+                    "1xbet": "1.65",
+                    "Betano": "1.60",
+                    "Betway": "1.60",
+                    "Tipico": "1.57"
+                },
+                "Away": {
+                    "NordicBet": "2.23",
+                    "10Bet": "2.20",
+                    "WilliamHill": "2.20",
+                    "bet365": "2.30",
+                    "Marathon": "2.20",
+                    "Betfair": "2.10",
+                    "Betsson": "2.23",
+                    "Pncl": "2.25",
+                    "1xbet": "2.18",
+                    "Betano": "2.25",
+                    "Betway": "2.20",
+                    "Tipico": "2.25"
+                }
+            },
+            "Set Betting": {
+                "2:0": {
+                    "NordicBet": "2.37",
+                    "10Bet": "2.45",
+                    "WilliamHill": "2.38",
+                    "bet365": "2.50",
+                    "Marathon": "2.41",
+                    "Unibet": "2.35",
+                    "Betsson": "2.37",
+                    "1xbet": "2.41",
+                    "Betano": "2.60",
+                    "Betway": "2.30",
+                    "Tipico": "2.40",
+                    "Betcris": "2.37"
+                },
+                "2:1": {
+                    "NordicBet": "3.65",
+                    "10Bet": "3.70",
+                    "WilliamHill": "3.75",
+                    "bet365": "3.50",
+                    "Marathon": "3.84",
+                    "Unibet": "3.55",
+                    "Betsson": "3.65",
+                    "1xbet": "3.84",
+                    "Betano": "4.00",
+                    "Betway": "4.00",
+                    "Tipico": "3.70",
+                    "Betcris": "3.55"
+                },
+                "0:2": {
+                    "NordicBet": "4.20",
+                    "10Bet": "4.00",
+                    "WilliamHill": "4.33",
+                    "bet365": "4.50",
+                    "Marathon": "4.05",
+                    "Unibet": "4.40",
+                    "Betsson": "4.20",
+                    "1xbet": "4.05",
+                    "Betano": "4.50",
+                    "Betway": "3.80",
+                    "Tipico": "4.20",
+                    "Betcris": "4.00"
+                },
+                "1:2": {
+                    "NordicBet": "5.20",
+                    "10Bet": "5.00",
+                    "WilliamHill": "5.00",
+                    "bet365": "4.75",
+                    "Marathon": "5.30",
+                    "Unibet": "5.00",
+                    "Betsson": "5.20",
+                    "1xbet": "5.30",
+                    "Betano": "4.75",
+                    "Betway": "4.75",
+                    "Tipico": "5.00",
+                    "Betcris": "5.00"
+                }
+            },
+            "Tie-break": {
+                "Yes": {
+                    "Tipico": "1.55"
+                },
+                "No": {
+                    "Tipico": "2.30"
+                }
+            },
+            "Set / Match": {
+                "1/1": {
+                    "bet365": "1.90",
+                    "Marathon": "1.93"
+                },
+                "1/2": {
+                    "bet365": "9.00",
+                    "Marathon": "8.50"
+                },
+                "2/1": {
+                    "bet365": "6.50",
+                    "Marathon": "6.30"
+                },
+                "2/2": {
+                    "bet365": "3.10",
+                    "Marathon": "3.20"
+                }
+            },
+            "Home/Away (2nd Set)": {
+                "Home": {
+                    "Marathon": "1.60",
+                    "1xbet": "1.62",
+                    "Betano": "1.60",
+                    "Betway": "1.60"
+                },
+                "Away": {
+                    "Marathon": "2.25",
+                    "1xbet": "2.23",
+                    "Betano": "2.25",
+                    "Betway": "2.20"
+                }
+            },
+            "Odd/Even (2nd Set)": {
+                "Odd": {
+                    "Marathon": "1.69",
+                    "1xbet": "1.69",
+                    "Betano": "1.65"
+                },
+                "Even": {
+                    "Marathon": "2.10",
+                    "1xbet": "2.10",
+                    "Betano": "2.07"
+                }
+            },
+            "Number of sets": {
+                "Away": {
+                    "10Bet": "1.60",
+                    "bet365": "1.66",
+                    "Marathon": "1.60",
+                    "Betano": "1.72",
+                    "Betway": "1.50"
+                },
+                "3": {
+                    "10Bet": "2.20",
+                    "bet365": "2.10",
+                    "Marathon": "2.25",
+                    "Betano": "2.05",
+                    "Betway": "2.30"
+                }
+            },
+            "Win at least one set (Player 1)": {
+                "Yes": {
+                    "bet365": "1.18"
+                },
+                "No": {
+                    "bet365": "4.50"
+                }
+            },
+            "Win at least one set (Player 2)": {
+                "Yes": {
+                    "bet365": "1.50"
+                },
+                "No": {
+                    "bet365": "2.50"
+                }
+            },
+            "Win at least one set": {
+                "Home": {
+                    "Betway": "1.22"
+                },
+                "Away": {
+                    "Betway": "1.80"
+                }
+            },
+            "Not to Win at least one set": {
+                "Home": {
+                    "Betway": "3.80"
+                },
+                "Away": {
+                    "Betway": "2.30"
+                }
+            },
+            "Away Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.60"
+                },
+                "Under": {
+                    "Betano": "2.25"
+                }
+            },
+            "Home Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.29"
+                },
+                "Under": {
+                    "Betano": "3.40"
+                }
+            },
+            "Win In Straigh Sets (Player 1)": {
+                "Yes": {
+                    "bet365": "2.50"
+                },
+                "No": {
+                    "bet365": "1.50"
+                }
+            },
+            "Win In Straigh Sets (Player 2)": {
+                "Yes": {
+                    "bet365": "4.50"
+                },
+                "No": {
+                    "bet365": "1.18"
+                }
+            },
+            "Win From behind (Player 1)": {
+                "Yes": {
+                    "bet365": "6.50",
+                    "Betano": "6.80"
+                },
+                "No": {
+                    "bet365": "1.11",
+                    "Betano": "1.11"
+                }
+            },
+            "Win From behind (Player 2)": {
+                "Yes": {
+                    "bet365": "9.00",
+                    "Betano": "8.75"
+                },
+                "No": {
+                    "bet365": "1.07",
+                    "Betano": "1.08"
+                }
+            },
+            "1x2 Double Faults": {
+                "Home": {
+                    "Betano": "3.30"
+                },
+                "Draw": {
+                    "Betano": "5.30"
+                },
+                "Away": {
+                    "Betano": "1.50"
+                }
+            },
+            "First Ace": {
+                "Home": {
+                    "Betano": "1.28"
+                },
+                "Away": {
+                    "Betano": "3.35"
+                }
+            },
+            "First Double Fault": {
+                "Home": {
+                    "Betano": "2.02"
+                },
+                "Away": {
+                    "Betano": "1.70"
+                }
+            }
+        },
+        "11959269": {
+            "Home/Away": {
+                "Home": {
+                    "NordicBet": "2.28",
+                    "10Bet": "2.35",
+                    "WilliamHill": "2.30",
+                    "bet365": "2.30",
+                    "Marathon": "2.38",
+                    "Unibet": "2.33",
+                    "Betfair": "2.54",
+                    "Betsson": "2.28",
+                    "Pncl": "2.48",
+                    "Sbo": "2.28",
+                    "1xbet": "2.35",
+                    "Betano": "2.27",
+                    "Betway": "2.40",
+                    "Tipico": "2.35",
+                    "Betcris": "2.31"
+                },
+                "Away": {
+                    "NordicBet": "1.58",
+                    "10Bet": "1.55",
+                    "WilliamHill": "1.62",
+                    "bet365": "1.61",
+                    "Marathon": "1.59",
+                    "Unibet": "1.60",
+                    "Betfair": "1.63",
+                    "Betsson": "1.58",
+                    "Pncl": "1.58",
+                    "Sbo": "1.58",
+                    "1xbet": "1.61",
+                    "Betano": "1.65",
+                    "Betway": "1.55",
+                    "Tipico": "1.52",
+                    "Betcris": "1.60"
+                }
+            },
+            "Correct Score 1st Half": {
+                "6:0": {
+                    "bet365": "41.00",
+                    "1xbet": "50.00",
+                    "Betano": "120.00",
+                    "Betcris": "101.00"
+                },
+                "6:1": {
+                    "bet365": "15.00",
+                    "1xbet": "19.50",
+                    "Betano": "32.00",
+                    "Betcris": "25.00"
+                },
+                "6:2": {
+                    "bet365": "17.00",
+                    "1xbet": "10.70",
+                    "Betano": "17.00",
+                    "Betcris": "15.00"
+                },
+                "0:6": {
+                    "bet365": "34.00",
+                    "1xbet": "43.00",
+                    "Betano": "80.00",
+                    "Betcris": "70.00"
+                },
+                "1:6": {
+                    "bet365": "19.00",
+                    "1xbet": "12.70",
+                    "Betano": "20.00",
+                    "Betcris": "18.00"
+                },
+                "2:6": {
+                    "bet365": "8.00",
+                    "1xbet": "7.20",
+                    "Betano": "11.25",
+                    "Betcris": "8.80"
+                },
+                "4:6": {
+                    "bet365": "4.75",
+                    "1xbet": "6.50",
+                    "Betano": "5.60",
+                    "Betcris": "5.00"
+                },
+                "3:6": {
+                    "bet365": "9.50",
+                    "1xbet": "6.00",
+                    "Betano": "6.10",
+                    "Betcris": "6.40"
+                },
+                "6:3": {
+                    "bet365": "6.50",
+                    "1xbet": "7.80",
+                    "Betano": "8.00",
+                    "Betcris": "7.00"
+                },
+                "6:4": {
+                    "bet365": "10.00",
+                    "1xbet": "7.90",
+                    "Betano": "6.90",
+                    "Betcris": "7.60"
+                },
+                "7:5": {
+                    "bet365": "17.00",
+                    "1xbet": "17.00",
+                    "Betano": "17.50",
+                    "Betcris": "18.00"
+                },
+                "7:6": {
+                    "bet365": "9.50",
+                    "1xbet": "9.80",
+                    "Betano": "7.70",
+                    "Betcris": "8.80"
+                },
+                "5:7": {
+                    "bet365": "15.00",
+                    "1xbet": "14.00",
+                    "Betano": "14.50",
+                    "Betcris": "14.00"
+                },
+                "6:7": {
+                    "bet365": "8.50",
+                    "1xbet": "8.70",
+                    "Betano": "6.90",
+                    "Betcris": "7.60"
+                }
+            },
+            "Correct Score 2nd Half": {
+                "6:0": {
+                    "1xbet": "50.00",
+                    "Betano": "120.00"
+                },
+                "6:1": {
+                    "1xbet": "22.00",
+                    "Betano": "35.00"
+                },
+                "6:2": {
+                    "1xbet": "12.00",
+                    "Betano": "17.00"
+                },
+                "0:6": {
+                    "1xbet": "36.00",
+                    "Betano": "80.00"
+                },
+                "1:6": {
+                    "1xbet": "12.70",
+                    "Betano": "22.00"
+                },
+                "2:6": {
+                    "1xbet": "7.60",
+                    "Betano": "11.00"
+                },
+                "4:6": {
+                    "1xbet": "5.95",
+                    "Betano": "5.40"
+                },
+                "3:6": {
+                    "1xbet": "6.00",
+                    "Betano": "6.40"
+                },
+                "6:3": {
+                    "1xbet": "8.20",
+                    "Betano": "8.00"
+                },
+                "6:4": {
+                    "1xbet": "7.50",
+                    "Betano": "6.90"
+                },
+                "7:5": {
+                    "1xbet": "17.00",
+                    "Betano": "17.50"
+                },
+                "7:6": {
+                    "1xbet": "9.90",
+                    "Betano": "7.70"
+                },
+                "5:7": {
+                    "1xbet": "13.70",
+                    "Betano": "14.50"
+                },
+                "6:7": {
+                    "1xbet": "8.60",
+                    "Betano": "6.90"
+                }
+            },
+            "Odd/Even": {
+                "Odd": {
+                    "bet365": "1.90",
+                    "Marathon": "1.88",
+                    "1xbet": "1.88",
+                    "Betway": "1.85"
+                },
+                "Even": {
+                    "bet365": "1.80",
+                    "Marathon": "1.87",
+                    "1xbet": "1.87",
+                    "Betway": "1.85"
+                }
+            },
+            "Odd/Even (1st Set)": {
+                "Odd": {
+                    "Marathon": "1.91",
+                    "1xbet": "1.91",
+                    "Betano": "1.78",
+                    "Betway": "1.90"
+                },
+                "Even": {
+                    "Marathon": "1.84",
+                    "1xbet": "1.84",
+                    "Betano": "1.90",
+                    "Betway": "1.80"
+                }
+            },
+            "Home/Away (1st Set)": {
+                "Home": {
+                    "NordicBet": "2.16",
+                    "10Bet": "2.20",
+                    "WilliamHill": "2.10",
+                    "bet365": "2.20",
+                    "Marathon": "2.15",
+                    "Betfair": "2.24",
+                    "Betsson": "2.16",
+                    "Pncl": "2.26",
+                    "1xbet": "2.14",
+                    "Betano": "2.15",
+                    "Betway": "2.20",
+                    "Tipico": "2.25"
+                },
+                "Away": {
+                    "NordicBet": "1.65",
+                    "10Bet": "1.65",
+                    "WilliamHill": "1.67",
+                    "bet365": "1.66",
+                    "Marathon": "1.66",
+                    "Betfair": "1.57",
+                    "Betsson": "1.65",
+                    "Pncl": "1.67",
+                    "1xbet": "1.68",
+                    "Betano": "1.65",
+                    "Betway": "1.60",
+                    "Tipico": "1.57"
+                }
+            },
+            "Set Betting": {
+                "2:0": {
+                    "NordicBet": "3.75",
+                    "10Bet": "3.85",
+                    "WilliamHill": "3.75",
+                    "bet365": "4.00",
+                    "Marathon": "3.82",
+                    "Unibet": "3.85",
+                    "Betsson": "3.75",
+                    "1xbet": "3.82",
+                    "Betano": "4.00",
+                    "Betway": "3.80",
+                    "Tipico": "3.80",
+                    "Betcris": "3.65"
+                },
+                "2:1": {
+                    "NordicBet": "5.20",
+                    "10Bet": "4.75",
+                    "WilliamHill": "4.50",
+                    "bet365": "4.50",
+                    "Marathon": "5.35",
+                    "Unibet": "5.00",
+                    "Betsson": "5.20",
+                    "1xbet": "5.35",
+                    "Betano": "4.55",
+                    "Betway": "4.75",
+                    "Tipico": "5.30",
+                    "Betcris": "5.00"
+                },
+                "0:2": {
+                    "NordicBet": "2.39",
+                    "10Bet": "2.45",
+                    "WilliamHill": "2.75",
+                    "bet365": "2.62",
+                    "Marathon": "2.41",
+                    "Unibet": "2.40",
+                    "Betsson": "2.39",
+                    "1xbet": "2.41",
+                    "Betano": "2.57",
+                    "Betway": "2.40",
+                    "Tipico": "2.35",
+                    "Betcris": "2.39"
+                },
+                "1:2": {
+                    "NordicBet": "3.95",
+                    "10Bet": "3.95",
+                    "WilliamHill": "3.80",
+                    "bet365": "3.75",
+                    "Marathon": "4.05",
+                    "Unibet": "3.90",
+                    "Betsson": "3.95",
+                    "1xbet": "4.05",
+                    "Betano": "3.85",
+                    "Betway": "3.75",
+                    "Tipico": "4.10",
+                    "Betcris": "3.85"
+                }
+            },
+            "Set / Match": {
+                "1/1": {
+                    "bet365": "2.87",
+                    "Marathon": "3.08"
+                },
+                "1/2": {
+                    "bet365": "6.50",
+                    "Marathon": "6.45"
+                },
+                "2/1": {
+                    "bet365": "8.00",
+                    "Marathon": "8.40"
+                },
+                "2/2": {
+                    "bet365": "2.00",
+                    "Marathon": "1.96"
+                }
+            },
+            "Home/Away (2nd Set)": {
+                "Home": {
+                    "Marathon": "2.22",
+                    "1xbet": "2.20",
+                    "Betano": "2.15",
+                    "Betway": "2.20"
+                },
+                "Away": {
+                    "Marathon": "1.62",
+                    "1xbet": "1.64",
+                    "Betano": "1.65",
+                    "Betway": "1.60"
+                }
+            },
+            "Odd/Even (2nd Set)": {
+                "Odd": {
+                    "Marathon": "1.94",
+                    "1xbet": "1.94",
+                    "Betano": "1.82"
+                },
+                "Even": {
+                    "Marathon": "1.81",
+                    "1xbet": "1.81",
+                    "Betano": "1.85"
+                }
+            },
+            "Number of sets": {
+                "Away": {
+                    "10Bet": "1.57",
+                    "bet365": "1.66",
+                    "Marathon": "1.55",
+                    "Betano": "1.65",
+                    "Betway": "1.55"
+                },
+                "3": {
+                    "10Bet": "2.25",
+                    "bet365": "2.10",
+                    "Marathon": "2.36",
+                    "Betano": "2.15",
+                    "Betway": "2.20"
+                }
+            },
+            "Win at least one set (Player 1)": {
+                "Yes": {
+                    "bet365": "1.44"
+                },
+                "No": {
+                    "bet365": "2.62"
+                }
+            },
+            "Win at least one set (Player 2)": {
+                "Yes": {
+                    "bet365": "1.22"
+                },
+                "No": {
+                    "bet365": "4.00"
+                }
+            },
+            "Win at least one set": {
+                "Home": {
+                    "Betway": "1.50"
+                }
+            },
+            "Not to Win at least one set": {
+                "Home": {
+                    "Betway": "2.40"
+                },
+                "Away": {
+                    "Betway": "3.80"
+                }
+            },
+            "Away Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.42"
+                },
+                "Under": {
+                    "Betano": "2.72"
+                }
+            },
+            "Home Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.70"
+                },
+                "Under": {
+                    "Betano": "2.07"
+                }
+            },
+            "Win In Straigh Sets (Player 1)": {
+                "Yes": {
+                    "bet365": "4.00"
+                },
+                "No": {
+                    "bet365": "1.22"
+                }
+            },
+            "Win In Straigh Sets (Player 2)": {
+                "Yes": {
+                    "bet365": "2.62"
+                },
+                "No": {
+                    "bet365": "1.44"
+                }
+            },
+            "Win From behind (Player 1)": {
+                "Yes": {
+                    "bet365": "8.00",
+                    "Betano": "8.25"
+                },
+                "No": {
+                    "bet365": "1.08",
+                    "Betano": "1.09"
+                }
+            },
+            "Win From behind (Player 2)": {
+                "Yes": {
+                    "bet365": "6.50",
+                    "Betano": "7.10"
+                },
+                "No": {
+                    "bet365": "1.11",
+                    "Betano": "1.11"
+                }
+            },
+            "1x2 Double Faults": {
+                "Home": {
+                    "Betano": "1.11"
+                },
+                "Draw": {
+                    "Betano": "7.30"
+                },
+                "Away": {
+                    "Betano": "8.50"
+                }
+            },
+            "First Ace": {
+                "Home": {
+                    "Betano": "1.44"
+                },
+                "Away": {
+                    "Betano": "2.60"
+                }
+            },
+            "First Double Fault": {
+                "Home": {
+                    "Betano": "1.27"
+                },
+                "Away": {
+                    "Betano": "3.45"
+                }
+            }
+        },
+        "11959270": {
+            "Home/Away": {
+                "Home": {
+                    "NordicBet": "2.38",
+                    "10Bet": "2.30",
+                    "WilliamHill": "2.30",
+                    "bet365": "2.50",
+                    "Marathon": "2.41",
+                    "Unibet": "2.33",
+                    "Betfair": "2.50",
+                    "Betsson": "2.38",
+                    "Pncl": "2.34",
+                    "Sbo": "2.21",
+                    "1xbet": "2.38",
+                    "Betano": "2.32",
+                    "Betway": "2.30",
+                    "Tipico": "2.35",
+                    "Betcris": "2.41"
+                },
+                "Away": {
+                    "NordicBet": "1.54",
+                    "10Bet": "1.57",
+                    "WilliamHill": "1.62",
+                    "bet365": "1.53",
+                    "Marathon": "1.57",
+                    "Unibet": "1.60",
+                    "Betfair": "1.64",
+                    "Betsson": "1.54",
+                    "Pncl": "1.65",
+                    "Sbo": "1.62",
+                    "1xbet": "1.59",
+                    "Betano": "1.62",
+                    "Betway": "1.60",
+                    "Tipico": "1.52",
+                    "Betcris": "1.55"
+                }
+            },
+            "Correct Score 1st Half": {
+                "6:0": {
+                    "WilliamHill": "56.00",
+                    "bet365": "51.00",
+                    "1xbet": "50.00",
+                    "Betano": "150.00",
+                    "Betcris": "101.00"
+                },
+                "6:1": {
+                    "WilliamHill": "26.00",
+                    "bet365": "21.00",
+                    "1xbet": "34.00",
+                    "Betano": "35.00",
+                    "Betcris": "35.00"
+                },
+                "6:2": {
+                    "WilliamHill": "15.00",
+                    "bet365": "17.00",
+                    "1xbet": "16.00",
+                    "Betano": "18.50",
+                    "Betcris": "19.00"
+                },
+                "0:6": {
+                    "WilliamHill": "41.00",
+                    "bet365": "41.00",
+                    "1xbet": "50.00",
+                    "Betano": "90.00",
+                    "Betcris": "90.00"
+                },
+                "1:6": {
+                    "WilliamHill": "17.00",
+                    "bet365": "17.00",
+                    "1xbet": "20.00",
+                    "Betano": "21.00",
+                    "Betcris": "22.00"
+                },
+                "2:6": {
+                    "WilliamHill": "11.00",
+                    "bet365": "9.00",
+                    "1xbet": "10.00",
+                    "Betano": "11.50",
+                    "Betcris": "9.80"
+                },
+                "4:6": {
+                    "WilliamHill": "5.80",
+                    "bet365": "5.00",
+                    "1xbet": "5.95",
+                    "Betano": "5.50",
+                    "Betcris": "4.70"
+                },
+                "3:6": {
+                    "WilliamHill": "6.00",
+                    "bet365": "7.00",
+                    "1xbet": "6.05",
+                    "Betano": "6.00",
+                    "Betcris": "6.40"
+                },
+                "6:3": {
+                    "WilliamHill": "7.50",
+                    "bet365": "8.00",
+                    "1xbet": "8.30",
+                    "Betano": "8.25",
+                    "Betcris": "7.20"
+                },
+                "6:4": {
+                    "WilliamHill": "7.00",
+                    "bet365": "8.50",
+                    "1xbet": "7.60",
+                    "Betano": "7.00",
+                    "Betcris": "7.60"
+                },
+                "7:5": {
+                    "WilliamHill": "17.00",
+                    "bet365": "19.00",
+                    "1xbet": "18.50",
+                    "Betano": "18.00",
+                    "Betcris": "19.00"
+                },
+                "7:6": {
+                    "WilliamHill": "8.00",
+                    "bet365": "9.00",
+                    "1xbet": "6.30",
+                    "Betano": "7.40",
+                    "Betcris": "7.40"
+                },
+                "5:7": {
+                    "WilliamHill": "15.00",
+                    "bet365": "15.00",
+                    "1xbet": "14.50",
+                    "Betano": "14.50",
+                    "Betcris": "14.00"
+                },
+                "6:7": {
+                    "WilliamHill": "7.50",
+                    "bet365": "7.50",
+                    "1xbet": "5.40",
+                    "Betano": "6.60",
+                    "Betcris": "6.40"
+                }
+            },
+            "Correct Score 2nd Half": {
+                "6:0": {
+                    "1xbet": "50.00",
+                    "Betano": "150.00"
+                },
+                "6:1": {
+                    "1xbet": "35.00",
+                    "Betano": "37.00"
+                },
+                "6:2": {
+                    "1xbet": "17.00",
+                    "Betano": "18.50"
+                },
+                "0:6": {
+                    "1xbet": "50.00",
+                    "Betano": "90.00"
+                },
+                "1:6": {
+                    "1xbet": "19.00",
+                    "Betano": "23.00"
+                },
+                "2:6": {
+                    "1xbet": "9.50",
+                    "Betano": "11.25"
+                },
+                "4:6": {
+                    "1xbet": "5.30",
+                    "Betano": "5.30"
+                },
+                "3:6": {
+                    "1xbet": "6.15",
+                    "Betano": "6.40"
+                },
+                "6:3": {
+                    "1xbet": "8.80",
+                    "Betano": "8.00"
+                },
+                "6:4": {
+                    "1xbet": "7.30",
+                    "Betano": "7.00"
+                },
+                "7:5": {
+                    "1xbet": "19.50",
+                    "Betano": "18.00"
+                },
+                "7:6": {
+                    "1xbet": "6.70",
+                    "Betano": "7.40"
+                },
+                "5:7": {
+                    "1xbet": "14.50",
+                    "Betano": "14.50"
+                },
+                "6:7": {
+                    "1xbet": "5.65",
+                    "Betano": "6.60"
+                }
+            },
+            "Odd/Even": {
+                "Odd": {
+                    "bet365": "1.83",
+                    "Marathon": "1.88",
+                    "1xbet": "1.88",
+                    "Betway": "1.85"
+                },
+                "Even": {
+                    "bet365": "1.83",
+                    "Marathon": "1.87",
+                    "1xbet": "1.87",
+                    "Betway": "1.85"
+                }
+            },
+            "Odd/Even (1st Set)": {
+                "Odd": {
+                    "Marathon": "1.72",
+                    "1xbet": "1.72",
+                    "Betano": "1.75",
+                    "Betway": "1.80"
+                },
+                "Even": {
+                    "Marathon": "2.05",
+                    "1xbet": "2.05",
+                    "Betano": "1.91",
+                    "Betway": "1.90"
+                }
+            },
+            "Home/Away (1st Set)": {
+                "Home": {
+                    "NordicBet": "2.22",
+                    "10Bet": "2.20",
+                    "WilliamHill": "2.10",
+                    "bet365": "2.30",
+                    "Marathon": "2.18",
+                    "Betfair": "2.20",
+                    "Betsson": "2.22",
+                    "Pncl": "2.21",
+                    "1xbet": "2.17",
+                    "Betano": "2.15",
+                    "Betway": "2.20",
+                    "Tipico": "2.15"
+                },
+                "Away": {
+                    "NordicBet": "1.61",
+                    "10Bet": "1.65",
+                    "WilliamHill": "1.67",
+                    "bet365": "1.61",
+                    "Marathon": "1.64",
+                    "Betfair": "1.62",
+                    "Betsson": "1.61",
+                    "Pncl": "1.69",
+                    "1xbet": "1.66",
+                    "Betano": "1.65",
+                    "Betway": "1.60",
+                    "Tipico": "1.62"
+                }
+            },
+            "Set Betting": {
+                "2:0": {
+                    "NordicBet": "4.00",
+                    "10Bet": "4.00",
+                    "WilliamHill": "3.80",
+                    "bet365": "4.50",
+                    "Marathon": "3.55",
+                    "Unibet": "3.85",
+                    "Betsson": "4.00",
+                    "1xbet": "3.55",
+                    "Betano": "4.10",
+                    "Betway": "3.80",
+                    "Tipico": "3.70",
+                    "Betcris": "3.85"
+                },
+                "2:1": {
+                    "NordicBet": "5.20",
+                    "10Bet": "4.75",
+                    "WilliamHill": "4.75",
+                    "bet365": "4.75",
+                    "Marathon": "6.20",
+                    "Unibet": "5.00",
+                    "Betsson": "5.20",
+                    "1xbet": "6.20",
+                    "Betano": "4.60",
+                    "Betway": "4.75",
+                    "Tipico": "5.20",
+                    "Betcris": "5.20"
+                },
+                "0:2": {
+                    "NordicBet": "2.33",
+                    "10Bet": "2.38",
+                    "WilliamHill": "2.50",
+                    "bet365": "2.37",
+                    "Marathon": "2.23",
+                    "Unibet": "2.43",
+                    "Betsson": "2.33",
+                    "1xbet": "2.23",
+                    "Betano": "2.52",
+                    "Betway": "2.30",
+                    "Tipico": "2.40",
+                    "Betcris": "2.34"
+                },
+                "1:2": {
+                    "NordicBet": "3.85",
+                    "10Bet": "3.95",
+                    "WilliamHill": "4.00",
+                    "bet365": "3.60",
+                    "Marathon": "4.60",
+                    "Unibet": "3.80",
+                    "Betsson": "3.85",
+                    "1xbet": "4.60",
+                    "Betano": "3.80",
+                    "Betway": "4.00",
+                    "Tipico": "4.00",
+                    "Betcris": "3.70"
+                }
+            },
+            "Set / Match": {
+                "1/1": {
+                    "bet365": "3.20",
+                    "Marathon": "3.08"
+                },
+                "1/2": {
+                    "bet365": "6.50",
+                    "Marathon": "6.75"
+                },
+                "2/1": {
+                    "bet365": "9.00",
+                    "Marathon": "9.00"
+                },
+                "2/2": {
+                    "bet365": "1.83",
+                    "Marathon": "1.92"
+                }
+            },
+            "Home/Away (2nd Set)": {
+                "Home": {
+                    "Marathon": "2.26",
+                    "1xbet": "2.24",
+                    "Betano": "2.15",
+                    "Betway": "2.20"
+                },
+                "Away": {
+                    "Marathon": "1.60",
+                    "1xbet": "1.62",
+                    "Betano": "1.65",
+                    "Betway": "1.60"
+                }
+            },
+            "Odd/Even (2nd Set)": {
+                "Odd": {
+                    "Marathon": "1.79",
+                    "1xbet": "1.79",
+                    "Betano": "1.80"
+                },
+                "Even": {
+                    "Marathon": "1.96",
+                    "1xbet": "1.96",
+                    "Betano": "1.88"
+                }
+            },
+            "Number of sets": {
+                "Away": {
+                    "10Bet": "1.60",
+                    "bet365": "1.61",
+                    "Marathon": "1.44",
+                    "Betano": "1.65",
+                    "Betway": "1.50"
+                },
+                "3": {
+                    "10Bet": "2.20",
+                    "bet365": "2.20",
+                    "Marathon": "2.67",
+                    "Betano": "2.15",
+                    "Betway": "2.30"
+                }
+            },
+            "Win at least one set (Player 1)": {
+                "Yes": {
+                    "bet365": "1.53"
+                },
+                "No": {
+                    "bet365": "2.37"
+                }
+            },
+            "Win at least one set (Player 2)": {
+                "Yes": {
+                    "bet365": "1.18"
+                },
+                "No": {
+                    "bet365": "4.50"
+                }
+            },
+            "Win at least one set": {
+                "Home": {
+                    "Betway": "1.55"
+                }
+            },
+            "Not to Win at least one set": {
+                "Home": {
+                    "Betway": "2.30"
+                },
+                "Away": {
+                    "Betway": "3.80"
+                }
+            },
+            "Away Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.40"
+                },
+                "Under": {
+                    "Betano": "2.80"
+                }
+            },
+            "Home Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.72"
+                },
+                "Under": {
+                    "Betano": "2.05"
+                }
+            },
+            "Win In Straigh Sets (Player 1)": {
+                "Yes": {
+                    "bet365": "4.50"
+                },
+                "No": {
+                    "bet365": "1.18"
+                }
+            },
+            "Win In Straigh Sets (Player 2)": {
+                "Yes": {
+                    "bet365": "2.37"
+                },
+                "No": {
+                    "bet365": "1.53"
+                }
+            },
+            "Win From behind (Player 1)": {
+                "Yes": {
+                    "bet365": "9.00",
+                    "Betano": "8.50"
+                },
+                "No": {
+                    "bet365": "1.07",
+                    "Betano": "1.08"
+                }
+            },
+            "Win From behind (Player 2)": {
+                "Yes": {
+                    "bet365": "6.50",
+                    "Betano": "7.10"
+                },
+                "No": {
+                    "bet365": "1.11",
+                    "Betano": "1.11"
+                }
+            },
+            "1x2 Double Faults": {
+                "Home": {
+                    "Betano": "3.80"
+                },
+                "Draw": {
+                    "Betano": "4.70"
+                },
+                "Away": {
+                    "Betano": "1.47"
+                }
+            },
+            "First Ace": {
+                "Home": {
+                    "Betano": "2.02"
+                },
+                "Away": {
+                    "Betano": "1.70"
+                }
+            },
+            "First Double Fault": {
+                "Home": {
+                    "Betano": "2.40"
+                },
+                "Away": {
+                    "Betano": "1.50"
+                }
+            }
+        },
+        "11959354": {
+            "Home/Away": {
+                "Home": {
+                    "NordicBet": "1.58",
+                    "10Bet": "1.60",
+                    "WilliamHill": "1.57",
+                    "bet365": "1.61",
+                    "Marathon": "1.58",
+                    "Unibet": "1.60",
+                    "Betfair": "1.72",
+                    "Betsson": "1.58",
+                    "Pncl": "1.66",
+                    "Sbo": "1.58",
+                    "1xbet": "1.60",
+                    "Betano": "1.55",
+                    "Betway": "1.65",
+                    "Tipico": "1.52",
+                    "Betcris": "1.59"
+                },
+                "Away": {
+                    "NordicBet": "2.29",
+                    "10Bet": "2.25",
+                    "WilliamHill": "2.38",
+                    "bet365": "2.30",
+                    "Marathon": "2.39",
+                    "Unibet": "2.35",
+                    "Betfair": "2.36",
+                    "Betsson": "2.29",
+                    "Pncl": "2.32",
+                    "Sbo": "2.28",
+                    "1xbet": "2.36",
+                    "Betano": "2.47",
+                    "Betway": "2.25",
+                    "Tipico": "2.35",
+                    "Betcris": "2.31"
+                }
+            },
+            "Correct Score 1st Half": {
+                "6:0": {
+                    "WilliamHill": "56.00",
+                    "bet365": "41.00",
+                    "1xbet": "50.00",
+                    "Betcris": "100.00"
+                },
+                "6:1": {
+                    "WilliamHill": "21.00",
+                    "bet365": "17.00",
+                    "1xbet": "18.00",
+                    "Betcris": "20.00"
+                },
+                "6:2": {
+                    "WilliamHill": "13.00",
+                    "bet365": "12.00",
+                    "1xbet": "9.10",
+                    "Betcris": "11.00"
+                },
+                "0:6": {
+                    "WilliamHill": "67.00",
+                    "bet365": "51.00",
+                    "1xbet": "50.00",
+                    "Betcris": "101.00"
+                },
+                "1:6": {
+                    "WilliamHill": "34.00",
+                    "bet365": "26.00",
+                    "1xbet": "29.00",
+                    "Betcris": "35.00"
+                },
+                "2:6": {
+                    "WilliamHill": "21.00",
+                    "bet365": "15.00",
+                    "1xbet": "14.20",
+                    "Betcris": "17.00"
+                },
+                "4:6": {
+                    "WilliamHill": "7.50",
+                    "bet365": "6.50",
+                    "1xbet": "7.60",
+                    "Betcris": "6.80"
+                },
+                "3:6": {
+                    "WilliamHill": "8.50",
+                    "bet365": "9.00",
+                    "1xbet": "8.10",
+                    "Betcris": "7.80"
+                },
+                "6:3": {
+                    "WilliamHill": "6.00",
+                    "bet365": "6.00",
+                    "1xbet": "6.00",
+                    "Betcris": "5.60"
+                },
+                "6:4": {
+                    "WilliamHill": "5.00",
+                    "bet365": "6.00",
+                    "1xbet": "6.05",
+                    "Betcris": "5.20"
+                },
+                "7:5": {
+                    "WilliamHill": "15.00",
+                    "bet365": "15.00",
+                    "1xbet": "14.20",
+                    "Betcris": "15.00"
+                },
+                "7:6": {
+                    "WilliamHill": "5.50",
+                    "bet365": "6.50",
+                    "1xbet": "6.05",
+                    "Betcris": "6.40"
+                },
+                "5:7": {
+                    "WilliamHill": "21.00",
+                    "bet365": "19.00",
+                    "1xbet": "18.00",
+                    "Betcris": "19.00"
+                },
+                "6:7": {
+                    "WilliamHill": "6.50",
+                    "bet365": "7.50",
+                    "1xbet": "6.95",
+                    "Betcris": "7.40"
+                }
+            },
+            "Correct Score 2nd Half": {
+                "6:0": {
+                    "1xbet": "50.00"
+                },
+                "6:1": {
+                    "1xbet": "18.00"
+                },
+                "6:2": {
+                    "1xbet": "9.50"
+                },
+                "0:6": {
+                    "1xbet": "50.00"
+                },
+                "1:6": {
+                    "1xbet": "31.00"
+                },
+                "2:6": {
+                    "1xbet": "16.00"
+                },
+                "4:6": {
+                    "1xbet": "7.20"
+                },
+                "3:6": {
+                    "1xbet": "8.40"
+                },
+                "6:3": {
+                    "1xbet": "6.10"
+                },
+                "6:4": {
+                    "1xbet": "5.45"
+                },
+                "7:5": {
+                    "1xbet": "14.00"
+                },
+                "7:6": {
+                    "1xbet": "6.05"
+                },
+                "5:7": {
+                    "1xbet": "18.50"
+                },
+                "6:7": {
+                    "1xbet": "7.10"
+                }
+            },
+            "Odd/Even": {
+                "Odd": {
+                    "bet365": "1.83",
+                    "Marathon": "1.88",
+                    "1xbet": "1.88",
+                    "Betway": "1.85"
+                },
+                "Even": {
+                    "bet365": "1.83",
+                    "Marathon": "1.87",
+                    "1xbet": "1.87",
+                    "Betway": "1.85"
+                }
+            },
+            "Odd/Even (1st Set)": {
+                "Odd": {
+                    "Marathon": "1.77",
+                    "1xbet": "1.77",
+                    "Betway": "1.80"
+                },
+                "Even": {
+                    "Marathon": "1.99",
+                    "1xbet": "1.99",
+                    "Betway": "1.90"
+                }
+            },
+            "Home/Away (1st Set)": {
+                "Home": {
+                    "NordicBet": "1.64",
+                    "10Bet": "1.67",
+                    "WilliamHill": "1.60",
+                    "bet365": "1.66",
+                    "Marathon": "1.65",
+                    "Betfair": "1.67",
+                    "Betsson": "1.64",
+                    "Pncl": "1.70",
+                    "1xbet": "1.67",
+                    "Betano": "1.60",
+                    "Betway": "1.65",
+                    "Tipico": "1.62"
+                },
+                "Away": {
+                    "NordicBet": "2.17",
+                    "10Bet": "2.15",
+                    "WilliamHill": "2.25",
+                    "bet365": "2.20",
+                    "Marathon": "2.16",
+                    "Betfair": "2.10",
+                    "Betsson": "2.17",
+                    "Pncl": "2.20",
+                    "1xbet": "2.15",
+                    "Betano": "2.25",
+                    "Betway": "2.10",
+                    "Tipico": "2.15"
+                }
+            },
+            "Set Betting": {
+                "2:0": {
+                    "NordicBet": "2.39",
+                    "10Bet": "2.50",
+                    "WilliamHill": "2.50",
+                    "bet365": "2.62",
+                    "Marathon": "2.41",
+                    "Unibet": "2.43",
+                    "Betsson": "2.39",
+                    "1xbet": "2.41",
+                    "Betano": "2.37",
+                    "Betway": "2.40",
+                    "Tipico": "2.40",
+                    "Betcris": "2.40"
+                },
+                "2:1": {
+                    "NordicBet": "3.90",
+                    "10Bet": "3.85",
+                    "WilliamHill": "3.70",
+                    "bet365": "3.60",
+                    "Marathon": "3.96",
+                    "Unibet": "3.75",
+                    "Betsson": "3.90",
+                    "1xbet": "3.96",
+                    "Betano": "3.75",
+                    "Betway": "3.80",
+                    "Tipico": "3.90",
+                    "Betcris": "3.75"
+                },
+                "0:2": {
+                    "NordicBet": "3.85",
+                    "10Bet": "3.85",
+                    "WilliamHill": "4.20",
+                    "bet365": "4.00",
+                    "Marathon": "3.90",
+                    "Unibet": "4.00",
+                    "Betsson": "3.85",
+                    "1xbet": "3.90",
+                    "Betano": "4.45",
+                    "Betway": "3.50",
+                    "Tipico": "3.80",
+                    "Betcris": "3.75"
+                },
+                "1:2": {
+                    "NordicBet": "5.20",
+                    "10Bet": "4.75",
+                    "WilliamHill": "4.80",
+                    "bet365": "4.50",
+                    "Marathon": "5.35",
+                    "Unibet": "4.90",
+                    "Betsson": "5.20",
+                    "1xbet": "5.35",
+                    "Betano": "4.80",
+                    "Betway": "4.50",
+                    "Tipico": "5.20",
+                    "Betcris": "5.00"
+                }
+            },
+            "Set / Match": {
+                "1/1": {
+                    "bet365": "2.00",
+                    "Marathon": "1.95"
+                },
+                "1/2": {
+                    "bet365": "8.00",
+                    "Marathon": "8.40"
+                },
+                "2/1": {
+                    "bet365": "6.50",
+                    "Marathon": "6.40"
+                },
+                "2/2": {
+                    "bet365": "2.87",
+                    "Marathon": "3.12"
+                }
+            },
+            "Home/Away (2nd Set)": {
+                "Home": {
+                    "Marathon": "1.62",
+                    "1xbet": "1.64",
+                    "Betano": "1.60",
+                    "Betway": "1.60"
+                },
+                "Away": {
+                    "Marathon": "2.23",
+                    "1xbet": "2.21",
+                    "Betano": "2.25",
+                    "Betway": "2.20"
+                }
+            },
+            "Odd/Even (2nd Set)": {
+                "Odd": {
+                    "Marathon": "1.81",
+                    "1xbet": "1.81"
+                },
+                "Even": {
+                    "Marathon": "1.94",
+                    "1xbet": "1.94"
+                }
+            },
+            "Number of sets": {
+                "Away": {
+                    "10Bet": "1.60",
+                    "bet365": "1.66",
+                    "Marathon": "1.58",
+                    "Betway": "1.55"
+                },
+                "3": {
+                    "10Bet": "2.20",
+                    "bet365": "2.10",
+                    "Marathon": "2.30",
+                    "Betway": "2.20"
+                }
+            },
+            "Win at least one set (Player 1)": {
+                "Yes": {
+                    "bet365": "1.22"
+                },
+                "No": {
+                    "bet365": "4.00"
+                }
+            },
+            "Win at least one set (Player 2)": {
+                "Yes": {
+                    "bet365": "1.44"
+                },
+                "No": {
+                    "bet365": "2.62"
+                }
+            },
+            "Win at least one set": {
+                "Home": {
+                    "Betway": "1.25"
+                }
+            },
+            "Not to Win at least one set": {
+                "Home": {
+                    "Betway": "3.50"
+                },
+                "Away": {
+                    "Betway": "2.40"
+                }
+            },
+            "Win In Straigh Sets (Player 1)": {
+                "Yes": {
+                    "bet365": "2.62"
+                },
+                "No": {
+                    "bet365": "1.44"
+                }
+            },
+            "Win In Straigh Sets (Player 2)": {
+                "Yes": {
+                    "bet365": "4.00"
+                },
+                "No": {
+                    "bet365": "1.22"
+                }
+            },
+            "Win From behind (Player 1)": {
+                "Yes": {
+                    "bet365": "6.50"
+                },
+                "No": {
+                    "bet365": "1.11"
+                }
+            },
+            "Win From behind (Player 2)": {
+                "Yes": {
+                    "bet365": "8.00"
+                },
+                "No": {
+                    "bet365": "1.08"
+                }
+            }
+        },
+        "11959355": {
+            "Home/Away": {
+                "Home": {
+                    "NordicBet": "1.90",
+                    "10Bet": "1.90",
+                    "WilliamHill": "2.00",
+                    "bet365": "1.90",
+                    "Marathon": "1.96",
+                    "Unibet": "1.98",
+                    "Betfair": "1.93",
+                    "Betsson": "1.90",
+                    "Pncl": "1.99",
+                    "Sbo": "1.90",
+                    "1xbet": "1.96",
+                    "Betano": "1.90",
+                    "Betway": "1.95",
+                    "Tipico": "1.95",
+                    "Betcris": "1.92"
+                },
+                "Away": {
+                    "NordicBet": "1.84",
+                    "10Bet": "1.83",
+                    "WilliamHill": "1.80",
+                    "bet365": "1.90",
+                    "Marathon": "1.85",
+                    "Unibet": "1.83",
+                    "Betfair": "1.99",
+                    "Betsson": "1.84",
+                    "Pncl": "1.88",
+                    "Sbo": "1.90",
+                    "1xbet": "1.85",
+                    "Betano": "1.90",
+                    "Betway": "1.85",
+                    "Tipico": "1.75",
+                    "Betcris": "1.86"
+                }
+            },
+            "Correct Score 1st Half": {
+                "6:0": {
+                    "WilliamHill": "56.00",
+                    "bet365": "51.00",
+                    "1xbet": "50.00",
+                    "Betano": "120.00",
+                    "Betcris": "101.00"
+                },
+                "6:1": {
+                    "WilliamHill": "23.00",
+                    "bet365": "29.00",
+                    "1xbet": "30.00",
+                    "Betano": "28.00",
+                    "Betcris": "40.00"
+                },
+                "6:2": {
+                    "WilliamHill": "15.00",
+                    "bet365": "12.00",
+                    "1xbet": "14.20",
+                    "Betano": "15.00",
+                    "Betcris": "14.00"
+                },
+                "0:6": {
+                    "WilliamHill": "51.00",
+                    "bet365": "51.00",
+                    "1xbet": "50.00",
+                    "Betano": "120.00",
+                    "Betcris": "101.00"
+                },
+                "1:6": {
+                    "WilliamHill": "21.00",
+                    "bet365": "17.00",
+                    "1xbet": "28.00",
+                    "Betano": "28.00",
+                    "Betcris": "26.00"
+                },
+                "2:6": {
+                    "WilliamHill": "12.00",
+                    "bet365": "15.00",
+                    "1xbet": "13.50",
+                    "Betano": "15.00",
+                    "Betcris": "16.00"
+                },
+                "4:6": {
+                    "WilliamHill": "7.00",
+                    "bet365": "8.50",
+                    "1xbet": "6.50",
+                    "Betano": "6.10",
+                    "Betcris": "6.80"
+                },
+                "3:6": {
+                    "WilliamHill": "5.80",
+                    "bet365": "5.50",
+                    "1xbet": "6.95",
+                    "Betano": "6.90",
+                    "Betcris": "5.60"
+                },
+                "6:3": {
+                    "WilliamHill": "11.00",
+                    "bet365": "11.00",
+                    "1xbet": "7.30",
+                    "Betano": "6.90",
+                    "Betcris": "8.40"
+                },
+                "6:4": {
+                    "WilliamHill": "5.00",
+                    "bet365": "5.00",
+                    "1xbet": "6.70",
+                    "Betano": "6.10",
+                    "Betcris": "5.00"
+                },
+                "7:5": {
+                    "WilliamHill": "17.00",
+                    "bet365": "17.00",
+                    "1xbet": "16.50",
+                    "Betano": "16.00",
+                    "Betcris": "17.00"
+                },
+                "7:6": {
+                    "WilliamHill": "7.00",
+                    "bet365": "7.00",
+                    "1xbet": "5.40",
+                    "Betano": "6.70",
+                    "Betcris": "6.20"
+                },
+                "5:7": {
+                    "WilliamHill": "15.00",
+                    "bet365": "17.00",
+                    "1xbet": "16.50",
+                    "Betano": "16.00",
+                    "Betcris": "17.00"
+                },
+                "6:7": {
+                    "WilliamHill": "7.00",
+                    "bet365": "7.00",
+                    "1xbet": "5.30",
+                    "Betano": "6.70",
+                    "Betcris": "6.00"
+                }
+            },
+            "Correct Score 2nd Half": {
+                "6:0": {
+                    "1xbet": "50.00",
+                    "Betano": "120.00"
+                },
+                "6:1": {
+                    "1xbet": "31.00",
+                    "Betano": "30.00"
+                },
+                "6:2": {
+                    "1xbet": "14.70",
+                    "Betano": "14.50"
+                },
+                "0:6": {
+                    "1xbet": "50.00",
+                    "Betano": "120.00"
+                },
+                "1:6": {
+                    "1xbet": "28.00",
+                    "Betano": "30.00"
+                },
+                "2:6": {
+                    "1xbet": "13.70",
+                    "Betano": "14.50"
+                },
+                "4:6": {
+                    "1xbet": "5.95",
+                    "Betano": "6.00"
+                },
+                "3:6": {
+                    "1xbet": "7.30",
+                    "Betano": "7.20"
+                },
+                "6:3": {
+                    "1xbet": "7.60",
+                    "Betano": "7.20"
+                },
+                "6:4": {
+                    "1xbet": "6.25",
+                    "Betano": "6.00"
+                },
+                "7:5": {
+                    "1xbet": "16.50",
+                    "Betano": "16.00"
+                },
+                "7:6": {
+                    "1xbet": "5.55",
+                    "Betano": "6.70"
+                },
+                "5:7": {
+                    "1xbet": "16.00",
+                    "Betano": "16.00"
+                },
+                "6:7": {
+                    "1xbet": "5.40",
+                    "Betano": "6.70"
+                }
+            },
+            "Odd/Even": {
+                "Odd": {
+                    "bet365": "1.83",
+                    "Marathon": "1.89",
+                    "1xbet": "1.89",
+                    "Betway": "1.85"
+                },
+                "Even": {
+                    "bet365": "1.83",
+                    "Marathon": "1.86",
+                    "1xbet": "1.86",
+                    "Betway": "1.85"
+                }
+            },
+            "Odd/Even (1st Set)": {
+                "Odd": {
+                    "Marathon": "1.68",
+                    "1xbet": "1.68",
+                    "Betano": "1.75",
+                    "Betway": "1.73"
+                },
+                "Even": {
+                    "Marathon": "2.11",
+                    "1xbet": "2.11",
+                    "Betano": "1.93",
+                    "Betway": "2.00"
+                }
+            },
+            "Home/Away (1st Set)": {
+                "Home": {
+                    "NordicBet": "1.89",
+                    "10Bet": "1.90",
+                    "WilliamHill": "2.00",
+                    "bet365": "1.90",
+                    "Marathon": "1.91",
+                    "Betfair": "1.95",
+                    "Betsson": "1.89",
+                    "Pncl": "1.99",
+                    "1xbet": "1.91",
+                    "Betano": "1.87",
+                    "Betway": "1.85",
+                    "Tipico": "1.85"
+                },
+                "Away": {
+                    "NordicBet": "1.85",
+                    "10Bet": "1.83",
+                    "WilliamHill": "1.73",
+                    "bet365": "1.90",
+                    "Marathon": "1.84",
+                    "Betfair": "1.84",
+                    "Betsson": "1.85",
+                    "Pncl": "1.85",
+                    "1xbet": "1.84",
+                    "Betano": "1.87",
+                    "Betway": "1.85",
+                    "Tipico": "1.85"
+                }
+            },
+            "Set Betting": {
+                "2:0": {
+                    "NordicBet": "3.05",
+                    "10Bet": "3.25",
+                    "WilliamHill": "3.25",
+                    "bet365": "3.40",
+                    "Marathon": "3.00",
+                    "Unibet": "3.25",
+                    "Betsson": "3.05",
+                    "1xbet": "3.00",
+                    "Betano": "3.15",
+                    "Betway": "3.00",
+                    "Tipico": "3.20",
+                    "Betcris": "3.00"
+                },
+                "2:1": {
+                    "NordicBet": "4.40",
+                    "10Bet": "4.20",
+                    "WilliamHill": "4.33",
+                    "bet365": "4.00",
+                    "Marathon": "4.85",
+                    "Unibet": "4.30",
+                    "Betsson": "4.40",
+                    "1xbet": "4.85",
+                    "Betano": "4.10",
+                    "Betway": "4.50",
+                    "Tipico": "4.50",
+                    "Betcris": "4.20"
+                },
+                "0:2": {
+                    "NordicBet": "2.95",
+                    "10Bet": "3.00",
+                    "WilliamHill": "3.00",
+                    "bet365": "3.25",
+                    "Marathon": "2.82",
+                    "Unibet": "2.90",
+                    "Betsson": "2.95",
+                    "1xbet": "2.82",
+                    "Betano": "3.15",
+                    "Betway": "2.90",
+                    "Tipico": "2.85",
+                    "Betcris": "2.90"
+                },
+                "1:2": {
+                    "NordicBet": "4.20",
+                    "10Bet": "4.00",
+                    "WilliamHill": "4.00",
+                    "bet365": "4.00",
+                    "Marathon": "4.65",
+                    "Unibet": "4.10",
+                    "Betsson": "4.20",
+                    "1xbet": "4.65",
+                    "Betano": "4.10",
+                    "Betway": "4.00",
+                    "Tipico": "4.40",
+                    "Betcris": "4.10"
+                }
+            },
+            "Set / Match": {
+                "1/1": {
+                    "bet365": "2.40",
+                    "Marathon": "2.48"
+                },
+                "1/2": {
+                    "bet365": "7.00",
+                    "Marathon": "7.20"
+                },
+                "2/1": {
+                    "bet365": "7.00",
+                    "Marathon": "7.40"
+                },
+                "2/2": {
+                    "bet365": "2.30",
+                    "Marathon": "2.33"
+                }
+            },
+            "Home/Away (2nd Set)": {
+                "Home": {
+                    "Marathon": "1.92",
+                    "1xbet": "1.92",
+                    "Betano": "1.87",
+                    "Betway": "1.90"
+                },
+                "Away": {
+                    "Marathon": "1.83",
+                    "1xbet": "1.83",
+                    "Betano": "1.87",
+                    "Betway": "1.80"
+                }
+            },
+            "Odd/Even (2nd Set)": {
+                "Odd": {
+                    "Marathon": "1.73",
+                    "1xbet": "1.73",
+                    "Betano": "1.78"
+                },
+                "Even": {
+                    "Marathon": "2.04",
+                    "1xbet": "2.04",
+                    "Betano": "1.90"
+                }
+            },
+            "Number of sets": {
+                "Away": {
+                    "10Bet": "1.60",
+                    "bet365": "1.66",
+                    "Marathon": "1.53",
+                    "Betano": "1.65",
+                    "Betway": "1.50"
+                },
+                "3": {
+                    "10Bet": "2.20",
+                    "bet365": "2.10",
+                    "Marathon": "2.40",
+                    "Betano": "2.15",
+                    "Betway": "2.30"
+                }
+            },
+            "Win at least one set (Player 1)": {
+                "Yes": {
+                    "bet365": "1.33"
+                },
+                "No": {
+                    "bet365": "3.25"
+                }
+            },
+            "Win at least one set (Player 2)": {
+                "Yes": {
+                    "bet365": "1.30"
+                },
+                "No": {
+                    "bet365": "3.40"
+                }
+            },
+            "Win at least one set": {
+                "Home": {
+                    "Betway": "1.36"
+                }
+            },
+            "Not to Win at least one set": {
+                "Home": {
+                    "Betway": "2.90"
+                },
+                "Away": {
+                    "Betway": "3.00"
+                }
+            },
+            "Away Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.53"
+                },
+                "Under": {
+                    "Betano": "2.40"
+                }
+            },
+            "Home Team Total (1st Set)": {
+                "Over": {
+                    "Betano": "1.53"
+                },
+                "Under": {
+                    "Betano": "2.40"
+                }
+            },
+            "Win In Straigh Sets (Player 1)": {
+                "Yes": {
+                    "bet365": "3.40"
+                },
+                "No": {
+                    "bet365": "1.30"
+                }
+            },
+            "Win In Straigh Sets (Player 2)": {
+                "Yes": {
+                    "bet365": "3.25"
+                },
+                "No": {
+                    "bet365": "1.33"
+                }
+            },
+            "Win From behind (Player 1)": {
+                "Yes": {
+                    "bet365": "7.00",
+                    "Betano": "7.60"
+                },
+                "No": {
+                    "bet365": "1.10",
+                    "Betano": "1.10"
+                }
+            },
+            "Win From behind (Player 2)": {
+                "Yes": {
+                    "bet365": "7.00",
+                    "Betano": "7.60"
+                },
+                "No": {
+                    "bet365": "1.10",
+                    "Betano": "1.10"
+                }
+            },
+            "First Ace": {
+                "Home": {
+                    "Betano": "1.91"
+                },
+                "Away": {
+                    "Betano": "1.80"
+                }
+            }
+        }
+    }
+}
