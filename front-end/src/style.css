@@ -25,13 +25,21 @@
   --dl-color-theme-accent1: #F3E8E2;
   --dl-color-theme-accent2: #D8BFAF;
   --dl-radius-radius-round: 50%;
+<<<<<<< HEAD
+  --dl-color-custom-accent1: #FFFFFF;
+=======
   --dl-color-custom-accent1: #5D576B;
+>>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
   --dl-color-theme-primary1: #D1510A;
   --dl-color-theme-primary2: #923A06;
   --dl-space-space-halfunit: 8px;
   --dl-space-space-sixunits: 96px;
   --dl-space-space-twounits: 32px;
+<<<<<<< HEAD
+  --dl-color-custom-primary1: #006633;
+=======
   --dl-color-custom-primary1: #ED6A5A;
+>>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
   --dl-color-custom-primary2: #879392;
   --dl-radius-radius-radius2: 2px;
   --dl-radius-radius-radius4: 4px;
@@ -109,6 +117,10 @@
   flex-direction: column;
   justify-content: center;
   background-color: var(--dl-color-custom-accent1);
+<<<<<<< HEAD
+  color: #333333;
+=======
+>>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
 }
 .featuresCard {
   width: 100%;
@@ -119,6 +131,48 @@
   justify-content: flex-start;
   background-color: rgba(255, 255, 255, 0.05);
 }
+<<<<<<< HEAD
+
+.home-container03{
+  position: relative;
+  background: #D3D3D3;
+  padding: var(--dl-space-space-threeunits);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.feature-card {
+  position: relative;
+  z-index: 2;
+  font-family: Lato;
+  color: #000000; /* Change la couleur de la police - noir pour un bon contraste */
+  margin: var(--dl-space-space-oneunit) 0;
+  padding: var(--dl-space-space-twounits);
+  background: #42414131; /* Fond gris clair */
+  border-radius: 8px;
+  width: 80%; /* Ajustez la largeur des cartes selon vos besoins */
+}
+
+.feature-card h2,
+.feature-card p {
+  margin: 0;
+}
+
+.feature-card h2 {
+  font-size: 1.5em;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+
+.feature-card p {
+  font-size: 1em;
+}
+
+
+=======
+>>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
 .featuresIcon {
   fill: var(--dl-color-custom-neutral-light);
   width: 2rem;
@@ -197,7 +251,15 @@
   flex-direction: column;
   padding-bottom: var(--dl-space-space-sixunits);
   justify-content: center;
+<<<<<<< HEAD
+  background-image: url(AdobeStock_41947768.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: center;
+  color: #FFFFFF;
+=======
   background-color: var(--dl-color-custom-neutral-light);
+>>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
 }
 .pricingContainer {
   gap: var(--dl-space-space-twounits);
@@ -210,7 +272,16 @@
   flex-direction: column;
   padding-bottom: var(--dl-space-space-fourunits);
   justify-content: center;
+<<<<<<< HEAD
+  background-image: url(AdobeStock_41947768_3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  color :#FFFFFF
+  
+=======
   background-color: var(--dl-color-custom-neutral-light);
+>>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
 }
 .bannerContainer {
   width: 100%;

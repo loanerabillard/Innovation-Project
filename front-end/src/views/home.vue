@@ -72,7 +72,11 @@
     <div class="home-hero">
       <div class="heroContainer home-hero1">
         <div class="home-container01">
+<<<<<<< HEAD
+          <h1 class="home-hero-heading heading1">La 1ere plateforme d'investissement dédiée aux parieurs</h1>
+=======
           <h1 class="home-hero-heading heading1">Welcome to PARI FREE</h1>
+>>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
           <span class="home-hero-sub-heading bodyLarge">
             <span>
               <span>
@@ -100,6 +104,14 @@
         <div class="home-features1">
           <div class="home-container02">
             <span class="overline">
+<<<<<<< HEAD
+              
+             
+            </span>
+            <h2 class="home-features-heading heading2">Quelques chiffres</h2>
+            <span class="home-features-sub-heading bodyLarge">
+             
+=======
               <span>features</span>
               <br />
             </span>
@@ -114,6 +126,7 @@
                 <span>
                 </span>
               </span>
+>>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
               <span>
                 <span>
                 </span>
@@ -123,6 +136,26 @@
             </span>
           </div>
           <div class="home-container03">
+<<<<<<< HEAD
+            <div class="feature-card">
+              <h2>+50 bookmakers</h2>
+              <p>Une grande liste de bookmakers pour vous assurer un meilleur choix de côte</p>
+            </div>
+            <div class="feature-card">
+              <h2>Algorithme spécialisé dans le Tennis</h2>
+              <p>Rendre les résultats plus précis est pour nous le plus important</p>
+            </div>
+            <div class="feature-card">
+              <h2>Secure Transactions</h2>
+              <p>Enjoy peace of mind with secure payment options for deposits and withdrawals</p>
+            </div>
+            <div class="feature-card">
+              <h2>Mobile Compatibility</h2>
+              <p>Bet on the go with our mobile-friendly platform</p>
+            </div>
+          </div>
+
+=======
             <feature-card heading="Live Betting" subHeading="Place bets on ongoing matches in real-time"></feature-card>
             <feature-card heading="Multiple Sports"
               subHeading="Bet on a wide range of sports including football, basketball, tennis, and more"></feature-card>
@@ -131,6 +164,7 @@
             <feature-card heading="Mobile Compatibility"
               subHeading="Bet on the go with our mobile-friendly platform"></feature-card>
           </div>
+>>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
         </div>
       </div>
     </div>
@@ -138,6 +172,19 @@
       <div class="pricingContainer">
         <div class="home-container04">
           <span class="overline">
+<<<<<<< HEAD
+            <span></span>
+            <br />
+          </span>
+          <h2 class="heading2">15% DE GAINS EN MOYENNE PAR LES UTILISATEURS</h2>
+          <span class="home-pricing-sub-heading bodyLarge">
+            <span>
+              
+            </span>
+          </span>
+        </div>
+
+=======
             <span>Pricing</span>
             <br />
           </span>
@@ -270,6 +317,7 @@
             </button>
           </div>
         </div>
+>>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
       </div>
     </div>
     <div class="home-banner">
