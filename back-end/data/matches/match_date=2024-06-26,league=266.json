@@ -2,38 +2,6 @@
     "success": 1,
     "result": [
         {
-            "event_key": 11959571,
-            "event_date": "2024-06-26",
-            "event_time": "11:00",
-            "event_first_player": "K. Siniakova",
-            "first_player_key": 3006,
-            "event_second_player": "L. Samsonova",
-            "second_player_key": 68376,
-            "event_final_result": "-",
-            "event_game_result": "-",
-            "event_serve": null,
-            "event_winner": null,
-            "event_status": "1",
-            "event_type_type": "Wta Singles",
-            "tournament_name": "WTA Bad Homburg",
-            "tournament_key": 4228,
-            "tournament_round": null,
-            "tournament_season": "2024",
-            "event_live": "0",
-            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/3006_k-siniakova.jpg",
-            "event_second_player_logo": null,
-            "event_qualification": null,
-            "pointbypoint": [],
-            "scores": [
-                {
-                    "score_first": "0",
-                    "score_second": "0",
-                    "score_set": "1"
-                }
-            ],
-            "statistics": []
-        },
-        {
             "event_key": 11959572,
             "event_date": "2024-06-26",
             "event_time": "12:00",
@@ -45,7 +13,7 @@
             "event_game_result": "-",
             "event_serve": null,
             "event_winner": null,
-            "event_status": "1",
+            "event_status": "Cancelled",
             "event_type_type": "Wta Singles",
             "tournament_name": "WTA Eastbourne",
             "tournament_key": 1358,
@@ -54,102 +22,6 @@
             "event_live": "0",
             "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2172_e-rybakina.jpg",
             "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2998_h-dart.jpg",
-            "event_qualification": null,
-            "pointbypoint": [],
-            "scores": [
-                {
-                    "score_first": "0",
-                    "score_second": "0",
-                    "score_set": "1"
-                }
-            ],
-            "statistics": []
-        },
-        {
-            "event_key": 11959373,
-            "event_date": "2024-06-26",
-            "event_time": "11:00",
-            "event_first_player": "E. Alexandrova",
-            "first_player_key": 2392,
-            "event_second_player": "D. Vekic",
-            "second_player_key": 455,
-            "event_final_result": "-",
-            "event_game_result": "-",
-            "event_serve": null,
-            "event_winner": null,
-            "event_status": "1",
-            "event_type_type": "Wta Singles",
-            "tournament_name": "WTA Bad Homburg",
-            "tournament_key": 4228,
-            "tournament_round": "WTA Bad Homburg - 1/8-finals",
-            "tournament_season": "2024",
-            "event_live": "0",
-            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2392_e-alexandrova.jpg",
-            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/455_d-vekic.jpg",
-            "event_qualification": "False",
-            "pointbypoint": [],
-            "scores": [
-                {
-                    "score_first": "0",
-                    "score_second": "0",
-                    "score_set": "1"
-                }
-            ],
-            "statistics": []
-        },
-        {
-            "event_key": 11959447,
-            "event_date": "2024-06-26",
-            "event_time": "11:00",
-            "event_first_player": "J. Niemeier",
-            "first_player_key": 471,
-            "event_second_player": "P. Badosa",
-            "second_player_key": 2178,
-            "event_final_result": "-",
-            "event_game_result": "-",
-            "event_serve": null,
-            "event_winner": null,
-            "event_status": "1",
-            "event_type_type": "Wta Singles",
-            "tournament_name": "WTA Bad Homburg",
-            "tournament_key": 4228,
-            "tournament_round": null,
-            "tournament_season": "2024",
-            "event_live": "0",
-            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/471_j-niemeier.jpg",
-            "event_second_player_logo": null,
-            "event_qualification": null,
-            "pointbypoint": [],
-            "scores": [
-                {
-                    "score_first": "0",
-                    "score_second": "0",
-                    "score_set": "1"
-                }
-            ],
-            "statistics": []
-        },
-        {
-            "event_key": 11959448,
-            "event_date": "2024-06-26",
-            "event_time": "11:00",
-            "event_first_player": "L. Noskova",
-            "first_player_key": 447,
-            "event_second_player": "V. Tomova",
-            "second_player_key": 499,
-            "event_final_result": "-",
-            "event_game_result": "-",
-            "event_serve": null,
-            "event_winner": null,
-            "event_status": "1",
-            "event_type_type": "Wta Singles",
-            "tournament_name": "WTA Bad Homburg",
-            "tournament_key": 4228,
-            "tournament_round": null,
-            "tournament_season": "2024",
-            "event_live": "0",
-            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/447_l-noskova.jpg",
-            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/499_v-tomova.jpg",
             "event_qualification": null,
             "pointbypoint": [],
             "scores": [
@@ -182,6 +54,102 @@
             "event_live": "0",
             "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2692_m-keys.jpg",
             "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2393_a-kalinina.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11959748,
+            "event_date": "2024-06-26",
+            "event_time": "11:00",
+            "event_first_player": "A. Blinkova",
+            "first_player_key": 1779,
+            "event_second_player": "B. Haddad Maia",
+            "second_player_key": 1951,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Bad Homburg",
+            "tournament_key": 4228,
+            "tournament_round": null,
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1779_a-blinkova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/1951_b-haddad-maia.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11959749,
+            "event_date": "2024-06-26",
+            "event_time": "11:00",
+            "event_first_player": "D. Shnaider",
+            "first_player_key": 7403,
+            "event_second_player": "D. Yastremska",
+            "second_player_key": 2813,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Bad Homburg",
+            "tournament_key": 4228,
+            "tournament_round": null,
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/7403_d-shnaider.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2813_d-yastremska.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11959750,
+            "event_date": "2024-06-26",
+            "event_time": "12:00",
+            "event_first_player": "S. Kenin",
+            "first_player_key": 2904,
+            "event_second_player": "H. Dart",
+            "second_player_key": 2998,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Eastbourne",
+            "tournament_key": 1358,
+            "tournament_round": null,
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2904_s-kenin.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2998_h-dart.jpg",
             "event_qualification": null,
             "pointbypoint": [],
             "scores": [

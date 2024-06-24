@@ -2,7 +2,7 @@ from flask import Blueprint, jsonify
 from datetime import datetime
 from app.update_data import update_tennis_data
 from app.requête_API import store_last_update
-
+from flask import request
 
 
 api = Blueprint("api", __name__)
@@ -20,7 +20,7 @@ def get_data():
 
 @api.route("/get_matches")
 def get_matches():
-    num_matches = 10
-    print("test get matches")
+    num_matches = request.args.get('num_matches', default=200, type=int)
+    print(f"Requested number of matches: {num_matches}")
     data = update_tennis_data(num_matches)
     return jsonify(data)

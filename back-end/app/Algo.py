@@ -167,7 +167,6 @@ def algo_répartition(match_infos, n):
 
     for i, match_info in enumerate(match_infos[:n]):
         match_info["repartition"] = repartition[i]
-    print(match_infos)
     return match_infos
 
 def register_data(data):

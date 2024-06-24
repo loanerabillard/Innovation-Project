@@ -26,4 +26,7 @@ def update_tennis_data(num_matches=10):
         register_data(data)
         return get_json_data("matches.json")
     else:
+        data1 = RESPONSE2(RESPONSE(incoming_games()), num_matches)
+        data = algo_répartition(data1, num_matches)
+        register_data(data)
         return get_json_data("matches.json")
