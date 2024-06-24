@@ -4,15 +4,15 @@
     <div class="separator"></div>
     <div class="content-container">
       <div class="betting-container">
-        <h1>Live Betting Page</h1>
+        
         <table class="matches-table">
           <thead>
             <tr>
               <th class="header-cell white"></th>
               <th class="header-cell white"></th>
-              <th class="header-cell ace">Ace</th>
-              <th class="header-cell slice">Slice</th>
-              <th class="header-cell short">Short</th>
+              <th class=" ace header-cell">Ace Package<br> High Potential Gain</th>
+              <th class=" slice header-cell">Slice Package<br> Balanced Gain and Stability</th>
+              <th class=" short header-cell">Short Package<br> High Stability</th>
               <th class="header-cell white"></th>
               <th class="header-cell white"></th>
               <th class="header-cell white"></th>
@@ -20,9 +20,9 @@
             <tr>
               <th class="white"></th>
               <th class="white"></th>
-              <th class="subheader">Ace Investment Repartition</th>
-              <th class="subheader">Slice Investment Repartition</th>
-              <th class="subheader">Short Investment Repartition</th>
+              <th colspan="3" class="">Bet Repartition</th>
+              <!-- <th class="slice-row">Medium Potential Gain</th>
+              <th class="short-row">High Stability</th> -->
               <th class="subheader">Risk Level</th>
               <th class="subheader">Max Gain</th>
               <th class="subheader">League</th>
@@ -32,27 +32,29 @@
             <tr v-for="(match, index) in matches" :key="index">
               <td>
                 <div class="team-row">
-                  <div class="image-container">
+                  <div
+                    class="image-container"
+                    :class="{ 'winner-border': match.winner === 'player_1', 'loser-border': match.winner === 'player_2' }"
+                  >
                     <img :src="match.player_1_logo" alt="Player 1 Logo" class="player-logo" />
                   </div>
-                  <div :class="['player-name', { 'winner': match.winner === 'player_1', 'loser': match.winner === 'player_2' }]">
-                    {{ match.player_1 }}
-                  </div>
+                  <div class="player-name">{{ match.player_1 }}</div>
                 </div>
               </td>
               <td>
                 <div class="team-row">
-                  <div class="image-container">
+                  <div
+                    class="image-container"
+                    :class="{ 'winner-border': match.winner === 'player_2', 'loser-border': match.winner === 'player_1' }"
+                  >
                     <img :src="match.player_2_logo" alt="Player 2 Logo" class="player-logo" />
                   </div>
-                  <div :class="['player-name', { 'winner': match.winner === 'player_2', 'loser': match.winner === 'player_1' }]">
-                    {{ match.player_2 }}
-                  </div>
+                  <div class="player-name">{{ match.player_2 }}</div>
                 </div>
               </td>
-              <td>{{ match.repartition[0] }}%</td>
-              <td>{{ match.repartition[1] }}%</td>
-              <td>{{ match.repartition[2] }}%</td>
+              <td class="package-cell ace-row">{{ match.repartition[0] }}%</td>
+              <td class="package-cell slice-row">{{ match.repartition[1] }}%</td>
+              <td class="package-cell short-row">{{ match.repartition[2] }}%</td>
               <td>{{ match.risk_level }}</td>
               <td>{{ match.max_gain }}</td>
               <td>{{ match.tournament_name }}</td>
@@ -60,9 +62,15 @@
             <tr>
               <td class="white"></td>
               <td class="white"></td>
-              <td><button class="choose-btn ace">Choose Ace</button></td>
-              <td><button class="choose-btn slice">Choose Slice</button></td>
-              <td><button class="choose-btn short">Choose Short</button></td>
+              <td class="package-cell ace">
+                <button class="choose-btn ace">Choose Ace Package</button>
+              </td>
+              <td class="package-cell slice">
+                <button class="choose-btn slice">Choose Slice Package</button>
+              </td>
+              <td class="package-cell short">
+                <button class="choose-btn short">Choose Short Package</button>
+              </td>
               <td class="white"></td>
               <td class="white"></td>
               <td class="white"></td>
@@ -76,80 +84,33 @@
 </template>
 
 <script>
-import Header from '../components/Header.vue';
-import Footer from '../components/Footer.vue';
+import Header from "../components/Header.vue";
+import Footer from "../components/Footer.vue";
 
-const teams_data = [
-  {
-    "bookmaker_odd_player_1": "Betfair",
-    "bookmaker_odd_player_2": "Betfair",
-    "meilleur_ratio": 376.9230769230769,
-    "note": 376.9230769230769,
-    "odd_player_1": 1.16,
-    "odd_player_2": 7.0,
-    "player_1": "I. Swiatek",
-    "player_1_logo": "https://api.api-tennis.com/logo-tennis/1910_i-swiatek.jpg",
-    "player_2": "C. Gauff",
-    "player_2_logo": "https://api.api-tennis.com/logo-tennis/2176_c-gauff.jpg",
-    "player_2_flag": 'france-flag.png',
-    "player_1_flag": 'france-flag.png',
-    "rang": 1,
-    "repartition": [
-      "50",
-      "33",
-      "25"
-    ],
-    "tournament_name": "WTA French Open",
-    "win_percentage_player_1": 76.92307692307693,
-    "win_percentage_player_2": 53.84615384615385
-  },
-  {
-    "bookmaker_odd_player_1": "Betfair",
-    "bookmaker_odd_player_2": "Betfair",
-    "meilleur_ratio": 142.67999999999998,
-    "note": 142.67999999999998,
-    "odd_player_1": 1.67,
-    "odd_player_2": 2.46,
-    "player_1": "C. Alcaraz",
-    "player_1_logo": "https://api.api-tennis.com/logo-tennis/2382_c-alcaraz.jpg",
-    "player_2": "J. Sinner",
-    "player_2_logo": "https://api.api-tennis.com/logo-tennis/2072_j-sinner.jpg",
-    "player_2_flag": 'france-flag.png',
-    "player_1_flag": 'france-flag.png',
-    "rang": 2,
-    "repartition": [
-      "25",
-      "33",
-      "25"
-    ],
-    "tournament_name": "ATP French Open",
-    "win_percentage_player_1": 61.53846153846154,
-    "win_percentage_player_2": 57.99999999999999
-  },
-  {
-    "bookmaker_odd_player_1": "Betfair",
-    "bookmaker_odd_player_2": "Betfair",
-    "meilleur_ratio": 128.88888888888889,
-    "note": 128.88888888888889,
-    "odd_player_1": 2.32,
-    "odd_player_2": 1.74,
-    "player_1": "J. Paolini",
-    "player_1_logo": "https://api.api-tennis.com/logo-tennis/2811_j-paolini.jpg",
-    "player_2": "M. Andreeva",
-    "player_2_logo": null,
-    "player_2_flag": 'france-flag.png',
-    "player_1_flag": 'france-flag.png',
-    "rang": 3,
-    "repartition": [
-      "25",
-      "33",
-      "50"
-    ],
-    "tournament_name": "WTA French Open",
-    "win_percentage_player_1": 55.55555555555556,
-    "win_percentage_player_2": 43.103448275862064
-  },
-];
+function isCacheValid(cacheDate) {
+  const today = new Date().toISOString().split('T')[0];
+  return cacheDate === today;
+}
+
+function getCachedData(key) {
+  const cachedData = localStorage.getItem(key);
+  if (cachedData) {
+    const { date, data } = JSON.parse(cachedData);
+    if (isCacheValid(date)) {
+      return data;
+    }
+  }
+  return null;
+}
+
+function setCachedData(key, data) {
+  const today = new Date().toISOString().split('T')[0];
+  const cacheData = {
+    date: today,
+    data: data,
+  };
+  localStorage.setItem(key, JSON.stringify(cacheData));
+}
 
 export default {
   name: "SportsBetting",
@@ -159,34 +120,93 @@ export default {
   },
   data() {
     return {
-      matches: []
+      matches: [],
+      numMatches: 10 // Default number of matches to fetch
     };
   },
   created() {
-    this.matches = this.processMatches(teams_data);
+    this.fetchMatches(this.numMatches);
   },
   methods: {
+    async fetchMatches(numMatches) {
+      const cacheKey = `matches_${numMatches}`;
+      const cachedMatches = getCachedData(cacheKey);
+      if (cachedMatches) {
+        this.matches = this.processMatches(cachedMatches);
+      } else {
+        try {
+          const response = await fetch(
+            `http://localhost:5000/get_matches?num_matches=${numMatches}`
+          );
+          if (!response.ok) {
+            throw new Error("Network response was not ok");
+          }
+          const matches = await response.json();
+          this.matches = this.processMatches(matches);
+          setCachedData(cacheKey, matches);
+        } catch (error) {
+          console.error("There was a problem with the fetch operation:", error);
+        }
+      }
+    },
     processMatches(matches) {
+      console.log(matches.length);
       return matches.map(match => {
-        match.winner = match.win_percentage_player_1 > match.win_percentage_player_2 ? 'player_1' : 'player_2';
+        if (match.player_1_logo == null) {
+          match.player_1_logo = "/no_photo.jpeg";
+        }
+        if (match.player_2_logo == null) {
+          match.player_2_logo = "/no_photo.jpeg";
+        }
+
+        // Ensure winner is always player_1
+        if (match.meilleur_joueur === 2) {
+          [match.player_1, match.player_2] = [match.player_2, match.player_1];
+          [match.player_1_logo, match.player_2_logo] = [match.player_2_logo, match.player_1_logo];
+          [match.win_percentage_player_1, match.win_percentage_player_2] = [match.win_percentage_player_2, match.win_percentage_player_1];
+          [match.odd_player_1, match.odd_player_2] = [match.odd_player_2, match.odd_player_1];
+          match.meilleur_joueur = 1;
+        }
+
+        match.winner = match.meilleur_joueur === 1 ? "player_1" : "player_2";
+        match.repartition = match.repartition.map(rep =>
+          parseFloat(rep).toFixed(1)
+        ); // Round to 1 decimal
         match.risk_level = this.computeRiskLevel(match);
         match.max_gain = this.computeMaxGain(match);
         return match;
       });
     },
     computeRiskLevel(match) {
-      const risk = Math.abs(match.win_percentage_player_1 - match.win_percentage_player_2);
-      return risk.toFixed(2); // Risk level formula (can be adjusted)
+      let winRate, odds;
+      if (match.meilleur_joueur === 1) {
+        winRate = match.win_percentage_player_1;
+        odds = match.odd_player_1;
+      } else {
+        winRate = match.win_percentage_player_2;
+        odds = match.odd_player_2;
+      }
+      const impliedProbability = 1 / odds;
+      const actualProbability = winRate / 100;
+      const risk = Math.abs(impliedProbability - actualProbability);
+      return risk.toFixed(2); // Risk level formula
     },
     computeMaxGain(match) {
-      const max_gain = Math.max(match.odd_player_1, match.odd_player_2);
-      return max_gain.toFixed(2); // Max gain formula (can be adjusted)
+      let max_gain;
+      if (match.meilleur_joueur === 1) {
+        max_gain = match.odd_player_1;
+      } else {
+        max_gain = match.odd_player_2;
+      }
+      return max_gain.toFixed(2); // Max gain formula
     }
   }
 };
 </script>
 
+
 <style scoped>
+/* Styles remain the same */
 body,
 html {
   margin: 0;
@@ -225,18 +245,18 @@ html {
 .matches-table th,
 .matches-table td {
   border: 1px solid #ddd;
-  padding: 12px;
+  padding: 4px; /* Reduced padding */
   text-align: center;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 16px; /* Reduced font size */
 }
 
 .matches-table th {
   background-color: #5d576b;
   color: white;
-  height: 80px;
-  padding: 15px;
-  font-size: 22px;
+  height: 30px; /* Reduced height */
+  padding: 6px; /* Reduced padding */
+  font-size: 20px; /* Reduced font size */
 }
 
 .matches-table th.white,
@@ -246,7 +266,7 @@ html {
 }
 
 .matches-table .subheader {
-  font-size: 16px; /* Reduced font size */
+  font-size: 18px; /* Reduced font size */
 }
 
 .matches-table tr:nth-child(even) {
@@ -259,7 +279,7 @@ html {
 
 .separator {
   background-color: #f0f0f0;
-  height: 14vh;
+  height: 10vh; /* Reduced height */
 }
 
 .team-row {
@@ -270,38 +290,37 @@ html {
 .image-container {
   position: relative;
   display: inline-block;
+  border-radius: 50%;
+  padding: 3px; /* Reduced padding */
+}
+
+.image-container.winner-border {
+  border: 2px solid green; /* Reduced border width */
+}
+
+.image-container.loser-border {
+  border: 2px solid red; /* Reduced border width */
 }
 
 .player-logo {
-  width: 70px;
-  height: 70px;
+  width: 40px; /* Reduced size */
+  height: 40px; /* Reduced size */
   border-radius: 50%;
 }
 
 .player-name {
   font-weight: bold;
-  margin-left: 10px;
+  margin-left: 8px; /* Reduced margin */
   color: black;
-}
-
-.player-name.winner {
-  text-decoration: underline;
-  text-decoration-color: green;
-  text-decoration-thickness: 3px; /* Increase underline thickness */
-}
-
-.player-name.loser {
-  text-decoration: underline;
-  text-decoration-color: red;
-  text-decoration-thickness: 3px; /* Increase underline thickness */
 }
 
 .choose-btn {
   width: 100%;
-  padding: 15px;
+  padding: 20px; /* Reduced padding */
   border: none;
   cursor: pointer;
-  font-size: 18px;
+  font-size: 20px; /* Reduced font size */
+  margin: 5px; /* Reduced margin */
 }
 
 .choose-btn.ace {
@@ -333,20 +352,46 @@ html {
 
 .header-cell {
   border: none;
-}
-
-.header-cell.ace {
-  background-color: #f1c40f; /* Yellow color for Ace */
   color: white;
 }
 
-.header-cell.slice {
-  background-color: #e67e22; /* Orange color for Slice */
+.header-cell.ace,
+.package-cell.ace {
+  background-color: #f1c40f; /* Yellow color for Ace without alpha */
   color: white;
+  padding: 20px; /* Reduced padding */
 }
 
-.header-cell.short {
-  background-color: #3498db; /* Blue color for Short */
+.header-cell.slice,
+.package-cell.slice {
+  background-color: #e67e22; /* Orange color for Slice without alpha */
   color: white;
+  padding: 20px; /* Reduced padding */
+}
+
+.header-cell.short,
+.package-cell.short {
+  background-color: #3498db; /* Blue color for Short without alpha */
+  color: white;
+  padding: 20px; /* Reduced padding */
+}
+
+.package-cell {
+  padding: 20px; /* Reduced padding */
+}
+
+.ace-row {
+  color: black;
+  background-color: rgba(241, 196, 15, 0.2); /* Yellow color for Ace with alpha */
+}
+
+.slice-row {
+  color: black;
+  background-color: rgba(230, 126, 34, 0.2); /* Orange color for Slice with alpha */
+}
+
+.short-row {
+  color: black;
+  background-color: rgba(52, 152, 219, 0.2); /* Blue color for Short with alpha */
 }
 </style>

@@ -20,7 +20,7 @@ def get_data():
 
 @api.route("/get_matches")
 def get_matches():
-    num_matches = request.args.get('num_matches', default=200, type=int)
+    num_matches = request.args.get('num_matches', default=20, type=int)
     print(f"Requested number of matches: {num_matches}")
     data = update_tennis_data(num_matches)
     return jsonify(data)

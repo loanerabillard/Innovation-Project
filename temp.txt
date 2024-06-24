@@ -1,0 +1,71 @@
+const teams_data = [
+  {
+    "bookmaker_odd_player_1": "Betfair",
+    "bookmaker_odd_player_2": "Betfair",
+    "meilleur_ratio": 376.9230769230769,
+    "note": 376.9230769230769,
+    "odd_player_1": 1.16,
+    "odd_player_2": 7.0,
+    "player_1": "I. Swiatek",
+    "player_1_logo": "https://api.api-tennis.com/logo-tennis/1910_i-swiatek.jpg",
+    "player_2": "C. Gauff",
+    "player_2_logo": "https://api.api-tennis.com/logo-tennis/2176_c-gauff.jpg",
+    "player_2_flag": 'france-flag.png',
+    "player_1_flag": 'france-flag.png',
+    "rang": 1,
+    "repartition": [
+      "50",
+      "33",
+      "25"
+    ],
+    "tournament_name": "WTA French Open",
+    "win_percentage_player_1": 76.92307692307693,
+    "win_percentage_player_2": 53.84615384615385
+  },
+  {
+    "bookmaker_odd_player_1": "Betfair",
+    "bookmaker_odd_player_2": "Betfair",
+    "meilleur_ratio": 142.67999999999998,
+    "note": 142.67999999999998,
+    "odd_player_1": 1.67,
+    "odd_player_2": 2.46,
+    "player_1": "C. Alcaraz",
+    "player_1_logo": "https://api.api-tennis.com/logo-tennis/2382_c-alcaraz.jpg",
+    "player_2": "J. Sinner",
+    "player_2_logo": "https://api.api-tennis.com/logo-tennis/2072_j-sinner.jpg",
+    "player_2_flag": 'france-flag.png',
+    "player_1_flag": 'france-flag.png',
+    "rang": 2,
+    "repartition": [
+      "25",
+      "33",
+      "25"
+    ],
+    "tournament_name": "ATP French Open",
+    "win_percentage_player_1": 61.53846153846154,
+    "win_percentage_player_2": 57.99999999999999
+  },
+  {
+    "bookmaker_odd_player_1": "Betfair",
+    "bookmaker_odd_player_2": "Betfair",
+    "meilleur_ratio": 128.88888888888889,
+    "note": 128.88888888888889,
+    "odd_player_1": 2.32,
+    "odd_player_2": 1.74,
+    "player_1": "J. Paolini",
+    "player_1_logo": "https://api.api-tennis.com/logo-tennis/2811_j-paolini.jpg",
+    "player_2": "M. Andreeva",
+    "player_2_logo": null,
+    "player_2_flag": 'france-flag.png',
+    "player_1_flag": 'france-flag.png',
+    "rang": 3,
+    "repartition": [
+      "25",
+      "33",
+      "50"
+    ],
+    "tournament_name": "WTA French Open",
+    "win_percentage_player_1": 55.55555555555556,
+    "win_percentage_player_2": 43.103448275862064
+  },
+];

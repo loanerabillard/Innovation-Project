@@ -63,6 +63,7 @@ export default {
   flex-direction: column;
   background-color: var(--dl-color-gray-white);
   border-bottom: solid 1px;
+  z-index: 1000;
 }
 
 .home-links {

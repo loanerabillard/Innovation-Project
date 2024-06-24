@@ -2483,7 +2483,7 @@
             "tournament_key": 4228,
             "tournament_round": "WTA Bad Homburg - 1/16-finals",
             "tournament_season": "2024",
-            "event_live": "1",
+            "event_live": "0",
             "event_first_player_logo": null,
             "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2816_e-svitolina.jpg",
             "event_qualification": "False",
