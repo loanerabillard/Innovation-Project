@@ -72,11 +72,7 @@
     <div class="home-hero">
       <div class="heroContainer home-hero1">
         <div class="home-container01">
-<<<<<<< HEAD
-          <h1 class="home-hero-heading heading1">La 1ere plateforme d'investissement dédiée aux parieurs</h1>
-=======
-          <h1 class="home-hero-heading heading1">Welcome to PARI FREE</h1>
->>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
+          <h1 class="home-hero-heading heading1">La 1ère plateforme d'investissement dédiée aux parieurs</h1>
           <span class="home-hero-sub-heading bodyLarge">
             <span>
               <span>
@@ -104,29 +100,12 @@
         <div class="home-features1">
           <div class="home-container02">
             <span class="overline">
-<<<<<<< HEAD
               
              
             </span>
             <h2 class="home-features-heading heading2">Quelques chiffres</h2>
             <span class="home-features-sub-heading bodyLarge">
              
-=======
-              <span>features</span>
-              <br />
-            </span>
-            <h2 class="home-features-heading heading2">Exciting Features</h2>
-            <span class="home-features-sub-heading bodyLarge">
-              <span>
-                <span>
-                  <span>
-                    Discover what sets our sports betting platform apart
-                  </span>
-                </span>
-                <span>
-                </span>
-              </span>
->>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
               <span>
                 <span>
                 </span>
@@ -136,7 +115,6 @@
             </span>
           </div>
           <div class="home-container03">
-<<<<<<< HEAD
             <div class="feature-card">
               <h2>+50 bookmakers</h2>
               <p>Une grande liste de bookmakers pour vous assurer un meilleur choix de côte</p>
@@ -155,16 +133,6 @@
             </div>
           </div>
 
-=======
-            <feature-card heading="Live Betting" subHeading="Place bets on ongoing matches in real-time"></feature-card>
-            <feature-card heading="Multiple Sports"
-              subHeading="Bet on a wide range of sports including football, basketball, tennis, and more"></feature-card>
-            <feature-card heading="Secure Transactions"
-              subHeading="Enjoy peace of mind with secure payment options for deposits and withdrawals"></feature-card>
-            <feature-card heading="Mobile Compatibility"
-              subHeading="Bet on the go with our mobile-friendly platform"></feature-card>
-          </div>
->>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
         </div>
       </div>
     </div>
@@ -172,7 +140,6 @@
       <div class="pricingContainer">
         <div class="home-container04">
           <span class="overline">
-<<<<<<< HEAD
             <span></span>
             <br />
           </span>
@@ -184,140 +151,6 @@
           </span>
         </div>
 
-=======
-            <span>Pricing</span>
-            <br />
-          </span>
-          <h2 class="heading2">Choose Your Plan</h2>
-          <span class="home-pricing-sub-heading bodyLarge">
-            <span>
-              <span>Select the plan that best suits your betting needs</span>
-            </span>
-          </span>
-        </div>
-        <div class="home-container05">
-          <div class="freePricingCard home-pricing-card">
-            <div class="home-container06">
-              <span class="home-text36 heading3">Free</span>
-              <span class="bodySmall">
-                Get started with our Free plan and enjoy basic features
-              </span>
-            </div>
-            <div class="home-container07">
-              <span class="home-text37">
-                <span>$</span>
-                <span></span>
-              </span>
-              <span class="home-free-plan-price">0</span>
-            </div>
-            <div class="home-container08">
-              <div class="home-container09">
-                <span class="home-text40">✔</span>
-                <span class="bodySmall">Access to basic betting options</span>
-              </div>
-              <div class="home-container10">
-                <span class="home-text41">✔</span>
-                <span class="bodySmall">Limited customer support</span>
-              </div>
-              <div class="home-container11">
-                <span class="home-text42">✔</span>
-                <span class="bodySmall">Ads included</span>
-              </div>
-              <div class="home-container12">
-                <span class="home-text43">✔</span>
-                <span class="bodySmall">Limited access to live streaming</span>
-              </div>
-            </div>
-            <button class="home-button buttonOutline">Continue with Free</button>
-          </div>
-          <div class="basicPricingCard home-pricing-card1">
-            <div class="home-container13">
-              <span class="home-text44 heading3">BASIC</span>
-              <span class="bodySmall">
-                Upgrade to our Basic plan for more features and better support
-              </span>
-            </div>
-            <div class="home-container14">
-              <span class="home-text45">
-                <span>$</span>
-                <span></span>
-              </span>
-              <span class="home-basic-plan-pricing">20</span>
-              <span class="home-text48">/ month</span>
-            </div>
-            <div class="home-container15">
-              <div class="home-container16">
-                <span class="home-text49">✔</span>
-                <span class="bodySmall">All features of FREE plan</span>
-              </div>
-              <div class="home-container17">
-                <span class="home-text51">✔</span>
-                <span class="bodySmall">Access to advanced betting options</span>
-              </div>
-              <div class="home-container18">
-                <span class="home-text52">✔</span>
-                <span class="bodySmall">Priority customer support</span>
-              </div>
-              <div class="home-container19">
-                <span class="home-text53">✔</span>
-                <span class="bodySmall">Ad-free experience</span>
-              </div>
-              <div class="home-container20">
-                <span class="home-text54">✔</span>
-                <span class="bodySmall">Access to live streaming</span>
-              </div>
-            </div>
-            <button class="home-button1 buttonFilledSecondary">
-              Try the Basic plan
-            </button>
-          </div>
-          <div class="proPricingCard home-pricing-card2">
-            <div class="home-container21">
-              <span class="home-text55 heading3">
-                <span>PRO</span>
-                <br />
-              </span>
-              <span class="bodySmall">
-                Go Pro and unlock all premium features for the ultimate betting
-                experience
-              </span>
-            </div>
-            <div class="home-container22">
-              <span class="home-text58">
-                <span>$</span>
-                <span></span>
-              </span>
-              <span class="home-pro-plan-pricing">50</span>
-              <span class="home-text61">/ month</span>
-            </div>
-            <div class="home-container23">
-              <div class="home-container24">
-                <span class="home-text62">✔</span>
-                <span class="bodySmall"> All features of BASIC plan</span>
-              </div>
-              <div class="home-container25">
-                <span class="home-text64">✔</span>
-                <span class="bodySmall">Access to exclusive betting options</span>
-              </div>
-              <div class="home-container26">
-                <span class="home-text65">✔</span>
-                <span class="bodySmall">24/7 VIP customer support</span>
-              </div>
-              <div class="home-container27">
-                <span class="home-text66">✔</span>
-                <span class="bodySmall">Ad-free experience</span>
-              </div>
-              <div class="home-container28">
-                <span class="home-text67">✔</span>
-                <span class="bodySmall">Unlimited access to live streaming</span>
-              </div>
-            </div>
-            <button class="home-button2 buttonFilledSecondary">
-              Try the PRO plan
-            </button>
-          </div>
-        </div>
->>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
       </div>
     </div>
     <div class="home-banner">

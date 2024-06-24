@@ -1,9 +1,5 @@
 <template>
   <div class="home-container">
-<<<<<<< HEAD
-=======
-    <span>test</span>
->>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
     <Header></Header>
     <div class="separator"></div>
     <div class="content-container">
@@ -12,7 +8,6 @@
         <table class="matches-table">
           <thead>
             <tr>
-<<<<<<< HEAD
               <th class="header-cell white"></th>
               <th class="header-cell white"></th>
               <th class="header-cell ace">Ace</th>
@@ -31,19 +26,10 @@
               <th class="subheader">Risk Level</th>
               <th class="subheader">Max Gain</th>
               <th class="subheader">League</th>
-=======
-              <th>League</th>
-              <th>Match</th>
-              <th>Winning Percentage</th>
-              <th>Odds</th>
-              <th>Team to bet on</th>
-              <th>Expected Gain</th>
->>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
             </tr>
           </thead>
           <tbody>
             <tr v-for="(match, index) in matches" :key="index">
-<<<<<<< HEAD
               <td>
                 <div class="team-row">
                   <div class="image-container">
@@ -51,26 +37,10 @@
                   </div>
                   <div :class="['player-name', { 'winner': match.winner === 'player_1', 'loser': match.winner === 'player_2' }]">
                     {{ match.player_1 }}
-=======
-              <td>{{ match.league }}</td>
-              <td>
-                <div class="match-cell">
-                  <div class="team-row">
-                    <img :src="match.team_1_logo" alt="Team 1 Logo" class="team-logo">
-                    <span>{{ match.team_1 }}</span>
-                  </div>
-                  <div class="vs-row">
-                    <span>Vs</span>
-                  </div>
-                  <div class="team-row">
-                    <img :src="match.team_2_logo" alt="Team 2 Logo" class="team-logo">
-                    <span>{{ match.team_2 }}</span>
->>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
                   </div>
                 </div>
               </td>
               <td>
-<<<<<<< HEAD
                 <div class="team-row">
                   <div class="image-container">
                     <img :src="match.player_2_logo" alt="Player 2 Logo" class="player-logo" />
@@ -96,44 +66,6 @@
               <td class="white"></td>
               <td class="white"></td>
               <td class="white"></td>
-=======
-                <div class="split-cell">
-                  <div class="team-row">
-                    <img :src="match.team_1_logo" alt="Team 1 Logo" class="team-logo">
-                    <span>{{ match.win_percent_team_1 }}%</span>
-                  </div>
-                  <div class="team-row">
-                    <img :src="match.team_2_logo" alt="Team 2 Logo" class="team-logo">
-                    <span>{{ match.win_percent_team_2 }}%</span>
-                  </div>
-                </div>
-              </td>
-              <td>
-                <div class="split-cell">
-                  <div class="team-row">
-                    <img :src="match.team_1_logo" alt="Team 1 Logo" class="team-logo">
-                    <span>{{ match.odd_team_1 }}</span>
-                  </div>
-                  <div class="team-row">
-                    <img :src="match.team_2_logo" alt="Team 2 Logo" class="team-logo">
-                    <span>{{ match.odd_team_2 }}</span>
-                  </div>
-                </div>
-              </td>
-              <td>
-                <div class="split-cell">
-                  <div class="team-row" v-if="match.team_to_bet_on === 1">
-                    <img :src="match.team_1_logo" alt="Team 1 Logo" class="team-logo">
-                    <span>{{ match.team_1 }}</span>
-                  </div>
-                  <div class="team-row" v-else>
-                    <img :src="match.team_2_logo" alt="Team 2 Logo" class="team-logo">
-                    <span>{{ match.team_2 }}</span>
-                  </div>
-                </div>
-              </td>
-              <td>{{ match.expected_gain }}%</td>
->>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
             </tr>
           </tbody>
         </table>
@@ -143,15 +75,10 @@
   </div>
 </template>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
 <script>
 import Header from '../components/Header.vue';
 import Footer from '../components/Footer.vue';
 
-<<<<<<< HEAD
 const teams_data = [
   {
     "bookmaker_odd_player_1": "Betfair",
@@ -223,47 +150,6 @@ const teams_data = [
     "win_percentage_player_2": 43.103448275862064
   },
 ];
-=======
-console.log('test')
-
-// Function to generate a random integer between min and max (inclusive)
-function getRandomInt(min, max) {
-  return Math.floor(Math.random() * (max - min + 1)) + min;
-}
-
-// Function to generate random match data
-function generateRandomMatch() {
-  const league = "League " + String.fromCharCode(65 + getRandomInt(0, 5)); // Random league from League A to League F
-  const team_1 = "Team A";
-  const team_2 = "Team B";
-  const team_1_logo = "https://media.api-sports.io/hockey/teams/12.png";
-  const team_2_logo = "https://media.api-sports.io/hockey/teams/14.png";
-  const win_percent_team_1 = getRandomInt(0, 100);
-  const win_percent_team_2 = 100 - win_percent_team_1;
-  const odd_team_1 = (Math.random() * (3 - 1) + 1).toFixed(2); // Random odd between 1 and 3
-  const odd_team_2 = (Math.random() * (3 - 1) + 1).toFixed(2); // Random odd between 1 and 3
-  const team_to_bet_on = getRandomInt(1, 2);
-  const expected_gain = getRandomInt(1, 20);
-
-  return {
-    league,
-    team_1,
-    team_2,
-    team_1_logo,
-    team_2_logo,
-    win_percent_team_1,
-    win_percent_team_2,
-    odd_team_1,
-    odd_team_2,
-    team_to_bet_on,
-    expected_gain,
-  };
-}
-
-// Generate an array of random match data
-const num = 6;
-const teams_data = Array.from({ length: num }, generateRandomMatch);
->>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
 
 export default {
   name: "SportsBetting",
@@ -273,7 +159,6 @@ export default {
   },
   data() {
     return {
-<<<<<<< HEAD
       matches: []
     };
   },
@@ -302,17 +187,6 @@ export default {
 </script>
 
 <style scoped>
-=======
-      matches: teams_data
-    };
-  }
-};
-
-</script>
-
-
-<style>
->>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
 body,
 html {
   margin: 0;
@@ -345,12 +219,7 @@ html {
   width: 100%;
   border-collapse: collapse;
   margin-top: 20px;
-<<<<<<< HEAD
   box-shadow: 0px 0px 0px red;
-=======
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  /* Move shadow to the table */
->>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
 }
 
 .matches-table th,
@@ -360,17 +229,12 @@ html {
   text-align: center;
   font-weight: bold;
   font-size: 18px;
-<<<<<<< HEAD
-=======
-  /* Increase font size */
->>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
 }
 
 .matches-table th {
   background-color: #5d576b;
   color: white;
   height: 80px;
-<<<<<<< HEAD
   padding: 15px;
   font-size: 22px;
 }
@@ -385,14 +249,6 @@ html {
   font-size: 16px; /* Reduced font size */
 }
 
-=======
-  /* Adjust this value to make the header bigger */
-  padding: 15px;
-  /* Adjust padding for better alignment */
-  font-size: 22px;
-}
-
->>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
 .matches-table tr:nth-child(even) {
   background-color: #f2f2f2;
 }
@@ -406,7 +262,6 @@ html {
   height: 14vh;
 }
 
-<<<<<<< HEAD
 .team-row {
   display: flex;
   align-items: center;
@@ -493,26 +348,5 @@ html {
 .header-cell.short {
   background-color: #3498db; /* Blue color for Short */
   color: white;
-=======
-.match-cell,
-.split-cell {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 10px;
-}
-
-.team-row,
-.vs-row {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-
-.team-logo {
-  width: 30px;
-  height: 30px;
->>>>>>> 8b6d76b2555ccd94baae1f8c80f8fb02827f6b4f
 }
 </style>
