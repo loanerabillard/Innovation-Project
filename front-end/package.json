@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "heroku-postbuild": "npm run build && cp -r dist/* ../back-end/app/static/"
   },
   "dependencies": {
     "vue": "^2.6.7",
