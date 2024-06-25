@@ -4,7 +4,7 @@
     <div class="separator"></div>
     <div class="content-container">
       <div class="betting-container">
-        <h1>Live Betting Page</h1>
+        <!-- <h1>Choose your package</h1> -->
         <table class="matches-table">
           <thead>
             <tr>
@@ -45,7 +45,7 @@
                     class="image-container"
                     :class="{ 'winner-border': match.winner === 'player_1', 'loser-border': match.winner === 'player_2' }"
                   >
-                    <img :src="match.player_1_logo" alt="Player 1 Logo" class="player-logo" />
+                    <img :src="match.player_1_logo" alt="Player 1 Logo" class="player-logo" @error="handleImgError" />
                   </div>
                   <div class="player-name">{{ match.player_1 }}</div>
                 </div>
@@ -56,7 +56,7 @@
                     class="image-container"
                     :class="{ 'winner-border': match.winner === 'player_2', 'loser-border': match.winner === 'player_1' }"
                   >
-                    <img :src="match.player_2_logo" alt="Player 2 Logo" class="player-logo" />
+                    <img :src="match.player_2_logo" alt="Player 2 Logo" class="player-logo" @error="handleImgError" />
                   </div>
                   <div class="player-name">{{ match.player_2 }}</div>
                 </div>
@@ -80,7 +80,6 @@
               <td class="package-cell short">
                 <button class="choose-btn short" @click="goToPackage('short')">Choose Short Package</button>
               </td>
-
               <td class="white"></td>
               <td class="white"></td>
               <td class="white"></td>
@@ -164,7 +163,6 @@ export default {
       this.$router.push({ name: "package", params: { packageType } });
     },
     processMatches(matches) {
-      console.log(matches.length);
       return matches.map(match => {
         if (match.player_1_logo == null) {
           match.player_1_logo = "/no_photo.jpeg";
@@ -200,20 +198,9 @@ export default {
         return match;
       });
     },
-    // computeRiskLevel(match) {
-    //   let winRate, odds;
-    //   if (match.meilleur_joueur === 1) {
-    //     winRate = match.win_percentage_player_1;
-    //     odds = match.odd_player_1;
-    //   } else {
-    //     winRate = match.win_percentage_player_2;
-    //     odds = match.odd_player_2;
-    //   }
-    //   const impliedProbability = 1 / odds;
-    //   const actualProbability = winRate / 100;
-    //   const risk = Math.abs(impliedProbability - actualProbability);
-    //   return risk.toFixed(2); // Risk level formula
-    // },
+    handleImgError(event) {
+      event.target.src = "/no_photo.jpeg";
+    },
     computeMaxGain(match) {
       let max_gain;
       if (match.meilleur_joueur === 1) {
@@ -226,6 +213,7 @@ export default {
   }
 };
 </script>
+
 
 
 <style scoped>

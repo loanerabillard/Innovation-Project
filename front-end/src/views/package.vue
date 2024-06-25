@@ -54,7 +54,12 @@
                     class="image-container"
                     :class="{ 'winner-border': match.winner === 'player_1', 'loser-border': match.winner === 'player_2' }"
                   >
-                    <img :src="match.player_1_logo" alt="Player 1 Logo" class="player-logo" />
+                    <img
+                      :src="match.player_1_logo"
+                      alt="Player 1 Logo"
+                      class="player-logo"
+                      @error="handleImgError"
+                    />
                   </div>
                   <div class="player-name">{{ match.player_1 }}</div>
                 </div>
@@ -65,7 +70,12 @@
                     class="image-container"
                     :class="{ 'winner-border': match.winner === 'player_2', 'loser-border': match.winner === 'player_1' }"
                   >
-                    <img :src="match.player_2_logo" alt="Player 2 Logo" class="player-logo" />
+                    <img
+                      :src="match.player_2_logo"
+                      alt="Player 2 Logo"
+                      class="player-logo"
+                      @error="handleImgError"
+                    />
                   </div>
                   <div class="player-name">{{ match.player_2 }}</div>
                 </div>
@@ -119,8 +129,9 @@
     </div>
   </div>
 </template>
+
     
-  <script>
+<script>
 import Header from "../components/Header.vue";
 import Footer from "../components/Footer.vue";
 
@@ -200,7 +211,6 @@ export default {
       }
     },
     processMatches(matches) {
-      console.log(matches.length);
       return matches.map(match => {
         if (match.player_1_logo == null) {
           match.player_1_logo = "/no_photo.jpeg";
@@ -235,6 +245,9 @@ export default {
         match.max_gain = this.computeMaxGain(match);
         return match;
       });
+    },
+    handleImgError(event) {
+      event.target.src = "/no_photo.jpeg";
     },
     computeRiskLevel(match) {
       let winRate, odds;
@@ -317,9 +330,9 @@ export default {
   }
 };
 </script>
+
     
   <style scoped>
-
 .logo {
   font-size: 2em;
   font-family: Lato;

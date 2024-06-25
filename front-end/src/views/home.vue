@@ -89,7 +89,7 @@
             </span>
           </span>
           <div class="home-btn-group">
-            <button class="buttonFilled">Join Now</button>
+            <button class="buttonFilled" @click="goToSportingBet">Invest Now !</button>
             <button class="buttonFlat">Learn More →</button>
           </div>
         </div>
@@ -271,6 +271,11 @@ export default {
     AppQuestion1,
     Header,
     Footer
+  },
+  methods: {
+    goToSportingBet() {
+      this.$router.push({ name: 'sports-betting' });
+    }
   },
   metaInfo: {
     title: 'PARI FREE',

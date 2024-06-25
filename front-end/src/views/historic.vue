@@ -19,17 +19,18 @@
           <div class="package-details">
             <div class="column">
               <div class="detail">
-                <span>Amount Invested: {{ formatNumber(pkg.Amount) }} €</span>
+                <i class="emoji">💵</i>
+                <span class="info">Amount Invested: {{ formatNumber(pkg.Amount) }} €</span>
               </div>
               <div class="detail">
-                <i class="fas fa-futbol"></i>
-                <span>Matches: {{ pkg.Num_matches }}</span>
+                <i class="emoji">🎾</i>
+                <span class="info">Matches:  {{ pkg.Num_matches }}</span>
               </div>
             </div>
             <div class="column gain-column">
               <div class="detail gain">
-                <i class="fas fa-chart-line"></i>
-                <span>Gain: {{ formatNumber(pkg.Gain) }} €</span>
+                <i class="emoji">📈 </i>
+                <span class="info">Gain:  +{{ formatNumber(pkg.Gain) }} €</span>
               </div>
             </div>
           </div>
@@ -60,35 +61,35 @@ export default {
           Date: "2024-06-25",
           Amount: 100,
           Num_matches: 10,
-          Gain: 30000
+          Gain: 300
         },
         {
           Package: "Short",
           Date: "2024-06-24",
           Amount: 50,
           Num_matches: 8,
-          Gain: 15000
+          Gain: 180
         },
         {
           Package: "Slice",
           Date: "2024-06-23",
           Amount: 120,
           Num_matches: 12,
-          Gain: 28800
+          Gain: 288
         },
         {
           Package: "Ace",
           Date: "2024-06-22",
           Amount: 80,
           Num_matches: 7,
-          Gain: 24000
+          Gain: 240
         },
         {
           Package: "Short",
           Date: "2024-06-21",
           Amount: 150,
           Num_matches: 9,
-          Gain: 60000
+          Gain: 600
         }
       ]
     };
@@ -99,6 +100,7 @@ export default {
       return new Date(date).toLocaleDateString("en-GB", options);
     },
     formatNumber(value) {
+      console.log(value)
       return value.toLocaleString("fr-FR");
     }
   },
@@ -117,6 +119,15 @@ export default {
   
   <style scoped>
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css");
+
+.emoji {
+  font-size: 30px;
+}
+
+.info {
+  font-weight: bold;
+  font-size: 22px;
+}
 
 .package-card {
   background-color: white;
@@ -184,7 +195,7 @@ export default {
 
 .gain {
   font-size: 25px; /* Made the Gain non-bold and 30px */
-  color: #2ecc71;
+  color: #0c8a41;
 }
 
 .ace-row {

@@ -1,3 +1,69 @@
 {
-    "success": 1
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11960162,
+            "event_date": "2024-06-27",
+            "event_time": "10:00",
+            "event_first_player": "A. Michelsen",
+            "first_player_key": 10884,
+            "event_second_player": "S. Ofner",
+            "second_player_key": 359,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Mallorca",
+            "tournament_key": 3681,
+            "tournament_round": null,
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/359_s-ofner.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11960279,
+            "event_date": "2024-06-27",
+            "event_time": "10:00",
+            "event_first_player": "G. Monfils",
+            "first_player_key": 2845,
+            "event_second_player": "R. Bautista-Agut",
+            "second_player_key": 2734,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Atp Singles",
+            "tournament_name": "ATP Mallorca",
+            "tournament_key": 3681,
+            "tournament_round": null,
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2845_g-monfils.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2734_r-bautista-agut.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        }
+    ]
 }
