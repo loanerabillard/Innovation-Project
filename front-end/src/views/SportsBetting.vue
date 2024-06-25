@@ -199,20 +199,20 @@ export default {
         return match;
       });
     },
-    computeRiskLevel(match) {
-      let winRate, odds;
-      if (match.meilleur_joueur === 1) {
-        winRate = match.win_percentage_player_1;
-        odds = match.odd_player_1;
-      } else {
-        winRate = match.win_percentage_player_2;
-        odds = match.odd_player_2;
-      }
-      const impliedProbability = 1 / odds;
-      const actualProbability = winRate / 100;
-      const risk = Math.abs(impliedProbability - actualProbability);
-      return risk.toFixed(2); // Risk level formula
-    },
+    // computeRiskLevel(match) {
+    //   let winRate, odds;
+    //   if (match.meilleur_joueur === 1) {
+    //     winRate = match.win_percentage_player_1;
+    //     odds = match.odd_player_1;
+    //   } else {
+    //     winRate = match.win_percentage_player_2;
+    //     odds = match.odd_player_2;
+    //   }
+    //   const impliedProbability = 1 / odds;
+    //   const actualProbability = winRate / 100;
+    //   const risk = Math.abs(impliedProbability - actualProbability);
+    //   return risk.toFixed(2); // Risk level formula
+    // },
     computeMaxGain(match) {
       let max_gain;
       if (match.meilleur_joueur === 1) {

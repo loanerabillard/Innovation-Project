@@ -7,6 +7,7 @@ import Home from './views/home'
 import SportsBetting from './views/SportsBetting.vue'
 import LiveBetting from './views/LiveBetting.vue'
 import Package from './views/package.vue'
+import historic from './views/historic.vue'
 import './style.css'
 
 Vue.use(Router)
@@ -34,6 +35,11 @@ export default new Router({
       name: 'package',
       path: '/package/:packageType',
       component: Package,
+    },
+    {
+      name: 'historic',
+      path: '/historic',
+      component: historic
     },
     {
       path: '*',
