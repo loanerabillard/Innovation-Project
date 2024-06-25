@@ -148,6 +148,7 @@ export default {
           const response = await fetch(
             `${process.env.VUE_APP_BACKEND_URL}/get_matches?num_matches=${numMatches}`
           );
+
           if (!response.ok) {
             throw new Error("Network response was not ok");
           }
