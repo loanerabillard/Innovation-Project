@@ -146,7 +146,7 @@ export default {
       } else {
         try {
           const response = await fetch(
-            `http://localhost:5000/get_matches?num_matches=${numMatches}`
+            `${process.env.VUE_APP_BACKEND_URL}/get_matches?num_matches=${numMatches}`
           );
           if (!response.ok) {
             throw new Error("Network response was not ok");
@@ -160,8 +160,8 @@ export default {
       }
     },
     goToPackage(packageType) {
-    this.$router.push({ name: 'package', params: { packageType } });
-  },
+      this.$router.push({ name: "package", params: { packageType } });
+    },
     processMatches(matches) {
       console.log(matches.length);
       return matches.map(match => {
