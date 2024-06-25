@@ -237,7 +237,7 @@
   flex-direction: column;
   padding-bottom: var(--dl-space-space-sixunits);
   justify-content: center;
-  background-image: url(/static/AdobeStock_41947768.jpeg);
+  background-image: url(/AdobeStock_41947768.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -255,7 +255,7 @@
   flex-direction: column;
   padding-bottom: var(--dl-space-space-fourunits);
   justify-content: center;
-  background-image: url(/static/AdobeStock_41947768_3.jpg);
+  background-image: url(/AdobeStock_41947768_3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
