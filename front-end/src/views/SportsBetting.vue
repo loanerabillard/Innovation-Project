@@ -4,15 +4,24 @@
     <div class="separator"></div>
     <div class="content-container">
       <div class="betting-container">
-        
+        <h1>Live Betting Page</h1>
         <table class="matches-table">
           <thead>
             <tr>
               <th class="header-cell white"></th>
               <th class="header-cell white"></th>
-              <th class=" ace header-cell">Ace Package<br> High Potential Gain</th>
-              <th class=" slice header-cell">Slice Package<br> Balanced Gain and Stability</th>
-              <th class=" short header-cell">Short Package<br> High Stability</th>
+              <th class="ace header-cell">
+                <div class="package-name">Ace Package</div>
+                <div class="desc">High Potential Gain</div>
+              </th>
+              <th class="slice header-cell">
+                <div class="package-name">Slice Package</div>
+                <div class="desc">Balanced Gain and Stability</div>
+              </th>
+              <th class="short header-cell">
+                <div class="package-name">Short Package</div>
+                <div class="desc">High Stability</div>
+              </th>
               <th class="header-cell white"></th>
               <th class="header-cell white"></th>
               <th class="header-cell white"></th>
@@ -20,9 +29,9 @@
             <tr>
               <th class="white"></th>
               <th class="white"></th>
-              <th colspan="3" class="">Bet Repartition</th>
+              <th colspan="3" class>Investment Repartition</th>
               <!-- <th class="slice-row">Medium Potential Gain</th>
-              <th class="short-row">High Stability</th> -->
+              <th class="short-row">High Stability</th>-->
               <th class="subheader">Risk Level</th>
               <th class="subheader">Max Gain</th>
               <th class="subheader">League</th>
@@ -63,14 +72,15 @@
               <td class="white"></td>
               <td class="white"></td>
               <td class="package-cell ace">
-                <button class="choose-btn ace">Choose Ace Package</button>
+                <button class="choose-btn ace" @click="goToPackage('ace')">Choose Ace Package</button>
               </td>
               <td class="package-cell slice">
-                <button class="choose-btn slice">Choose Slice Package</button>
+                <button class="choose-btn slice" @click="goToPackage('slice')">Choose Slice Package</button>
               </td>
               <td class="package-cell short">
-                <button class="choose-btn short">Choose Short Package</button>
+                <button class="choose-btn short" @click="goToPackage('short')">Choose Short Package</button>
               </td>
+
               <td class="white"></td>
               <td class="white"></td>
               <td class="white"></td>
@@ -88,13 +98,13 @@ import Header from "../components/Header.vue";
 import Footer from "../components/Footer.vue";
 
 function isCacheValid(cacheDate) {
-  const today = new Date().toISOString().split('T')[0];
+  const today = new Date().toISOString().split("T")[0];
   return cacheDate === today;
 }
 
 function getCachedData(key) {
   const cachedData = localStorage.getItem(key);
-  if (cachedData) {
+  if (null) {
     const { date, data } = JSON.parse(cachedData);
     if (isCacheValid(date)) {
       return data;
@@ -104,10 +114,10 @@ function getCachedData(key) {
 }
 
 function setCachedData(key, data) {
-  const today = new Date().toISOString().split('T')[0];
+  const today = new Date().toISOString().split("T")[0];
   const cacheData = {
     date: today,
-    data: data,
+    data: data
   };
   localStorage.setItem(key, JSON.stringify(cacheData));
 }
@@ -149,6 +159,9 @@ export default {
         }
       }
     },
+    goToPackage(packageType) {
+    this.$router.push({ name: 'package', params: { packageType } });
+  },
     processMatches(matches) {
       console.log(matches.length);
       return matches.map(match => {
@@ -162,9 +175,18 @@ export default {
         // Ensure winner is always player_1
         if (match.meilleur_joueur === 2) {
           [match.player_1, match.player_2] = [match.player_2, match.player_1];
-          [match.player_1_logo, match.player_2_logo] = [match.player_2_logo, match.player_1_logo];
-          [match.win_percentage_player_1, match.win_percentage_player_2] = [match.win_percentage_player_2, match.win_percentage_player_1];
-          [match.odd_player_1, match.odd_player_2] = [match.odd_player_2, match.odd_player_1];
+          [match.player_1_logo, match.player_2_logo] = [
+            match.player_2_logo,
+            match.player_1_logo
+          ];
+          [match.win_percentage_player_1, match.win_percentage_player_2] = [
+            match.win_percentage_player_2,
+            match.win_percentage_player_1
+          ];
+          [match.odd_player_1, match.odd_player_2] = [
+            match.odd_player_2,
+            match.odd_player_1
+          ];
           match.meilleur_joueur = 1;
         }
 
@@ -172,7 +194,7 @@ export default {
         match.repartition = match.repartition.map(rep =>
           parseFloat(rep).toFixed(1)
         ); // Round to 1 decimal
-        match.risk_level = this.computeRiskLevel(match);
+        match.risk_level = match.meilleur_ratio.toFixed(2);
         match.max_gain = this.computeMaxGain(match);
         return match;
       });
@@ -206,6 +228,14 @@ export default {
 
 
 <style scoped>
+.package-name {
+  font-family: Arial, sans-serif; /* Setting Arial as the font, with sans-serif as the fallback */
+  font-size: 30px; /* Increased font size */
+  font-weight: bold; /* Keeping the text bold */
+}
+.desc {
+  font-size: 20px;
+}
 /* Styles remain the same */
 body,
 html {
@@ -382,16 +412,31 @@ html {
 
 .ace-row {
   color: black;
-  background-color: rgba(241, 196, 15, 0.2); /* Yellow color for Ace with alpha */
+  background-color: rgba(
+    241,
+    196,
+    15,
+    0.2
+  ); /* Yellow color for Ace with alpha */
 }
 
 .slice-row {
   color: black;
-  background-color: rgba(230, 126, 34, 0.2); /* Orange color for Slice with alpha */
+  background-color: rgba(
+    230,
+    126,
+    34,
+    0.2
+  ); /* Orange color for Slice with alpha */
 }
 
 .short-row {
   color: black;
-  background-color: rgba(52, 152, 219, 0.2); /* Blue color for Short with alpha */
+  background-color: rgba(
+    52,
+    152,
+    219,
+    0.2
+  ); /* Blue color for Short with alpha */
 }
 </style>

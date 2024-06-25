@@ -632,10 +632,10 @@
   line-height: 150%;
 }
 .bodyLarge {
-  font-size: 18px;
+  font-size: 23px;
   font-family: Lato;
-  font-weight: 400;
-  line-height: 150%;
+  font-weight: 600;
+  line-height: 170%;
 }
 .bodySmall {
   font-size: 16px;

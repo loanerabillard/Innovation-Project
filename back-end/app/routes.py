@@ -23,4 +23,5 @@ def get_matches():
     num_matches = request.args.get('num_matches', default=20, type=int)
     print(f"Requested number of matches: {num_matches}")
     data = update_tennis_data(num_matches)
+    print('/get_matches fini')
     return jsonify(data)

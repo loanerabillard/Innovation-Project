@@ -6,6 +6,7 @@ import NotFound from './views/not-found'
 import Home from './views/home'
 import SportsBetting from './views/SportsBetting.vue'
 import LiveBetting from './views/LiveBetting.vue'
+import Package from './views/package.vue'
 import './style.css'
 
 Vue.use(Router)
@@ -30,9 +31,9 @@ export default new Router({
       component: SportsBetting,
     },
     {
-      name: 'live-betting',
-      path: '/live-betting',
-      component: LiveBetting
+      name: 'package',
+      path: '/package/:packageType',
+      component: Package,
     },
     {
       path: '*',

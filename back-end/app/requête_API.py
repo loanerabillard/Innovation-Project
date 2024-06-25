@@ -87,7 +87,7 @@ def requête():
 
 def store_last_update():
     with open('last_update.txt', 'w') as file:
-        file.write(str(datetime.today()))
+        file.write(str(datetime.today().strftime("%d-%m-%y")))
 
 
 

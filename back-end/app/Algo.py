@@ -6,6 +6,7 @@ from pprint import pprint
 import csv
 import numpy as np
 from app.Repartition import generate_matrix
+from datetime import datetime
 
 def incoming_games():
     matchs = pd.read_csv("data\\matches_csv\\events.csv")
@@ -139,10 +140,27 @@ def RESPONSE2(response, n):
     
     # Calculer le meilleur ratio pour chaque match
     for match_info in match_infos:
-        ratio_player_1 = match_info["win_percentage_player_1"] * match_info.get("odd_player_1", 0)
-        ratio_player_2 = match_info["win_percentage_player_2"] * match_info.get("odd_player_2", 0)
-        match_info["meilleur_ratio"] = max(ratio_player_1, ratio_player_2)
-        match_info["meilleur_joueur"] = 1 if ratio_player_1 > ratio_player_2 else 2
+        # ratio_player_1 = match_info["win_percentage_player_1"] * match_info.get("odd_player_1", 0)
+        # ratio_player_2 = match_info["win_percentage_player_2"] * match_info.get("odd_player_2", 0)
+        # Calculate Risk for Player 1
+        odds_player_1 = match_info.get("odd_player_1", 0)
+        win_rate_player_1 = match_info["win_percentage_player_1"]
+        risk_player_1 = abs((1 / odds_player_1) - (win_rate_player_1 / 100))
+
+        # Calculate Risk for Player 2
+        odds_player_2 = match_info.get("odd_player_2", 0)
+        win_rate_player_2 = match_info["win_percentage_player_2"]
+        risk_player_2 = abs((1 / odds_player_2) - (win_rate_player_2 / 100))
+
+        match_info["meilleur_ratio"] = min(risk_player_1, risk_player_2)
+
+        if risk_player_1 < risk_player_2:
+            match_info["meilleur_joueur"] = 1
+            match_info['meilleur_cote'] = match_info.get('odd_player_1')
+        else: 
+            match_info["meilleur_joueur"] = 2
+            match_info['meilleur_cote'] = match_info.get('odd_player_2')
+
     # Trier les matchs par meilleur ratio de manière décroissante
     match_infos.sort(key=lambda x: x["meilleur_ratio"], reverse=True)
     
@@ -158,18 +176,18 @@ def algo_répartition(match_infos, n):
     repartition=generate_matrix(n)
     # Calculer la note pour chaque match
     for match_info in match_infos:
-        note_player_1 = match_info.get("odd_player_1", 1) * match_info["win_percentage_player_1"]* match_info["win_percentage_player_1"]
-        note_player_2 = match_info.get("odd_player_2", 1) * match_info["win_percentage_player_2"]* match_info["win_percentage_player_2"]
-        match_info["note"] = max(note_player_1, note_player_2)
+        # note_player_1 = match_info.get("odd_player_1", 1) * match_info["win_percentage_player_1"]* match_info["win_percentage_player_1"]
+        # note_player_2 = match_info.get("odd_player_2", 1) * match_info["win_percentage_player_2"]* match_info["win_percentage_player_2"]
+        match_info["note"] = match_info.get('meilleur_cote') * match_info.get('meilleur_ratio')
     
-    # Trier les matchs par note de manière décroissante
+    # # Trier les matchs par note de manière décroissante
     match_infos.sort(key=lambda x: x["note"], reverse=True)
 
     for i, match_info in enumerate(match_infos[:n]):
         match_info["repartition"] = repartition[i]
     return match_infos
 
-def register_data(data):
-    file_name = "data/matches.json"
+def register_data(data, now):
+    file_name = f"data/responses/matches_{now}.json"
     with open(file_name, 'w') as json_file:
         json.dump(data, json_file, indent=4)
