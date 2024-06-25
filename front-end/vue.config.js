@@ -1,13 +1,15 @@
-const path = require('path')
+const path = require('path');
 
 module.exports = {
+  outputDir: path.resolve(__dirname, '../back-end/app/static'),
+  publicPath: '/',
   devServer: {
     allowedHosts: "all",
   },
   css: {
     loaderOptions: {
       css: {
-        url: false,
+        url: false, // Ensuring CSS background images are treated as relative to CSS file
       },
     },
   },
@@ -18,6 +20,6 @@ module.exports = {
       const escapePublicDir= publicDir.replace(UNESCAPED_GLOB_SYMBOLS_RE, '\\$2');
       args[0].patterns[0].globOptions.ignore = args[0].patterns[0].globOptions.ignore.map(i => i.replace(publicDir, escapePublicDir));
       return args;
-  });
+    });
   }
 };

@@ -4,7 +4,7 @@
     <div class="separator"></div>
     <div class="content-container">
       <div class="betting-container">
-        <h1>
+        <h1 class="logo">
           Package -
           <span
             :class="`${packageName.toLowerCase()}-text`"
@@ -319,6 +319,15 @@ export default {
 </script>
     
   <style scoped>
+
+.logo {
+  font-size: 2em;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: 150%;
+  text-transform: uppercase;
+}
+
 .package-name {
   font-family: Arial, sans-serif;
   font-size: 30px;
