@@ -1,6 +1,5 @@
 <template>
   <div class="home-container">
-
     <!-- <div class="home-header">
       <header data-thq="thq-navbar" class="navbarContainer home-navbar-interactive">
         <span class="logo">BETSPORT</span>
@@ -66,31 +65,30 @@
         </div>
       </header>
 
-    </div> -->
+    </div>-->
     <Header></Header>
 
     <div class="home-hero">
       <div class="heroContainer home-hero1">
         <div class="home-container01">
-          <h1 class="home-hero-heading heading1">La 1ère plateforme d'investissement dédiée aux parieurs</h1>
+          <h1
+            class="home-hero-heading heading1"
+          >The first investment platform dedicated to sports bettors</h1>
           <span class="home-hero-sub-heading bodyLarge">
             <span>
               <span>
                 <span>Your ultimate destination for sports betting</span>
               </span>
-              <span>
-              </span>
+              <span></span>
             </span>
             <span>
-              <span>
-              </span>
-              <span>
-              </span>
+              <span></span>
+              <span></span>
             </span>
           </span>
           <div class="home-btn-group">
             <button class="buttonFilled" @click="goToSportingBet">Invest Now !</button>
-            <button class="buttonFlat">Learn More →</button>
+            <button class="buttonFlat">Learn More →</button>
           </div>
         </div>
       </div>
@@ -99,29 +97,23 @@
       <div class="featuresContainer">
         <div class="home-features1">
           <div class="home-container02">
-            <span class="overline">
-              
-             
-            </span>
+            <span class="overline"></span>
             <h2 class="home-features-heading heading2">Quelques chiffres</h2>
             <span class="home-features-sub-heading bodyLarge">
-             
               <span>
-                <span>
-                </span>
-                <span>
-                </span>
+                <span></span>
+                <span></span>
               </span>
             </span>
           </div>
           <div class="home-container03">
             <div class="feature-card">
-              <h2>+50 bookmakers</h2>
-              <p>Une grande liste de bookmakers pour vous assurer un meilleur choix de côte</p>
+              <h2>+50 Bookmakers</h2>
+              <p>A large list of bookmakers to ensure a better choice of odds</p>
             </div>
             <div class="feature-card">
-              <h2>Algorithme spécialisé dans le Tennis</h2>
-              <p>Rendre les résultats plus précis est pour nous le plus important</p>
+              <h2>Specialized Algorithm in Tennis</h2>
+              <p>Making the results more accurate is most important to us</p>
             </div>
             <div class="feature-card">
               <h2>Secure Transactions</h2>
@@ -132,7 +124,6 @@
               <p>Bet on the go with our mobile-friendly platform</p>
             </div>
           </div>
-
         </div>
       </div>
     </div>
@@ -143,40 +134,32 @@
             <span></span>
             <br />
           </span>
-          <h2 class="heading2">15% DE GAINS EN MOYENNE PAR LES UTILISATEURS</h2>
+          <h2 class="heading2">150% AVERAGE GAINS BY USERS</h2>
           <span class="home-pricing-sub-heading bodyLarge">
-            <span>
-              
-            </span>
+            <span></span>
           </span>
         </div>
-
       </div>
     </div>
     <div class="home-banner">
       <div class="bannerContainer home-banner1">
-        <h1 class="home-banner-heading heading2">
-          Experience the thrill of sports betting with us
-        </h1>
+        <h1 class="home-banner-heading heading2">Experience the thrill of sports betting with us</h1>
         <span class="home-banner-sub-heading bodySmall">
           <span>
             <span>
               <span>
-                At Sportifs Bet, we offer a wide range of sports events to bet on,
+                At PARI FREE, we offer a wide range of sports events to bet on,
                 competitive odds, and a seamless betting experience. Whether
                 you&apos;re a seasoned bettor or new to the game, we have
                 something for everyone. Join us today and elevate your sports
                 betting experience.
               </span>
             </span>
-            <span>
-            </span>
+            <span></span>
           </span>
           <span>
-            <span>
-            </span>
-            <span>
-            </span>
+            <span></span>
+            <span></span>
           </span>
         </span>
         <button class="buttonFilled">Explore More</button>
@@ -199,26 +182,29 @@
           <div class="home-container30">
             <app-question1
               answer="To place a bet, simply log in to your account, choose the sport and event you want to bet on, select your bet type and amount, and confirm your bet."
-              question="How do I place a bet on the website?"></app-question1>
+              question="How do I place a bet on the website?"
+            ></app-question1>
             <app-question1
               answer="Yes, we take the security and privacy of our users very seriously. Our website uses encryption technology to ensure that all transactions are secure."
-              question="Is it safe to bet on this website?"></app-question1>
+              question="Is it safe to bet on this website?"
+            ></app-question1>
             <app-question1
               answer="Yes, we offer live betting options for a variety of sports events. You can place bets in real-time as the game progresses."
-              question="Can I bet on live games?"></app-question1>
+              question="Can I bet on live games?"
+            ></app-question1>
             <app-question1
               answer="You can deposit funds into your account using various payment methods such as credit/debit cards, e-wallets, bank transfers, and more. Simply go to the deposit section in your account and follow the instructions."
-              question="How can I deposit funds into my account?"></app-question1>
+              question="How can I deposit funds into my account?"
+            ></app-question1>
             <app-question1
               answer="If you encounter any issues with your bet or have any questions, you can contact our customer support team for assistance. They are available 24/7 to help you resolve any problems."
-              question="What should I do if I encounter a problem with my bet?"></app-question1>
+              question="What should I do if I encounter a problem with my bet?"
+            ></app-question1>
           </div>
         </div>
       </div>
     </div>
-    <Footer>
-
-    </Footer>
+    <Footer></Footer>
     <!-- <div class="home-footer">
       <footer class="footerContainer home-footer1">
         <div class="home-container31">
@@ -254,18 +240,18 @@
         </div>
       </footer>
     </div>
- -->
+    -->
   </div>
 </template>
 
 <script>
-import FeatureCard from '../components/feature-card'
-import AppQuestion1 from '../components/question1'
-import Header from '../components/Header.vue';
-import Footer from '../components/Footer.vue';
+import FeatureCard from "../components/feature-card";
+import AppQuestion1 from "../components/question1";
+import Header from "../components/Header.vue";
+import Footer from "../components/Footer.vue";
 
 export default {
-  name: 'Home',
+  name: "Home",
   components: {
     FeatureCard,
     AppQuestion1,
@@ -274,13 +260,13 @@ export default {
   },
   methods: {
     goToSportingBet() {
-      this.$router.push({ name: 'sports-betting' });
+      this.$router.push({ name: "sports-betting" });
     }
   },
   metaInfo: {
-    title: 'PARI FREE',
-  },
-}
+    title: "PARI FREE"
+  }
+};
 </script>
 
 <style scoped>
@@ -1036,7 +1022,7 @@ export default {
   height: 24px;
 }
 
-@media(max-width: 991px) {
+@media (max-width: 991px) {
   .home-hero1 {
     flex-direction: column;
   }
@@ -1102,7 +1088,7 @@ export default {
   }
 }
 
-@media(max-width: 767px) {
+@media (max-width: 767px) {
   .home-navbar-interactive {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
@@ -1242,7 +1228,7 @@ export default {
   }
 }
 
-@media(max-width: 479px) {
+@media (max-width: 479px) {
   .home-navbar-interactive {
     padding: var(--dl-space-space-unit);
   }
