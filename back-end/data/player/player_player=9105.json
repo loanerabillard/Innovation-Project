@@ -1,0 +1,198 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 9105,
+            "player_name": "X. Jiang",
+            "player_country": "China",
+            "player_bday": "03.03.1999",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2019",
+                    "type": "doubles",
+                    "rank": "104",
+                    "titles": "0",
+                    "matches_won": "4",
+                    "matches_lost": "10",
+                    "hard_won": "4",
+                    "hard_lost": "8",
+                    "clay_won": "0",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2018",
+                    "type": "doubles",
+                    "rank": "116",
+                    "titles": "1",
+                    "matches_won": "7",
+                    "matches_lost": "7",
+                    "hard_won": "7",
+                    "hard_lost": "6",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2017",
+                    "type": "doubles",
+                    "rank": "91",
+                    "titles": "1",
+                    "matches_won": "8",
+                    "matches_lost": "4",
+                    "hard_won": "8",
+                    "hard_lost": "4",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "singles",
+                    "rank": "782",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "3",
+                    "hard_won": "0",
+                    "hard_lost": "3",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2018",
+                    "type": "singles",
+                    "rank": "569",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "6",
+                    "hard_won": "1",
+                    "hard_lost": "5",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2017",
+                    "type": "singles",
+                    "rank": "674",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2016",
+                    "type": "singles",
+                    "rank": "689",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "2",
+                    "hard_won": "0",
+                    "hard_lost": "2",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "88",
+                    "titles": "4",
+                    "matches_won": "34",
+                    "matches_lost": "10",
+                    "hard_won": "26",
+                    "hard_lost": "8",
+                    "clay_won": "5",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "121",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "1",
+                    "hard_won": "1",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "511",
+                    "titles": "0",
+                    "matches_won": "16",
+                    "matches_lost": "9",
+                    "hard_won": "10",
+                    "hard_lost": "6",
+                    "clay_won": "3",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "Nanchang",
+                    "season": "2018",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$250,000"
+                },
+                {
+                    "name": "Nanchang",
+                    "season": "2017",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$226,750"
+                },
+                {
+                    "name": "W25 Changwon (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W40 Anning (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$40,000"
+                },
+                {
+                    "name": "Guangzhou",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$259,303"
+                },
+                {
+                    "name": "W25 Guiyang (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                }
+            ]
+        }
+    ]
+}

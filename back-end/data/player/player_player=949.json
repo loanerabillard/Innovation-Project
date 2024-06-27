@@ -1,0 +1,219 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 949,
+            "player_name": "M. Navone",
+            "player_country": "Argentina",
+            "player_bday": "27.02.2001",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "537",
+                    "titles": "1",
+                    "matches_won": "14",
+                    "matches_lost": "15",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "14",
+                    "clay_lost": "15",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "565",
+                    "titles": "2",
+                    "matches_won": "32",
+                    "matches_lost": "20",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "32",
+                    "clay_lost": "20",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "1553",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "4",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "1",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "243",
+                    "titles": "0",
+                    "matches_won": "44",
+                    "matches_lost": "25",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "44",
+                    "clay_lost": "24",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "561",
+                    "titles": "0",
+                    "matches_won": "36",
+                    "matches_lost": "23",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "36",
+                    "clay_lost": "23",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "760",
+                    "titles": "0",
+                    "matches_won": "8",
+                    "matches_lost": "6",
+                    "hard_won": "2",
+                    "hard_lost": "1",
+                    "clay_won": "6",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "728",
+                    "titles": "0",
+                    "matches_won": "4",
+                    "matches_lost": "9",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "4",
+                    "clay_lost": "9",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "125",
+                    "titles": "5",
+                    "matches_won": "40",
+                    "matches_lost": "23",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "40",
+                    "clay_lost": "21",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "31",
+                    "titles": "1",
+                    "matches_won": "25",
+                    "matches_lost": "11",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "25",
+                    "clay_lost": "10",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "991",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "2",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "0",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "M25 Agadir (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "M15 Ulcinj 2 (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "M15 Zilina (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "Cagliari (Challenger)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac205,000"
+                },
+                {
+                    "name": "Santa Fe 2 (Challenger)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$80,000"
+                },
+                {
+                    "name": "Buenos Aires 2 (Challenger)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$130,000"
+                },
+                {
+                    "name": "Santa Cruz (Challenger)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$80,000"
+                },
+                {
+                    "name": "Santa Fe (Challenger)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$40,000"
+                },
+                {
+                    "name": "Poznan (Challenger)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac118,000"
+                }
+            ]
+        }
+    ]
+}

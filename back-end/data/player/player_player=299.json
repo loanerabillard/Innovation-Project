@@ -1,0 +1,14 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 299,
+            "player_name": "Gatti/ Goel",
+            "player_country": null,
+            "player_bday": null,
+            "player_logo": null,
+            "stats": [],
+            "tournaments": []
+        }
+    ]
+}

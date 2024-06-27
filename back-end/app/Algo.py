@@ -7,8 +7,11 @@ import csv
 import numpy as np
 from app.Repartition import generate_matrix
 from datetime import datetime
+from app.surface_mapping import surface_mapping
+from app.tools import timeit
 
-def incoming_games():
+@timeit
+def incoming_games_ids():
     matchs = pd.read_csv("data\\matches_csv\\events.csv")
     tomorrow = datetime.today().date()
     incoming_match_ids = []
@@ -22,7 +25,6 @@ def incoming_games():
 def Algo(match_id):
 
     matchs = pd.read_csv("data\\matches_csv\\events.csv")
-    odds_data = pd.read_csv("data\\odds_csv\\odds.csv")
     # Trouver le match correspondant à l'ID donné
     match = matchs[matchs['event_key'] == match_id].iloc[0]
 
@@ -46,10 +48,13 @@ def Algo(match_id):
 
     return (win_percentage_player1, player1_id), (win_percentage_player2, player2_id)
 
-def RESPONSE(match_ids):
+@timeit
+def get_matches_dicts(match_ids):
 
     matchs = pd.read_csv("data\\matches_csv\\events.csv")
     odds_data = pd.read_csv("data\\odds_csv\\odds.csv")
+    win_probabilites_surfaces = pd.read_csv('data\\win_probabilites_surfaces.csv')
+
     # Créer une liste pour stocker les informations de chaque match
     matches_list = []
 
@@ -91,6 +96,8 @@ def RESPONSE(match_ids):
             max_odd_player2 = None
             bookmaker_odd_player2 = None
 
+        surface_win_percentage_player_1, surface_win_percentage_player_2 = get_surface_wr(tournament_name, player1_name, player2_name, win_probabilites_surfaces)
+
         # Ajouter les informations du match à la liste
         match_info = {
             "tournament_name": tournament_name,
@@ -100,6 +107,8 @@ def RESPONSE(match_ids):
             "player_2_logo": player2_logo,
             "win_percentage_player_1": float(win_percentage_player1),
             "win_percentage_player_2": float(win_percentage_player2),
+            "surface_win_percentage_player_1":  surface_win_percentage_player_1,
+            "surface_win_percentage_player_2":  surface_win_percentage_player_2,
             "odd_player_1": float(max_odd_player1) if max_odd_player1 is not None else None,
             "bookmaker_odd_player_1": bookmaker_odd_player1,
             "odd_player_2": float(max_odd_player2) if max_odd_player2 is not None else None,
@@ -124,11 +133,14 @@ def RESPONSE(match_ids):
     
     cleaned_response = replace_nan_with_none(response_dict)
     # Convertir le dictionnaire en format JSON
-    json_response = json.dumps(cleaned_response, indent=2)
-
+    # json_response = json.dumps(cleaned_response, indent=2)
     return cleaned_response
 
-def RESPONSE2(response, n):
+@timeit
+def get_best_matches(response, n, use_surface_wr=False):
+    wr_1_key = 'surface_win_percentage_player_1' if use_surface_wr else 'win_percentage_player_1'
+    wr_2_key = 'surface_win_percentage_player_2' if use_surface_wr else 'win_percentage_player_2'
+    
     match_infos = response["matches"]
     
     # Ajuster les pourcentages de victoire pour que leur somme soit 100
@@ -144,12 +156,25 @@ def RESPONSE2(response, n):
         # ratio_player_2 = match_info["win_percentage_player_2"] * match_info.get("odd_player_2", 0)
         # Calculate Risk for Player 1
         odds_player_1 = match_info.get("odd_player_1", 0)
-        win_rate_player_1 = match_info["win_percentage_player_1"]
+        win_rate_player_1 = None
+
+        if match_info[wr_1_key] is None and use_surface_wr == True:
+            win_rate_player_1 = match_info['win_percentage_player_1']
+        else:
+            win_rate_player_1 = match_info[wr_1_key]
+
         risk_player_1 = abs((1 / odds_player_1) - (win_rate_player_1 / 100))
 
         # Calculate Risk for Player 2
         odds_player_2 = match_info.get("odd_player_2", 0)
-        win_rate_player_2 = match_info["win_percentage_player_2"]
+
+        win_rate_player_2 = None
+
+        if match_info[wr_2_key] is None and use_surface_wr == True:
+            win_rate_player_2 = match_info['win_percentage_player_2']
+        else:
+            win_rate_player_2 = match_info[wr_2_key]
+
         risk_player_2 = abs((1 / odds_player_2) - (win_rate_player_2 / 100))
 
         match_info["meilleur_ratio"] = min(risk_player_1, risk_player_2)
@@ -191,3 +216,20 @@ def register_data(data, now):
     file_name = f"data/responses/matches_{now}.json"
     with open(file_name, 'w') as json_file:
         json.dump(data, json_file, indent=4)
+
+
+@timeit
+def get_surface_wr(tournament_name, player1_name, player2_name, win_probabilites):
+    s_wr_1, s_wr_2 = None, None
+    
+    win_probabilites_surface = win_probabilites[ win_probabilites['Surface'] == surface_mapping[tournament_name] ]
+    
+    for _, win_prob in win_probabilites_surface.iterrows():
+
+        if (player1_name, player2_name) == (win_prob['Joueur'], win_prob['Adversaire']):
+            s_wr_1, s_wr_2 = win_prob['Win Probability Joueur 1'], win_prob['Win Probability Joueur 2']
+
+        elif (player1_name, player2_name) == (win_prob['Adversaire'], win_prob['Joueur']):
+            s_wr_1, s_wr_2 = win_prob['Win Probability Joueur 2'], win_prob['Win Probability Joueur 1']
+    print(f'{(s_wr_1, s_wr_2)=}')
+    return s_wr_1, s_wr_2

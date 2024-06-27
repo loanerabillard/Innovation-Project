@@ -1,0 +1,275 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 97,
+            "player_name": "M. Jorge",
+            "player_country": "Portugal",
+            "player_bday": "07.04.2004",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "160",
+                    "titles": "8",
+                    "matches_won": "40",
+                    "matches_lost": "8",
+                    "hard_won": "27",
+                    "hard_lost": "4",
+                    "clay_won": "10",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "433",
+                    "titles": "1",
+                    "matches_won": "15",
+                    "matches_lost": "13",
+                    "hard_won": "12",
+                    "hard_lost": "9",
+                    "clay_won": "3",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "1032",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "3",
+                    "hard_won": "2",
+                    "hard_lost": "2",
+                    "clay_won": "1",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "634",
+                    "titles": "0",
+                    "matches_won": "13",
+                    "matches_lost": "21",
+                    "hard_won": "7",
+                    "hard_lost": "16",
+                    "clay_won": "3",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "827",
+                    "titles": "0",
+                    "matches_won": "5",
+                    "matches_lost": "7",
+                    "hard_won": "5",
+                    "hard_lost": "6",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "1328",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "3",
+                    "hard_won": "0",
+                    "hard_lost": "2",
+                    "clay_won": "1",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "142",
+                    "titles": "6",
+                    "matches_won": "56",
+                    "matches_lost": "17",
+                    "hard_won": "35",
+                    "hard_lost": "11",
+                    "clay_won": "17",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "550",
+                    "titles": "0",
+                    "matches_won": "10",
+                    "matches_lost": "19",
+                    "hard_won": "8",
+                    "hard_lost": "14",
+                    "clay_won": "2",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "126",
+                    "titles": "2",
+                    "matches_won": "21",
+                    "matches_lost": "7",
+                    "hard_won": "7",
+                    "hard_lost": "4",
+                    "clay_won": "11",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "495",
+                    "titles": "0",
+                    "matches_won": "4",
+                    "matches_lost": "9",
+                    "hard_won": "2",
+                    "hard_lost": "6",
+                    "clay_won": "2",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W25 Santa Margherita di Pula 5 (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W15 Lousada 2 (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W25 Montemor-O-Novo (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Leiria (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Guimaraes (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Palmanova 2 (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Palmanova (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W40 Bengaluru (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$40,000"
+                },
+                {
+                    "name": "W25 Funchal (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Loule (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Quinta do Lago (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Lisbon (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Cantanhede (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W60+H Caldas da Rainha (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W25 Leiria (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "Oeiras (Challenger)",
+                    "season": "2024",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$164,000"
+                },
+                {
+                    "name": "W100 Oeiras (ITF)",
+                    "season": "2024",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$100,000"
+                }
+            ]
+        }
+    ]
+}

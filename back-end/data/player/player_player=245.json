@@ -1,0 +1,71 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 245,
+            "player_name": "Bertran/ Mbithi",
+            "player_country": "Colombia",
+            "player_bday": "26.09.2003",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "1642",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "2",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "1631",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "4",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "3",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "1355",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "2",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "0",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "1334",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "5",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "3",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": []
+        }
+    ]
+}

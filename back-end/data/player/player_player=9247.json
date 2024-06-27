@@ -1,0 +1,240 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 9247,
+            "player_name": "L. Hietaranta",
+            "player_country": "Finland",
+            "player_bday": "02.02.2004",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "613",
+                    "titles": "3",
+                    "matches_won": "21",
+                    "matches_lost": "10",
+                    "hard_won": "8",
+                    "hard_lost": "8",
+                    "clay_won": "13",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "1483",
+                    "titles": "0",
+                    "matches_won": "7",
+                    "matches_lost": "6",
+                    "hard_won": "0",
+                    "hard_lost": "2",
+                    "clay_won": "3",
+                    "clay_lost": "3",
+                    "grass_won": "4",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "2",
+                    "hard_won": "3",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "0",
+                    "hard_won": "0",
+                    "hard_lost": "0",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "601",
+                    "titles": "2",
+                    "matches_won": "23",
+                    "matches_lost": "12",
+                    "hard_won": "5",
+                    "hard_lost": "7",
+                    "clay_won": "18",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "1069",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "7",
+                    "hard_won": "2",
+                    "hard_lost": "2",
+                    "clay_won": "1",
+                    "clay_lost": "4",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "573",
+                    "titles": "1",
+                    "matches_won": "18",
+                    "matches_lost": "15",
+                    "hard_won": "1",
+                    "hard_lost": "4",
+                    "clay_won": "17",
+                    "clay_lost": "10",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "470",
+                    "titles": "0",
+                    "matches_won": "35",
+                    "matches_lost": "17",
+                    "hard_won": "4",
+                    "hard_lost": "4",
+                    "clay_won": "26",
+                    "clay_lost": "13",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "373",
+                    "titles": "3",
+                    "matches_won": "18",
+                    "matches_lost": "10",
+                    "hard_won": "9",
+                    "hard_lost": "4",
+                    "clay_won": "9",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "396",
+                    "titles": "1",
+                    "matches_won": "19",
+                    "matches_lost": "13",
+                    "hard_won": "5",
+                    "hard_lost": "7",
+                    "clay_won": "14",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W15 Savitaipale (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Casablanca 3 (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Norrkoping (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Casablanca 2 (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W35 Sunderland (ITF)",
+                    "season": "2024",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W35 Helsinki (ITF)",
+                    "season": "2024",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W15 Antalya 11 (ITF)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Casablanca 4 (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Norrkoping (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W35 Annenheim (ITF)",
+                    "season": "2024",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                }
+            ]
+        }
+    ]
+}

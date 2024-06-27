@@ -1,0 +1,219 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 28,
+            "player_name": "D. Pavlou",
+            "player_country": "Greece",
+            "player_bday": "21.04.2004",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "671",
+                    "titles": "4",
+                    "matches_won": "27",
+                    "matches_lost": "11",
+                    "hard_won": "6",
+                    "hard_lost": "3",
+                    "clay_won": "21",
+                    "clay_lost": "8",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "1079",
+                    "titles": "1",
+                    "matches_won": "7",
+                    "matches_lost": "7",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "7",
+                    "clay_lost": "7",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "2",
+                    "matches_lost": "4",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "2",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "814",
+                    "titles": "0",
+                    "matches_won": "18",
+                    "matches_lost": "20",
+                    "hard_won": "1",
+                    "hard_lost": "5",
+                    "clay_won": "17",
+                    "clay_lost": "15",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "1284",
+                    "titles": "0",
+                    "matches_won": "5",
+                    "matches_lost": "9",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "5",
+                    "clay_lost": "9",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "5",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "1",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "427",
+                    "titles": "1",
+                    "matches_won": "23",
+                    "matches_lost": "13",
+                    "hard_won": "1",
+                    "hard_lost": "2",
+                    "clay_won": "22",
+                    "clay_lost": "11",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "413",
+                    "titles": "2",
+                    "matches_won": "27",
+                    "matches_lost": "21",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "27",
+                    "clay_lost": "20",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "374",
+                    "titles": "0",
+                    "matches_won": "7",
+                    "matches_lost": "4",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "7",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "416",
+                    "titles": "1",
+                    "matches_won": "9",
+                    "matches_lost": "7",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "9",
+                    "clay_lost": "7",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W15 Heraklion (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Heraklion 7 (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Heraklion 2 (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Cairo 12 (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Cairo 10 (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Cairo 9 (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Kursumlijska Banja 2 (ITF)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Sibenik (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W25 Kursumlijska Banja 2 (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                }
+            ]
+        }
+    ]
+}

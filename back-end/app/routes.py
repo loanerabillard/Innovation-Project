@@ -3,23 +3,33 @@ from app.update_data import update_tennis_data
 from app.requête_API import store_last_update
 from flask import request
 import os
+from app.tools import timeit
 
 api = Blueprint("api", __name__)
 
-@api.route('/update_data')
-def update_data():
-    return jsonify({"success": "/update_data successed"})
 
-@api.route('/get_data')
-def get_data():
-    return jsonify({"success": "/get_data successed"})
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+TEST_MODE = True 
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+if TEST_MODE == True:
+        print('\n# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
+        for _ in range(5):
+            print('ATTENTION : TEST_MODE :  reduced api request and no last_update check, disable it in routes.py')
+        print('# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
+
+
 
 @api.route('/get_matches')
+@timeit
 def get_matches():
     num_matches = request.args.get('num_matches', default=20, type=int)
-    print(f"Requested number of matches: {num_matches}")
-    data = update_tennis_data(num_matches)
-    print('/get_matches fini')
+    data = update_tennis_data(num_matches, test_mode=TEST_MODE)
     return jsonify(data)
 
 # Serve frontend

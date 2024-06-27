@@ -1,0 +1,254 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 77,
+            "player_name": "E.-T. Cadar",
+            "player_country": "Romania",
+            "player_bday": "24.02.1994",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "406",
+                    "titles": "0",
+                    "matches_won": "23",
+                    "matches_lost": "18",
+                    "hard_won": "19",
+                    "hard_lost": "16",
+                    "clay_won": "4",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "808",
+                    "titles": "2",
+                    "matches_won": "25",
+                    "matches_lost": "19",
+                    "hard_won": "20",
+                    "hard_lost": "14",
+                    "clay_won": "5",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "1180",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "4",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "0",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2012",
+                    "type": "doubles",
+                    "rank": "862",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "2",
+                    "hard_won": "3",
+                    "hard_lost": "2",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "386",
+                    "titles": "1",
+                    "matches_won": "35",
+                    "matches_lost": "22",
+                    "hard_won": "32",
+                    "hard_lost": "19",
+                    "clay_won": "3",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "705",
+                    "titles": "0",
+                    "matches_won": "28",
+                    "matches_lost": "23",
+                    "hard_won": "21",
+                    "hard_lost": "15",
+                    "clay_won": "7",
+                    "clay_lost": "8",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "891",
+                    "titles": "0",
+                    "matches_won": "4",
+                    "matches_lost": "3",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "4",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2013",
+                    "type": "singles",
+                    "rank": "512",
+                    "titles": "0",
+                    "matches_won": "5",
+                    "matches_lost": "6",
+                    "hard_won": "5",
+                    "hard_lost": "5",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2012",
+                    "type": "singles",
+                    "rank": "660",
+                    "titles": "0",
+                    "matches_won": "11",
+                    "matches_lost": "7",
+                    "hard_won": "10",
+                    "hard_lost": "6",
+                    "clay_won": "1",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "501",
+                    "titles": "4",
+                    "matches_won": "23",
+                    "matches_lost": "12",
+                    "hard_won": "16",
+                    "hard_lost": "6",
+                    "clay_won": "7",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "676",
+                    "titles": "0",
+                    "matches_won": "18",
+                    "matches_lost": "19",
+                    "hard_won": "18",
+                    "hard_lost": "12",
+                    "clay_won": "0",
+                    "clay_lost": "7",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "543",
+                    "titles": "0",
+                    "matches_won": "7",
+                    "matches_lost": "7",
+                    "hard_won": "7",
+                    "hard_lost": "7",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "531",
+                    "titles": "1",
+                    "matches_won": "16",
+                    "matches_lost": "10",
+                    "hard_won": "16",
+                    "hard_lost": "10",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W15 Sharm ElSheikh 11 (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Sharm El Sheikh 17 (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Sharm ElSheikh 13 (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Sharm ElSheikh 12 (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Sharm ElSheikh 14 (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Sharm ElSheikh (ITF)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Sharm ElSheikh 5 (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                }
+            ]
+        }
+    ]
+}

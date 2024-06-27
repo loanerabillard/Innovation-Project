@@ -1,0 +1,100 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 39864,
+            "player_name": "M. Landaluce",
+            "player_country": "Spain",
+            "player_bday": "08.01.2006",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "576",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "2",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "1",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "5",
+                    "matches_lost": "3",
+                    "hard_won": "2",
+                    "hard_lost": "2",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "3",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "449",
+                    "titles": "0",
+                    "matches_won": "26",
+                    "matches_lost": "27",
+                    "hard_won": "11",
+                    "hard_lost": "10",
+                    "clay_won": "15",
+                    "clay_lost": "17",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "1",
+                    "matches_won": "10",
+                    "matches_lost": "4",
+                    "hard_won": "6",
+                    "hard_lost": "2",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "4",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "323",
+                    "titles": "1",
+                    "matches_won": "13",
+                    "matches_lost": "9",
+                    "hard_won": "11",
+                    "hard_lost": "5",
+                    "clay_won": "2",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "M25 Vila Real de Santo Antonio (ITF)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "US Open",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": ""
+                }
+            ]
+        }
+    ]
+}

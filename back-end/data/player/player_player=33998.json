@@ -1,0 +1,14 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 33998,
+            "player_name": "P. Andujar",
+            "player_country": null,
+            "player_bday": null,
+            "player_logo": null,
+            "stats": [],
+            "tournaments": []
+        }
+    ]
+}

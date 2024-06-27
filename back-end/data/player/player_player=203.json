@@ -1,0 +1,14 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 203,
+            "player_name": "C. Lampl",
+            "player_country": "USA",
+            "player_bday": "26.07.1997",
+            "player_logo": null,
+            "stats": [],
+            "tournaments": []
+        }
+    ]
+}

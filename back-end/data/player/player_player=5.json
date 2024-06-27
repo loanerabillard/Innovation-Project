@@ -1,0 +1,141 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 5,
+            "player_name": "B. Walker",
+            "player_country": "USA",
+            "player_bday": "01.01.1970",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "",
+                    "matches_won": "",
+                    "matches_lost": "",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "1",
+                    "type": "doubles",
+                    "rank": "1",
+                    "titles": "1",
+                    "matches_won": "1",
+                    "matches_lost": "1",
+                    "hard_won": "1",
+                    "hard_lost": "1",
+                    "clay_won": "1",
+                    "clay_lost": "1",
+                    "grass_won": "1",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "0",
+                    "type": "doubles",
+                    "rank": "0",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "0",
+                    "hard_won": "0",
+                    "hard_lost": "0",
+                    "clay_won": "0",
+                    "clay_lost": "0",
+                    "grass_won": "0",
+                    "grass_lost": "0"
+                },
+                {
+                    "season": "2",
+                    "type": "doubles",
+                    "rank": "2",
+                    "titles": "2",
+                    "matches_won": "2",
+                    "matches_lost": "2",
+                    "hard_won": "2",
+                    "hard_lost": "2",
+                    "clay_won": "2",
+                    "clay_lost": "2",
+                    "grass_won": "2",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "1188",
+                    "titles": "0",
+                    "matches_won": "6",
+                    "matches_lost": "7",
+                    "hard_won": "6",
+                    "hard_lost": "7",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "1046",
+                    "titles": "0",
+                    "matches_won": "9",
+                    "matches_lost": "9",
+                    "hard_won": "9",
+                    "hard_lost": "7",
+                    "clay_won": "0",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "6",
+                    "hard_won": "1",
+                    "hard_lost": "6",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "928",
+                    "titles": "0",
+                    "matches_won": "7",
+                    "matches_lost": "6",
+                    "hard_won": "7",
+                    "hard_lost": "6",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": []
+        }
+    ]
+}

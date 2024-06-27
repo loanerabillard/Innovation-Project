@@ -1,0 +1,191 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 70,
+            "player_name": "N. Khirin",
+            "player_country": "Israel",
+            "player_bday": "16.01.2001",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "538",
+                    "titles": "1",
+                    "matches_won": "10",
+                    "matches_lost": "6",
+                    "hard_won": "6",
+                    "hard_lost": "3",
+                    "clay_won": "4",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "903",
+                    "titles": "2",
+                    "matches_won": "16",
+                    "matches_lost": "11",
+                    "hard_won": "1",
+                    "hard_lost": "3",
+                    "clay_won": "15",
+                    "clay_lost": "8",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "2",
+                    "hard_won": "1",
+                    "hard_lost": "1",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "490",
+                    "titles": "0",
+                    "matches_won": "16",
+                    "matches_lost": "14",
+                    "hard_won": "10",
+                    "hard_lost": "6",
+                    "clay_won": "4",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "608",
+                    "titles": "1",
+                    "matches_won": "18",
+                    "matches_lost": "17",
+                    "hard_won": "5",
+                    "hard_lost": "6",
+                    "clay_won": "13",
+                    "clay_lost": "11",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "996",
+                    "titles": "0",
+                    "matches_won": "5",
+                    "matches_lost": "4",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "5",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "813",
+                    "titles": "1",
+                    "matches_won": "11",
+                    "matches_lost": "6",
+                    "hard_won": "7",
+                    "hard_lost": "4",
+                    "clay_won": "4",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "864",
+                    "titles": "0",
+                    "matches_won": "8",
+                    "matches_lost": "4",
+                    "hard_won": "8",
+                    "hard_lost": "3",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "901",
+                    "titles": "0",
+                    "matches_won": "2",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "827",
+                    "titles": "0",
+                    "matches_won": "2",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W25 Akko (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W15 Heraklion 8 (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Vejle (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Nakhon Si Thammarat 2 (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Heraklion 9 (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                }
+            ]
+        }
+    ]
+}

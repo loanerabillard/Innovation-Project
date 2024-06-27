@@ -1,0 +1,219 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 91,
+            "player_name": "A. Robbe",
+            "player_country": "France",
+            "player_bday": "10.05.2000",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "328",
+                    "titles": "2",
+                    "matches_won": "20",
+                    "matches_lost": "21",
+                    "hard_won": "14",
+                    "hard_lost": "18",
+                    "clay_won": "6",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "548",
+                    "titles": "2",
+                    "matches_won": "16",
+                    "matches_lost": "16",
+                    "hard_won": "11",
+                    "hard_lost": "11",
+                    "clay_won": "5",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "1064",
+                    "titles": "0",
+                    "matches_won": "4",
+                    "matches_lost": "10",
+                    "hard_won": "4",
+                    "hard_lost": "9",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "301",
+                    "titles": "1",
+                    "matches_won": "30",
+                    "matches_lost": "28",
+                    "hard_won": "28",
+                    "hard_lost": "24",
+                    "clay_won": "2",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "422",
+                    "titles": "0",
+                    "matches_won": "28",
+                    "matches_lost": "23",
+                    "hard_won": "15",
+                    "hard_lost": "16",
+                    "clay_won": "13",
+                    "clay_lost": "7",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "723",
+                    "titles": "0",
+                    "matches_won": "13",
+                    "matches_lost": "12",
+                    "hard_won": "13",
+                    "hard_lost": "10",
+                    "clay_won": "0",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "455",
+                    "titles": "0",
+                    "matches_won": "9",
+                    "matches_lost": "16",
+                    "hard_won": "4",
+                    "hard_lost": "11",
+                    "clay_won": "5",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "223",
+                    "titles": "2",
+                    "matches_won": "40",
+                    "matches_lost": "28",
+                    "hard_won": "20",
+                    "hard_lost": "20",
+                    "clay_won": "20",
+                    "clay_lost": "7",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "583",
+                    "titles": "1",
+                    "matches_won": "10",
+                    "matches_lost": "9",
+                    "hard_won": "9",
+                    "hard_lost": "6",
+                    "clay_won": "1",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "303",
+                    "titles": "0",
+                    "matches_won": "9",
+                    "matches_lost": "15",
+                    "hard_won": "4",
+                    "hard_lost": "10",
+                    "clay_won": "5",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W25 Darmstadt (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W15 Bratislava 2 (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Bratislava (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W25 Trnava 2 (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Bujumbura 2 (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Bujumbura (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Montemor-O-Novo (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W15 Montreal (ITF)",
+                    "season": "2024",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$15,000"
+                }
+            ]
+        }
+    ]
+}

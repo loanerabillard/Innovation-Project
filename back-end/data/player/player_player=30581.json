@@ -1,0 +1,14 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 30581,
+            "player_name": "F. Bendana",
+            "player_country": null,
+            "player_bday": null,
+            "player_logo": null,
+            "stats": [],
+            "tournaments": []
+        }
+    ]
+}

@@ -1,0 +1,1430 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 2170,
+            "player_name": "R. Nadal",
+            "player_country": "Spain",
+            "player_bday": "03.06.1986",
+            "player_logo": "https://api.api-tennis.com/logo-tennis/2170_r-nadal.jpg",
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "1159",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "1",
+                    "hard_won": "1",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "475",
+                    "titles": "0",
+                    "matches_won": "2",
+                    "matches_lost": "0",
+                    "hard_won": "2",
+                    "hard_lost": "0",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "1",
+                    "hard_won": "3",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2017",
+                    "type": "doubles",
+                    "rank": "542",
+                    "titles": "0",
+                    "matches_won": "2",
+                    "matches_lost": "2",
+                    "hard_won": "2",
+                    "hard_lost": "2",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2016",
+                    "type": "doubles",
+                    "rank": "132",
+                    "titles": "2",
+                    "matches_won": "12",
+                    "matches_lost": "2",
+                    "hard_won": "11",
+                    "hard_lost": "2",
+                    "clay_won": "1",
+                    "clay_lost": "0",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2015",
+                    "type": "doubles",
+                    "rank": "88",
+                    "titles": "1",
+                    "matches_won": "13",
+                    "matches_lost": "7",
+                    "hard_won": "10",
+                    "hard_lost": "4",
+                    "clay_won": "1",
+                    "clay_lost": "2",
+                    "grass_won": "2",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2014",
+                    "type": "doubles",
+                    "rank": "805",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "2",
+                    "hard_won": "1",
+                    "hard_lost": "2",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2013",
+                    "type": "doubles",
+                    "rank": "384",
+                    "titles": "0",
+                    "matches_won": "6",
+                    "matches_lost": "1",
+                    "hard_won": "1",
+                    "hard_lost": "0",
+                    "clay_won": "5",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2012",
+                    "type": "doubles",
+                    "rank": "68",
+                    "titles": "1",
+                    "matches_won": "7",
+                    "matches_lost": "1",
+                    "hard_won": "6",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "1",
+                    "grass_lost": "0"
+                },
+                {
+                    "season": "2011",
+                    "type": "doubles",
+                    "rank": "113",
+                    "titles": "1",
+                    "matches_won": "9",
+                    "matches_lost": "5",
+                    "hard_won": "8",
+                    "hard_lost": "4",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "1",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2010",
+                    "type": "doubles",
+                    "rank": "79",
+                    "titles": "1",
+                    "matches_won": "6",
+                    "matches_lost": "3",
+                    "hard_won": "5",
+                    "hard_lost": "3",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "1",
+                    "grass_lost": "0"
+                },
+                {
+                    "season": "2009",
+                    "type": "doubles",
+                    "rank": "132",
+                    "titles": "1",
+                    "matches_won": "6",
+                    "matches_lost": "5",
+                    "hard_won": "5",
+                    "hard_lost": "4",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2008",
+                    "type": "doubles",
+                    "rank": "92",
+                    "titles": "1",
+                    "matches_won": "11",
+                    "matches_lost": "9",
+                    "hard_won": "6",
+                    "hard_lost": "7",
+                    "clay_won": "5",
+                    "clay_lost": "0",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2007",
+                    "type": "doubles",
+                    "rank": "119",
+                    "titles": "1",
+                    "matches_won": "11",
+                    "matches_lost": "7",
+                    "hard_won": "5",
+                    "hard_lost": "2",
+                    "clay_won": "6",
+                    "clay_lost": "3",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2006",
+                    "type": "doubles",
+                    "rank": "313",
+                    "titles": "0",
+                    "matches_won": "4",
+                    "matches_lost": "4",
+                    "hard_won": "3",
+                    "hard_lost": "3",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2005",
+                    "type": "doubles",
+                    "rank": "49",
+                    "titles": "1",
+                    "matches_won": "19",
+                    "matches_lost": "7",
+                    "hard_won": "9",
+                    "hard_lost": "3",
+                    "clay_won": "9",
+                    "clay_lost": "4",
+                    "grass_won": "1",
+                    "grass_lost": "0"
+                },
+                {
+                    "season": "2004",
+                    "type": "doubles",
+                    "rank": "46",
+                    "titles": "1",
+                    "matches_won": "19",
+                    "matches_lost": "11",
+                    "hard_won": "13",
+                    "hard_lost": "7",
+                    "clay_won": "4",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2003",
+                    "type": "doubles",
+                    "rank": "185",
+                    "titles": "1",
+                    "matches_won": "5",
+                    "matches_lost": "6",
+                    "hard_won": "0",
+                    "hard_lost": "3",
+                    "clay_won": "5",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2002",
+                    "type": "doubles",
+                    "rank": "942",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "",
+                    "type": "mixed_doubles",
+                    "rank": "",
+                    "titles": "",
+                    "matches_won": "",
+                    "matches_lost": "",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "0",
+                    "type": "mixed_doubles",
+                    "rank": "0",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "0",
+                    "hard_won": "0",
+                    "hard_lost": "0",
+                    "clay_won": "0",
+                    "clay_lost": "0",
+                    "grass_won": "0",
+                    "grass_lost": "0"
+                },
+                {
+                    "season": "2",
+                    "type": "mixed_doubles",
+                    "rank": "2",
+                    "titles": "2",
+                    "matches_won": "2",
+                    "matches_lost": "2",
+                    "hard_won": "2",
+                    "hard_lost": "2",
+                    "clay_won": "2",
+                    "clay_lost": "2",
+                    "grass_won": "2",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "2",
+                    "titles": "4",
+                    "matches_won": "39",
+                    "matches_lost": "8",
+                    "hard_won": "24",
+                    "hard_lost": "6",
+                    "clay_won": "10",
+                    "clay_lost": "2",
+                    "grass_won": "5",
+                    "grass_lost": "0"
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "6",
+                    "titles": "2",
+                    "matches_won": "24",
+                    "matches_lost": "5",
+                    "hard_won": "5",
+                    "hard_lost": "2",
+                    "clay_won": "19",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "2",
+                    "titles": "2",
+                    "matches_won": "27",
+                    "matches_lost": "7",
+                    "hard_won": "18",
+                    "hard_lost": "6",
+                    "clay_won": "9",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "singles",
+                    "rank": "1",
+                    "titles": "4",
+                    "matches_won": "58",
+                    "matches_lost": "7",
+                    "hard_won": "32",
+                    "hard_lost": "3",
+                    "clay_won": "21",
+                    "clay_lost": "3",
+                    "grass_won": "5",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2018",
+                    "type": "singles",
+                    "rank": "2",
+                    "titles": "5",
+                    "matches_won": "45",
+                    "matches_lost": "4",
+                    "hard_won": "14",
+                    "hard_lost": "2",
+                    "clay_won": "26",
+                    "clay_lost": "1",
+                    "grass_won": "5",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2017",
+                    "type": "singles",
+                    "rank": "1",
+                    "titles": "6",
+                    "matches_won": "68",
+                    "matches_lost": "12",
+                    "hard_won": "41",
+                    "hard_lost": "10",
+                    "clay_won": "24",
+                    "clay_lost": "1",
+                    "grass_won": "3",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2016",
+                    "type": "singles",
+                    "rank": "9",
+                    "titles": "2",
+                    "matches_won": "39",
+                    "matches_lost": "14",
+                    "hard_won": "18",
+                    "hard_lost": "10",
+                    "clay_won": "21",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2015",
+                    "type": "singles",
+                    "rank": "5",
+                    "titles": "3",
+                    "matches_won": "61",
+                    "matches_lost": "20",
+                    "hard_won": "30",
+                    "hard_lost": "12",
+                    "clay_won": "26",
+                    "clay_lost": "6",
+                    "grass_won": "5",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "2014",
+                    "type": "singles",
+                    "rank": "3",
+                    "titles": "4",
+                    "matches_won": "48",
+                    "matches_lost": "11",
+                    "hard_won": "20",
+                    "hard_lost": "6",
+                    "clay_won": "25",
+                    "clay_lost": "3",
+                    "grass_won": "3",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "2013",
+                    "type": "singles",
+                    "rank": "1",
+                    "titles": "10",
+                    "matches_won": "75",
+                    "matches_lost": "7",
+                    "hard_won": "36",
+                    "hard_lost": "4",
+                    "clay_won": "39",
+                    "clay_lost": "2",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2012",
+                    "type": "singles",
+                    "rank": "4",
+                    "titles": "4",
+                    "matches_won": "42",
+                    "matches_lost": "6",
+                    "hard_won": "17",
+                    "hard_lost": "3",
+                    "clay_won": "23",
+                    "clay_lost": "1",
+                    "grass_won": "2",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "2011",
+                    "type": "singles",
+                    "rank": "2",
+                    "titles": "3",
+                    "matches_won": "69",
+                    "matches_lost": "15",
+                    "hard_won": "33",
+                    "hard_lost": "11",
+                    "clay_won": "28",
+                    "clay_lost": "2",
+                    "grass_won": "8",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "2010",
+                    "type": "singles",
+                    "rank": "1",
+                    "titles": "7",
+                    "matches_won": "70",
+                    "matches_lost": "11",
+                    "hard_won": "39",
+                    "hard_lost": "10",
+                    "clay_won": "22",
+                    "clay_lost": "0",
+                    "grass_won": "9",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2009",
+                    "type": "singles",
+                    "rank": "2",
+                    "titles": "5",
+                    "matches_won": "68",
+                    "matches_lost": "15",
+                    "hard_won": "41",
+                    "hard_lost": "13",
+                    "clay_won": "27",
+                    "clay_lost": "2",
+                    "grass_won": "0",
+                    "grass_lost": "0"
+                },
+                {
+                    "season": "2008",
+                    "type": "singles",
+                    "rank": "1",
+                    "titles": "8",
+                    "matches_won": "82",
+                    "matches_lost": "11",
+                    "hard_won": "46",
+                    "hard_lost": "10",
+                    "clay_won": "24",
+                    "clay_lost": "1",
+                    "grass_won": "12",
+                    "grass_lost": "0"
+                },
+                {
+                    "season": "2007",
+                    "type": "singles",
+                    "rank": "2",
+                    "titles": "6",
+                    "matches_won": "71",
+                    "matches_lost": "15",
+                    "hard_won": "32",
+                    "hard_lost": "12",
+                    "clay_won": "31",
+                    "clay_lost": "1",
+                    "grass_won": "8",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "2006",
+                    "type": "singles",
+                    "rank": "2",
+                    "titles": "5",
+                    "matches_won": "57",
+                    "matches_lost": "12",
+                    "hard_won": "25",
+                    "hard_lost": "10",
+                    "clay_won": "24",
+                    "clay_lost": "0",
+                    "grass_won": "8",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "2005",
+                    "type": "singles",
+                    "rank": "2",
+                    "titles": "11",
+                    "matches_won": "77",
+                    "matches_lost": "10",
+                    "hard_won": "35",
+                    "hard_lost": "7",
+                    "clay_won": "41",
+                    "clay_lost": "1",
+                    "grass_won": "1",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "2004",
+                    "type": "singles",
+                    "rank": "51",
+                    "titles": "1",
+                    "matches_won": "30",
+                    "matches_lost": "17",
+                    "hard_won": "16",
+                    "hard_lost": "14",
+                    "clay_won": "14",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2003",
+                    "type": "singles",
+                    "rank": "49",
+                    "titles": "0",
+                    "matches_won": "14",
+                    "matches_lost": "11",
+                    "hard_won": "1",
+                    "hard_lost": "4",
+                    "clay_won": "11",
+                    "clay_lost": "6",
+                    "grass_won": "2",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2002",
+                    "type": "singles",
+                    "rank": "200",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "1",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "0",
+                    "hard_won": "0",
+                    "hard_lost": "0",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "mixed_doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "0",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2016",
+                    "type": "mixed_doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "0",
+                    "hard_won": "0",
+                    "hard_lost": "0",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "670",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "3",
+                    "hard_won": "1",
+                    "hard_lost": "3",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "276",
+                    "titles": "0",
+                    "matches_won": "7",
+                    "matches_lost": "4",
+                    "hard_won": "2",
+                    "hard_lost": "1",
+                    "clay_won": "5",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "Beijing",
+                    "season": "2016",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$4,164,780"
+                },
+                {
+                    "name": "Olympic Games",
+                    "season": "2016",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": ""
+                },
+                {
+                    "name": "Doha",
+                    "season": "2015",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$1,221,320"
+                },
+                {
+                    "name": "Indian Wells",
+                    "season": "2012",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$5,816,010"
+                },
+                {
+                    "name": "Doha",
+                    "season": "2011",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$1,110,250"
+                },
+                {
+                    "name": "Indian Wells",
+                    "season": "2010",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$4,702,285"
+                },
+                {
+                    "name": "Doha",
+                    "season": "2009",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$1,110,250"
+                },
+                {
+                    "name": "Monte Carlo",
+                    "season": "2008",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$2,328,000"
+                },
+                {
+                    "name": "Chennai",
+                    "season": "2007",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$400,000"
+                },
+                {
+                    "name": "Doha",
+                    "season": "2005",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$975,000"
+                },
+                {
+                    "name": "Chennai",
+                    "season": "2004",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$400,000"
+                },
+                {
+                    "name": "Umag",
+                    "season": "2003",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$356,000"
+                },
+                {
+                    "name": "Acapulco",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$1,678,065"
+                },
+                {
+                    "name": "Australian Open",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "A$28,621,000"
+                },
+                {
+                    "name": "Melbourne (Summer Set)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$500,000"
+                },
+                {
+                    "name": "Rome",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac2,082,960"
+                },
+                {
+                    "name": "Barcelona",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac1,565,480"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2020",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac18,209,040"
+                },
+                {
+                    "name": "Acapulco",
+                    "season": "2020",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$1,845,265"
+                },
+                {
+                    "name": "US Open",
+                    "season": "2019",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$42,860,000"
+                },
+                {
+                    "name": "Montreal",
+                    "season": "2019",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$5,701,945"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2019",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac17,504,000"
+                },
+                {
+                    "name": "Rome",
+                    "season": "2019",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac5,207,405"
+                },
+                {
+                    "name": "Toronto",
+                    "season": "2018",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$5,939,970"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2018",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac14,436,000"
+                },
+                {
+                    "name": "Rome",
+                    "season": "2018",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac4,872,105"
+                },
+                {
+                    "name": "Barcelona",
+                    "season": "2018",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac2,510,900"
+                },
+                {
+                    "name": "Monte Carlo",
+                    "season": "2018",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac4,872,105"
+                },
+                {
+                    "name": "Beijing",
+                    "season": "2017",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$3,028,080"
+                },
+                {
+                    "name": "US Open",
+                    "season": "2017",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$18,162,000"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2017",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac14,444,000"
+                },
+                {
+                    "name": "Madrid",
+                    "season": "2017",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac5,439,350"
+                },
+                {
+                    "name": "Barcelona",
+                    "season": "2017",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac2,324,905"
+                },
+                {
+                    "name": "Monte Carlo",
+                    "season": "2017",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac4,273,775"
+                },
+                {
+                    "name": "Barcelona",
+                    "season": "2016",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac2,428,355"
+                },
+                {
+                    "name": "Monte Carlo",
+                    "season": "2016",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac4,094,505"
+                },
+                {
+                    "name": "Hamburg",
+                    "season": "2015",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac1,407,960"
+                },
+                {
+                    "name": "Stuttgart",
+                    "season": "2015",
+                    "type": "singles",
+                    "surface": "grass",
+                    "prize": "\u20ac642,070"
+                },
+                {
+                    "name": "Buenos Aires",
+                    "season": "2015",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$573,750"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2014",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac9,217,280"
+                },
+                {
+                    "name": "Madrid",
+                    "season": "2014",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac4,625,835"
+                },
+                {
+                    "name": "Rio de Janeiro",
+                    "season": "2014",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$1,454,365"
+                },
+                {
+                    "name": "Doha",
+                    "season": "2014",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$1,195,500"
+                },
+                {
+                    "name": "US Open",
+                    "season": "2013",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$13,760,000"
+                },
+                {
+                    "name": "Cincinnati",
+                    "season": "2013",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$3,729,155"
+                },
+                {
+                    "name": "Montreal",
+                    "season": "2013",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$3,496,085"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2013",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac8,464,000"
+                },
+                {
+                    "name": "Rome",
+                    "season": "2013",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac3,204,745"
+                },
+                {
+                    "name": "Madrid",
+                    "season": "2013",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac4,303,867"
+                },
+                {
+                    "name": "Barcelona",
+                    "season": "2013",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac2,166,875"
+                },
+                {
+                    "name": "Indian Wells",
+                    "season": "2013",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$6,676,605"
+                },
+                {
+                    "name": "Acapulco",
+                    "season": "2013",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$1,353,550"
+                },
+                {
+                    "name": "Sao Paulo",
+                    "season": "2013",
+                    "type": "singles",
+                    "surface": "clay (indoor)",
+                    "prize": "$519,775"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2012",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac8,039,000"
+                },
+                {
+                    "name": "Rome",
+                    "season": "2012",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac2,950,475"
+                },
+                {
+                    "name": "Barcelona",
+                    "season": "2012",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac2,072,500"
+                },
+                {
+                    "name": "Monte Carlo",
+                    "season": "2012",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac2,744,225"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2011",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac7,884,000"
+                },
+                {
+                    "name": "Barcelona",
+                    "season": "2011",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac1,995,000"
+                },
+                {
+                    "name": "Monte Carlo",
+                    "season": "2011",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac2,543,750"
+                },
+                {
+                    "name": "Tokyo",
+                    "season": "2010",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$1,226,500"
+                },
+                {
+                    "name": "US Open",
+                    "season": "2010",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$10,508,000"
+                },
+                {
+                    "name": "Wimbledon",
+                    "season": "2010",
+                    "type": "singles",
+                    "surface": "grass",
+                    "prize": "\u00a313,725,000"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2010",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$6,947,000"
+                },
+                {
+                    "name": "Madrid",
+                    "season": "2010",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac3,700,000"
+                },
+                {
+                    "name": "Rome",
+                    "season": "2010",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac2,750,000"
+                },
+                {
+                    "name": "Monte Carlo",
+                    "season": "2010",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac2,750,000"
+                },
+                {
+                    "name": "Rome",
+                    "season": "2009",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac2,750,000"
+                },
+                {
+                    "name": "Barcelona",
+                    "season": "2009",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac1,995,000"
+                },
+                {
+                    "name": "Monte Carlo",
+                    "season": "2009",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac2,750,000"
+                },
+                {
+                    "name": "Indian Wells",
+                    "season": "2009",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$4,615,170"
+                },
+                {
+                    "name": "Australian Open",
+                    "season": "2009",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "A$10,712,240"
+                },
+                {
+                    "name": "Olympic Games",
+                    "season": "2008",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": ""
+                },
+                {
+                    "name": "Toronto",
+                    "season": "2008",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$2,450,000"
+                },
+                {
+                    "name": "Wimbledon",
+                    "season": "2008",
+                    "type": "singles",
+                    "surface": "grass",
+                    "prize": "$6,061,154"
+                },
+                {
+                    "name": "London",
+                    "season": "2008",
+                    "type": "singles",
+                    "surface": "grass",
+                    "prize": "$800,000"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2008",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$5,268,535"
+                },
+                {
+                    "name": "Hamburg",
+                    "season": "2008",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$3,500,000"
+                },
+                {
+                    "name": "Barcelona",
+                    "season": "2008",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$900,000"
+                },
+                {
+                    "name": "Monte Carlo",
+                    "season": "2008",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$2,200,000"
+                },
+                {
+                    "name": "Stuttgart",
+                    "season": "2007",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$475,000"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2007",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$5,268,535"
+                },
+                {
+                    "name": "Rome",
+                    "season": "2007",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$2,328,000"
+                },
+                {
+                    "name": "Barcelona",
+                    "season": "2007",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$900,000"
+                },
+                {
+                    "name": "Monte Carlo",
+                    "season": "2007",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$2,200,000"
+                },
+                {
+                    "name": "Indian Wells",
+                    "season": "2007",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$2,529,000"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2006",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$5,268,535"
+                },
+                {
+                    "name": "Rome",
+                    "season": "2006",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$2,328,000"
+                },
+                {
+                    "name": "Barcelona",
+                    "season": "2006",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$900,000"
+                },
+                {
+                    "name": "Monte Carlo",
+                    "season": "2006",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$2,200,000"
+                },
+                {
+                    "name": "Dubai",
+                    "season": "2006",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$975,000"
+                },
+                {
+                    "name": "Madrid",
+                    "season": "2005",
+                    "type": "singles",
+                    "surface": "hard (indoor)",
+                    "prize": "$2,328,000"
+                },
+                {
+                    "name": "Beijing",
+                    "season": "2005",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$500,000"
+                },
+                {
+                    "name": "Montreal",
+                    "season": "2005",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$2,200,000"
+                },
+                {
+                    "name": "Stuttgart",
+                    "season": "2005",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$475,000"
+                },
+                {
+                    "name": "Bastad",
+                    "season": "2005",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$356,000"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2005",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$5,268,535"
+                },
+                {
+                    "name": "Rome",
+                    "season": "2005",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$2,328,000"
+                },
+                {
+                    "name": "Barcelona",
+                    "season": "2005",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$900,000"
+                },
+                {
+                    "name": "Monte Carlo",
+                    "season": "2005",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$2,200,000"
+                },
+                {
+                    "name": "Acapulco",
+                    "season": "2005",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$665,000"
+                },
+                {
+                    "name": "Costa Do Sauipe",
+                    "season": "2005",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$355,000"
+                },
+                {
+                    "name": "Sopot",
+                    "season": "2004",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$356,000"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac18,209,040"
+                }
+            ]
+        }
+    ]
+}

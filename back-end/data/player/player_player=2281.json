@@ -1,0 +1,177 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 2281,
+            "player_name": "J. Riera",
+            "player_country": "Argentina",
+            "player_bday": "29.05.2002",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "410",
+                    "titles": "0",
+                    "matches_won": "20",
+                    "matches_lost": "21",
+                    "hard_won": "3",
+                    "hard_lost": "2",
+                    "clay_won": "15",
+                    "clay_lost": "18",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "1009",
+                    "titles": "0",
+                    "matches_won": "6",
+                    "matches_lost": "14",
+                    "hard_won": "3",
+                    "hard_lost": "5",
+                    "clay_won": "3",
+                    "clay_lost": "9",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "261",
+                    "titles": "1",
+                    "matches_won": "40",
+                    "matches_lost": "24",
+                    "hard_won": "4",
+                    "hard_lost": "3",
+                    "clay_won": "36",
+                    "clay_lost": "21",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "663",
+                    "titles": "2",
+                    "matches_won": "19",
+                    "matches_lost": "12",
+                    "hard_won": "7",
+                    "hard_lost": "6",
+                    "clay_won": "12",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "179",
+                    "titles": "3",
+                    "matches_won": "28",
+                    "matches_lost": "19",
+                    "hard_won": "5",
+                    "hard_lost": "1",
+                    "clay_won": "21",
+                    "clay_lost": "18",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "139",
+                    "titles": "2",
+                    "matches_won": "55",
+                    "matches_lost": "27",
+                    "hard_won": "4",
+                    "hard_lost": "4",
+                    "clay_won": "44",
+                    "clay_lost": "20",
+                    "grass_won": "1",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "93",
+                    "titles": "2",
+                    "matches_won": "30",
+                    "matches_lost": "11",
+                    "hard_won": "7",
+                    "hard_lost": "6",
+                    "clay_won": "18",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "215",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "5",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "1",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W25 Trieste (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W15 Antalya 30 (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Antalya 29 (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W25 Guayaquil 2 (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Guayaquil (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W75 Chiasso (ITF)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W100 Wiesbaden (ITF)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$100,000"
+                }
+            ]
+        }
+    ]
+}

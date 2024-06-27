@@ -1,0 +1,14 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 47,
+            "player_name": "I. Bekrar",
+            "player_country": "Algeria",
+            "player_bday": "01.01.1970",
+            "player_logo": null,
+            "stats": [],
+            "tournaments": []
+        }
+    ]
+}

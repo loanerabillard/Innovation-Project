@@ -1,0 +1,14 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 13,
+            "player_name": "N. Mercadier",
+            "player_country": null,
+            "player_bday": null,
+            "player_logo": null,
+            "stats": [],
+            "tournaments": []
+        }
+    ]
+}

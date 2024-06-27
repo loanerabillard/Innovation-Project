@@ -1,0 +1,14 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 190,
+            "player_name": "C. Ansari",
+            "player_country": null,
+            "player_bday": null,
+            "player_logo": null,
+            "stats": [],
+            "tournaments": []
+        }
+    ]
+}

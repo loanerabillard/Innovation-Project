@@ -1,0 +1,261 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 1083,
+            "player_name": "V. Kopriva",
+            "player_country": "Czech Republic",
+            "player_bday": "15.06.1997",
+            "player_logo": "https://api.api-tennis.com/logo-tennis/1083_v-kopriva.jpg",
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "285",
+                    "titles": "1",
+                    "matches_won": "11",
+                    "matches_lost": "12",
+                    "hard_won": "3",
+                    "hard_lost": "4",
+                    "clay_won": "8",
+                    "clay_lost": "8",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "298",
+                    "titles": "1",
+                    "matches_won": "9",
+                    "matches_lost": "14",
+                    "hard_won": "2",
+                    "hard_lost": "4",
+                    "clay_won": "7",
+                    "clay_lost": "10",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "372",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "5",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "3",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "doubles",
+                    "rank": "364",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "7",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "1",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2018",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "2",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "0",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2017",
+                    "type": "doubles",
+                    "rank": "485",
+                    "titles": "0",
+                    "matches_won": "2",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "2",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "140",
+                    "titles": "1",
+                    "matches_won": "39",
+                    "matches_lost": "28",
+                    "hard_won": "8",
+                    "hard_lost": "9",
+                    "clay_won": "30",
+                    "clay_lost": "17",
+                    "grass_won": "1",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "198",
+                    "titles": "0",
+                    "matches_won": "36",
+                    "matches_lost": "26",
+                    "hard_won": "4",
+                    "hard_lost": "5",
+                    "clay_won": "32",
+                    "clay_lost": "21",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "294",
+                    "titles": "0",
+                    "matches_won": "19",
+                    "matches_lost": "13",
+                    "hard_won": "6",
+                    "hard_lost": "4",
+                    "clay_won": "13",
+                    "clay_lost": "9",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "singles",
+                    "rank": "352",
+                    "titles": "0",
+                    "matches_won": "8",
+                    "matches_lost": "11",
+                    "hard_won": "0",
+                    "hard_lost": "2",
+                    "clay_won": "8",
+                    "clay_lost": "9",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2017",
+                    "type": "singles",
+                    "rank": "569",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "460",
+                    "titles": "0",
+                    "matches_won": "6",
+                    "matches_lost": "11",
+                    "hard_won": "0",
+                    "hard_lost": "2",
+                    "clay_won": "6",
+                    "clay_lost": "9",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "132",
+                    "titles": "2",
+                    "matches_won": "35",
+                    "matches_lost": "28",
+                    "hard_won": "1",
+                    "hard_lost": "5",
+                    "clay_won": "34",
+                    "clay_lost": "22",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "127",
+                    "titles": "0",
+                    "matches_won": "15",
+                    "matches_lost": "14",
+                    "hard_won": "10",
+                    "hard_lost": "8",
+                    "clay_won": "4",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "471",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "2",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "1",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "Braga (Challenger)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "\u20ac45,730"
+                },
+                {
+                    "name": "Milan (Challenger)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "\u20ac44,820"
+                },
+                {
+                    "name": "Verona (Challenger)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac118,000"
+                },
+                {
+                    "name": "Prostejov (Challenger)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac90,280"
+                },
+                {
+                    "name": "Tulln (Challenger)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac118,000"
+                }
+            ]
+        }
+    ]
+}

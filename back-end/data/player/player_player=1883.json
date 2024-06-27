@@ -1,0 +1,282 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 1883,
+            "player_name": "L. Tu",
+            "player_country": "Australia",
+            "player_bday": "27.05.1996",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "199",
+                    "titles": "2",
+                    "matches_won": "21",
+                    "matches_lost": "18",
+                    "hard_won": "14",
+                    "hard_lost": "13",
+                    "clay_won": "7",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "980",
+                    "titles": "2",
+                    "matches_won": "12",
+                    "matches_lost": "3",
+                    "hard_won": "12",
+                    "hard_lost": "3",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2012",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2011",
+                    "type": "doubles",
+                    "rank": "887",
+                    "titles": "0",
+                    "matches_won": "2",
+                    "matches_lost": "2",
+                    "hard_won": "2",
+                    "hard_lost": "2",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "210",
+                    "titles": "4",
+                    "matches_won": "48",
+                    "matches_lost": "25",
+                    "hard_won": "35",
+                    "hard_lost": "19",
+                    "clay_won": "13",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "521",
+                    "titles": "4",
+                    "matches_won": "29",
+                    "matches_lost": "7",
+                    "hard_won": "29",
+                    "hard_lost": "7",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2012",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2011",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "225",
+                    "titles": "1",
+                    "matches_won": "38",
+                    "matches_lost": "32",
+                    "hard_won": "32",
+                    "hard_lost": "25",
+                    "clay_won": "0",
+                    "clay_lost": "3",
+                    "grass_won": "6",
+                    "grass_lost": "4"
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "452",
+                    "titles": "0",
+                    "matches_won": "7",
+                    "matches_lost": "10",
+                    "hard_won": "7",
+                    "hard_lost": "9",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "205",
+                    "titles": "1",
+                    "matches_won": "16",
+                    "matches_lost": "12",
+                    "hard_won": "14",
+                    "hard_lost": "10",
+                    "clay_won": "1",
+                    "clay_lost": "1",
+                    "grass_won": "1",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "357",
+                    "titles": "0",
+                    "matches_won": "6",
+                    "matches_lost": "6",
+                    "hard_won": "6",
+                    "hard_lost": "6",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "M25 Canberra 3 (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "M25 Canberra 2 (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "M15 Monastir 35 (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "M15 Monastir 33 (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "M25 Monastir 5 (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "M25 Cairo 2 (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "M25 Bendigo (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "M25 Saint Dizier (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "hard (indoor)",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "M15 Monastir 36 (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "M15 Monastir 35 (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "M15 Monastir 32 (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "Seoul (Challenger)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$132,800"
+                },
+                {
+                    "name": "M15 Monastir 14 (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "M25 Traralgon 2 (ITF)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                }
+            ]
+        }
+    ]
+}

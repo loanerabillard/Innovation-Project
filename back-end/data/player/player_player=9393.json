@@ -1,0 +1,191 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 9393,
+            "player_name": "S. Bejlek",
+            "player_country": "Czech Republic",
+            "player_bday": "31.01.2006",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "876",
+                    "titles": "1",
+                    "matches_won": "7",
+                    "matches_lost": "2",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "7",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "837",
+                    "titles": "1",
+                    "matches_won": "7",
+                    "matches_lost": "3",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "6",
+                    "clay_lost": "2",
+                    "grass_won": "1",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "181",
+                    "titles": "3",
+                    "matches_won": "38",
+                    "matches_lost": "16",
+                    "hard_won": "9",
+                    "hard_lost": "6",
+                    "clay_won": "29",
+                    "clay_lost": "9",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "384",
+                    "titles": "1",
+                    "matches_won": "15",
+                    "matches_lost": "7",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "14",
+                    "clay_lost": "6",
+                    "grass_won": "1",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "762",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "3",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "3",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "129",
+                    "titles": "3",
+                    "matches_won": "41",
+                    "matches_lost": "18",
+                    "hard_won": "5",
+                    "hard_lost": "4",
+                    "clay_won": "36",
+                    "clay_lost": "13",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "136",
+                    "titles": "0",
+                    "matches_won": "11",
+                    "matches_lost": "5",
+                    "hard_won": "5",
+                    "hard_lost": "2",
+                    "clay_won": "6",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W25 Santa Margherita di Pula 4 (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W60 Olomouc (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "French Open",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": ""
+                },
+                {
+                    "name": "W15 Antalya 22 (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W60 Ceska Lipa (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W60 Olomouc (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W25 Parnu (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Santa Margherita di Pula 9 (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "Colina (Challenger)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$115,000"
+                }
+            ]
+        }
+    ]
+}

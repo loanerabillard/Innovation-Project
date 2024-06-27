@@ -1,0 +1,177 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 1759,
+            "player_name": "A. Fils",
+            "player_country": "France",
+            "player_bday": "12.06.2004",
+            "player_logo": "https://api.api-tennis.com/logo-tennis/1759_a-fils.jpg",
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "508",
+                    "titles": "0",
+                    "matches_won": "7",
+                    "matches_lost": "9",
+                    "hard_won": "2",
+                    "hard_lost": "4",
+                    "clay_won": "5",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "717",
+                    "titles": "3",
+                    "matches_won": "18",
+                    "matches_lost": "11",
+                    "hard_won": "4",
+                    "hard_lost": "6",
+                    "clay_won": "14",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "1",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "251",
+                    "titles": "0",
+                    "matches_won": "43",
+                    "matches_lost": "28",
+                    "hard_won": "20",
+                    "hard_lost": "13",
+                    "clay_won": "23",
+                    "clay_lost": "15",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "613",
+                    "titles": "0",
+                    "matches_won": "30",
+                    "matches_lost": "28",
+                    "hard_won": "4",
+                    "hard_lost": "9",
+                    "clay_won": "25",
+                    "clay_lost": "18",
+                    "grass_won": "1",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "2",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "2",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "36",
+                    "titles": "2",
+                    "matches_won": "43",
+                    "matches_lost": "24",
+                    "hard_won": "26",
+                    "hard_lost": "13",
+                    "clay_won": "13",
+                    "clay_lost": "8",
+                    "grass_won": "4",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "584",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "6",
+                    "hard_won": "0",
+                    "hard_lost": "4",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "1",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "38",
+                    "titles": "1",
+                    "matches_won": "17",
+                    "matches_lost": "14",
+                    "hard_won": "8",
+                    "hard_lost": "5",
+                    "clay_won": "9",
+                    "clay_lost": "9",
+                    "grass_won": "0",
+                    "grass_lost": "0"
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "576",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "0",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "Bordeaux (Challenger)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac205,000"
+                },
+                {
+                    "name": "Lyon",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "\u20ac562,815"
+                },
+                {
+                    "name": "Oeiras 2 (Challenger)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "hard (indoor)",
+                    "prize": "$73,000"
+                }
+            ]
+        }
+    ]
+}

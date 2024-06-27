@@ -1,0 +1,296 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 232,
+            "player_name": "J. Mikulskyte",
+            "player_country": "Lithuania",
+            "player_bday": "06.02.1996",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "162",
+                    "titles": "5",
+                    "matches_won": "36",
+                    "matches_lost": "22",
+                    "hard_won": "24",
+                    "hard_lost": "13",
+                    "clay_won": "12",
+                    "clay_lost": "7",
+                    "grass_won": "0",
+                    "grass_lost": "1"
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "257",
+                    "titles": "3",
+                    "matches_won": "35",
+                    "matches_lost": "23",
+                    "hard_won": "20",
+                    "hard_lost": "13",
+                    "clay_won": "15",
+                    "clay_lost": "10",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "436",
+                    "titles": "2",
+                    "matches_won": "16",
+                    "matches_lost": "9",
+                    "hard_won": "14",
+                    "hard_lost": "7",
+                    "clay_won": "2",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "274",
+                    "titles": "1",
+                    "matches_won": "31",
+                    "matches_lost": "30",
+                    "hard_won": "21",
+                    "hard_lost": "19",
+                    "clay_won": "7",
+                    "clay_lost": "8",
+                    "grass_won": "0",
+                    "grass_lost": "2"
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "346",
+                    "titles": "1",
+                    "matches_won": "38",
+                    "matches_lost": "24",
+                    "hard_won": "17",
+                    "hard_lost": "12",
+                    "clay_won": "18",
+                    "clay_lost": "12",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "624",
+                    "titles": "0",
+                    "matches_won": "12",
+                    "matches_lost": "10",
+                    "hard_won": "9",
+                    "hard_lost": "8",
+                    "clay_won": "3",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "singles",
+                    "rank": "647",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "1",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "188",
+                    "titles": "4",
+                    "matches_won": "44",
+                    "matches_lost": "28",
+                    "hard_won": "22",
+                    "hard_lost": "18",
+                    "clay_won": "21",
+                    "clay_lost": "8",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "246",
+                    "titles": "0",
+                    "matches_won": "49",
+                    "matches_lost": "36",
+                    "hard_won": "25",
+                    "hard_lost": "20",
+                    "clay_won": "22",
+                    "clay_lost": "13",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "171",
+                    "titles": "1",
+                    "matches_won": "23",
+                    "matches_lost": "10",
+                    "hard_won": "6",
+                    "hard_lost": "5",
+                    "clay_won": "14",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "220",
+                    "titles": "1",
+                    "matches_won": "14",
+                    "matches_lost": "15",
+                    "hard_won": "8",
+                    "hard_lost": "5",
+                    "clay_won": "3",
+                    "clay_lost": "8",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W25 Santa Margherita di Pula 3 (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W60 Croissy-Beaubourg (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W25 Sharm ElSheikh (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Parnu (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W15 Santa Margarita de Montbui (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W25 Platja D'Aro (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W15 Haabneeme (ITF)",
+                    "season": "2020",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Cancun (ITF)",
+                    "season": "2020",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W25 Manacor (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W15 Santa Margarita de Montbui (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W25 Corroios-Seixal (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Parnu (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Joue les Tours (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "hard (indoor)",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W40 Skopje (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$40,000"
+                },
+                {
+                    "name": "W25 Santa Margherita di Pula 8 (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W60 Vacaria (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "clay (indoor)",
+                    "prize": "$60,000"
+                },
+                {
+                    "name": "W35 Gurugram (ITF)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W75 Zephyrhills, FL (ITF)",
+                    "season": "2024",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$60,000"
+                }
+            ]
+        }
+    ]
+}

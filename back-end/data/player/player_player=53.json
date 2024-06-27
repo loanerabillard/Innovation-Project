@@ -1,0 +1,212 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 53,
+            "player_name": "L. Meyer Auf Der Heide",
+            "player_country": "Germany",
+            "player_bday": "31.01.2002",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "596",
+                    "titles": "1",
+                    "matches_won": "10",
+                    "matches_lost": "9",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "10",
+                    "clay_lost": "8",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "682",
+                    "titles": "1",
+                    "matches_won": "16",
+                    "matches_lost": "6",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "16",
+                    "clay_lost": "6",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "1263",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "0",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "1",
+                    "clay_lost": "0",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "384",
+                    "titles": "2",
+                    "matches_won": "33",
+                    "matches_lost": "21",
+                    "hard_won": "3",
+                    "hard_lost": "2",
+                    "clay_won": "30",
+                    "clay_lost": "19",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "661",
+                    "titles": "1",
+                    "matches_won": "20",
+                    "matches_lost": "9",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "20",
+                    "clay_lost": "9",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "2",
+                    "matches_lost": "1",
+                    "hard_won": "",
+                    "hard_lost": "",
+                    "clay_won": "2",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "302",
+                    "titles": "2",
+                    "matches_won": "26",
+                    "matches_lost": "17",
+                    "hard_won": "2",
+                    "hard_lost": "2",
+                    "clay_won": "24",
+                    "clay_lost": "15",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "706",
+                    "titles": "0",
+                    "matches_won": "9",
+                    "matches_lost": "22",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "9",
+                    "clay_lost": "21",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "330",
+                    "titles": "0",
+                    "matches_won": "4",
+                    "matches_lost": "4",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "4",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "745",
+                    "titles": "1",
+                    "matches_won": "10",
+                    "matches_lost": "7",
+                    "hard_won": "2",
+                    "hard_lost": "2",
+                    "clay_won": "8",
+                    "clay_lost": "5",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W15 Oran (ITF)",
+                    "season": "2022",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Piracicaba (ITF)",
+                    "season": "2021",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Buenos Aires (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Mar del Plata (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Melilla (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W25 Alaminos-Larnaca (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W25 Parnu (ITF)",
+                    "season": "2023",
+                    "type": "doubles",
+                    "surface": "clay",
+                    "prize": "$25,000"
+                },
+                {
+                    "name": "W15 Kursumlijska Banja (ITF)",
+                    "season": "2024",
+                    "type": "singles",
+                    "surface": "clay",
+                    "prize": "$15,000"
+                }
+            ]
+        }
+    ]
+}

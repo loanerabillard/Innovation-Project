@@ -1,0 +1,170 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 22722,
+            "player_name": "Z. Li",
+            "player_country": "China",
+            "player_bday": "01.01.1970",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2023",
+                    "type": "doubles",
+                    "rank": "718",
+                    "titles": "0",
+                    "matches_won": "7",
+                    "matches_lost": "5",
+                    "hard_won": "5",
+                    "hard_lost": "5",
+                    "clay_won": "2",
+                    "clay_lost": "0",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "doubles",
+                    "rank": "880",
+                    "titles": "1",
+                    "matches_won": "11",
+                    "matches_lost": "7",
+                    "hard_won": "11",
+                    "hard_lost": "7",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "2",
+                    "hard_won": "2",
+                    "hard_lost": "1",
+                    "clay_won": "1",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2023",
+                    "type": "singles",
+                    "rank": "387",
+                    "titles": "1",
+                    "matches_won": "26",
+                    "matches_lost": "23",
+                    "hard_won": "19",
+                    "hard_lost": "19",
+                    "clay_won": "7",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "568",
+                    "titles": "2",
+                    "matches_won": "34",
+                    "matches_lost": "15",
+                    "hard_won": "34",
+                    "hard_lost": "15",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "819",
+                    "titles": "1",
+                    "matches_won": "18",
+                    "matches_lost": "6",
+                    "hard_won": "15",
+                    "hard_lost": "5",
+                    "clay_won": "3",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "1",
+                    "hard_won": "1",
+                    "hard_lost": "1",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "singles",
+                    "rank": "358",
+                    "titles": "0",
+                    "matches_won": "9",
+                    "matches_lost": "5",
+                    "hard_won": "5",
+                    "hard_lost": "4",
+                    "clay_won": "4",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2024",
+                    "type": "doubles",
+                    "rank": "652",
+                    "titles": "0",
+                    "matches_won": "2",
+                    "matches_lost": "2",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "2",
+                    "clay_lost": "1",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": [
+                {
+                    "name": "W15 Sharm ElSheikh 16 (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Monastir 27 (ITF)",
+                    "season": "2022",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W15 Sharm El Sheikh 15 (ITF)",
+                    "season": "2021",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$15,000"
+                },
+                {
+                    "name": "W25 Naiman (ITF)",
+                    "season": "2023",
+                    "type": "singles",
+                    "surface": "hard",
+                    "prize": "$25,000"
+                }
+            ]
+        }
+    ]
+}

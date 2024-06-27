@@ -1,0 +1,113 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "player_key": 153,
+            "player_name": "C. M. Gutierrez",
+            "player_country": "Spain",
+            "player_bday": "15.09.1997",
+            "player_logo": null,
+            "stats": [
+                {
+                    "season": "2021",
+                    "type": "doubles",
+                    "rank": "645",
+                    "titles": "0",
+                    "matches_won": "5",
+                    "matches_lost": "7",
+                    "hard_won": "2",
+                    "hard_lost": "4",
+                    "clay_won": "3",
+                    "clay_lost": "3",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "doubles",
+                    "rank": "788",
+                    "titles": "0",
+                    "matches_won": "9",
+                    "matches_lost": "9",
+                    "hard_won": "5",
+                    "hard_lost": "5",
+                    "clay_won": "4",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2022",
+                    "type": "singles",
+                    "rank": "404",
+                    "titles": "0",
+                    "matches_won": "3",
+                    "matches_lost": "7",
+                    "hard_won": "3",
+                    "hard_lost": "5",
+                    "clay_won": "0",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2021",
+                    "type": "singles",
+                    "rank": "315",
+                    "titles": "1",
+                    "matches_won": "25",
+                    "matches_lost": "22",
+                    "hard_won": "14",
+                    "hard_lost": "14",
+                    "clay_won": "11",
+                    "clay_lost": "8",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2020",
+                    "type": "singles",
+                    "rank": "534",
+                    "titles": "0",
+                    "matches_won": "9",
+                    "matches_lost": "11",
+                    "hard_won": "1",
+                    "hard_lost": "7",
+                    "clay_won": "8",
+                    "clay_lost": "4",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2019",
+                    "type": "singles",
+                    "rank": "565",
+                    "titles": "0",
+                    "matches_won": "1",
+                    "matches_lost": "2",
+                    "hard_won": "1",
+                    "hard_lost": "2",
+                    "clay_won": "",
+                    "clay_lost": "",
+                    "grass_won": "",
+                    "grass_lost": ""
+                },
+                {
+                    "season": "2013",
+                    "type": "singles",
+                    "rank": "",
+                    "titles": "0",
+                    "matches_won": "0",
+                    "matches_lost": "3",
+                    "hard_won": "0",
+                    "hard_lost": "1",
+                    "clay_won": "0",
+                    "clay_lost": "2",
+                    "grass_won": "",
+                    "grass_lost": ""
+                }
+            ],
+            "tournaments": []
+        }
+    ]
+}
