@@ -10,6 +10,8 @@ import Package from './views/package.vue'
 import historic from './views/historic.vue'
 import './style.css'
 
+import ChoosePackage from './views/ChoosePackage.vue'
+
 Vue.use(Router)
 Vue.use(Meta)
 
@@ -25,6 +27,11 @@ export default new Router({
       name: 'Home',
       path: '/',
       component: Home,
+    },
+    {
+      name: 'Choose-Package',
+      path: '/choose-package',
+      component: ChoosePackage,
     },
     {
       name: 'sports-betting',

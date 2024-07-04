@@ -98,7 +98,7 @@
         <div class="home-features1">
           <div class="home-container02">
             <span class="overline"></span>
-            <h2 class="home-features-heading heading2">Quelques chiffres</h2>
+            <h2 class="home-features-heading heading2">PARI FREE is an investment platform that diversifies users' money across various different and carefully chosen bets to provide stable and secure income.</h2>
             <span class="home-features-sub-heading bodyLarge">
               <span>
                 <span></span>
@@ -108,10 +108,6 @@
           </div>
           <div class="home-container03">
             <div class="feature-card">
-              <h2>+50 Bookmakers</h2>
-              <p>A large list of bookmakers to ensure a better choice of odds</p>
-            </div>
-            <div class="feature-card">
               <h2>Specialized Algorithm in Tennis</h2>
               <p>Making the results more accurate is most important to us</p>
             </div>
@@ -120,8 +116,14 @@
               <p>Enjoy peace of mind with secure payment options for deposits and withdrawals</p>
             </div>
             <div class="feature-card">
-              <h2>Mobile Compatibility</h2>
-              <p>Bet on the go with our mobile-friendly platform</p>
+              <h2>+50 Bookmakers</h2>
+              <p>A large list of bookmakers to ensure a better choice of odds</p>
+            </div>
+          
+            
+            <div class="feature-card">
+              <h2>+200 matchs per week</h2>
+              <p>We select the most advantageous odds from 200 matches to maximize our users' profits.</p>
             </div>
           </div>
         </div>
@@ -134,7 +136,7 @@
             <span></span>
             <br />
           </span>
-          <h2 class="heading2">150% AVERAGE GAINS BY USERS</h2>
+          <h2 class="heading2">+20% AVERAGE GAINS BY USERS in 2023</h2>
           <span class="home-pricing-sub-heading bodyLarge">
             <span></span>
           </span>
@@ -144,11 +146,11 @@
     <div class="home-banner">
       <div class="bannerContainer home-banner1">
         <h1 class="home-banner-heading heading2">Experience the thrill of sports betting with us</h1>
-        <span class="home-banner-sub-heading bodySmall">
+        <span class="home-banner-sub-heading">
           <span>
             <span>
               <span>
-                At PARI FREE, we offer a wide range of sports events to bet on,
+                At  <b>PARI FREE</b>, we offer a wide range of sports events to bet on,
                 competitive odds, and a seamless betting experience. Whether
                 you&apos;re a seasoned bettor or new to the game, we have
                 something for everyone. Join us today and elevate your sports
@@ -162,7 +164,7 @@
             <span></span>
           </span>
         </span>
-        <button class="buttonFilled">Explore More</button>
+        <button class="buttonFilled" @click="goToSportingBet">Explore More</button>
       </div>
     </div>
     <div class="home-faq">
@@ -181,25 +183,25 @@
           </div>
           <div class="home-container30">
             <app-question1
-              answer="To place a bet, simply log in to your account, choose the sport and event you want to bet on, select your bet type and amount, and confirm your bet."
+              answer="To place a bet, simply log in to your account, choose the package you want to invest on, select the amount and confirm your investment."
               question="How do I place a bet on the website?"
+            ></app-question1>
+            <app-question1
+              answer="You can find the result and recuperate your gains on MyAccount Page"
+              question="How do I see the result of the package I choosed and to recuperate my gains?"
             ></app-question1>
             <app-question1
               answer="Yes, we take the security and privacy of our users very seriously. Our website uses encryption technology to ensure that all transactions are secure."
               question="Is it safe to bet on this website?"
             ></app-question1>
             <app-question1
-              answer="Yes, we offer live betting options for a variety of sports events. You can place bets in real-time as the game progresses."
-              question="Can I bet on live games?"
-            ></app-question1>
-            <app-question1
               answer="You can deposit funds into your account using various payment methods such as credit/debit cards, e-wallets, bank transfers, and more. Simply go to the deposit section in your account and follow the instructions."
               question="How can I deposit funds into my account?"
             ></app-question1>
-            <app-question1
+            <!-- <app-question1
               answer="If you encounter any issues with your bet or have any questions, you can contact our customer support team for assistance. They are available 24/7 to help you resolve any problems."
               question="What should I do if I encounter a problem with my bet?"
-            ></app-question1>
+            ></app-question1> -->
           </div>
         </div>
       </div>
@@ -260,13 +262,16 @@ export default {
   },
   methods: {
     goToSportingBet() {
-      this.$router.push({ name: "sports-betting" });
+      this.$router.push({ name: "Choose-Package" });
     }
   },
   metaInfo: {
     title: "PARI FREE"
   }
 };
+
+
+
 </script>
 
 <style scoped>
@@ -511,6 +516,8 @@ export default {
   display: grid;
   grid-gap: var(--dl-space-space-oneandhalfunits);
   grid-template-columns: 1fr 1fr;
+  flex-wrap: wrap; /* Allow items to wrap to the next line if necessary */
+  gap: var(--dl-space-space-oneandhalfunits);
 }
 
 .home-pricing {

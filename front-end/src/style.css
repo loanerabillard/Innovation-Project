@@ -62,6 +62,7 @@
   padding-right: var(--dl-space-space-oneandhalfunits);
   padding-bottom: var(--dl-space-space-halfunit);
   background-color: var(--dl-color-custom-primary1);
+  font-size: 29px;
 }
 .buttonFilled:hover {
   background-color: var(--dl-color-custom-primary2);
@@ -92,15 +93,15 @@
   padding-bottom: var(--dl-space-space-halfunit);
 }
 .buttonFlat {
-  /* color: var(--dl-color-custom-neutral-dark); */
-  color: black;
-  background-color: white;
+  
   font-family: Lato;
   font-weight: bold;
   padding-top: var(--dl-space-space-halfunit);
   padding-left: var(--dl-space-space-oneandhalfunits);
   padding-right: var(--dl-space-space-oneandhalfunits);
   padding-bottom: var(--dl-space-space-halfunit);
+  color: white;
+  font-size: 29px;
 }
 .featuresContainer {
   flex: 0 0 auto;
@@ -123,15 +124,30 @@
   background-color: rgba(255, 255, 255, 0.05);
 }
 
+.home-banner-sub-heading {
+  max-width: var(--dl-size-size-maxwidth);
+  margin-top: var(--dl-space-space-twounits);
+  text-align: center;
+  margin-bottom: var(--dl-space-space-twounits);
+  font-size: 20px; /* Augmenter la taille du texte */
+} 
+
+.home-banner-sub-heading b {
+  font-weight: bold; /* Mettre PARI FREE en gras */
+}
+
+
 .home-container03{
   position: relative;
   background: #D3D3D3;
+
   padding: var(--dl-space-space-threeunits);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-
+  margin-right:auto;
+  padding-right: 2px;
 }
 
 .feature-card {
@@ -144,11 +160,14 @@
   background: #42414131; /* Fond gris clair */
   border-radius: 8px;
   width: 80%; /* Ajustez la largeur des cartes selon vos besoins */
+  padding-right: var(--dl-space-space-oneunit);
+  margin-right: 30;
+  padding: 20px;
 }
 
 .feature-card h2,
 .feature-card p {
-  margin: 0;
+  margin-right: auto;
 }
 
 .feature-card h2 {
@@ -242,10 +261,9 @@
   background-image: url(/AdobeStock_41947768.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-size: center;
   color: #FFFFFF;
 }
-
 .pricingContainer {
   gap: var(--dl-space-space-twounits);
   width: 100%;
@@ -261,9 +279,9 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
-  color: #FFFFFF;
+  color :#FFFFFF
+  
 }
-
 .bannerContainer {
   width: 100%;
   display: flex;
@@ -622,10 +640,12 @@
   line-height: 150%;
 }
 .heading2 {
-  font-size: 35px;
+  font-size: 28px;
   font-family: Raleway;
   font-weight: 600;
   line-height: 150%;
+  text-align: center;
+  
 }
 .heading3 {
   font-size: 20px;

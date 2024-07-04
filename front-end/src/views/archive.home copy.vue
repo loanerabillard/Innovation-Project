@@ -1,6 +1,6 @@
 <template>
   <div class="home-container">
-    <!-- <div class="home-header">
+    <div class="home-header">
       <header data-thq="thq-navbar" class="navbarContainer home-navbar-interactive">
         <span class="logo">BETSPORT</span>
         <div data-thq="thq-navbar-nav" class="home-desktop-menu">
@@ -35,17 +35,6 @@
                 </svg>
               </div>
             </div>
-            <nav class="home-links1">
-              <span class="home-nav121 bodySmall">Home</span>
-              <span class="home-nav221 bodySmall">Sports Betting</span>
-              <span class="home-nav321 bodySmall">Live Betting</span>
-              <span class="home-nav421 bodySmall">Promotions</span>
-              <span class="home-nav521 bodySmall">Support</span>
-            </nav>
-            <div class="home-buttons1">
-              <button class="buttonFlat">Login</button>
-              <button class="buttonFilled">Register</button>
-            </div>
           </div>
           <div>
             <svg viewBox="0 0 950.8571428571428 1024" class="home-icon04 socialIcons">
@@ -64,31 +53,36 @@
           </div>
         </div>
       </header>
-
-    </div>-->
-    <Header></Header>
-
+    </div>
     <div class="home-hero">
       <div class="heroContainer home-hero1">
         <div class="home-container01">
-          <h1
-            class="home-hero-heading heading1"
-          >The first investment platform dedicated to sports bettors</h1>
+          <h1 class="home-hero-heading heading1">Welcome to PARI FREE</h1>
           <span class="home-hero-sub-heading bodyLarge">
             <span>
               <span>
                 <span>Your ultimate destination for sports betting</span>
+                <span><span v-html="raw7z8y"></span></span>
               </span>
-              <span></span>
+              <span>
+                <span><span v-html="rawptys"></span></span>
+                <span><span v-html="rawvlly"></span></span>
+              </span>
             </span>
             <span>
-              <span></span>
-              <span></span>
+              <span>
+                <span><span v-html="raw02vm"></span></span>
+                <span><span v-html="raw588u"></span></span>
+              </span>
+              <span>
+                <span><span v-html="raw3rgq"></span></span>
+                <span><span v-html="rawkqah"></span></span>
+              </span>
             </span>
           </span>
           <div class="home-btn-group">
-            <button class="buttonFilled" @click="goToSportingBet">Invest Now !</button>
-            <button class="buttonFlat">Learn More →</button>
+            <button class="buttonFilled">Join Now</button>
+            <button class="buttonFlat">Learn More →</button>
           </div>
         </div>
       </div>
@@ -97,32 +91,44 @@
       <div class="featuresContainer">
         <div class="home-features1">
           <div class="home-container02">
-            <span class="overline"></span>
-            <h2 class="home-features-heading heading2">Quelques chiffres</h2>
+            <span class="overline">
+              <span>features</span>
+              <br />
+            </span>
+            <h2 class="home-features-heading heading2">Exciting Features</h2>
             <span class="home-features-sub-heading bodyLarge">
               <span>
-                <span></span>
-                <span></span>
+                <span>
+                  <span>
+                    Discover what sets our sports betting platform apart
+                  </span>
+                  <span><span v-html="raw3ha7"></span></span>
+                </span>
+                <span>
+                  <span><span v-html="raw2q9f"></span></span>
+                  <span><span v-html="rawebut"></span></span>
+                </span>
+              </span>
+              <span>
+                <span>
+                  <span><span v-html="rawqgaz"></span></span>
+                  <span><span v-html="rawhp7q"></span></span>
+                </span>
+                <span>
+                  <span><span v-html="rawb9nq"></span></span>
+                  <span><span v-html="raw7wep"></span></span>
+                </span>
               </span>
             </span>
           </div>
           <div class="home-container03">
-            <div class="feature-card">
-              <h2>+50 Bookmakers</h2>
-              <p>A large list of bookmakers to ensure a better choice of odds</p>
-            </div>
-            <div class="feature-card">
-              <h2>Specialized Algorithm in Tennis</h2>
-              <p>Making the results more accurate is most important to us</p>
-            </div>
-            <div class="feature-card">
-              <h2>Secure Transactions</h2>
-              <p>Enjoy peace of mind with secure payment options for deposits and withdrawals</p>
-            </div>
-            <div class="feature-card">
-              <h2>Mobile Compatibility</h2>
-              <p>Bet on the go with our mobile-friendly platform</p>
-            </div>
+            <feature-card heading="Live Betting" subHeading="Place bets on ongoing matches in real-time"></feature-card>
+            <feature-card heading="Multiple Sports"
+              subHeading="Bet on a wide range of sports including football, basketball, tennis, and more"></feature-card>
+            <feature-card heading="Secure Transactions"
+              subHeading="Enjoy peace of mind with secure payment options for deposits and withdrawals"></feature-card>
+            <feature-card heading="Mobile Compatibility"
+              subHeading="Bet on the go with our mobile-friendly platform"></feature-card>
           </div>
         </div>
       </div>
@@ -131,19 +137,145 @@
       <div class="pricingContainer">
         <div class="home-container04">
           <span class="overline">
-            <span></span>
+            <span>Pricing</span>
             <br />
           </span>
-          <h2 class="heading2">150% AVERAGE GAINS BY USERS</h2>
+          <h2 class="heading2">Choose Your Plan</h2>
           <span class="home-pricing-sub-heading bodyLarge">
-            <span></span>
+            <span>
+              <span>Select the plan that best suits your betting needs</span>
+            </span>
           </span>
+        </div>
+        <div class="home-container05">
+          <div class="freePricingCard home-pricing-card">
+            <div class="home-container06">
+              <span class="home-text36 heading3">Free</span>
+              <span class="bodySmall">
+                Get started with our Free plan and enjoy basic features
+              </span>
+            </div>
+            <div class="home-container07">
+              <span class="home-text37">
+                <span>$</span>
+                <span></span>
+              </span>
+              <span class="home-free-plan-price">0</span>
+            </div>
+            <div class="home-container08">
+              <div class="home-container09">
+                <span class="home-text40">✔</span>
+                <span class="bodySmall">Access to basic betting options</span>
+              </div>
+              <div class="home-container10">
+                <span class="home-text41">✔</span>
+                <span class="bodySmall">Limited customer support</span>
+              </div>
+              <div class="home-container11">
+                <span class="home-text42">✔</span>
+                <span class="bodySmall">Ads included</span>
+              </div>
+              <div class="home-container12">
+                <span class="home-text43">✔</span>
+                <span class="bodySmall">Limited access to live streaming</span>
+              </div>
+            </div>
+            <button class="home-button buttonOutline">Continue with Free</button>
+          </div>
+          <div class="basicPricingCard home-pricing-card1">
+            <div class="home-container13">
+              <span class="home-text44 heading3">BASIC</span>
+              <span class="bodySmall">
+                Upgrade to our Basic plan for more features and better support
+              </span>
+            </div>
+            <div class="home-container14">
+              <span class="home-text45">
+                <span>$</span>
+                <span></span>
+              </span>
+              <span class="home-basic-plan-pricing">20</span>
+              <span class="home-text48">/ month</span>
+            </div>
+            <div class="home-container15">
+              <div class="home-container16">
+                <span class="home-text49">✔</span>
+                <span class="bodySmall">All features of FREE plan</span>
+              </div>
+              <div class="home-container17">
+                <span class="home-text51">✔</span>
+                <span class="bodySmall">Access to advanced betting options</span>
+              </div>
+              <div class="home-container18">
+                <span class="home-text52">✔</span>
+                <span class="bodySmall">Priority customer support</span>
+              </div>
+              <div class="home-container19">
+                <span class="home-text53">✔</span>
+                <span class="bodySmall">Ad-free experience</span>
+              </div>
+              <div class="home-container20">
+                <span class="home-text54">✔</span>
+                <span class="bodySmall">Access to live streaming</span>
+              </div>
+            </div>
+            <button class="home-button1 buttonFilledSecondary">
+              Try the Basic plan
+            </button>
+          </div>
+          <div class="proPricingCard home-pricing-card2">
+            <div class="home-container21">
+              <span class="home-text55 heading3">
+                <span>PRO</span>
+                <br />
+              </span>
+              <span class="bodySmall">
+                Go Pro and unlock all premium features for the ultimate betting
+                experience
+              </span>
+            </div>
+            <div class="home-container22">
+              <span class="home-text58">
+                <span>$</span>
+                <span></span>
+              </span>
+              <span class="home-pro-plan-pricing">50</span>
+              <span class="home-text61">/ month</span>
+            </div>
+            <div class="home-container23">
+              <div class="home-container24">
+                <span class="home-text62">✔</span>
+                <span class="bodySmall"> All features of BASIC plan</span>
+              </div>
+              <div class="home-container25">
+                <span class="home-text64">✔</span>
+                <span class="bodySmall">Access to exclusive betting options</span>
+              </div>
+              <div class="home-container26">
+                <span class="home-text65">✔</span>
+                <span class="bodySmall">24/7 VIP customer support</span>
+              </div>
+              <div class="home-container27">
+                <span class="home-text66">✔</span>
+                <span class="bodySmall">Ad-free experience</span>
+              </div>
+              <div class="home-container28">
+                <span class="home-text67">✔</span>
+                <span class="bodySmall">Unlimited access to live streaming</span>
+              </div>
+            </div>
+            <button class="home-button2 buttonFilledSecondary">
+              Try the PRO plan
+            </button>
+          </div>
         </div>
       </div>
     </div>
     <div class="home-banner">
       <div class="bannerContainer home-banner1">
-        <h1 class="home-banner-heading heading2">Experience the thrill of sports betting with us</h1>
+        <h1 class="home-banner-heading heading2">
+          Experience the thrill of sports betting with us
+        </h1>
         <span class="home-banner-sub-heading bodySmall">
           <span>
             <span>
@@ -154,12 +286,22 @@
                 something for everyone. Join us today and elevate your sports
                 betting experience.
               </span>
+              <span><span v-html="raw8fd9"></span></span>
             </span>
-            <span></span>
+            <span>
+              <span><span v-html="raw80pr"></span></span>
+              <span><span v-html="rawgx2m"></span></span>
+            </span>
           </span>
           <span>
-            <span></span>
-            <span></span>
+            <span>
+              <span><span v-html="rawawkf"></span></span>
+              <span><span v-html="raw3yyv"></span></span>
+            </span>
+            <span>
+              <span><span v-html="rawo5ff"></span></span>
+              <span><span v-html="rawgbdm"></span></span>
+            </span>
           </span>
         </span>
         <button class="buttonFilled">Explore More</button>
@@ -182,30 +324,24 @@
           <div class="home-container30">
             <app-question1
               answer="To place a bet, simply log in to your account, choose the sport and event you want to bet on, select your bet type and amount, and confirm your bet."
-              question="How do I place a bet on the website?"
-            ></app-question1>
+              question="How do I place a bet on the website?"></app-question1>
             <app-question1
               answer="Yes, we take the security and privacy of our users very seriously. Our website uses encryption technology to ensure that all transactions are secure."
-              question="Is it safe to bet on this website?"
-            ></app-question1>
+              question="Is it safe to bet on this website?"></app-question1>
             <app-question1
               answer="Yes, we offer live betting options for a variety of sports events. You can place bets in real-time as the game progresses."
-              question="Can I bet on live games?"
-            ></app-question1>
+              question="Can I bet on live games?"></app-question1>
             <app-question1
               answer="You can deposit funds into your account using various payment methods such as credit/debit cards, e-wallets, bank transfers, and more. Simply go to the deposit section in your account and follow the instructions."
-              question="How can I deposit funds into my account?"
-            ></app-question1>
+              question="How can I deposit funds into my account?"></app-question1>
             <app-question1
               answer="If you encounter any issues with your bet or have any questions, you can contact our customer support team for assistance. They are available 24/7 to help you resolve any problems."
-              question="What should I do if I encounter a problem with my bet?"
-            ></app-question1>
+              question="What should I do if I encounter a problem with my bet?"></app-question1>
           </div>
         </div>
       </div>
     </div>
-    <Footer></Footer>
-    <!-- <div class="home-footer">
+    <div class="home-footer">
       <footer class="footerContainer home-footer1">
         <div class="home-container31">
           <span class="logo">BETSPORT</span>
@@ -240,33 +376,48 @@
         </div>
       </footer>
     </div>
-    -->
   </div>
 </template>
 
 <script>
-import FeatureCard from "../components/feature-card";
-import AppQuestion1 from "../components/question1";
-import Header from "../components/Header.vue";
-import Footer from "../components/Footer.vue";
+import FeatureCard from '../components/feature-card'
+import AppQuestion1 from '../components/question1'
 
 export default {
-  name: "Home",
+  name: 'Home',
   components: {
     FeatureCard,
     AppQuestion1,
-    Header,
-    Footer
   },
-  methods: {
-    goToSportingBet() {
-      this.$router.push({ name: "sports-betting" });
+  data() {
+    return {
+      raw7z8y: ' ',
+      rawptys: ' ',
+      rawvlly: ' ',
+      raw02vm: ' ',
+      raw588u: ' ',
+      raw3rgq: ' ',
+      rawkqah: ' ',
+      raw3ha7: ' ',
+      raw2q9f: ' ',
+      rawebut: ' ',
+      rawqgaz: ' ',
+      rawhp7q: ' ',
+      rawb9nq: ' ',
+      raw7wep: ' ',
+      raw8fd9: ' ',
+      raw80pr: ' ',
+      rawgx2m: ' ',
+      rawawkf: ' ',
+      raw3yyv: ' ',
+      rawo5ff: ' ',
+      rawgbdm: ' ',
     }
   },
   metaInfo: {
-    title: "PARI FREE"
-  }
-};
+    title: 'Spotless Hungry Crocodile',
+  },
+}
 </script>
 
 <style scoped>
@@ -1022,7 +1173,7 @@ export default {
   height: 24px;
 }
 
-@media (max-width: 991px) {
+@media(max-width: 991px) {
   .home-hero1 {
     flex-direction: column;
   }
@@ -1088,7 +1239,7 @@ export default {
   }
 }
 
-@media (max-width: 767px) {
+@media(max-width: 767px) {
   .home-navbar-interactive {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
@@ -1228,7 +1379,7 @@ export default {
   }
 }
 
-@media (max-width: 479px) {
+@media(max-width: 479px) {
   .home-navbar-interactive {
     padding: var(--dl-space-space-unit);
   }

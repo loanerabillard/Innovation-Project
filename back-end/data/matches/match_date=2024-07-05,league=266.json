@@ -1,0 +1,293 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "event_key": 11962674,
+            "event_date": "2024-07-05",
+            "event_time": "12:00",
+            "event_first_player": "L. Sun",
+            "first_player_key": 1815,
+            "event_second_player": "L. Zhu",
+            "second_player_key": 451,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Wimbledon",
+            "tournament_key": 1379,
+            "tournament_round": "WTA Wimbledon - 1/16-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1815_l-sun.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/451_l-zhu.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11962675,
+            "event_date": "2024-07-05",
+            "event_time": "12:00",
+            "event_first_player": "D. Yastremska",
+            "first_player_key": 2813,
+            "event_second_player": "D. Vekic",
+            "second_player_key": 455,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Wimbledon",
+            "tournament_key": 1379,
+            "tournament_round": "WTA Wimbledon - 1/16-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2813_d-yastremska.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/455_d-vekic.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11962475,
+            "event_date": "2024-07-05",
+            "event_time": "12:00",
+            "event_first_player": "S. Kartal",
+            "first_player_key": 1961,
+            "event_second_player": "C. Gauff",
+            "second_player_key": 2176,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Wimbledon",
+            "tournament_key": 1379,
+            "tournament_round": "WTA Wimbledon - 1/16-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2176_c-gauff.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11962744,
+            "event_date": "2024-07-05",
+            "event_time": "12:00",
+            "event_first_player": "D. Kasatkina",
+            "first_player_key": 1990,
+            "event_second_player": "P. Badosa",
+            "second_player_key": 2178,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Wimbledon",
+            "tournament_key": 1379,
+            "tournament_round": null,
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1990_d-kasatkina.jpg",
+            "event_second_player_logo": null,
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11962745,
+            "event_date": "2024-07-05",
+            "event_time": "12:00",
+            "event_first_player": "M. Kostyuk",
+            "first_player_key": 1828,
+            "event_second_player": "M. Keys",
+            "second_player_key": 2692,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Wimbledon",
+            "tournament_key": 1379,
+            "tournament_round": null,
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/1828_m-kostyuk.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2692_m-keys.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11962746,
+            "event_date": "2024-07-05",
+            "event_time": "12:00",
+            "event_first_player": "B. Krejcikova",
+            "first_player_key": 2801,
+            "event_second_player": "J. Bouzas Maneiro",
+            "second_player_key": 154,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Wimbledon",
+            "tournament_key": 1379,
+            "tournament_round": null,
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2801_b-krejcikova.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/154_j-bouzas-maneiro.jpg",
+            "event_qualification": null,
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11962586,
+            "event_date": "2024-07-05",
+            "event_time": "12:00",
+            "event_first_player": "J. Paolini",
+            "first_player_key": 2811,
+            "event_second_player": "B. Andreescu",
+            "second_player_key": 2817,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Wimbledon",
+            "tournament_key": 1379,
+            "tournament_round": "WTA Wimbledon - 1/16-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/2811_j-paolini.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2817_b-andreescu.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11962587,
+            "event_date": "2024-07-05",
+            "event_time": "12:00",
+            "event_first_player": "E. Raducanu",
+            "first_player_key": 2996,
+            "event_second_player": "M. Sakkari",
+            "second_player_key": 2076,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Wimbledon",
+            "tournament_key": 1379,
+            "tournament_round": "WTA Wimbledon - 1/16-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": null,
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2076_m-sakkari.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        },
+        {
+            "event_key": 11962588,
+            "event_date": "2024-07-05",
+            "event_time": "12:00",
+            "event_first_player": "D. Shnaider",
+            "first_player_key": 7403,
+            "event_second_player": "E. Navarro",
+            "second_player_key": 2823,
+            "event_final_result": "-",
+            "event_game_result": "-",
+            "event_serve": null,
+            "event_winner": null,
+            "event_status": "1",
+            "event_type_type": "Wta Singles",
+            "tournament_name": "WTA Wimbledon",
+            "tournament_key": 1379,
+            "tournament_round": "WTA Wimbledon - 1/16-finals",
+            "tournament_season": "2024",
+            "event_live": "0",
+            "event_first_player_logo": "https://api.api-tennis.com/logo-tennis/7403_d-shnaider.jpg",
+            "event_second_player_logo": "https://api.api-tennis.com/logo-tennis/2823_e-navarro.jpg",
+            "event_qualification": "False",
+            "pointbypoint": [],
+            "scores": [
+                {
+                    "score_first": "0",
+                    "score_second": "0",
+                    "score_set": "1"
+                }
+            ],
+            "statistics": []
+        }
+    ]
+}

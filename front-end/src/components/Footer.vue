@@ -3,13 +3,13 @@
         <footer class="footerContainer home-footer1">
             <div class="home-container31">
                 <span class="logo">PARI FREE</span>
-                <nav class="home-nav1">
+                <!-- <nav class="home-nav1">
                     <span class="home-nav22 bodySmall">Home</span>
                     <span class="home-nav22 bodySmall">Sports Betting</span>
                     <span class="home-nav22 bodySmall">Live Betting</span>
                     <span class="home-nav22 bodySmall">Promotions</span>
-                    <span class="home-nav22 bodySmall">Support</span>
-                </nav>
+                    <span class="home-nav22 bodySmall">Support</span> 
+                </nav> -->
             </div>
             <div class="home-separator"></div>
         </footer>

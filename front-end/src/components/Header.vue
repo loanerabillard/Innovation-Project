@@ -5,10 +5,11 @@
       <div class="home-desktop-menu">
         <nav class="home-links">
           <router-link to="/" class="home-nav22 bodyLarge">Home</router-link>
-          <router-link to="/sports-betting" class="home-nav22 bodyLarge">Invest Now</router-link>
-          <router-link to="/historic" class="home-nav22 bodyLarge">My Packages</router-link>
+          <router-link to="/choose-package" class="home-nav22 bodyLarge">Packages</router-link>
+          <!-- <router-link to="/sports-betting" class="home-nav22 bodyLarge">Invest Now</router-link> -->
+          <router-link to="/historic" class="home-nav22 bodyLarge">MyAccount</router-link>
           <!-- <router-link to="/pakacge" class="home-nav22 bodyLarge">Live Betting</router-link> -->
-          <router-link to="/support" class="home-nav22 bodyLarge">Support</router-link>
+          <!-- <router-link to="/support" class="home-nav22 bodyLarge">Support</router-link> -->
         </nav>
         <div class="home-buttons">
           <button class="home-login buttonFlat">Login</button>

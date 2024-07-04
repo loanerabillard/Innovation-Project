@@ -45,7 +45,7 @@
           <tbody>
             <tr
               v-for="(match, index) in matches"
-              :key="index"
+              :key="index * 20"
               :class="`${packageName.toLowerCase()}-row`"
             >
               <td>
