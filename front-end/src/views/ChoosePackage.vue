@@ -3,8 +3,10 @@
     <Header></Header>
     <div class="separator"></div>
     <div class="content">
-      <h1 class="main-title">Discover Your Perfect Investment Package</h1>
-      <p class="main-paragraph">Select from our carefully crafted packages designed to maximize your gains while minimizing risks. Whether you seek high stability or high potential gains, we have the perfect package for you.</p>
+      <h1 class="main-title">Set, Bet, Match: Ace Your Investments with PARI FREE💸 </h1>
+      <p
+        class="main-paragraph" style="font-size: 25px;"
+      >Maximize your returns with PARI FREE's powerful algorithm-driven tennis betting packages. <br> Set your goals, place your bets, and match your ambitions with our expertly tailored investment options.</p>
       <div class="packages">
         <CardPackage
           v-for="pkg in packages"
@@ -16,10 +18,16 @@
           :avgGain2024="pkg.avgGain2024"
           :extraInfo="pkg.extraInfo"
         />
+        <p
+          class="main-paragraph"
+        >By selecting a package you invest in a group of matches. The result of the package is avalaible when all the matches of the package are finished.</p>
       </div>
+
       <div class="simulation">
         <h2 class="simulation-title">Investment Simulation</h2>
-        <p class="simulation-text">Simulate your investment with the last week's package performance.</p>
+        <p
+          class="simulation-text"
+        >Simulate your investment with the last week's package performance.</p>
       </div>
       <OldPageContent :matches="matches" :showButtons="false" />
       <div class="simulation">
@@ -40,9 +48,10 @@
               :name="result.packageName"
               :description="getDescription(result.packageName)"
               :bgColor="getColor(result.packageName)"
-              :gainEuro="result.gain"
-              :gainPercent="((result.gain / amount) * 100).toFixed(2)"
+              :gainEuro="0"
+              :gainPercent="0"
               :extraInfo="getExtraInfo(result.packageName)"
+              :amount="parseFloat(amount)"
             />
           </div>
         </div>
@@ -99,7 +108,7 @@ export default {
           extraInfo: "+400% for the best weeks"
         }
       ],
-      amount: 0,
+      amount: 100,
       matches: [], // This should be populated with matches data
       simulationResults: []
     };
@@ -107,7 +116,7 @@ export default {
   methods: {
     async fetchMatches(numMatches) {
       const cacheKey = `matches_${numMatches}`;
-      
+
       try {
         const response = await fetch(
           `${process.env.VUE_APP_BACKEND_URL}/get_matches?num_matches=${numMatches}`
@@ -158,7 +167,7 @@ export default {
         return match;
       });
     },
-    
+
     computeMaxGain(match) {
       let max_gain;
       if (match.meilleur_joueur === 1) {
@@ -181,10 +190,13 @@ export default {
 
       matches.forEach(match => {
         // console.log(`Match: ${JSON.stringify(match)}`);
-        const repartitionValue = parseFloat(match.repartition[repartitionIndex]);
+        const repartitionValue = parseFloat(
+          match.repartition[repartitionIndex]
+        );
         const maxGainValue = parseFloat(match.max_gain);
         const riskLevelValue = parseFloat(match.risk_level);
-        const calculatedGain = amount * (repartitionValue / 100) * maxGainValue * riskLevelValue;
+        const calculatedGain =
+          amount * (repartitionValue / 100) * maxGainValue * riskLevelValue;
 
         // console.log(`Amount: ${amount}`);
         // console.log(`Repartition (${packageName}): ${repartitionValue}`);
@@ -199,25 +211,72 @@ export default {
       return totalGain;
     },
     simulateInvestment() {
-      const packages = ["Short", "Slice", "Ace"];
-      this.simulationResults = packages.map(packageName => {
-        const gain = this.calculateAverageGain(this.matches, this.amount, packageName);
-        console.log(`Package: ${packageName}, Gain: ${gain}`);
-        return { packageName, gain };
-      });
-      // console.log("Simulation Results:", this.simulationResults);
+      // console.log(`Package: ${packageName}, Gain: ${gain}`);
+      this.simulationResults = [
+        {
+          packageName: "Short",
+          amount: this.amount
+        },
+        {
+          packageName: "Slice",
+          amount: this.amount
+        },
+        {
+          packageName: "Ace",
+          amount: this.amount
+        }
+      ];
+      return NaN;
     },
     getDescription(packageName) {
-      const pkg = this.packages.find(p => p.name === packageName);
+      const pkg = this.packages.find(
+        p => p.name.toLowerCase() === packageName.toLowerCase()
+      );
       return pkg ? pkg.description : "";
     },
+
     getColor(packageName) {
-      const pkg = this.packages.find(p => p.name === packageName);
-      return pkg ? pkg.color : "#ffffff";
+      const lowerCaseName = packageName.toLowerCase();
+      let color = "";
+
+      switch (lowerCaseName) {
+        case "short":
+          color = "#3498db"; // Blue color for Short Package
+          break;
+        case "slice":
+          color = "#f1c40f"; // Orange color for Slice Package
+          break;
+        case "ace":
+          color = "#e67e22"; // Yellow color for Ace Package
+          break;
+        default:
+          color = ""; // Default color if package name doesn't match
+          break;
+      }
+
+      return color;
     },
+
     getExtraInfo(packageName) {
-      const pkg = this.packages.find(p => p.name === packageName);
-      return pkg ? pkg.extraInfo : "";
+      const lowerCaseName = packageName.toLowerCase();
+      let extraInfo = "";
+
+      switch (lowerCaseName) {
+        case "short":
+          extraInfo = "High Stability";
+          break;
+        case "slice":
+          extraInfo = "Good Gain and Stability";
+          break;
+        case "ace":
+          extraInfo = "High Potential Gain";
+          break;
+        default:
+          extraInfo = ""; // Default extra info if package name doesn't match
+          break;
+      }
+
+      return extraInfo;
     }
   },
   created() {
@@ -227,11 +286,11 @@ export default {
 };
 </script>
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+<style scoped>
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .main {
@@ -260,6 +319,7 @@ body {
 }
 
 .main-paragraph {
+  margin-top: 40px;
   text-align: center;
   margin-bottom: 40px;
   font-size: 18px;

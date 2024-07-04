@@ -13,7 +13,7 @@
       <div class="extra-info">{{ extraInfo }}</div> <!-- Added extra info line -->
     </div>
     <div class="card-footer" :style="{ backgroundColor: bgColor }">
-      <button class="invest-button" :style="{ backgroundColor: buttonColor }">Invest now</button>
+      <button class="invest-button" :style="{ backgroundColor: buttonColor }">Invest for next week</button>
     </div>
   </div>
 </template>
@@ -47,15 +47,15 @@ export default {
 
 <style scoped>
 .card {
-  width: 23%; /* Dynamic width */
+  width: 24%; /* Dynamic width */
   display: flex;
   flex-direction: column;
   border-radius: 25px;
   margin-bottom: 20px;
   background-color: #fff;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
   overflow: hidden;
-  border: 10px solid;
+  border: 1px solid;
 }
 
 .card-header {

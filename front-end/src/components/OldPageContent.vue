@@ -25,7 +25,7 @@
             <tr>
               <th class="white"></th>
               <th class="white"></th>
-              <th colspan="3">Investment Repartition</th>
+              <th colspan="3">Package Investment Repartition</th>
               <th class="subheader">Risk Level</th>
               <th class="subheader">Max Gain</th>
             </tr>
@@ -148,7 +148,7 @@
   </div>
 </template>
   
-  <script>
+<script>
 export default {
   name: "OldPageContent",
   props: {
@@ -183,16 +183,15 @@ export default {
 };
 </script>
   
-  <style scoped>
+<style scoped>
 .package-name {
-  font-family: Arial, sans-serif; /* Setting Arial as the font, with sans-serif as the fallback */
-  font-size: 30px; /* Increased font size */
-  font-weight: bold; /* Keeping the text bold */
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
 }
 .desc {
   font-size: 20px;
 }
-/* Styles remain the same */
 body,
 html {
   margin: 0;
@@ -212,6 +211,7 @@ html {
   flex-direction: column;
   width: 90%;
   margin: 0 auto;
+  margin-left: -5px;
 }
 
 .betting-container {
@@ -230,33 +230,36 @@ html {
 .matches-table th,
 .matches-table td {
   border: 1px solid #ddd;
-  padding: 4px; /* Reduced padding */
+  padding: 4px;
   text-align: center;
   font-weight: bold;
-  font-size: 16px; /* Reduced font size */
+  font-size: 16px;
 }
 
 .matches-table th {
   background-color: #5d576b;
   color: white;
-  height: 30px; /* Reduced height */
-  padding: 6px; /* Reduced padding */
-  font-size: 20px; /* Reduced font size */
+  height: 30px;
+  padding: 6px;
+  font-size: 20px;
 }
 
 .matches-table th.white,
 .matches-table td.white {
   background-color: white;
-  border: none; /* Remove border for white cells */
+  border: none;
 }
 
 .matches-table .subheader {
-  font-size: 18px; /* Reduced font size */
+  font-size: 18px;
 }
 
+/* Removed the alternating row color rule */
+/*
 .matches-table tr:nth-child(even) {
   background-color: #f2f2f2;
 }
+*/
 
 .matches-table tr:hover {
   background-color: #ddd;
@@ -264,43 +267,45 @@ html {
 
 .separator {
   background-color: #f0f0f0;
-  height: 10vh; /* Reduced height */
+  height: 10vh;
 }
 
 .team-row {
   display: flex;
   align-items: center;
+  margin-right: -10px;
 }
 
 .image-container {
   position: relative;
   display: inline-block;
   border-radius: 50%;
-  padding: 3px; /* Reduced padding */
+  padding: 3px;
 }
 
 .image-container.winner-border {
-  border: 2px solid green; /* Reduced border width */
+  border: 2px solid green;
 }
 
 .image-container.loser-border {
-  border: 2px solid red; /* Reduced border width */
+  border: 2px solid red;
 }
 
 .player-logo {
-  width: 40px; /* Reduced size */
-  height: 40px; /* Reduced size */
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
 }
 
 .player-name {
   font-weight: bold;
-  margin-left: 8px; /* Reduced margin */
+  margin-left: 0px;
   color: black;
+  font-size: 15px;
 }
 
 .invest-button {
-  font-size: 24px; /* Big font size for the button */
+  font-size: 24px;
   font-weight: bold;
   padding: 10px 20px;
   border: none;
@@ -310,15 +315,15 @@ html {
 }
 
 .invest-button.ace {
-  background-color: #e67e22; /* Orange color for Ace */
+  background-color: #e67e22;
 }
 
 .invest-button.slice {
-  background-color: #f1c40f; /* Yellow color for Slice */
+  background-color: #f1c40f;
 }
 
 .invest-button.short {
-  background-color: #2980b9; /* Slightly different blue for Short */
+  background-color: #2980b9;
 }
 
 .header-cell {
@@ -328,57 +333,42 @@ html {
 
 .header-cell.short,
 .package-cell.short {
-  background-color: #3498db; /* Blue color for Short without alpha */
+  background-color: #3498db;
   color: white;
-  padding: 20px; /* Reduced padding */
+  padding: 20px;
 }
 
 .header-cell.slice,
 .package-cell.slice {
-  background-color: #f1c40f; /* Yellow color for Slice without alpha */
+  background-color: #f1c40f;
   color: white;
-  padding: 20px; /* Reduced padding */
+  padding: 20px;
 }
 
 .header-cell.ace,
 .package-cell.ace {
-  background-color: #e67e22; /* Orange color for Ace without alpha */
+  background-color: #e67e22;
   color: white;
-  padding: 20px; /* Reduced padding */
+  padding: 20px;
 }
 
 .package-cell {
-  padding: 20px; /* Reduced padding */
+  padding: 20px;
 }
 
 .short-row {
   color: black;
-  background-color: rgba(
-    52,
-    152,
-    219,
-    0.2
-  ); /* Blue color for Short with alpha */
+  background-color: rgba(52, 152, 219, 0.2);
 }
 
 .slice-row {
   color: black;
-  background-color: rgba(
-    241,
-    196,
-    15,
-    0.2
-  ); /* Yellow color for Slice with alpha */
+  background-color: rgba(241, 196, 15, 0.2);
 }
 
 .ace-row {
   color: black;
-  background-color: rgba(
-    230,
-    126,
-    34,
-    0.2
-  ); /* Orange color for Ace with alpha */
+  background-color: rgba(230, 126, 34, 0.2);
 }
 
 .ellipsis {
@@ -389,7 +379,7 @@ html {
 }
 
 .ellipsis-row {
-  background-color: white; /* Make the background of the ellipsis row white */
+  background-color: white;
 }
 
 .ellipsis-row td {
@@ -399,4 +389,3 @@ html {
   color: black;
 }
 </style>
-  
